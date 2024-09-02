@@ -1,0 +1,95 @@
+[
+    {
+        "id": "13179",
+        "username": "Mastodon",
+        "acct": "Mastodon",
+        "display_name": "Mastodon",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2016-11-23T00:00:00.000Z",
+        "note": "<p>Free, open-source decentralized social media platform.</p>",
+        "url": "https://mastodon.social/@Mastodon",
+        "uri": "https://mastodon.social/users/Mastodon",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/013/179/original/b4ceb19c9c54ec7e.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/013/179/original/b4ceb19c9c54ec7e.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/013/179/original/1375be116fbe0f1d.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/013/179/original/1375be116fbe0f1d.png",
+        "followers_count": 819664,
+        "following_count": 3,
+        "statuses_count": 267,
+        "last_status_at": "2024-07-11",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Homepage",
+                "value": "<a href=\"https://joinmastodon.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2018-10-31T04:11:00.076+00:00"
+            },
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://patreon.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-07-21T13:27:45.996+00:00"
+            }
+        ]
+    },
+    {
+        "id": "38659",
+        "username": "nixCraft",
+        "acct": "nixCraft",
+        "display_name": "nixCraft \ud83d\udc27",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-04-03T00:00:00.000Z",
+        "note": "<p>Enjoy <a href=\"https://mastodon.social/tags/Linux\" class=\"mention hashtag\" rel=\"tag\">#<span>Linux</span></a>, <a href=\"https://mastodon.social/tags/macOS\" class=\"mention hashtag\" rel=\"tag\">#<span>macOS</span></a>, <a href=\"https://mastodon.social/tags/FreeBSD\" class=\"mention hashtag\" rel=\"tag\">#<span>FreeBSD</span></a> &amp; <a href=\"https://mastodon.social/tags/Unix\" class=\"mention hashtag\" rel=\"tag\">#<span>Unix</span></a> like systems? <a href=\"https://mastodon.social/tags/Opensource\" class=\"mention hashtag\" rel=\"tag\">#<span>Opensource</span></a> software &amp; <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"tag\">#<span>programming</span></a>? Enjoy <a href=\"https://mastodon.social/tags/Sysadmin\" class=\"mention hashtag\" rel=\"tag\">#<span>Sysadmin</span></a> &amp; <a href=\"https://mastodon.social/tags/DevOps\" class=\"mention hashtag\" rel=\"tag\">#<span>DevOps</span></a> work? Follow us to make the most of your geeky IT career. <a href=\"https://mastodon.social/tags/ActuallyHuman\" class=\"mention hashtag\" rel=\"tag\">#<span>ActuallyHuman</span></a> (e/human)</p>",
+        "url": "https://mastodon.social/@nixCraft",
+        "uri": "https://mastodon.social/users/nixCraft",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/038/659/original/b0de8058da52f2aa.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/038/659/original/b0de8058da52f2aa.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/038/659/original/6c4d08cfd6c28163.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/038/659/original/6c4d08cfd6c28163.png",
+        "followers_count": 71360,
+        "following_count": 104,
+        "statuses_count": 5531,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Linux blog",
+                "value": "<a href=\"https://www.cyberciti.biz\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">cyberciti.biz</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-21T11:10:53.864+00:00"
+            },
+            {
+                "name": "Q & A forum",
+                "value": "<a href=\"https://www.nixcraft.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">nixcraft.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-18T08:41:11.287+00:00"
+            },
+            {
+                "name": "Patreon members-only guides",
+                "value": "<a href=\"https://www.opensourceflare.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">opensourceflare.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-01-16T23:14:51.734+00:00"
+            },
+            {
+                "name": "nixCraft shop",
+                "value": "<a href=\"https://nixcraft-2.creator-spring.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">nixcraft-2.creator-spring.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

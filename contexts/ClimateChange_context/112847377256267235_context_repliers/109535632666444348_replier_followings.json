@@ -1,0 +1,157 @@
+[
+    {
+        "id": "111027175239524209",
+        "username": "simondonner",
+        "acct": "simondonner",
+        "display_name": "Simon Donner",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-09-08T00:00:00.000Z",
+        "note": "<p>Climate scientist, writer, speaker, listener. Works at UBC, contributes to the IPCC, member of Canada&#39;s Net-Zero Advisory Body. Sorry for dragging sand into the house.</p>",
+        "url": "https://mastodon.social/@simondonner",
+        "uri": "https://mastodon.social/users/simondonner",
+        "avatar": "https://files.mastodon.social/accounts/avatars/111/027/175/239/524/209/original/b694666d18195b51.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/111/027/175/239/524/209/original/b694666d18195b51.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/111/027/175/239/524/209/original/bf9fab3d871950ca.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/111/027/175/239/524/209/original/bf9fab3d871950ca.jpg",
+        "followers_count": 96,
+        "following_count": 33,
+        "statuses_count": 15,
+        "last_status_at": "2023-10-11",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Pronouns",
+                "value": "he/him",
+                "verified_at": null
+            },
+            {
+                "name": "Website",
+                "value": "<a href=\"https://simondonner.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">simondonner.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter/IG/Threads",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@simondonner\" class=\"u-url mention\">@<span>simondonner</span></a></span>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109498082489484767",
+        "username": "seanpatrickphd",
+        "acct": "seanpatrickphd",
+        "display_name": "Sean Patrick",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-12-12T00:00:00.000Z",
+        "note": "<p><a href=\"https://mastodon.social/tags/DataScientist\" class=\"mention hashtag\" rel=\"tag\">#<span>DataScientist</span></a>, <a href=\"https://mastodon.social/tags/poet\" class=\"mention hashtag\" rel=\"tag\">#<span>poet</span></a> and SF/F <a href=\"https://mastodon.social/tags/writer\" class=\"mention hashtag\" rel=\"tag\">#<span>writer</span></a>. <br /><a href=\"https://mastodon.social/tags/Neuroscience\" class=\"mention hashtag\" rel=\"tag\">#<span>Neuroscience</span></a> PhD, electrical <a href=\"https://mastodon.social/tags/engineering\" class=\"mention hashtag\" rel=\"tag\">#<span>engineering</span></a> B.S.<br /><a href=\"https://mastodon.social/tags/nonbinary\" class=\"mention hashtag\" rel=\"tag\">#<span>nonbinary</span></a> - please call me Dr. or they/them. <br />\ud83c\udff3\ufe0f\u200d\ud83c\udf08 <a href=\"https://mastodon.social/tags/bi\" class=\"mention hashtag\" rel=\"tag\">#<span>bi</span></a> <a href=\"https://mastodon.social/tags/asexual\" class=\"mention hashtag\" rel=\"tag\">#<span>asexual</span></a></p><p>Profile pic: A portrait in profile of a person with a dark beard, green-dyed mohawk-cut hair, and round glasses looking to the right, painted in bright neon colors.</p><p><a href=\"https://mastodon.social/tags/nobridge\" class=\"mention hashtag\" rel=\"tag\">#<span>nobridge</span></a></p>",
+        "url": "https://mastodon.social/@seanpatrickphd",
+        "uri": "https://mastodon.social/users/seanpatrickphd",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/498/082/489/484/767/original/8a64b2eb4379e04a.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/498/082/489/484/767/original/8a64b2eb4379e04a.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/498/082/489/484/767/original/93eded1d6a2d44c8.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/498/082/489/484/767/original/93eded1d6a2d44c8.jpg",
+        "followers_count": 1109,
+        "following_count": 2150,
+        "statuses_count": 2130,
+        "last_status_at": "2024-08-26",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "blog website",
+                "value": "<a href=\"https://seanpatrick.phd\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">seanpatrick.phd</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "follow blog on fedi",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://seanpatrick.phd/@seanpatrick.phd\" class=\"u-url mention\">@<span>seanpatrick.phd@seanpatrick.phd</span></a></span>",
+                "verified_at": null
+            },
+            {
+                "name": "pronouns",
+                "value": "they/them",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109954791361001246",
+        "username": "Theexistentialist",
+        "acct": "Theexistentialist",
+        "display_name": "Existentialist",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-03-02T00:00:00.000Z",
+        "note": "<p>a poet, a barstool philosopher. Location: New York<br />Interested in <a href=\"https://mastodon.social/tags/poetry\" class=\"mention hashtag\" rel=\"tag\">#<span>poetry</span></a> <a href=\"https://mastodon.social/tags/philosophy\" class=\"mention hashtag\" rel=\"tag\">#<span>philosophy</span></a></p>",
+        "url": "https://mastodon.social/@Theexistentialist",
+        "uri": "https://mastodon.social/users/Theexistentialist",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/954/791/361/001/246/original/3b2f5741d1d14b1e.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/954/791/361/001/246/original/3b2f5741d1d14b1e.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/954/791/361/001/246/original/86649c5dfb2b7ca0.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/954/791/361/001/246/original/86649c5dfb2b7ca0.png",
+        "followers_count": 19,
+        "following_count": 34,
+        "statuses_count": 24,
+        "last_status_at": "2023-10-31",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "109882688584931139",
+        "username": "DeathPoints",
+        "acct": "DeathPoints",
+        "display_name": "Ian",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-02-17T00:00:00.000Z",
+        "note": "<p>Exploring that liminal space where death and consciousness meet.<br />Writing about <a href=\"https://mastodon.social/tags/consciousness\" class=\"mention hashtag\" rel=\"tag\">#<span>consciousness</span></a> <a href=\"https://mastodon.social/tags/NearDeathExperience\" class=\"mention hashtag\" rel=\"tag\">#<span>NearDeathExperience</span></a> <a href=\"https://mastodon.social/tags/neuroscience\" class=\"mention hashtag\" rel=\"tag\">#<span>neuroscience</span></a> <a href=\"https://mastodon.social/tags/philosophyOfMind\" class=\"mention hashtag\" rel=\"tag\">#<span>philosophyOfMind</span></a> <a href=\"https://mastodon.social/tags/death\" class=\"mention hashtag\" rel=\"tag\">#<span>death</span></a> <a href=\"https://mastodon.social/tags/meditation\" class=\"mention hashtag\" rel=\"tag\">#<span>meditation</span></a> <a href=\"https://mastodon.social/tags/quantumPhysics\" class=\"mention hashtag\" rel=\"tag\">#<span>quantumPhysics</span></a></p>",
+        "url": "https://mastodon.social/@DeathPoints",
+        "uri": "https://mastodon.social/users/DeathPoints",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/882/688/584/931/139/original/bece599b0310919b.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/882/688/584/931/139/original/bece599b0310919b.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/882/688/584/931/139/original/aaac0f5dc4d2f9cd.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/882/688/584/931/139/original/aaac0f5dc4d2f9cd.jpg",
+        "followers_count": 76,
+        "following_count": 110,
+        "statuses_count": 223,
+        "last_status_at": "2023-12-23",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website:",
+                "value": "<a href=\"https://deathpoints.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">deathpoints.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Topics of interest",
+                "value": "NDE | Consciousness | Philosophy of mind | Science |",
+                "verified_at": null
+            }
+        ]
+    }
+]

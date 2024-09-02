@@ -1,0 +1,161 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112921573493960240",
+            "created_at": "2024-08-07T16:01:10.554Z",
+            "in_reply_to_id": "112921569301889525",
+            "in_reply_to_account_id": "108283275705744051",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "nl",
+            "uri": "https://mastodon.social/users/martinlentink/statuses/112921573493960240",
+            "url": "https://mastodon.social/@martinlentink/112921573493960240",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@primonatura\" class=\"u-url mention\">@<span>primonatura</span></a></span> And they&#39;re all GOP.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for Android",
+                "website": "https://app.joinmastodon.org/android"
+            },
+            "account": {
+                "id": "108222605660848280",
+                "username": "martinlentink",
+                "acct": "martinlentink",
+                "display_name": "martin lentink \ud83c\uddea\ud83c\uddfa \ud83c\udf4b",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-30T00:00:00.000Z",
+                "note": "<p><a href=\"https://www.tax-the-rich.eu/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">tax-the-rich.eu/</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/tags/%D1%8F%D0%BD%D0%B5%D0%BC%D0%BE%D0%BB%D1%87%D1%83\" class=\"mention hashtag\" rel=\"tag\">#<span>\u044f\u043d\u0435\u043c\u043e\u043b\u0447\u0443</span></a> | <a href=\"https://mastodon.social/tags/%D0%94%D0%BE%D0%B1%D1%96%D1%81%D0%B0%D0%9F%D1%83%D1%82%D1%96%D0%BD%D0%B0\" class=\"mention hashtag\" rel=\"tag\">#<span>\u0414\u043e\u0431\u0456\u0441\u0430\u041f\u0443\u0442\u0456\u043d\u0430</span></a> | \u041f\u0443\u0442\u0438\u043d - \u0432\u043e\u0435\u043d\u043d\u044b\u0439 \u043f\u0440\u0435\u0441\u0442\u0443\u043f\u043d\u0438\u043a! | \u0421\u043b\u0430\u0432\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0456! | Born at 314 ppm | &#39;eppur si scalda&#39; | I&#39;m on Signal |Opinionated about what we\u2019re doing to our planet | European from head to toe | Anti oppression | sapere aude</p>",
+                "url": "https://mastodon.social/@martinlentink",
+                "uri": "https://mastodon.social/users/martinlentink",
+                "avatar": "https://files.mastodon.social/accounts/avatars/108/222/605/660/848/280/original/f2491fc0677111f1.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/108/222/605/660/848/280/original/f2491fc0677111f1.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/108/222/605/660/848/280/original/cf589b2c7b735eeb.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/108/222/605/660/848/280/original/cf589b2c7b735eeb.jpg",
+                "followers_count": 367,
+                "following_count": 799,
+                "statuses_count": 11941,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108283275705744051",
+                    "username": "primonatura",
+                    "url": "https://mstdn.social/@primonatura",
+                    "acct": "primonatura@mstdn.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112921695094862470",
+            "created_at": "2024-08-07T16:32:03.755Z",
+            "in_reply_to_id": "112921569301889525",
+            "in_reply_to_account_id": "108283275705744051",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": null,
+            "uri": "https://faf.social/objects/2a86ca74-dc2e-4634-94d4-6564dc6243f4",
+            "url": "https://faf.social/objects/2a86ca74-dc2e-4634-94d4-6564dc6243f4",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<span class=\"h-card\"><a class=\"u-url mention\" href=\"https://mstdn.social/@primonatura\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>primonatura</span></a></span> Thanks! This is a good article. Although, headline should read \"Big Oil Owns Nearly a Quarter of US Congress\" There's no reason for any sane person to deny the science, so it must be 'Follow the money\".",
+            "reblog": null,
+            "account": {
+                "id": "1257212",
+                "username": "imklg",
+                "acct": "imklg@faf.social",
+                "display_name": "Kelley Graham",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-08-06T00:00:00.000Z",
+                "note": "Welcome to the future of social media. I run <a href=\"http://faf.social\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">faf.social</a>. Behave. I follow back, mostly, and follow liberally. Pronouns: he/him <a class=\"hashtag\" href=\"https://faf.social/tag/music\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#music</a> <a class=\"hashtag\" href=\"https://faf.social/tag/humor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#humor</a> <a class=\"hashtag\" href=\"https://faf.social/tag/humour\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#humour</a> <a class=\"hashtag\" href=\"https://faf.social/tag/wild\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#wild</a> <a class=\"hashtag\" href=\"https://faf.social/tag/nature\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#nature</a> <a class=\"hashtag\" href=\"https://faf.social/tag/50ten40\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#50ten40</a> <a class=\"hashtag\" href=\"https://faf.social/tag/meditation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#meditation</a> <a class=\"hashtag\" href=\"https://faf.social/tag/neuroscience\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#neuroscience</a> <a class=\"hashtag\" href=\"https://faf.social/tag/martialart\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#martialart</a> <a class=\"hashtag\" href=\"https://faf.social/tag/mindbody\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#mindbody</a> <a class=\"hashtag\" href=\"https://faf.social/tag/art\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#art</a> <a class=\"hashtag\" href=\"https://faf.social/tag/artist\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#artist</a> <a class=\"hashtag\" href=\"https://faf.social/tag/creator\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#creator</a> <a class=\"hashtag\" href=\"https://faf.social/tag/maker\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#maker</a> <a class=\"hashtag\" href=\"https://faf.social/tag/weld\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#weld</a> <a class=\"hashtag\" href=\"https://faf.social/tag/tigweld\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#tigweld</a> <a class=\"hashtag\" href=\"https://faf.social/tag/migweld\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#migweld</a> <a class=\"hashtag\" href=\"https://faf.social/tag/torchweld\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#torchweld</a> <a class=\"hashtag\" href=\"https://faf.social/tag/metalsmith\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#metalsmith</a> <a class=\"hashtag\" href=\"https://faf.social/tag/fabricate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#fabricate</a> <a class=\"hashtag\" href=\"https://faf.social/tag/design\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#design</a> <a class=\"hashtag\" href=\"https://faf.social/tag/film\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#film</a> <a class=\"hashtag\" href=\"https://faf.social/tag/filmmaking\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#filmmaking</a> <a class=\"hashtag\" href=\"https://faf.social/tag/iatse44\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#iatse44</a> <a class=\"hashtag\" href=\"https://faf.social/tag/union\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#union</a> <a class=\"hashtag\" href=\"https://faf.social/tag/encaustic\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#encaustic</a> <a class=\"hashtag\" href=\"https://faf.social/tag/architecture\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#architecture</a> <a class=\"hashtag\" href=\"https://faf.social/tag/permaculture\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#permaculture</a> <a class=\"hashtag\" href=\"https://faf.social/tag/permatecture\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#permatecture</a> <a class=\"hashtag\" href=\"https://faf.social/tag/instructionaldesign\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#instructionaldesign</a> <a class=\"hashtag\" href=\"https://faf.social/tag/photography\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#photography</a> <a class=\"hashtag\" href=\"https://faf.social/tag/istillshootfilm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#istillshootfilm</a>  <a class=\"hashtag\" href=\"https://faf.social/tag/photorealism\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#photorealism</a> <a class=\"hashtag\" href=\"https://faf.social/tag/darkroom\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#darkroom</a> <a class=\"hashtag\" href=\"https://faf.social/tag/mindbody\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#mindbody</a> <a class=\"hashtag\" href=\"https://faf.social/tag/learning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#learning</a> <a class=\"hashtag\" href=\"https://faf.social/tag/edutech\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#edutech</a> <a class=\"hashtag\" href=\"https://faf.social/tag/fedi22\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#fedi22</a> <a class=\"hashtag\" href=\"https://faf.social/tag/foss\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#foss</a> <a class=\"hashtag\" href=\"https://faf.social/tag/floss\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#floss</a> <a class=\"hashtag\" href=\"https://faf.social/tag/opensource\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#opensource</a> <a class=\"hashtag\" href=\"https://faf.social/tag/loq\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#loq</a> <a class=\"hashtag\" href=\"https://faf.social/tag/cio\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#cio</a> <a class=\"hashtag\" href=\"https://faf.social/tag/cto\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#cto</a> <a class=\"hashtag\" href=\"https://faf.social/tag/author\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#author</a> <a class=\"hashtag\" href=\"https://faf.social/tag/writing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#writing</a> <a class=\"hashtag\" href=\"https://faf.social/tag/scot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#scot</a> <a class=\"hashtag\" href=\"https://faf.social/tag/clanlamont\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#clanlamont</a>",
+                "url": "https://faf.social/users/imklg",
+                "uri": "https://faf.social/users/imklg",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/001/257/212/original/7f2dd1b5e5476757.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/001/257/212/original/7f2dd1b5e5476757.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/001/257/212/original/db19a32727078452.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/001/257/212/original/db19a32727078452.png",
+                "followers_count": 396,
+                "following_count": 1599,
+                "statuses_count": 4029,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "website",
+                        "value": "<a href=\"https://imklg.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">imklg.com</a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "patreon",
+                        "value": "<a href=\"https://patreon.com/imklg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">patreon.com/imklg</a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "mind-body",
+                        "value": "<a href=\"https://ucbprogram.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">ucbprogram.com</a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "pixelfed",
+                        "value": "<a href=\"https://faf.photos/imklg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">faf.photos/imklg</a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "peertube",
+                        "value": "<a href=\"https://faf.watch/a/imklg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">faf.watch/a/imklg</a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "writesimply",
+                        "value": "<a href=\"https://faf.wtf/imklg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">faf.wtf/imklg</a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "ko-fi",
+                        "value": "<a href=\"https://ko-fi.com/imklg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">ko-fi.com/imklg</a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108283275705744051",
+                    "username": "primonatura",
+                    "url": "https://mstdn.social/@primonatura",
+                    "acct": "primonatura@mstdn.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

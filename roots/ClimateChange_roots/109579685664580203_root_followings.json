@@ -1,0 +1,541 @@
+[
+    {
+        "id": "492859",
+        "username": "GuidoKuehn",
+        "acct": "GuidoKuehn",
+        "display_name": "Guido K\u00fchn",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-08-25T00:00:00.000Z",
+        "note": "<p>Die v\u00f6llig unbedeutenden Ansichten v\u00f6llig unbedeutender Stifte.</p>",
+        "url": "https://mastodon.social/@GuidoKuehn",
+        "uri": "https://mastodon.social/users/GuidoKuehn",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/492/859/original/3e2ffa32e875ed69.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/492/859/original/3e2ffa32e875ed69.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/492/859/original/0c1592e142dd3ee5.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/492/859/original/0c1592e142dd3ee5.jpg",
+        "followers_count": 15510,
+        "following_count": 211,
+        "statuses_count": 3887,
+        "last_status_at": "2024-08-30",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Homepage",
+                "value": "<a href=\"https://cartoons.guido-kuehn.de\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">cartoons.guido-kuehn.de</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Bluesky",
+                "value": "<a href=\"https://bsky.app/profile/guido-kuehn.bsky.social\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/guido-kuehn.b</span><span class=\"invisible\">sky.social</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://www.patreon.com/gkuehn\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">patreon.com/gkuehn</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "368853",
+        "username": "thelinuxEXP",
+        "acct": "thelinuxEXP",
+        "display_name": "Nick @ The Linux Experiment",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-06-03T00:00:00.000Z",
+        "note": "<p>YouTube content creator and Linux user living in Brest, Brittany. Might post gaming related stuff, especially if it runs on Linux, natively or not !\u2028\u2029<a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a> <a href=\"https://mastodon.social/tags/linux\" class=\"mention hashtag\" rel=\"tag\">#<span>linux</span></a> <a href=\"https://mastodon.social/tags/opensource\" class=\"mention hashtag\" rel=\"tag\">#<span>opensource</span></a> <a href=\"https://mastodon.social/tags/tech\" class=\"mention hashtag\" rel=\"tag\">#<span>tech</span></a> <a href=\"https://mastodon.social/tags/gaming\" class=\"mention hashtag\" rel=\"tag\">#<span>gaming</span></a></p>",
+        "url": "https://mastodon.social/@thelinuxEXP",
+        "uri": "https://mastodon.social/users/thelinuxEXP",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/368/853/original/af8ed1b8f4209619.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/368/853/original/af8ed1b8f4209619.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/368/853/original/cc4557239fd2e9e1.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/368/853/original/cc4557239fd2e9e1.jpg",
+        "followers_count": 25032,
+        "following_count": 332,
+        "statuses_count": 6559,
+        "last_status_at": "2024-08-29",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "YouTube Channel",
+                "value": "<a href=\"https://www.youtube.com/thelinuxexperiment\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/thelinuxexperiment</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "PeerTube",
+                "value": "<a href=\"https://tilvids.com/c/thelinuxexperiment_channel/videos\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tilvids.com/c/thelinuxexperime</span><span class=\"invisible\">nt_channel/videos</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Website",
+                "value": "<a href=\"https://thelinuxexp.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">thelinuxexp.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-16T19:12:53.239+00:00"
+            },
+            {
+                "name": "Pixelfed",
+                "value": "<a href=\"https://pixelfed.social/TLENick\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.social/TLENick</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-03-25T11:28:20.680+00:00"
+            }
+        ]
+    },
+    {
+        "id": "111462995917797288",
+        "username": "WarcraftTavern",
+        "acct": "WarcraftTavern",
+        "display_name": "Warcraft Tavern",
+        "locked": false,
+        "bot": true,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-11-24T00:00:00.000Z",
+        "note": "<p>At Warcraft Tavern we\u2019re huge fans of World of Warcraft. Here you can find Guides, News, Tools, and more for WoW Classic, TBC Classic, WotLK, Cataclysm, &amp; Retail!</p>",
+        "url": "https://mastodon.social/@WarcraftTavern",
+        "uri": "https://mastodon.social/users/WarcraftTavern",
+        "avatar": "https://files.mastodon.social/accounts/avatars/111/462/995/917/797/288/original/42e0da7518e2146b.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/111/462/995/917/797/288/original/42e0da7518e2146b.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/111/462/995/917/797/288/original/7d568fbe5940e83d.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/111/462/995/917/797/288/original/7d568fbe5940e83d.jpg",
+        "followers_count": 55,
+        "following_count": 2,
+        "statuses_count": 376,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "WarcraftTavern.com",
+                "value": "<a href=\"https://www.warcrafttavern.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">warcrafttavern.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Discord",
+                "value": "<a href=\"https://www.warcrafttavern.com/discord\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">warcrafttavern.com/discord</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "111062287951358303",
+        "username": "wowemulation",
+        "acct": "wowemulation",
+        "display_name": "WoW Emulation",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-09-14T00:00:00.000Z",
+        "note": "<p>A community archiving and nurturing old, now defunct World of Warcraft releases up to version 3.3.5 also known as Wrath of the Lich King.</p>",
+        "url": "https://mastodon.social/@wowemulation",
+        "uri": "https://mastodon.social/users/wowemulation",
+        "avatar": "https://files.mastodon.social/accounts/avatars/111/062/287/951/358/303/original/f04a6a9096a75680.gif",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/111/062/287/951/358/303/static/f04a6a9096a75680.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 1,
+        "following_count": 1,
+        "statuses_count": 4,
+        "last_status_at": "2024-06-30",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://wowemulation.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">wowemulation.dev</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/wowemulation-dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/wowemulation-dev</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "110769897829241475",
+        "username": "amigagraphics",
+        "acct": "amigagraphics",
+        "display_name": "",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-07-24T00:00:00.000Z",
+        "note": "",
+        "url": "https://mastodon.social/@amigagraphics",
+        "uri": "https://mastodon.social/users/amigagraphics",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/769/897/829/241/475/original/72289e0f956170c5.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/769/897/829/241/475/original/72289e0f956170c5.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/769/897/829/241/475/original/6d9d99c9b66d8347.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/769/897/829/241/475/original/6d9d99c9b66d8347.png",
+        "followers_count": 33,
+        "following_count": 7,
+        "statuses_count": 10,
+        "last_status_at": "2024-06-13",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Homepage",
+                "value": "<a href=\"https://amiga.lychesis.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">amiga.lychesis.net</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-08-27T21:01:30.966+00:00"
+            }
+        ]
+    },
+    {
+        "id": "106837115384785671",
+        "username": "10MARC",
+        "acct": "10MARC",
+        "display_name": "10 Minute Amiga Retro Cast",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2021-08-29T00:00:00.000Z",
+        "note": "<p>Itza Me... 10MARC-io<br />Host of the (Occasionally) weekly YouTube channel 10 Minute Amiga Retro Cast. <br />Also your host of the yearly <a href=\"https://mastodon.social/tags/AmigaArtContest\" class=\"mention hashtag\" rel=\"tag\">#<span>AmigaArtContest</span></a><br /><a href=\"https://www.youtube.com/10minuteamigaretrocast\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/10minuteamigaretro</span><span class=\"invisible\">cast</span></a><br /><a href=\"https://www.10marc.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">10marc.com</span><span class=\"invisible\"></span></a><br /><a href=\"https://www.amigaartwork.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">amigaartwork.com</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@10MARC",
+        "uri": "https://mastodon.social/users/10MARC",
+        "avatar": "https://files.mastodon.social/accounts/avatars/106/837/115/384/785/671/original/cd7b1e37874de9e9.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/106/837/115/384/785/671/original/cd7b1e37874de9e9.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 545,
+        "following_count": 99,
+        "statuses_count": 528,
+        "last_status_at": "2024-08-08",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "108317122958793478",
+        "username": "omglinux",
+        "acct": "omglinux",
+        "display_name": "omglinux.com",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-05-17T00:00:00.000Z",
+        "note": "<p>Linux blog covering, well, Linux, open-source, and adjacent tech! Established 2022. Into Ubuntu? Check out \u27a1\ufe0f <span class=\"h-card\" translate=\"no\"><a href=\"https://floss.social/@omgubuntu\" class=\"u-url mention\">@<span>omgubuntu</span></a></span></p>",
+        "url": "https://mastodon.social/@omglinux",
+        "uri": "https://mastodon.social/users/omglinux",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/317/122/958/793/478/original/b6b0820fefe25e8c.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/317/122/958/793/478/original/b6b0820fefe25e8c.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/108/317/122/958/793/478/original/622dca78f81ac529.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/317/122/958/793/478/original/622dca78f81ac529.jpeg",
+        "followers_count": 7906,
+        "following_count": 17,
+        "statuses_count": 454,
+        "last_status_at": "2024-08-09",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.omglinux.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">omglinux.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-17T23:01:45.210+00:00"
+            }
+        ]
+    },
+    {
+        "id": "981",
+        "username": "dale",
+        "acct": "dale",
+        "display_name": "Dale Nash",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2016-10-06T00:00:00.000Z",
+        "note": "<p><a href=\"https://mastodon.social/tags/Infra\" class=\"mention hashtag\" rel=\"tag\">#<span>Infra</span></a> and <a href=\"https://mastodon.social/tags/DevOps\" class=\"mention hashtag\" rel=\"tag\">#<span>DevOps</span></a> engineer in Plymouth, UK.</p>",
+        "url": "https://mastodon.social/@dale",
+        "uri": "https://mastodon.social/users/dale",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/000/981/original/a6579877fc21972c.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/000/981/original/a6579877fc21972c.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/000/981/original/c1d5deb75602e73f.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/000/981/original/c1d5deb75602e73f.jpeg",
+        "followers_count": 22,
+        "following_count": 76,
+        "statuses_count": 141,
+        "last_status_at": "2024-04-20",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/dayallnash\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/dayallnash</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Pixelfed",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://gram.social/dale\" class=\"u-url mention\">@<span>dale@gram.social</span></a></span>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109979693425524298",
+        "username": "amiga_vision",
+        "acct": "amiga_vision",
+        "display_name": "\ud835\udc68\ud835\udc74\ud835\udc70\ud835\udc6e\ud835\udc68\ud835\udc7d\ud835\udc70\ud835\udc7a\ud835\udc70\ud835\udc76\ud835\udc75",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-03-07T00:00:00.000Z",
+        "note": "<p>The ultimate Amiga games and demo scene setup for MiSTer and Pocket FPGAs, emulators, and real Amiga hardware.</p><p>Open source, community driven.</p>",
+        "url": "https://mastodon.social/@amiga_vision",
+        "uri": "https://mastodon.social/users/amiga_vision",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/979/693/425/524/298/original/08fcc695b999be70.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/979/693/425/524/298/original/08fcc695b999be70.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/979/693/425/524/298/original/285dc32e856a9a1e.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/979/693/425/524/298/original/285dc32e856a9a1e.jpeg",
+        "followers_count": 298,
+        "following_count": 3,
+        "statuses_count": 64,
+        "last_status_at": "2024-08-18",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://amiga.vision\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">amiga.vision</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-03-07T23:25:32.320+00:00"
+            }
+        ]
+    },
+    {
+        "id": "110463357315196698",
+        "username": "kogito",
+        "acct": "kogito",
+        "display_name": "Kogito UG (haftungsbeschr\u00e4nkt)",
+        "locked": true,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-05-31T00:00:00.000Z",
+        "note": "<p>Official account, DevOps services for Linux, Windows, cloud and on-premise, bare metal, or OpenStack in a data center. All of that, sprinkled with <a href=\"https://mastodon.social/tags/Ansible\" class=\"mention hashtag\" rel=\"tag\">#<span>Ansible</span></a>, <a href=\"https://mastodon.social/tags/rust\" class=\"mention hashtag\" rel=\"tag\">#<span>rust</span></a>.</p><p>GitHub: <a href=\"https://github.com/kogito-ops\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kogito-ops</span><span class=\"invisible\"></span></a><br />GitLab: <a href=\"https://gitlab.com/kogito-ops\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gitlab.com/kogito-ops</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@kogito",
+        "uri": "https://mastodon.social/users/kogito",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/463/357/315/196/698/original/cd5b3eb1ee394358.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/463/357/315/196/698/original/cd5b3eb1ee394358.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 1,
+        "following_count": 2,
+        "statuses_count": 4,
+        "last_status_at": "2024-03-24",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "420049",
+        "username": "tootapp",
+        "acct": "tootapp",
+        "display_name": "Toot!.app \u2199\ufe0e\u2199\ufe0e\u2199\ufe0e",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-08-14T00:00:00.000Z",
+        "note": "<p>I am a Mastodon client app for iOS! I am full of whimsy and character.</p><p><a href=\"https://mastodon.social/tags/ios\" class=\"mention hashtag\" rel=\"tag\">#<span>ios</span></a></p>",
+        "url": "https://mastodon.social/@tootapp",
+        "uri": "https://mastodon.social/users/tootapp",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/420/049/original/6724c3efbd540a50.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/420/049/original/6724c3efbd540a50.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 8615,
+        "following_count": 2,
+        "statuses_count": 2819,
+        "last_status_at": "2023-10-01",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "App store",
+                "value": "<a href=\"https://itunes.apple.com/app/toot/id1229021451?ls=1&amp;mt=8\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">itunes.apple.com/app/toot/id12</span><span class=\"invisible\">29021451?ls=1&amp;mt=8</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Bug tracker",
+                "value": "<a href=\"https://github.com/DagAgren/toot/issues\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/DagAgren/toot/issue</span><span class=\"invisible\">s</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Created by",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@WAHa_06x36\" class=\"u-url mention\">@<span>WAHa_06x36</span></a></span>",
+                "verified_at": null
+            },
+            {
+                "name": "Trinkets",
+                "value": "<a href=\"https://sineful.threadless.com/designs/toot/accessories/sticker\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sineful.threadless.com/designs</span><span class=\"invisible\">/toot/accessories/sticker</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "41055",
+        "username": "eff",
+        "acct": "eff",
+        "display_name": "Electronic Frontier Foundation",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-04-04T00:00:00.000Z",
+        "note": "<p>EFF&#39;s mastodon presence, please visit us at <a href=\"https://www.eff.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">eff.org</span><span class=\"invisible\"></span></a>. Do not message this account with confidential information or to seek legal assistance; for legal help email info@eff.org or visit <a href=\"https://www.eff.org/pages/legal-assistance\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">eff.org/pages/legal-assistance</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@eff",
+        "uri": "https://mastodon.social/users/eff",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/041/055/original/5882409472032e01.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/041/055/original/5882409472032e01.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/041/055/original/694e226056f5633d.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/041/055/original/694e226056f5633d.jpg",
+        "followers_count": 63472,
+        "following_count": 13,
+        "statuses_count": 18798,
+        "last_status_at": "2024-08-29",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.eff.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">eff.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-11-02T21:28:54.864+00:00"
+            }
+        ]
+    },
+    {
+        "id": "523213",
+        "username": "symfony",
+        "acct": "symfony",
+        "display_name": "Symfony",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-09-11T00:00:00.000Z",
+        "note": "<p>Allows you to keep up with Symfony news</p>",
+        "url": "https://mastodon.social/@symfony",
+        "uri": "https://mastodon.social/users/symfony",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/523/213/original/15f9eb3234253502.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/523/213/original/15f9eb3234253502.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/523/213/original/f3b9492b01efa122.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/523/213/original/f3b9492b01efa122.png",
+        "followers_count": 693,
+        "following_count": 11,
+        "statuses_count": 227,
+        "last_status_at": "2024-08-29",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://symfony.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">symfony.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Events",
+                "value": "<a href=\"https://live.symfony.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">live.symfony.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Github",
+                "value": "<a href=\"https://github.com/symfony\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/symfony</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "567877",
+        "username": "amigalove",
+        "acct": "amigalove",
+        "display_name": "Amiga Love \u2764",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-10-16T00:00:00.000Z",
+        "note": "<p>Supporting and fostering the love and USAGE of the Amiga computer and all things Commodore. 8-bit/16-bit FTW! (C64/C128/CMD) <br />Seattle, WA, USA</p><p><a href=\"https://mastodon.social/tags/RetroGaming\" class=\"mention hashtag\" rel=\"tag\">#<span>RetroGaming</span></a> <a href=\"https://mastodon.social/tags/RetroComputing\" class=\"mention hashtag\" rel=\"tag\">#<span>RetroComputing</span></a> <a href=\"https://mastodon.social/tags/VintageGaming\" class=\"mention hashtag\" rel=\"tag\">#<span>VintageGaming</span></a> <a href=\"https://mastodon.social/tags/VideoGames\" class=\"mention hashtag\" rel=\"tag\">#<span>VideoGames</span></a> <a href=\"https://mastodon.social/tags/ComputerHistory\" class=\"mention hashtag\" rel=\"tag\">#<span>ComputerHistory</span></a> <a href=\"https://mastodon.social/tags/Commodore\" class=\"mention hashtag\" rel=\"tag\">#<span>Commodore</span></a> <a href=\"https://mastodon.social/tags/Amiga\" class=\"mention hashtag\" rel=\"tag\">#<span>Amiga</span></a> <a href=\"https://mastodon.social/tags/C64\" class=\"mention hashtag\" rel=\"tag\">#<span>C64</span></a> <a href=\"https://mastodon.social/tags/80s\" class=\"mention hashtag\" rel=\"tag\">#<span>80s</span></a> <a href=\"https://mastodon.social/tags/90s\" class=\"mention hashtag\" rel=\"tag\">#<span>90s</span></a> <a href=\"https://mastodon.social/tags/Macintosh\" class=\"mention hashtag\" rel=\"tag\">#<span>Macintosh</span></a></p>",
+        "url": "https://mastodon.social/@amigalove",
+        "uri": "https://mastodon.social/users/amigalove",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/567/877/original/18b4957ee9febfe6.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/567/877/original/18b4957ee9febfe6.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/567/877/original/0e377314cdda28a6.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/567/877/original/0e377314cdda28a6.png",
+        "followers_count": 2584,
+        "following_count": 222,
+        "statuses_count": 1207,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "DA SITE",
+                "value": "<a href=\"https://amigalove.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">amigalove.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-08T16:37:56.048+00:00"
+            },
+            {
+                "name": "YOUTUBE",
+                "value": "<a href=\"https://www.youtube.com/c/AmigaLove\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/c/AmigaLove</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "LOCATION",
+                "value": "Seattle, WA, USA",
+                "verified_at": null
+            }
+        ]
+    }
+]

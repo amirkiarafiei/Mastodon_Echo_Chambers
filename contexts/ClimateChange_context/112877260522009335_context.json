@@ -1,0 +1,240 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112877455700263976",
+            "created_at": "2024-07-30T21:01:26.445Z",
+            "in_reply_to_id": "112877260522009335",
+            "in_reply_to_account_id": "109250380022672647",
+            "sensitive": true,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/JeffC1956/statuses/112877455700263976",
+            "url": "https://mastodon.social/@JeffC1956/112877455700263976",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 3,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\">@<span>joncounts</span></a></span> When future intelligence discovers our records they&#39;ll go &quot;Hmm, that was an intelligent specie, but any top predator that fails to avoid overpopulation is doomed for extinction by pollution and depletion.&quot; Too late now: large populations make technology a necessity, our technology ensures we will remain too fragile to last. We are overpopulated and we over-consume; the future conflict of resources between cleaning the environment and supporting elderly is impossible to resolve.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "109138679664740236",
+                "username": "JeffC1956",
+                "acct": "JeffC1956",
+                "display_name": "Jeff C",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-09T00:00:00.000Z",
+                "note": "<p>Former c# developer, essayist and short story author. Enjoy art, philosophy, science, and baking \ud83c\udf5e Examining depopulation scenarios. Based in <a href=\"https://mastodon.social/tags/LosAngeles\" class=\"mention hashtag\" rel=\"tag\">#<span>LosAngeles</span></a>.</p>",
+                "url": "https://mastodon.social/@JeffC1956",
+                "uri": "https://mastodon.social/users/JeffC1956",
+                "avatar": "https://files.mastodon.social/accounts/avatars/109/138/679/664/740/236/original/e7f56c715705dab6.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/109/138/679/664/740/236/original/e7f56c715705dab6.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/109/138/679/664/740/236/original/4bffc9e795e5f505.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/109/138/679/664/740/236/original/4bffc9e795e5f505.jpg",
+                "followers_count": 177,
+                "following_count": 248,
+                "statuses_count": 1662,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "SkateDad",
+                        "value": "<a href=\"http://la-skatedad.blogspot.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">la-skatedad.blogspot.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Shorts",
+                        "value": "<a href=\"https://chappyshorts.wordpress.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">chappyshorts.wordpress.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "value": "<a href=\"https://www.linkedin.com/in/jeff-chapman-b379202/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">linkedin.com/in/jeff-chapman-b</span><span class=\"invisible\">379202/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Google",
+                        "value": "jeff chapman mastodon",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112878005401333537",
+            "created_at": "2024-07-30T23:21:10.000Z",
+            "in_reply_to_id": "112877455700263976",
+            "in_reply_to_account_id": "109138679664740236",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.nz/users/joncounts/statuses/112878005128917069",
+            "url": "https://mastodon.nz/@joncounts/112878005128917069",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": "2024-07-30T23:21:19.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@JeffC1956\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>JeffC1956</span></a></span> Yes, I fear you're right. It's a real pickle we're in, all of our own making. </p><p>A century of rapid growth powered by cheap fossil fuels has made us complacent and cocky. We're now vastly overestimating our ability to \"technology\" our way out of an avalanche of major crises that we can see coming.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109250380022672647",
+                "username": "joncounts",
+                "acct": "joncounts@mastodon.nz",
+                "display_name": "Jon Sullivan",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>Kia ora! I'm a <a href=\"https://mastodon.nz/tags/nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nature</span></a> nut, addict of <a href=\"https://mastodon.nz/tags/iNaturalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalist</span></a> NZ \u2014 M\u0101taki Taiao, and an <a href=\"https://mastodon.nz/tags/ecologist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecologist</span></a> at <a href=\"https://mastodon.nz/tags/LincolnUniversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LincolnUniversity</span></a> in <a href=\"https://mastodon.nz/tags/Aotearoa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Aotearoa</span></a>-<a href=\"https://mastodon.nz/tags/NewZealand\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NewZealand</span></a>.</p><p>I spend an inordinate amount of my time counting nature to watch what's changing (see <a href=\"https://wildcounts.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wildcounts.org/</span><span class=\"invisible\"></span></a>).</p><p><a href=\"https://mastodon.nz/tags/TwitterMigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TwitterMigration</span></a> <a href=\"https://mastodon.nz/tags/NZTwits\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NZTwits</span></a> <a href=\"https://mastodon.nz/tags/ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecology</span></a> <a href=\"https://mastodon.nz/tags/EcologicalMonitoring\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EcologicalMonitoring</span></a> <a href=\"https://mastodon.nz/tags/NaturalHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NaturalHistory</span></a> <a href=\"https://mastodon.nz/tags/iNaturalistNZ\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalistNZ</span></a> <a href=\"https://mastodon.nz/tags/iNaturalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalist</span></a> <a href=\"https://mastodon.nz/tags/wildcounts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wildcounts</span></a> <a href=\"https://mastodon.nz/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://mastodon.nz/tags/Biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biodiversity</span></a></p><p>Born when there was 326 ppm carbon dioxide in the atmosphere.</p>",
+                "url": "https://mastodon.nz/@joncounts",
+                "uri": "https://mastodon.nz/users/joncounts",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/250/380/022/672/647/original/cf117c8b6c4c19ce.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/250/380/022/672/647/original/cf117c8b6c4c19ce.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/250/380/022/672/647/original/f693865110f568ff.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/250/380/022/672/647/original/f693865110f568ff.png",
+                "followers_count": 1323,
+                "following_count": 1637,
+                "statuses_count": 7400,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "WildCounts",
+                        "value": "<a href=\"https://wildcounts.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wildcounts.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "iNaturalist",
+                        "value": "<a href=\"https://inaturalist.nz/people/jon_sullivan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">inaturalist.nz/people/jon_sull</span><span class=\"invisible\">ivan</span></a>",
+                        "verified_at": "2024-08-24T18:41:22.648+00:00"
+                    },
+                    {
+                        "name": "Flickr",
+                        "value": "<a href=\"https://www.flickr.com/people/mollivan_jon/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">flickr.com/people/mollivan_jon</span><span class=\"invisible\">/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109138679664740236",
+                    "username": "JeffC1956",
+                    "url": "https://mastodon.social/@JeffC1956",
+                    "acct": "JeffC1956"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112879952684249525",
+            "created_at": "2024-07-31T07:36:25.000Z",
+            "in_reply_to_id": "112877260522009335",
+            "in_reply_to_account_id": "109250380022672647",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112879952574056809",
+            "url": "https://mastodon.au/@largess/112879952574056809",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span><br>To make a meaningful change,  you'd need kiwis to stop driving, stop flying, stop owning meat eating pets and stop milk  and forestry exports as a start.</p><p>And thats why it's all talk, some environmental theatre (under Arden, as called out by Greta) and no action.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

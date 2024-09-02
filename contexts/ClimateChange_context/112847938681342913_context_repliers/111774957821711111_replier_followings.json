@@ -1,0 +1,79 @@
+[
+    {
+        "id": "109259296548994894",
+        "username": "MissingThePt",
+        "acct": "MissingThePt",
+        "display_name": "Missing The Point",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-10-30T00:00:00.000Z",
+        "note": "<p>Ask not for whom the point is missed. It is missed for thee.</p>",
+        "url": "https://mastodon.social/@MissingThePt",
+        "uri": "https://mastodon.social/users/MissingThePt",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/259/296/548/994/894/original/3aa1c630a61f6845.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/259/296/548/994/894/original/3aa1c630a61f6845.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/109/259/296/548/994/894/original/d294f548c2ccedb2.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/259/296/548/994/894/original/d294f548c2ccedb2.jpeg",
+        "followers_count": 16973,
+        "following_count": 221,
+        "statuses_count": 4991,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "109243157294372055",
+        "username": "obrl_soil",
+        "acct": "obrl_soil",
+        "display_name": "obrl-soil",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p><a href=\"https://mastodon.social/tags/Soil\" class=\"mention hashtag\" rel=\"tag\">#<span>Soil</span></a> and <a href=\"https://mastodon.social/tags/Geospatial\" class=\"mention hashtag\" rel=\"tag\">#<span>Geospatial</span></a> nerd in Aotearoa New Zealand. <a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"tag\">#<span>RStats</span></a>, <a href=\"https://mastodon.social/tags/GISChat\" class=\"mention hashtag\" rel=\"tag\">#<span>GISChat</span></a>, <a href=\"https://mastodon.social/tags/DigitalSoilMapping\" class=\"mention hashtag\" rel=\"tag\">#<span>DigitalSoilMapping</span></a>, <a href=\"https://mastodon.social/tags/Pedology\" class=\"mention hashtag\" rel=\"tag\">#<span>Pedology</span></a>. Occasional <a href=\"https://mastodon.social/tags/Knitting\" class=\"mention hashtag\" rel=\"tag\">#<span>Knitting</span></a> and rants.</p>",
+        "url": "https://mastodon.social/@obrl_soil",
+        "uri": "https://mastodon.social/users/obrl_soil",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/243/157/294/372/055/original/731e5220df9936be.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/243/157/294/372/055/original/731e5220df9936be.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/243/157/294/372/055/original/0d69df364752181d.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/243/157/294/372/055/original/0d69df364752181d.jpg",
+        "followers_count": 194,
+        "following_count": 138,
+        "statuses_count": 15,
+        "last_status_at": "2024-06-19",
+        "hide_collections": false,
+        "noindex": true,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://obrl-soil.github.io/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">obrl-soil.github.io/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-10T04:45:27.354+00:00"
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/obrl_soil\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/obrl_soil</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://instagram.com/obrl_soil/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/obrl_soil/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Github",
+                "value": "<a href=\"https://github.com/obrl-soil\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/obrl-soil</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-10T04:47:08.169+00:00"
+            }
+        ]
+    }
+]

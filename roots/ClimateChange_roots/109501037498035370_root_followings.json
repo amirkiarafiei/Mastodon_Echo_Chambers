@@ -1,0 +1,206 @@
+[
+    {
+        "id": "109258132750797545",
+        "username": "robine",
+        "acct": "robine",
+        "display_name": "Nicolas Robine",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-30T00:00:00.000Z",
+        "note": "<p>@notsojunkdna on the bird site, cancer genomics at New York Genome Center. French/US</p>",
+        "url": "https://mastodon.social/@robine",
+        "uri": "https://mastodon.social/users/robine",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/258/132/750/797/545/original/a8079e51ba881744.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/258/132/750/797/545/original/a8079e51ba881744.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 495,
+        "following_count": 304,
+        "statuses_count": 28,
+        "last_status_at": "2023-08-09",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "108136407590158184",
+        "username": "hpcprogrammer",
+        "acct": "hpcprogrammer",
+        "display_name": "Fernanda Foertter",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-04-15T00:00:00.000Z",
+        "note": "<p>Former ORNL NVIDIA. Now helping to connect and scale data at Voltron Data</p>",
+        "url": "https://mastodon.social/@hpcprogrammer",
+        "uri": "https://mastodon.social/users/hpcprogrammer",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/136/407/590/158/184/original/66772ab0f82c24d2.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/136/407/590/158/184/original/66772ab0f82c24d2.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 909,
+        "following_count": 683,
+        "statuses_count": 301,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Personal Blog",
+                "value": "<a href=\"http://www.foertter.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://www.</span><span class=\"\">foertter.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "107913786592292854",
+        "username": "NoahFahlgren",
+        "acct": "NoahFahlgren",
+        "display_name": "Noah Fahlgren",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-03-07T00:00:00.000Z",
+        "note": "<p>Director, Data Science at the Donald Danforth Plant Science Center. He/Him/His. <a href=\"https://mastodon.social/tags/PlantScience\" class=\"mention hashtag\" rel=\"tag\">#<span>PlantScience</span></a> | <a href=\"https://mastodon.social/tags/DataScience\" class=\"mention hashtag\" rel=\"tag\">#<span>DataScience</span></a> | <a href=\"https://mastodon.social/tags/Bioinformatics\" class=\"mention hashtag\" rel=\"tag\">#<span>Bioinformatics</span></a> | <a href=\"https://mastodon.social/tags/ComputerVision\" class=\"mention hashtag\" rel=\"tag\">#<span>ComputerVision</span></a> | <a href=\"https://mastodon.social/tags/PlantPhenotyping\" class=\"mention hashtag\" rel=\"tag\">#<span>PlantPhenotyping</span></a> | <a href=\"https://mastodon.social/tags/MachineLearning\" class=\"mention hashtag\" rel=\"tag\">#<span>MachineLearning</span></a></p>",
+        "url": "https://mastodon.social/@NoahFahlgren",
+        "uri": "https://mastodon.social/users/NoahFahlgren",
+        "avatar": "https://files.mastodon.social/accounts/avatars/107/913/786/592/292/854/original/e51bc7197803b3a5.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/107/913/786/592/292/854/original/e51bc7197803b3a5.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/107/913/786/592/292/854/original/e7d8b4f00d1de2e7.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/107/913/786/592/292/854/original/e7d8b4f00d1de2e7.png",
+        "followers_count": 241,
+        "following_count": 375,
+        "statuses_count": 112,
+        "last_status_at": "2023-10-21",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Danforth Center",
+                "value": "<a href=\"https://www.danforthcenter.org/our-work/principal-investigators/noah-fahlgren/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">danforthcenter.org/our-work/pr</span><span class=\"invisible\">incipal-investigators/noah-fahlgren/</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "PlantCV",
+                "value": "<a href=\"https://plantcv.danforthcenter.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">plantcv.danforthcenter.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-07T04:06:36.148+00:00"
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/nfahlgren\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nfahlgren</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "@NoahFahlgren@bookwyrm.social",
+                "value": "<a href=\"https://bookwyrm.social/user/NoahFahlgren\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bookwyrm.social/user/NoahFahlg</span><span class=\"invisible\">ren</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109501366803735406",
+        "username": "bffo",
+        "acct": "bffo",
+        "display_name": "Francis Ouellette",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-12-12T00:00:00.000Z",
+        "note": "<p>Bioinformatician,  PLOS CompBiol Education Section Editor;  <a href=\"https://mastodon.social/tags/DATABASE\" class=\"mention hashtag\" rel=\"tag\">#<span>DATABASE</span></a> (OUP) associate editor; GigaByteJournal Advisor;  I only <a href=\"https://mastodon.social/tags/boost\" class=\"mention hashtag\" rel=\"tag\">#<span>boost</span></a> <a href=\"https://mastodon.social/tags/OpenAccess\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenAccess</span></a> publications | <a href=\"https://mastodon.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenScience</span></a> <a href=\"https://mastodon.social/tags/OpenAccess\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenAccess</span></a> <a href=\"https://mastodon.social/tags/OpenData\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenData</span></a>; H3ABionet friend,  ELIXIREurope fan, and supporter of the <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.science/@jxtxFoundation\" class=\"u-url mention\">@<span>jxtxFoundation</span></a></span> (<a href=\"https://mastodon.social/tags/UseGalaxy\" class=\"mention hashtag\" rel=\"tag\">#<span>UseGalaxy</span></a>)</p>",
+        "url": "https://mastodon.social/@bffo",
+        "uri": "https://mastodon.social/users/bffo",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/501/366/803/735/406/original/3f741971d9840075.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/501/366/803/735/406/original/3f741971d9840075.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/501/366/803/735/406/original/e02e07571c9cf156.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/501/366/803/735/406/original/e02e07571c9cf156.jpeg",
+        "followers_count": 377,
+        "following_count": 348,
+        "statuses_count": 172,
+        "last_status_at": "2024-08-17",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "ORCID",
+                "value": "<a href=\"https://orcid.org/0000-0003-4676-675X\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">orcid.org/0000-0003-4676-675X</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "PubMed",
+                "value": "<a href=\"https://www.ncbi.nlm.nih.gov/myncbi/francis.ouellette.1/bibliography/public/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ncbi.nlm.nih.gov/myncbi/franci</span><span class=\"invisible\">s.ouellette.1/bibliography/public/</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Bioinformatics Workshops",
+                "value": "<a href=\"https://bioinformatics.ca/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bioinformatics.ca/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Bird account",
+                "value": "<a href=\"https://twitter.com/bffo\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/bffo</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109333121042471024",
+        "username": "jetjocko",
+        "acct": "jetjocko",
+        "display_name": "Adam Rogers",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-12T00:00:00.000Z",
+        "note": "<p>Senior Tech Correspondent/Insider. Ex Wired. Science, tech, weird futures. I wrote Proof: The Science of Booze and Full Spectrum: How the Science of Color Made Us Modern.</p>",
+        "url": "https://mastodon.social/@jetjocko",
+        "uri": "https://mastodon.social/users/jetjocko",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/333/121/042/471/024/original/ee401c371c47f94f.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/333/121/042/471/024/original/ee401c371c47f94f.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/333/121/042/471/024/original/cf710e73e4a4deb3.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/333/121/042/471/024/original/cf710e73e4a4deb3.jpeg",
+        "followers_count": 1493,
+        "following_count": 261,
+        "statuses_count": 552,
+        "last_status_at": "2024-07-22",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Full Spectrum: How the Science of Color Made Us Modern",
+                "value": "<a href=\"https://www.amazon.com/Full-Spectrum-Science-Color-Modern/dp/1328518906\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/Full-Spectrum-Scien</span><span class=\"invisible\">ce-Color-Modern/dp/1328518906</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Proof: The Science of Booze",
+                "value": "<a href=\"https://www.amazon.com/gp/product/B00E9FYSZ0/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/gp/product/B00E9FYS</span><span class=\"invisible\">Z0/</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Me",
+                "value": "<a href=\"https://adam-rogers.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">adam-rogers.net</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

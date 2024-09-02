@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "username": "Gargron",
+        "acct": "Gargron",
+        "display_name": "Eugen Rochko",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2016-03-16T00:00:00.000Z",
+        "note": "<p>Founder of <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Mastodon\" class=\"u-url mention\">@<span>Mastodon</span></a></span>. Film photography, prog metal, Dota 2. Likes all things analog.</p>",
+        "url": "https://mastodon.social/@Gargron",
+        "uri": "https://mastodon.social/users/Gargron",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/000/001/original/a0a49d80c3de5f75.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/000/001/original/a0a49d80c3de5f75.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/000/001/original/d13e4417706a5fec.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/000/001/original/d13e4417706a5fec.jpg",
+        "followers_count": 350431,
+        "following_count": 537,
+        "statuses_count": 77141,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://www.patreon.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">patreon.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/Gargron\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Gargron</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-07T23:24:40.347+00:00"
+            },
+            {
+                "name": "Portfolio",
+                "value": "<a href=\"https://eugenrochko.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">eugenrochko.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-07-06T01:06:10.801+00:00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,268 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "113028557640080804",
+            "created_at": "2024-08-26T13:28:38.000Z",
+            "in_reply_to_id": "113028556157159206",
+            "in_reply_to_account_id": "732176",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://mastodon.cloud/users/mfeilner/statuses/113028557588072035",
+            "url": "https://mastodon.cloud/@mfeilner/113028557588072035",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><a href=\"https://www.deutschlandfunk.de/brettspiel-e-mission-gemeinsam-die-welt-retten-im-kennerspiel-des-jahres-dlf-43e2d12e-100.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">deutschlandfunk.de/brettspiel-</span><span class=\"invisible\">e-mission-gemeinsam-die-welt-retten-im-kennerspiel-des-jahres-dlf-43e2d12e-100.html</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "732176",
+                "username": "mfeilner",
+                "acct": "mfeilner@mastodon.cloud",
+                "display_name": "Markus Feilner :verified:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-03-01T00:00:00.000Z",
+                "note": "<p>\"Don't worry, climate change will take care of that...\"\u2013\"The blade of that hockey stick is coming roughly 100 years too early\"  <a href=\"https://mastodon.cloud/tags/climatecollapse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatecollapse</span></a></p><p>Senior Open Source Evangelist, Ambassador, Journalist, Management Coach, Keynote Speaker. Expert for: OSI Layer 8 to 11, Public Administration/Digitalization. Open Source/Linux since 1994. Founder and Owner of Feilner IT. </p><p>Open for new challenges to save the world.</p><p><a href=\"https://mastodon.cloud/tags/ownCloud\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ownCloud</span></a> <a href=\"https://mastodon.cloud/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a>-Magazin, <a href=\"https://mastodon.cloud/tags/grommunio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>grommunio</span></a>, <a href=\"https://mastodon.cloud/tags/Greenbone\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Greenbone</span></a>, <a href=\"https://mastodon.cloud/tags/HalloWelt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HalloWelt</span></a>! <a href=\"https://mastodon.cloud/tags/Auctores\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Auctores</span></a> <a href=\"https://mastodon.cloud/tags/openproject\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openproject</span></a></p>",
+                "url": "https://mastodon.cloud/@mfeilner",
+                "uri": "https://mastodon.cloud/users/mfeilner",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "followers_count": 916,
+                "following_count": 797,
+                "statuses_count": 9180,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "verified",
+                        "url": "https://files.mastodon.social/custom_emojis/images/000/033/828/original/58509e2aeb7db68f.png",
+                        "static_url": "https://files.mastodon.social/custom_emojis/images/000/033/828/static/58509e2aeb7db68f.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "The Past",
+                        "value": "Linux &amp; Opensource since 1994, founded FeilnerIT in 2000",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Journalist",
+                        "value": "Linux Magazin, opensource.com, SUSE, Heise IX, Golem, author of several books.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Stage",
+                        "value": "Keynotes, Coaching, Training, Management &amp; Leadership, Workshops, Presentations and Fun",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Future",
+                        "value": "8,9,10,11 \u2013 Humans in IT. Coaching and Explaining. Saving the World wih learnings from Open Source",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.deutschlandfunk.de/brettspiel-e-mission-gemeinsam-die-welt-retten-im-kennerspiel-des-jahres-dlf-43e2d12e-100.html",
+                "title": "Brettspiel \"E-Mission\": Gemeinsam die Welt retten im Kennerspiel des Jahres 2024",
+                "description": "",
+                "language": "de",
+                "type": "video",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Deutschlandfunk",
+                "provider_url": "",
+                "html": "<iframe src=\"https://share.deutschlandradio.de/brettspiel-e-mission-gemeinsam-die-welt-retten-im-kennerspiel-des-jahres-dlf-43e2d12e-100.twc\" width=\"506\" height=\"285\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" frameborder=\"0\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms\"></iframe>",
+                "width": 506,
+                "height": 285,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/109/183/176/original/243780d2e52a43de.jpg",
+                "image_description": "Forschung Aktuell",
+                "embed_url": "",
+                "blurhash": "UNA-*n8y-:b_-=4nx[soMxtRaejEM{-;M{R*",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "113028596012434003",
+            "created_at": "2024-08-26T13:38:23.000Z",
+            "in_reply_to_id": "113028557640080804",
+            "in_reply_to_account_id": "732176",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://mastodon.cloud/users/mfeilner/statuses/113028595971462319",
+            "url": "https://mastodon.cloud/@mfeilner/113028595971462319",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>Klingt ja echt gut. <br><a href=\"https://youtu.be/qT17XwJZ9r8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/qT17XwJZ9r8</span><span class=\"invisible\"></span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "732176",
+                "username": "mfeilner",
+                "acct": "mfeilner@mastodon.cloud",
+                "display_name": "Markus Feilner :verified:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-03-01T00:00:00.000Z",
+                "note": "<p>\"Don't worry, climate change will take care of that...\"\u2013\"The blade of that hockey stick is coming roughly 100 years too early\"  <a href=\"https://mastodon.cloud/tags/climatecollapse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatecollapse</span></a></p><p>Senior Open Source Evangelist, Ambassador, Journalist, Management Coach, Keynote Speaker. Expert for: OSI Layer 8 to 11, Public Administration/Digitalization. Open Source/Linux since 1994. Founder and Owner of Feilner IT. </p><p>Open for new challenges to save the world.</p><p><a href=\"https://mastodon.cloud/tags/ownCloud\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ownCloud</span></a> <a href=\"https://mastodon.cloud/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a>-Magazin, <a href=\"https://mastodon.cloud/tags/grommunio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>grommunio</span></a>, <a href=\"https://mastodon.cloud/tags/Greenbone\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Greenbone</span></a>, <a href=\"https://mastodon.cloud/tags/HalloWelt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HalloWelt</span></a>! <a href=\"https://mastodon.cloud/tags/Auctores\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Auctores</span></a> <a href=\"https://mastodon.cloud/tags/openproject\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openproject</span></a></p>",
+                "url": "https://mastodon.cloud/@mfeilner",
+                "uri": "https://mastodon.cloud/users/mfeilner",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "followers_count": 916,
+                "following_count": 797,
+                "statuses_count": 9180,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "verified",
+                        "url": "https://files.mastodon.social/custom_emojis/images/000/033/828/original/58509e2aeb7db68f.png",
+                        "static_url": "https://files.mastodon.social/custom_emojis/images/000/033/828/static/58509e2aeb7db68f.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "The Past",
+                        "value": "Linux &amp; Opensource since 1994, founded FeilnerIT in 2000",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Journalist",
+                        "value": "Linux Magazin, opensource.com, SUSE, Heise IX, Golem, author of several books.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Stage",
+                        "value": "Keynotes, Coaching, Training, Management &amp; Leadership, Workshops, Presentations and Fun",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Future",
+                        "value": "8,9,10,11 \u2013 Humans in IT. Coaching and Explaining. Saving the World wih learnings from Open Source",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://youtu.be/qT17XwJZ9r8",
+                "title": "- YouTube",
+                "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 0,
+                "height": 0,
+                "image": null,
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": null,
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "113028575434810808",
+            "created_at": "2024-08-26T13:33:10.000Z",
+            "in_reply_to_id": "113028556157159206",
+            "in_reply_to_account_id": "732176",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "de",
+            "uri": "https://masto.nu/users/tdr/statuses/113028575412922388",
+            "url": "https://masto.nu/@tdr/113028575412922388",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cloud/@mfeilner\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mfeilner</span></a></span> Interessant! Danke f\u00fcr den Hinweis \ud83d\udc4d</p>",
+            "reblog": null,
+            "account": {
+                "id": "112009219112909623",
+                "username": "tdr",
+                "acct": "tdr@masto.nu",
+                "display_name": "Gero Stein",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-02-28T00:00:00.000Z",
+                "note": "<p>Tech tinkerer | Data law | Privacy advocate | Hiker | Retro tech | X-Files &amp; AFOB </p><p><a href=\"https://masto.nu/tags/retro\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>retro</span></a> <a href=\"https://masto.nu/tags/privacy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>privacy</span></a> <a href=\"https://masto.nu/tags/xfiles\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xfiles</span></a> <a href=\"https://masto.nu/tags/afob\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>afob</span></a> <a href=\"https://masto.nu/tags/diy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>diy</span></a> <a href=\"https://masto.nu/tags/hike\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hike</span></a></p><p>DE / EN </p><p>\ud83c\uddea\ud83c\uddfa\ud83c\udf0d\ud83d\udef8</p>",
+                "url": "https://masto.nu/@tdr",
+                "uri": "https://masto.nu/users/tdr",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/009/219/112/909/623/original/cb88fffbe13a55b7.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/009/219/112/909/623/original/cb88fffbe13a55b7.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/009/219/112/909/623/original/b539580cd3ff8a5d.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/009/219/112/909/623/original/b539580cd3ff8a5d.png",
+                "followers_count": 28,
+                "following_count": 203,
+                "statuses_count": 469,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "732176",
+                    "username": "mfeilner",
+                    "url": "https://mastodon.cloud/@mfeilner",
+                    "acct": "mfeilner@mastodon.cloud"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

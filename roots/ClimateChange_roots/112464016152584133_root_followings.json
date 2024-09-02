@@ -1,0 +1,79 @@
+[
+    {
+        "id": "110639343136361783",
+        "username": "huggydave",
+        "acct": "huggydave",
+        "display_name": "HuggyDave",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-07-01T00:00:00.000Z",
+        "note": "<p>Professional writer, editor, sings about unicorns and plays bizarre obscure games. He/Him</p>",
+        "url": "https://mastodon.social/@huggydave",
+        "uri": "https://mastodon.social/users/huggydave",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/639/343/136/361/783/original/5aeebd781c9c85d8.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/639/343/136/361/783/original/5aeebd781c9c85d8.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/110/639/343/136/361/783/original/769ff6d74751d283.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/639/343/136/361/783/original/769ff6d74751d283.jpg",
+        "followers_count": 240,
+        "following_count": 426,
+        "statuses_count": 2217,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "110441535131897219",
+        "username": "gutenberg_org",
+        "acct": "gutenberg_org",
+        "display_name": "Project Gutenberg",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-05-27T00:00:00.000Z",
+        "note": "<p>Project Gutenberg, founded in 1971, is the oldest producer and distributor of free ebooks.</p><p>According to Michael Hart (March 8, 1947 \u2013 September 6, 2011), founder of  Project Gutenberg, the mission of Project Gutenberg is simple: to encourage the creation and distribution of eBooks.<br />This mission is, as much as possible, to encourage all those who are interested in making eBooks and helping to give them away.</p>",
+        "url": "https://mastodon.social/@gutenberg_org",
+        "uri": "https://mastodon.social/users/gutenberg_org",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/441/535/131/897/219/original/0ddf9d4dd12a5dee.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/441/535/131/897/219/original/0ddf9d4dd12a5dee.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/441/535/131/897/219/original/dfb09c44376c51a2.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/441/535/131/897/219/original/dfb09c44376c51a2.png",
+        "followers_count": 29268,
+        "following_count": 56,
+        "statuses_count": 3672,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Homepage",
+                "value": "<a href=\"https://www.gutenberg.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">gutenberg.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-05-30T18:28:54.592+00:00"
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/gutenberg_org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/gutenberg_org</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Facebook",
+                "value": "<a href=\"https://www.facebook.com/project.gutenberg\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">facebook.com/project.gutenberg</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "New feeds of new books",
+                "value": "<a href=\"https://mastodon.social/@gutenberg_new\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.social/@gutenberg_new</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

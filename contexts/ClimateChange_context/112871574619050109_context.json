@@ -1,0 +1,319 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112871720441981900",
+            "created_at": "2024-07-29T20:42:51.000Z",
+            "in_reply_to_id": "112871574619050109",
+            "in_reply_to_account_id": "109338569507713783",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.social/users/Weirding_Is_Real/statuses/112871720325782910",
+            "url": "https://mstdn.social/@Weirding_Is_Real/112871720325782910",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@GhostOnTheHalfShell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>GhostOnTheHalfShell</span></a></span> </p><p>Apparently Scottish people can't say \"purple burglar alarm\"</p><p><a href=\"https://youtu.be/AC__o1UxDl8\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/AC__o1UxDl8</span><span class=\"invisible\"></span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "112301109386615811",
+                "username": "Weirding_Is_Real",
+                "acct": "Weirding_Is_Real@mstdn.social",
+                "display_name": "I'm for Harris \ud83c\udf0a",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-04-16T00:00:00.000Z",
+                "note": "<p>My greatest privilege is my distance from the consequences of my conveniences.</p><p>I don't want to pad my today with someone else's tomorrow.</p><p>If you can't walk the talk, hire an assistant to bring you milk &amp; cookies.</p>",
+                "url": "https://mstdn.social/@Weirding_Is_Real",
+                "uri": "https://mstdn.social/users/Weirding_Is_Real",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/301/109/386/615/811/original/976264f211284791.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/301/109/386/615/811/original/976264f211284791.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/301/109/386/615/811/original/656d85c61beef59a.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/301/109/386/615/811/original/656d85c61beef59a.jpg",
+                "followers_count": 30,
+                "following_count": 37,
+                "statuses_count": 474,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Stanislaus RM40\ud83c\udfde",
+                        "value": "Sierra Nevada West Slope\ud83c\udf04",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Well, today no one showed,",
+                        "value": "so we'll see what tonight brings.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Jump. Sit. Stand. March.",
+                        "value": "Liberation. Elevation. Education.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109338569507713783",
+                    "username": "GhostOnTheHalfShell",
+                    "url": "https://masto.ai/@GhostOnTheHalfShell",
+                    "acct": "GhostOnTheHalfShell@masto.ai"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://youtu.be/AC__o1UxDl8",
+                "title": "- YouTube",
+                "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 0,
+                "height": 0,
+                "image": null,
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": null,
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112871811460965242",
+            "created_at": "2024-07-29T21:06:01.000Z",
+            "in_reply_to_id": "112871720441981900",
+            "in_reply_to_account_id": "112301109386615811",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://masto.ai/users/GhostOnTheHalfShell/statuses/112871811393742412",
+            "url": "https://masto.ai/@GhostOnTheHalfShell/112871811393742412",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@Weirding_Is_Real\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Weirding_Is_Real</span></a></span> </p><p>He knows something is wrong but can\u2019t figure out\u2026 \ud83d\ude02 poor thing</p>",
+            "reblog": null,
+            "account": {
+                "id": "109338569507713783",
+                "username": "GhostOnTheHalfShell",
+                "acct": "GhostOnTheHalfShell@masto.ai",
+                "display_name": "GhostOnTheHalfShell",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-13T00:00:00.000Z",
+                "note": "<p>opinionated lurker of the intarwebs.</p><p>Used to write code, still do. c/c++, java, php, js, c#, gdscript, gnawed on sql, sparql, unix/windows  etc etc billions of years ago.</p><p>tech, graphics, anything STEM<br>anything anthropology, history, linguistics <br>anything blender, gimp (although i scream using it), audacity <br>prefers not to be run over by cars</p><p>I drink Philz.</p><p>I do a (non-monetized) video or so a week on yt.</p><p>Tyranny and poverty are everywhere a mainstream economics phenomenon.</p>",
+                "url": "https://masto.ai/@GhostOnTheHalfShell",
+                "uri": "https://masto.ai/users/GhostOnTheHalfShell",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/338/569/507/713/783/original/6054a93990a37eaa.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/338/569/507/713/783/original/6054a93990a37eaa.jpeg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 2257,
+                "following_count": 1859,
+                "statuses_count": 5348,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "YouTube",
+                        "value": "<a href=\"https://www.youtube.com/@GhostOnTheHalfShell\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/@GhostOnTheHalfShe</span><span class=\"invisible\">ll</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112301109386615811",
+                    "username": "Weirding_Is_Real",
+                    "url": "https://mstdn.social/@Weirding_Is_Real",
+                    "acct": "Weirding_Is_Real@mstdn.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112879900899171357",
+            "created_at": "2024-07-31T07:23:16.000Z",
+            "in_reply_to_id": "112871574619050109",
+            "in_reply_to_account_id": "109338569507713783",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112879900844192667",
+            "url": "https://mastodon.au/@largess/112879900844192667",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@GhostOnTheHalfShell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>GhostOnTheHalfShell</span></a></span><br>Professor Box used to post here, not sure he does anymore ?</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jasonbox\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jasonbox</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109338569507713783",
+                    "username": "GhostOnTheHalfShell",
+                    "url": "https://masto.ai/@GhostOnTheHalfShell",
+                    "acct": "GhostOnTheHalfShell@masto.ai"
+                },
+                {
+                    "id": "109511587974371667",
+                    "username": "jasonbox",
+                    "url": "https://mastodon.social/@jasonbox",
+                    "acct": "jasonbox"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112880089270846185",
+            "created_at": "2024-07-31T08:11:09.000Z",
+            "in_reply_to_id": "112879900899171357",
+            "in_reply_to_account_id": "109412631555333276",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://masto.ai/users/GhostOnTheHalfShell/statuses/112880089135216230",
+            "url": "https://masto.ai/@GhostOnTheHalfShell/112880089135216230",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.au/@largess\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>largess</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@jasonbox\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jasonbox</span></a></span> </p><p>I don\u2019t think so. He doesn\u2019t post on YT much, having only cropped up recently with some shorts.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109338569507713783",
+                "username": "GhostOnTheHalfShell",
+                "acct": "GhostOnTheHalfShell@masto.ai",
+                "display_name": "GhostOnTheHalfShell",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-13T00:00:00.000Z",
+                "note": "<p>opinionated lurker of the intarwebs.</p><p>Used to write code, still do. c/c++, java, php, js, c#, gdscript, gnawed on sql, sparql, unix/windows  etc etc billions of years ago.</p><p>tech, graphics, anything STEM<br>anything anthropology, history, linguistics <br>anything blender, gimp (although i scream using it), audacity <br>prefers not to be run over by cars</p><p>I drink Philz.</p><p>I do a (non-monetized) video or so a week on yt.</p><p>Tyranny and poverty are everywhere a mainstream economics phenomenon.</p>",
+                "url": "https://masto.ai/@GhostOnTheHalfShell",
+                "uri": "https://masto.ai/users/GhostOnTheHalfShell",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/338/569/507/713/783/original/6054a93990a37eaa.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/338/569/507/713/783/original/6054a93990a37eaa.jpeg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 2257,
+                "following_count": 1859,
+                "statuses_count": 5348,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "YouTube",
+                        "value": "<a href=\"https://www.youtube.com/@GhostOnTheHalfShell\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/@GhostOnTheHalfShe</span><span class=\"invisible\">ll</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109412631555333276",
+                    "username": "largess",
+                    "url": "https://mastodon.au/@largess",
+                    "acct": "largess@mastodon.au"
+                },
+                {
+                    "id": "109511587974371667",
+                    "username": "jasonbox",
+                    "url": "https://mastodon.social/@jasonbox",
+                    "acct": "jasonbox"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

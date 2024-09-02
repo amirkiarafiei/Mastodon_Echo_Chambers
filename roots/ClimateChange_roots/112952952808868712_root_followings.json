@@ -1,0 +1,36 @@
+[
+    {
+        "id": "110266162634306901",
+        "username": "arstechnica",
+        "acct": "arstechnica",
+        "display_name": "Ars Technica",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-04-26T00:00:00.000Z",
+        "note": "<p>Original news, reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech.</p><p>Official Ars Technica account. \ud83d\udfe0</p>",
+        "url": "https://mastodon.social/@arstechnica",
+        "uri": "https://mastodon.social/users/arstechnica",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/266/162/634/306/901/original/83169ae835e6c5ac.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/266/162/634/306/901/original/83169ae835e6c5ac.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/266/162/634/306/901/original/356063731b2c5192.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/266/162/634/306/901/original/356063731b2c5192.jpg",
+        "followers_count": 161781,
+        "following_count": 6,
+        "statuses_count": 5634,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Ars Technica",
+                "value": "<a href=\"https://arstechnica.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">arstechnica.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-04-27T13:17:49.854+00:00"
+            }
+        ]
+    }
+]

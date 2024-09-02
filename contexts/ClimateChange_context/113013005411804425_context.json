@@ -1,0 +1,324 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "113013010188744325",
+            "created_at": "2024-08-23T19:34:43.000Z",
+            "in_reply_to_id": "113013005411804425",
+            "in_reply_to_account_id": "109246435880955389",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/buffyleigh/statuses/113013010137579059",
+            "url": "https://mas.to/@buffyleigh/113013010137579059",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@JoBlakely\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>JoBlakely</span></a></span> This is a really great series. I would love to see them all as a gallery exhibit.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109837367104500730",
+                "username": "buffyleigh",
+                "acct": "buffyleigh@mas.to",
+                "display_name": "Buffy Leigh (she/they)",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-02-09T00:00:00.000Z",
+                "note": "<p>\"My headphones / They saved my life\" - Bj\u00f6rk</p><p>\"Le singe est sur la branche\" - Suzy Eddie Izzard</p><p>\"Stay safe, take care of yourselves, and fascist, racist, misogynist, homophobic, transphobic metalheads can fuck off.\" - A music blogger whose name I don't know, but also me</p>",
+                "url": "https://mas.to/@buffyleigh",
+                "uri": "https://mas.to/users/buffyleigh",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/837/367/104/500/730/original/47c7b74a74c3f038.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/837/367/104/500/730/original/47c7b74a74c3f038.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/837/367/104/500/730/original/f6eccc63dce5fa57.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/837/367/104/500/730/original/f6eccc63dce5fa57.jpg",
+                "followers_count": 924,
+                "following_count": 746,
+                "statuses_count": 6460,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "(Well, originally joined",
+                        "value": "Nov 18, 2022, at .lol)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Anyway, I do not exist",
+                        "value": "I faithfully insist",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "But sometimes I write things",
+                        "value": "<a href=\"http://musingsofbuffyleigh.wordpress.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">musingsofbuffyleigh.wordpress.</span><span class=\"invisible\">com/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "And I compile John Mastodon's fave albums",
+                        "value": "<a href=\"https://1001otheralbums.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">1001otheralbums.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109246435880955389",
+                    "username": "JoBlakely",
+                    "url": "https://mastodon.social/@JoBlakely",
+                    "acct": "JoBlakely"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113013014413449256",
+            "created_at": "2024-08-23T19:35:48.258Z",
+            "in_reply_to_id": "113013010188744325",
+            "in_reply_to_account_id": "109837367104500730",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/JoBlakely/statuses/113013014413449256",
+            "url": "https://mastodon.social/@JoBlakely/113013014413449256",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@buffyleigh\" class=\"u-url mention\">@<span>buffyleigh</span></a></span> thank you so much! I hope to do that at some point.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "109246435880955389",
+                "username": "JoBlakely",
+                "acct": "JoBlakely",
+                "display_name": "Jo Jitsu",
+                "locked": true,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>\ud83c\udde8\ud83c\udde6Artist, Intersectional Feminist, Spiritual, Nerdy. <a href=\"https://mastodon.social/tags/art\" class=\"mention hashtag\" rel=\"tag\">#<span>art</span></a> <a href=\"https://mastodon.social/tags/portraits\" class=\"mention hashtag\" rel=\"tag\">#<span>portraits</span></a><br />Masks are visible expressions of solidarity, truth, &amp; love. <br />Mottos: Love all, take shit from none. <br />Don&#39;t become what you hate.</p><p>She/Her <a href=\"https://mastodon.social/tags/Neuroqueer\" class=\"mention hashtag\" rel=\"tag\">#<span>Neuroqueer</span></a> <a href=\"https://mastodon.social/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"tag\">#<span>ActuallyAutistic</span></a> <a href=\"https://mastodon.social/tags/cPTSD\" class=\"mention hashtag\" rel=\"tag\">#<span>cPTSD</span></a> <a href=\"https://mastodon.social/tags/MeToo\" class=\"mention hashtag\" rel=\"tag\">#<span>MeToo</span></a> <a href=\"https://mastodon.social/tags/Whistleblower\" class=\"mention hashtag\" rel=\"tag\">#<span>Whistleblower</span></a></p><p>No racists, misogynists, TERFS, AI, Blockchain <a href=\"https://mastodon.social/tags/nobot\" class=\"mention hashtag\" rel=\"tag\">#<span>nobot</span></a></p><p>Header: <a href=\"https://mastodon.social/tags/Painting\" class=\"mention hashtag\" rel=\"tag\">#<span>Painting</span></a> of books, hourglass, gold mannequin hand \ud83e\udd1c &amp; kn95.<br />Profile painting closeup of woman with long red wavy hair in front of a burning map.</p>",
+                "url": "https://mastodon.social/@JoBlakely",
+                "uri": "https://mastodon.social/users/JoBlakely",
+                "avatar": "https://files.mastodon.social/accounts/avatars/109/246/435/880/955/389/original/2733654ebd1db2c1.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/109/246/435/880/955/389/original/2733654ebd1db2c1.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/109/246/435/880/955/389/original/a1452c37c391f7a4.jpeg",
+                "header_static": "https://files.mastodon.social/accounts/headers/109/246/435/880/955/389/original/a1452c37c391f7a4.jpeg",
+                "followers_count": 1497,
+                "following_count": 1257,
+                "statuses_count": 21254,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "website",
+                        "value": "joblakely.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "donate / support",
+                        "value": "ko-fi.com/joblakely",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Born",
+                        "value": "318 ppm, Toronto",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Climate activist since",
+                        "value": "333 pm",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109837367104500730",
+                    "username": "buffyleigh",
+                    "url": "https://mas.to/@buffyleigh",
+                    "acct": "buffyleigh@mas.to"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113013021015990097",
+            "created_at": "2024-08-23T19:37:28.000Z",
+            "in_reply_to_id": "113013005411804425",
+            "in_reply_to_account_id": "109246435880955389",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://sfba.social/users/Mewness/statuses/113013020974178382",
+            "url": "https://sfba.social/@Mewness/113013020974178382",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@JoBlakely\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>JoBlakely</span></a></span> Love your work!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109366710678151182",
+                "username": "Mewness",
+                "acct": "Mewness@sfba.social",
+                "display_name": "Pamina, catless child-lady",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>Aussie living in California. I write words and sometimes draw arts.</p><p>The profile pic is of me, an Asian woman with freckles, thick glasses, and a wide-brimmed hat, smiling and looking sidelong at the camera. The banner is a picture of a street in Oakland, taken in the spring with the trees blossoming.</p>",
+                "url": "https://sfba.social/@Mewness",
+                "uri": "https://sfba.social/users/Mewness",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/366/710/678/151/182/original/a0eacfed6ac247b9.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/366/710/678/151/182/original/a0eacfed6ac247b9.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/366/710/678/151/182/original/ec222a31f1287529.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/366/710/678/151/182/original/ec222a31f1287529.jpeg",
+                "followers_count": 23,
+                "following_count": 61,
+                "statuses_count": 133,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "201 And All That",
+                        "value": "<a href=\"https://looseellipse.weebly.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">looseellipse.weebly.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T02:32:29.610+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "she/her",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "What\u2019s gonna work?",
+                        "value": "Teamwork!",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109246435880955389",
+                    "username": "JoBlakely",
+                    "url": "https://mastodon.social/@JoBlakely",
+                    "acct": "JoBlakely"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113013023784773725",
+            "created_at": "2024-08-23T19:38:11.263Z",
+            "in_reply_to_id": "113013021015990097",
+            "in_reply_to_account_id": "109366710678151182",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/JoBlakely/statuses/113013023784773725",
+            "url": "https://mastodon.social/@JoBlakely/113013023784773725",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@Mewness\" class=\"u-url mention\">@<span>Mewness</span></a></span> thank you so much! \ud83d\ude0a</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "109246435880955389",
+                "username": "JoBlakely",
+                "acct": "JoBlakely",
+                "display_name": "Jo Jitsu",
+                "locked": true,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>\ud83c\udde8\ud83c\udde6Artist, Intersectional Feminist, Spiritual, Nerdy. <a href=\"https://mastodon.social/tags/art\" class=\"mention hashtag\" rel=\"tag\">#<span>art</span></a> <a href=\"https://mastodon.social/tags/portraits\" class=\"mention hashtag\" rel=\"tag\">#<span>portraits</span></a><br />Masks are visible expressions of solidarity, truth, &amp; love. <br />Mottos: Love all, take shit from none. <br />Don&#39;t become what you hate.</p><p>She/Her <a href=\"https://mastodon.social/tags/Neuroqueer\" class=\"mention hashtag\" rel=\"tag\">#<span>Neuroqueer</span></a> <a href=\"https://mastodon.social/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"tag\">#<span>ActuallyAutistic</span></a> <a href=\"https://mastodon.social/tags/cPTSD\" class=\"mention hashtag\" rel=\"tag\">#<span>cPTSD</span></a> <a href=\"https://mastodon.social/tags/MeToo\" class=\"mention hashtag\" rel=\"tag\">#<span>MeToo</span></a> <a href=\"https://mastodon.social/tags/Whistleblower\" class=\"mention hashtag\" rel=\"tag\">#<span>Whistleblower</span></a></p><p>No racists, misogynists, TERFS, AI, Blockchain <a href=\"https://mastodon.social/tags/nobot\" class=\"mention hashtag\" rel=\"tag\">#<span>nobot</span></a></p><p>Header: <a href=\"https://mastodon.social/tags/Painting\" class=\"mention hashtag\" rel=\"tag\">#<span>Painting</span></a> of books, hourglass, gold mannequin hand \ud83e\udd1c &amp; kn95.<br />Profile painting closeup of woman with long red wavy hair in front of a burning map.</p>",
+                "url": "https://mastodon.social/@JoBlakely",
+                "uri": "https://mastodon.social/users/JoBlakely",
+                "avatar": "https://files.mastodon.social/accounts/avatars/109/246/435/880/955/389/original/2733654ebd1db2c1.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/109/246/435/880/955/389/original/2733654ebd1db2c1.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/109/246/435/880/955/389/original/a1452c37c391f7a4.jpeg",
+                "header_static": "https://files.mastodon.social/accounts/headers/109/246/435/880/955/389/original/a1452c37c391f7a4.jpeg",
+                "followers_count": 1497,
+                "following_count": 1257,
+                "statuses_count": 21254,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "website",
+                        "value": "joblakely.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "donate / support",
+                        "value": "ko-fi.com/joblakely",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Born",
+                        "value": "318 ppm, Toronto",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Climate activist since",
+                        "value": "333 pm",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109366710678151182",
+                    "username": "Mewness",
+                    "url": "https://sfba.social/@Mewness",
+                    "acct": "Mewness@sfba.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

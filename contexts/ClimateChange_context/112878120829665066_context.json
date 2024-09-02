@@ -1,0 +1,603 @@
+{
+    "ancestors": [
+        {
+            "id": "112877108226229029",
+            "created_at": "2024-07-30T19:33:01.000Z",
+            "in_reply_to_id": null,
+            "in_reply_to_account_id": null,
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://masto.ai/users/Nonilex/statuses/112877108033501137",
+            "url": "https://masto.ai/@Nonilex/112877108033501137",
+            "replies_count": 3,
+            "reblogs_count": 29,
+            "favourites_count": 6,
+            "edited_at": "2024-07-30T19:34:52.000Z",
+            "content": "<p>[yet another example of <a href=\"https://masto.ai/tags/authoritarianism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>authoritarianism</span></a> &amp; the <a href=\"https://masto.ai/tags/Republicans\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Republicans</span></a> total abdication of <a href=\"https://masto.ai/tags/power\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>power</span></a> to <a href=\"https://masto.ai/tags/Trump\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Trump</span></a>]</p><p><a href=\"https://masto.ai/tags/Project2025\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Project2025</span></a> to end policy work after <a href=\"https://masto.ai/tags/Democratic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Democratic</span></a> attacks angered Trump<br>\u2029The Trump campaign grew furious w/the <a href=\"https://masto.ai/tags/HeritageFoundation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HeritageFoundation</span></a> over <a href=\"https://masto.ai/tags/media\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>media</span></a> coverage tying him to the unpopular <a href=\"https://masto.ai/tags/policy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>policy</span></a> proposals.</p><p>[not that it\u2019s run &amp; staffed by his people or anything]\u2029<br><a href=\"https://masto.ai/tags/autocracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>autocracy</span></a> <a href=\"https://masto.ai/tags/democracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>democracy</span></a> <a href=\"https://masto.ai/tags/VoteBlue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VoteBlue</span></a> <br><a href=\"https://www.washingtonpost.com/politics/2024/07/30/project-2025-director-paul-dans-leaves-heritage-foundation/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">washingtonpost.com/politics/20</span><span class=\"invisible\">24/07/30/project-2025-director-paul-dans-leaves-heritage-foundation/</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109303988606874604",
+                "username": "Nonilex",
+                "acct": "Nonilex@masto.ai",
+                "display_name": "Nonilex",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-07T00:00:00.000Z",
+                "note": "<p>Newly added profile pic \u2014 Daddy &amp; me\u2028He taught me everything worth knowing that I didn\u2019t learn on my own. When able, when there, he stopped the abuse\u2029I miss him every single day.\u2028\u2028Fully migrated to mastodon now that the bird self destructed.\u2028Though if you want to view my old posts, same username.\u2029Recovering lawyer, so mostly <a href=\"https://masto.ai/tags/law\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>law</span></a>, though <a href=\"https://masto.ai/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a>, <a href=\"https://masto.ai/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a>, <a href=\"https://masto.ai/tags/geopolitics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geopolitics</span></a>, <a href=\"https://masto.ai/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politics</span></a>, <a href=\"https://masto.ai/tags/democracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>democracy</span></a>, stuff I think is cool &amp; of course \u2026\u2029<a href=\"https://masto.ai/tags/BabySquirrel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BabySquirrel</span></a></p>",
+                "url": "https://masto.ai/@Nonilex",
+                "uri": "https://masto.ai/users/Nonilex",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/303/988/606/874/604/original/7bcbb25f897b410b.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/303/988/606/874/604/original/7bcbb25f897b410b.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/303/988/606/874/604/original/03f9fadacc223e74.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/303/988/606/874/604/original/03f9fadacc223e74.png",
+                "followers_count": 5089,
+                "following_count": 1963,
+                "statuses_count": 14479,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Instagram",
+                        "value": "<a href=\"https://www.instagram.com/nonilex/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/nonilex/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Birdsite (defunct since TFG\u2019s reinstatement)",
+                        "value": "<a href=\"https://twitter.com/nonilex\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/nonilex</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "authoritarianism",
+                    "url": "https://mastodon.social/tags/authoritarianism"
+                },
+                {
+                    "name": "power",
+                    "url": "https://mastodon.social/tags/power"
+                },
+                {
+                    "name": "trump",
+                    "url": "https://mastodon.social/tags/trump"
+                },
+                {
+                    "name": "project2025",
+                    "url": "https://mastodon.social/tags/project2025"
+                },
+                {
+                    "name": "democratic",
+                    "url": "https://mastodon.social/tags/democratic"
+                },
+                {
+                    "name": "heritagefoundation",
+                    "url": "https://mastodon.social/tags/heritagefoundation"
+                },
+                {
+                    "name": "media",
+                    "url": "https://mastodon.social/tags/media"
+                },
+                {
+                    "name": "policy",
+                    "url": "https://mastodon.social/tags/policy"
+                },
+                {
+                    "name": "republicans",
+                    "url": "https://mastodon.social/tags/republicans"
+                },
+                {
+                    "name": "autocracy",
+                    "url": "https://mastodon.social/tags/autocracy"
+                },
+                {
+                    "name": "democracy",
+                    "url": "https://mastodon.social/tags/democracy"
+                },
+                {
+                    "name": "voteblue",
+                    "url": "https://mastodon.social/tags/voteblue"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.washingtonpost.com/politics/2024/07/30/project-2025-director-paul-dans-leaves-heritage-foundation/",
+                "title": "Project 2025 to end policy work after Democratic attacks angered Trump",
+                "description": "The Trump campaign grew furious with the Heritage Foundation over media coverage tying the candidate to unpopular policy proposals.",
+                "language": "en",
+                "type": "link",
+                "author_name": "Isaac Arnsdorf",
+                "author_url": "https://www.washingtonpost.com/people/isaac-arnsdorf/",
+                "provider_name": "The Washington Post",
+                "provider_url": "",
+                "html": "",
+                "width": 588,
+                "height": 392,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/106/248/968/original/c89fae64347c786f.jpeg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UF7wXIR*0:xWxeayNHn~Ipog%2RkOYjvw]WU",
+                "published_at": "2024-07-30T19:06:57.475Z",
+                "authors": [
+                    {
+                        "name": "Isaac Arnsdorf",
+                        "url": "https://www.washingtonpost.com/people/isaac-arnsdorf/",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112877130947723553",
+            "created_at": "2024-07-30T19:38:49.000Z",
+            "in_reply_to_id": "112877108226229029",
+            "in_reply_to_account_id": "109303988606874604",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://masto.ai/users/Nonilex/statuses/112877130873811759",
+            "url": "https://masto.ai/@Nonilex/112877130873811759",
+            "replies_count": 4,
+            "reblogs_count": 4,
+            "favourites_count": 4,
+            "edited_at": null,
+            "content": "<p>The <a href=\"https://masto.ai/tags/RightWing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RightWing</span></a> \u2026 <a href=\"https://masto.ai/tags/Project2025\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Project2025</span></a>, a collaboration led by the <a href=\"https://masto.ai/tags/HeritageFoundation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HeritageFoundation</span></a> \u2026[one of the] <a href=\"https://masto.ai/tags/conservative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>conservative</span></a> groups to develop a movement consensus blueprint for the next <a href=\"https://masto.ai/tags/Republican\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Republican</span></a> admin, is winding down its <a href=\"https://masto.ai/tags/policy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>policy</span></a> operations, &amp; its director, former <a href=\"https://masto.ai/tags/TrumpAdministration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TrumpAdministration</span></a> personnel ofcl <a href=\"https://masto.ai/tags/PaulDans\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PaulDans</span></a>, is departing. The Heritage Foundation also recently distributed new talking points encouraging participants to emphasize that the project does not speak for <a href=\"https://masto.ai/tags/Trump\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Trump</span></a>.</p><p><a href=\"https://masto.ai/tags/autocracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>autocracy</span></a> <a href=\"https://masto.ai/tags/democracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>democracy</span></a> <a href=\"https://masto.ai/tags/VoteBlue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VoteBlue</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109303988606874604",
+                "username": "Nonilex",
+                "acct": "Nonilex@masto.ai",
+                "display_name": "Nonilex",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-07T00:00:00.000Z",
+                "note": "<p>Newly added profile pic \u2014 Daddy &amp; me\u2028He taught me everything worth knowing that I didn\u2019t learn on my own. When able, when there, he stopped the abuse\u2029I miss him every single day.\u2028\u2028Fully migrated to mastodon now that the bird self destructed.\u2028Though if you want to view my old posts, same username.\u2029Recovering lawyer, so mostly <a href=\"https://masto.ai/tags/law\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>law</span></a>, though <a href=\"https://masto.ai/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a>, <a href=\"https://masto.ai/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a>, <a href=\"https://masto.ai/tags/geopolitics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geopolitics</span></a>, <a href=\"https://masto.ai/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politics</span></a>, <a href=\"https://masto.ai/tags/democracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>democracy</span></a>, stuff I think is cool &amp; of course \u2026\u2029<a href=\"https://masto.ai/tags/BabySquirrel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BabySquirrel</span></a></p>",
+                "url": "https://masto.ai/@Nonilex",
+                "uri": "https://masto.ai/users/Nonilex",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/303/988/606/874/604/original/7bcbb25f897b410b.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/303/988/606/874/604/original/7bcbb25f897b410b.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/303/988/606/874/604/original/03f9fadacc223e74.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/303/988/606/874/604/original/03f9fadacc223e74.png",
+                "followers_count": 5089,
+                "following_count": 1963,
+                "statuses_count": 14479,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Instagram",
+                        "value": "<a href=\"https://www.instagram.com/nonilex/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/nonilex/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Birdsite (defunct since TFG\u2019s reinstatement)",
+                        "value": "<a href=\"https://twitter.com/nonilex\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/nonilex</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "rightwing",
+                    "url": "https://mastodon.social/tags/rightwing"
+                },
+                {
+                    "name": "project2025",
+                    "url": "https://mastodon.social/tags/project2025"
+                },
+                {
+                    "name": "heritagefoundation",
+                    "url": "https://mastodon.social/tags/heritagefoundation"
+                },
+                {
+                    "name": "conservative",
+                    "url": "https://mastodon.social/tags/conservative"
+                },
+                {
+                    "name": "republican",
+                    "url": "https://mastodon.social/tags/republican"
+                },
+                {
+                    "name": "policy",
+                    "url": "https://mastodon.social/tags/policy"
+                },
+                {
+                    "name": "trumpadministration",
+                    "url": "https://mastodon.social/tags/trumpadministration"
+                },
+                {
+                    "name": "pauldans",
+                    "url": "https://mastodon.social/tags/pauldans"
+                },
+                {
+                    "name": "trump",
+                    "url": "https://mastodon.social/tags/trump"
+                },
+                {
+                    "name": "autocracy",
+                    "url": "https://mastodon.social/tags/autocracy"
+                },
+                {
+                    "name": "democracy",
+                    "url": "https://mastodon.social/tags/democracy"
+                },
+                {
+                    "name": "voteblue",
+                    "url": "https://mastodon.social/tags/voteblue"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112877147012712062",
+            "created_at": "2024-07-30T19:42:54.000Z",
+            "in_reply_to_id": "112877130947723553",
+            "in_reply_to_account_id": "109303988606874604",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://masto.ai/users/Nonilex/statuses/112877146912839429",
+            "url": "https://masto.ai/@Nonilex/112877146912839429",
+            "replies_count": 2,
+            "reblogs_count": 7,
+            "favourites_count": 3,
+            "edited_at": null,
+            "content": "<p><a href=\"https://masto.ai/tags/Trump\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Trump</span></a> has repeatedly [tried to] distance himself from <a href=\"https://masto.ai/tags/Project2025\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Project2025</span></a> [only after]\u2026attacks from <a href=\"https://masto.ai/tags/Democrats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Democrats</span></a> using\u2026the 900-pg playbook\u2019s\u2026aggressive proposals to impute Trump\u2019s agenda [began]\u2026many of the proposals were written by alumni of the <a href=\"https://masto.ai/tags/TrumpAdministration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TrumpAdministration</span></a>. While some participants in the project started avoiding interviews &amp; public appearances, Trump advisers grew furious that Heritage leaders continued promoting the project &amp; feeding\u2026news coverage.\u2029<br><a href=\"https://masto.ai/tags/autocracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>autocracy</span></a> <a href=\"https://masto.ai/tags/democracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>democracy</span></a> <a href=\"https://masto.ai/tags/VoteBlue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VoteBlue</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109303988606874604",
+                "username": "Nonilex",
+                "acct": "Nonilex@masto.ai",
+                "display_name": "Nonilex",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-07T00:00:00.000Z",
+                "note": "<p>Newly added profile pic \u2014 Daddy &amp; me\u2028He taught me everything worth knowing that I didn\u2019t learn on my own. When able, when there, he stopped the abuse\u2029I miss him every single day.\u2028\u2028Fully migrated to mastodon now that the bird self destructed.\u2028Though if you want to view my old posts, same username.\u2029Recovering lawyer, so mostly <a href=\"https://masto.ai/tags/law\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>law</span></a>, though <a href=\"https://masto.ai/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a>, <a href=\"https://masto.ai/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a>, <a href=\"https://masto.ai/tags/geopolitics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geopolitics</span></a>, <a href=\"https://masto.ai/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politics</span></a>, <a href=\"https://masto.ai/tags/democracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>democracy</span></a>, stuff I think is cool &amp; of course \u2026\u2029<a href=\"https://masto.ai/tags/BabySquirrel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BabySquirrel</span></a></p>",
+                "url": "https://masto.ai/@Nonilex",
+                "uri": "https://masto.ai/users/Nonilex",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/303/988/606/874/604/original/7bcbb25f897b410b.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/303/988/606/874/604/original/7bcbb25f897b410b.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/303/988/606/874/604/original/03f9fadacc223e74.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/303/988/606/874/604/original/03f9fadacc223e74.png",
+                "followers_count": 5089,
+                "following_count": 1963,
+                "statuses_count": 14479,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Instagram",
+                        "value": "<a href=\"https://www.instagram.com/nonilex/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/nonilex/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Birdsite (defunct since TFG\u2019s reinstatement)",
+                        "value": "<a href=\"https://twitter.com/nonilex\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/nonilex</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "trump",
+                    "url": "https://mastodon.social/tags/trump"
+                },
+                {
+                    "name": "project2025",
+                    "url": "https://mastodon.social/tags/project2025"
+                },
+                {
+                    "name": "democrats",
+                    "url": "https://mastodon.social/tags/democrats"
+                },
+                {
+                    "name": "trumpadministration",
+                    "url": "https://mastodon.social/tags/trumpadministration"
+                },
+                {
+                    "name": "autocracy",
+                    "url": "https://mastodon.social/tags/autocracy"
+                },
+                {
+                    "name": "democracy",
+                    "url": "https://mastodon.social/tags/democracy"
+                },
+                {
+                    "name": "voteblue",
+                    "url": "https://mastodon.social/tags/voteblue"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112877159665281092",
+            "created_at": "2024-07-30T19:46:06.000Z",
+            "in_reply_to_id": "112877147012712062",
+            "in_reply_to_account_id": "109303988606874604",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://masto.ai/users/Nonilex/statuses/112877159505638918",
+            "url": "https://masto.ai/@Nonilex/112877159505638918",
+            "replies_count": 3,
+            "reblogs_count": 31,
+            "favourites_count": 7,
+            "edited_at": "2024-07-30T19:46:34.000Z",
+            "content": "<p>Here is a report from earlier this month:</p><p>\u201c<a href=\"https://masto.ai/tags/Trump\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Trump</span></a> claims not to know who is behind <a href=\"https://masto.ai/tags/Project2025\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Project2025</span></a>. A CNN review found at least 140 people who worked for him are involved\u201d</p><p><a href=\"https://www.cnn.com/2024/07/11/politics/trump-allies-project-2025/index.html\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cnn.com/2024/07/11/politics/tr</span><span class=\"invisible\">ump-allies-project-2025/index.html</span></a> </p><p><a href=\"https://masto.ai/tags/TrumpLies\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TrumpLies</span></a> <a href=\"https://masto.ai/tags/optics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>optics</span></a> <a href=\"https://masto.ai/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politics</span></a> <a href=\"https://masto.ai/tags/authoritarianism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>authoritarianism</span></a> <a href=\"https://masto.ai/tags/autocracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>autocracy</span></a> <a href=\"https://masto.ai/tags/democracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>democracy</span></a> <a href=\"https://masto.ai/tags/VoteBlue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VoteBlue</span></a> <a href=\"https://masto.ai/tags/Harris2024\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Harris2024</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109303988606874604",
+                "username": "Nonilex",
+                "acct": "Nonilex@masto.ai",
+                "display_name": "Nonilex",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-07T00:00:00.000Z",
+                "note": "<p>Newly added profile pic \u2014 Daddy &amp; me\u2028He taught me everything worth knowing that I didn\u2019t learn on my own. When able, when there, he stopped the abuse\u2029I miss him every single day.\u2028\u2028Fully migrated to mastodon now that the bird self destructed.\u2028Though if you want to view my old posts, same username.\u2029Recovering lawyer, so mostly <a href=\"https://masto.ai/tags/law\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>law</span></a>, though <a href=\"https://masto.ai/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a>, <a href=\"https://masto.ai/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a>, <a href=\"https://masto.ai/tags/geopolitics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geopolitics</span></a>, <a href=\"https://masto.ai/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politics</span></a>, <a href=\"https://masto.ai/tags/democracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>democracy</span></a>, stuff I think is cool &amp; of course \u2026\u2029<a href=\"https://masto.ai/tags/BabySquirrel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BabySquirrel</span></a></p>",
+                "url": "https://masto.ai/@Nonilex",
+                "uri": "https://masto.ai/users/Nonilex",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/303/988/606/874/604/original/7bcbb25f897b410b.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/303/988/606/874/604/original/7bcbb25f897b410b.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/303/988/606/874/604/original/03f9fadacc223e74.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/303/988/606/874/604/original/03f9fadacc223e74.png",
+                "followers_count": 5089,
+                "following_count": 1963,
+                "statuses_count": 14479,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Instagram",
+                        "value": "<a href=\"https://www.instagram.com/nonilex/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/nonilex/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Birdsite (defunct since TFG\u2019s reinstatement)",
+                        "value": "<a href=\"https://twitter.com/nonilex\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/nonilex</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "trump",
+                    "url": "https://mastodon.social/tags/trump"
+                },
+                {
+                    "name": "project2025",
+                    "url": "https://mastodon.social/tags/project2025"
+                },
+                {
+                    "name": "trumplies",
+                    "url": "https://mastodon.social/tags/trumplies"
+                },
+                {
+                    "name": "optics",
+                    "url": "https://mastodon.social/tags/optics"
+                },
+                {
+                    "name": "politics",
+                    "url": "https://mastodon.social/tags/politics"
+                },
+                {
+                    "name": "authoritarianism",
+                    "url": "https://mastodon.social/tags/authoritarianism"
+                },
+                {
+                    "name": "autocracy",
+                    "url": "https://mastodon.social/tags/autocracy"
+                },
+                {
+                    "name": "democracy",
+                    "url": "https://mastodon.social/tags/democracy"
+                },
+                {
+                    "name": "voteblue",
+                    "url": "https://mastodon.social/tags/voteblue"
+                },
+                {
+                    "name": "harris2024",
+                    "url": "https://mastodon.social/tags/harris2024"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.cnn.com/2024/07/11/politics/trump-allies-project-2025/index.html",
+                "title": "Trump claims not to know who is behind Project 2025. A CNN review found at least 140 people who worked for him are involved",
+                "description": "Donald Trump has lately made clear he wants little to do with Project 2025, the conservative blueprint for the next Republican president that has attracted considerable blowback in his race for the White House.",
+                "language": "en",
+                "type": "link",
+                "author_name": "Steve Contorno",
+                "author_url": "https://www.cnn.com/profiles/steve-contorno",
+                "provider_name": "CNN",
+                "provider_url": "",
+                "html": "",
+                "width": 640,
+                "height": 360,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/104/002/208/original/86c548d34291c3c1.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "U8CsOA.As%E0uh-=pMM{j}R=RODi?JR:XTIA",
+                "published_at": "2024-07-11T08:00:42.291Z",
+                "authors": [
+                    {
+                        "name": "Steve Contorno",
+                        "url": "https://www.cnn.com/profiles/steve-contorno",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ],
+    "descendants": [
+        {
+            "id": "112878129449811601",
+            "created_at": "2024-07-30T23:52:45.000Z",
+            "in_reply_to_id": "112878120829665066",
+            "in_reply_to_account_id": "109303988606874604",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://hachyderm.io/users/mogul/statuses/112878129378311380",
+            "url": "https://hachyderm.io/@mogul/112878129378311380",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@Nonilex\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Nonilex</span></a></span> They've always planned to have a policy arm and a personnel arm. The policy arm wasn't dismantled, it just finished up.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112113438086154108",
+                "username": "mogul",
+                "acct": "mogul@hachyderm.io",
+                "display_name": "Bret Mogilefsky",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-03-16T00:00:00.000Z",
+                "note": "<p><a href=\"https://hachyderm.io/tags/civictech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>civictech</span></a> <a href=\"https://hachyderm.io/tags/agile\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>agile</span></a> <a href=\"https://hachyderm.io/tags/product\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>product</span></a> and <a href=\"https://hachyderm.io/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tech</span></a> wrangler</p><p>Currently in the <a href=\"https://hachyderm.io/tags/WhiteHouse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WhiteHouse</span></a> <a href=\"https://hachyderm.io/tags/CEQ\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CEQ</span></a> speeding up <a href=\"https://hachyderm.io/tags/Permitting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Permitting</span></a></p><p>Previously in the <a href=\"https://hachyderm.io/tags/US\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>US</span></a> <a href=\"https://hachyderm.io/tags/GSA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GSA</span></a> <a href=\"https://hachyderm.io/tags/TechnologyTransformationServices\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TechnologyTransformationServices</span></a>, overseeing <a href=\"https://hachyderm.io/tags/platforms\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>platforms</span></a> and <a href=\"https://hachyderm.io/tags/compliance\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compliance</span></a> for grants and regulations...</p><p>...right after founding <a href=\"https://hachyderm.io/tags/clouddotgov\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>clouddotgov</span></a> at <a href=\"https://hachyderm.io/tags/18F\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>18F</span></a> and working on <a href=\"https://hachyderm.io/tags/datadotgov\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datadotgov</span></a>...</p><p>...right after surviving 16 years of the <a href=\"https://hachyderm.io/tags/ConsoleWars\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ConsoleWars</span></a> at <a href=\"https://hachyderm.io/tags/PlayStation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PlayStation</span></a></p><p>...right after 5 years of <a href=\"https://hachyderm.io/tags/GameDev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GameDev</span></a> as the lead programmer +co-designer of  <a href=\"https://hachyderm.io/tags/GrimFandango\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GrimFandango</span></a> at <a href=\"https://hachyderm.io/tags/LucasArts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LucasArts</span></a></p>",
+                "url": "https://hachyderm.io/@mogul",
+                "uri": "https://hachyderm.io/users/mogul",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/113/438/086/154/108/original/34e9d66603c3ca1c.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/113/438/086/154/108/original/34e9d66603c3ca1c.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/113/438/086/154/108/original/884028ff20258083.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/113/438/086/154/108/original/884028ff20258083.jpg",
+                "followers_count": 599,
+                "following_count": 359,
+                "statuses_count": 1602,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/mogul\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mogul</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-24T21:00:15.762+00:00"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "value": "<a href=\"https://www.linkedin.com/in/bretmogilefsky\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">linkedin.com/in/bretmogilefsky</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Twitter",
+                        "value": "<a href=\"https://twitter.com/bmogilefsky\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/bmogilefsky</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109303988606874604",
+                    "username": "Nonilex",
+                    "url": "https://masto.ai/@Nonilex",
+                    "acct": "Nonilex@masto.ai"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112878495706057831",
+            "created_at": "2024-07-31T01:25:55.000Z",
+            "in_reply_to_id": "112878120829665066",
+            "in_reply_to_account_id": "109303988606874604",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/havvyhh2/statuses/112878495690894981",
+            "url": "https://mas.to/@havvyhh2/112878495690894981",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@Nonilex\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Nonilex</span></a></span> ....tho' increasingly unlikely a weird-trump transition team will be necessary....except for arrangements to his ultimate incarceration.....or to the airport for his midnight escape after a thorough November drubbing at the polls, off to Moscow? Pyongyang? \ud83d\ude42</p>",
+            "reblog": null,
+            "account": {
+                "id": "109289345464259511",
+                "username": "havvyhh2",
+                "acct": "havvyhh2@mas.to",
+                "display_name": "Havyhh2",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-05T00:00:00.000Z",
+                "note": "<p>US expat living in SE Asia, retired CPA....world news / politics / finance / economics....but food, cooking, wine, books &amp; adventures mostly! Live &amp; let live! <a href=\"https://mas.to/tags/classical\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>classical</span></a> music <a href=\"https://mas.to/tags/jazz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>jazz</span></a> <a href=\"https://mas.to/tags/history\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>history</span></a> <a href=\"https://mas.to/tags/Thailand\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Thailand</span></a> <a href=\"https://mas.to/tags/Singapore\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Singapore</span></a></p>",
+                "url": "https://mas.to/@havvyhh2",
+                "uri": "https://mas.to/users/havvyhh2",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/289/345/464/259/511/original/135058818d56ef8e.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/289/345/464/259/511/original/135058818d56ef8e.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/289/345/464/259/511/original/7c3554bd9528245c.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/289/345/464/259/511/original/7c3554bd9528245c.jpeg",
+                "followers_count": 375,
+                "following_count": 596,
+                "statuses_count": 25889,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109303988606874604",
+                    "username": "Nonilex",
+                    "url": "https://masto.ai/@Nonilex",
+                    "acct": "Nonilex@masto.ai"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

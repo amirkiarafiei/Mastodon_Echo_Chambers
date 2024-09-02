@@ -1,0 +1,431 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112994606184542475",
+            "created_at": "2024-08-20T13:34:20.976Z",
+            "in_reply_to_id": "112994594886721942",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/appassionato/statuses/112994606184542475",
+            "url": "https://mastodon.social/@appassionato/112994606184542475",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> </p><p>Even billionaires are not immune.</p><p><a href=\"https://www.theguardian.com/world/article/2024/aug/19/we-didnt-see-it-coming-the-tumultuous-sicilian-night-that-took-down-the-bayesian\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theguardian.com/world/article/</span><span class=\"invisible\">2024/aug/19/we-didnt-see-it-coming-the-tumultuous-sicilian-night-that-took-down-the-bayesian</span></a> </p><p><a href=\"https://mastodon.social/tags/Bayesian\" class=\"mention hashtag\" rel=\"tag\">#<span>Bayesian</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110088287007315114",
+                "username": "appassionato",
+                "acct": "appassionato",
+                "display_name": "earthling",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-03-26T00:00:00.000Z",
+                "note": "<p>\u2018Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind,\u2019 - Bertrand Russell</p>",
+                "url": "https://mastodon.social/@appassionato",
+                "uri": "https://mastodon.social/users/appassionato",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/088/287/007/315/114/original/c01d5c48adb3014a.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/088/287/007/315/114/original/c01d5c48adb3014a.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/110/088/287/007/315/114/original/d112f391f5304fdd.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/088/287/007/315/114/original/d112f391f5304fdd.jpg",
+                "followers_count": 898,
+                "following_count": 51,
+                "statuses_count": 12824,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": true,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Palestine - Israel Collection",
+                        "value": "<a href=\"https://drive.google.com/drive/folders/18u9KYo3MvRpyI0SDqD2AzseTvuSn3S8T\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">drive.google.com/drive/folders</span><span class=\"invisible\">/18u9KYo3MvRpyI0SDqD2AzseTvuSn3S8T</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Internet Archive",
+                        "value": "<a href=\"https://archive.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">archive.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Advice",
+                        "value": "<a href=\"https://www.youtube.com/watch?v=HsKWoCJ3eq4\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=HsKWoCJ3eq</span><span class=\"invisible\">4</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Humans",
+                        "value": "<a href=\"https://www.youtube.com/watch?v=vdb4XGVTHkE\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=vdb4XGVTHk</span><span class=\"invisible\">E</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "bayesian",
+                    "url": "https://mastodon.social/tags/bayesian"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.theguardian.com/world/article/2024/aug/19/we-didnt-see-it-coming-the-tumultuous-sicilian-night-that-took-down-the-bayesian",
+                "title": "\u2018We didn\u2019t see it coming\u2019: the tumultuous Sicilian night that took down the Bayesian",
+                "description": "Witnesses tell of \u2018absurd tragedy\u2019 and a mother describes how she fought to save her child from drowning",
+                "language": "en",
+                "type": "link",
+                "author_name": "Angela Giuffrida",
+                "author_url": "",
+                "provider_name": "The Guardian",
+                "provider_url": "",
+                "html": "",
+                "width": 0,
+                "height": 0,
+                "image": null,
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": null,
+                "published_at": "2024-08-19T19:02:52.000Z",
+                "authors": [
+                    {
+                        "name": "Angela Giuffrida",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112994639431476125",
+            "created_at": "2024-08-20T13:42:48.280Z",
+            "in_reply_to_id": "112994594886721942",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/appassionato/statuses/112994639431476125",
+            "url": "https://mastodon.social/@appassionato/112994639431476125",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> </p><p>&quot;By late this century...&quot;</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110088287007315114",
+                "username": "appassionato",
+                "acct": "appassionato",
+                "display_name": "earthling",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-03-26T00:00:00.000Z",
+                "note": "<p>\u2018Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind,\u2019 - Bertrand Russell</p>",
+                "url": "https://mastodon.social/@appassionato",
+                "uri": "https://mastodon.social/users/appassionato",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/088/287/007/315/114/original/c01d5c48adb3014a.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/088/287/007/315/114/original/c01d5c48adb3014a.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/110/088/287/007/315/114/original/d112f391f5304fdd.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/088/287/007/315/114/original/d112f391f5304fdd.jpg",
+                "followers_count": 898,
+                "following_count": 51,
+                "statuses_count": 12824,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": true,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Palestine - Israel Collection",
+                        "value": "<a href=\"https://drive.google.com/drive/folders/18u9KYo3MvRpyI0SDqD2AzseTvuSn3S8T\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">drive.google.com/drive/folders</span><span class=\"invisible\">/18u9KYo3MvRpyI0SDqD2AzseTvuSn3S8T</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Internet Archive",
+                        "value": "<a href=\"https://archive.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">archive.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Advice",
+                        "value": "<a href=\"https://www.youtube.com/watch?v=HsKWoCJ3eq4\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=HsKWoCJ3eq</span><span class=\"invisible\">4</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Humans",
+                        "value": "<a href=\"https://www.youtube.com/watch?v=vdb4XGVTHkE\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=vdb4XGVTHk</span><span class=\"invisible\">E</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112994959015788088",
+            "created_at": "2024-08-20T15:04:04.000Z",
+            "in_reply_to_id": "112994594886721942",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/btschumy/statuses/112994958996427747",
+            "url": "https://mas.to/@btschumy/112994958996427747",
+            "replies_count": 0,
+            "reblogs_count": 3,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> \u201cI certainly hope he's right about that, although I'm doubtful. Let me know what you think.\u201d</p><p>I think not getting to \u201cnet-zero\u201d until late 2070 is going to be a disaster \u2014 and that date is optimistic.  We may be able to reduce our emissions somewhat quickly but only at a large environmental cost due to the increased mining needed to get the materials.</p><p>There is no easy solution.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109367709213664848",
+                "username": "btschumy",
+                "acct": "btschumy@mas.to",
+                "display_name": "Bill Tschumy",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-16T00:00:00.000Z",
+                "note": "<p>Amateur astronomer; Astronomy educator; Zoologist; Weather buff; Mobile software developer; ME/CFS<br> \u2022 Co-author of \"SkySafari\" planetarium app.<br> \u2022 Latest app: \"Our Galaxy\".  Shows the 3D locations of objects in and around our galaxy.</p>",
+                "url": "https://mas.to/@btschumy",
+                "uri": "https://mas.to/users/btschumy",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/367/709/213/664/848/original/af32e51346a4dea7.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/367/709/213/664/848/original/af32e51346a4dea7.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/367/709/213/664/848/original/00a8bd475d11bce8.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/367/709/213/664/848/original/00a8bd475d11bce8.jpg",
+                "followers_count": 115,
+                "following_count": 280,
+                "statuses_count": 883,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://www.otherwise.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">otherwise.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Verification",
+                        "value": "<a href=\"https://otherwise.com/about-us/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">otherwise.com/about-us/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-25T18:24:20.100+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112995828928887010",
+            "created_at": "2024-08-20T18:45:17.000Z",
+            "in_reply_to_id": "112994594886721942",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://sfba.social/users/geographile/statuses/112995828858125396",
+            "url": "https://sfba.social/@geographile/112995828858125396",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> thank you, I've been following him as a science communicator for many years, I love that he's communicating on climate rather than just weather these days.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109678906627389512",
+                "username": "geographile",
+                "acct": "geographile@sfba.social",
+                "display_name": "geographile",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-01-12T00:00:00.000Z",
+                "note": "<p>this account is for more personal stuff, I use mastodon.social for more science stuff, but there is a lot of sloppy overlap.</p><p>&gt;&gt;I use speech to text and don't always fix mistakes.&lt;&lt;</p><p><a href=\"https://sfba.social/tags/geography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geography</span></a> <a href=\"https://sfba.social/tags/earthScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>earthScience</span></a> <a href=\"https://sfba.social/tags/scienceComm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scienceComm</span></a> <a href=\"https://sfba.social/tags/homeschool\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>homeschool</span></a> <a href=\"https://sfba.social/tags/rheumatoidDisease\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rheumatoidDisease</span></a> <a href=\"https://sfba.social/tags/disability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>disability</span></a> <a href=\"https://sfba.social/tags/naturalPantheism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>naturalPantheism</span></a></p>",
+                "url": "https://sfba.social/@geographile",
+                "uri": "https://sfba.social/users/geographile",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/678/906/627/389/512/original/572081b4e6c62830.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/678/906/627/389/512/original/572081b4e6c62830.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/678/906/627/389/512/original/c1ec610454f3fe93.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/678/906/627/389/512/original/c1ec610454f3fe93.png",
+                "followers_count": 285,
+                "following_count": 383,
+                "statuses_count": 13552,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113000792438658267",
+            "created_at": "2024-08-21T15:47:34.000Z",
+            "in_reply_to_id": "112994594886721942",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/maugendre/statuses/113000792376911224",
+            "url": "https://mas.to/@maugendre/113000792376911224",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> <br>Since you kindly ask, i think that the author, being a scientist, has his life dedicated in believing that solutions come. I respect faith but do not follow.</p><p>In actuality, other talented people are busy forcing the Greenhouse Effect, year in, year out. Right now: <a href=\"http://data.yt/projections/2024-results.html\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">data.yt/projections/2024-resul</span><span class=\"invisible\">ts.html</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109350168646793225",
+                "username": "maugendre",
+                "acct": "maugendre@mas.to",
+                "display_name": "Eric Maugendre",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-03T00:00:00.000Z",
+                "note": "<p>On this account i write about <a href=\"https://mas.to/tags/money\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>money</span></a> <a href=\"https://mas.to/tags/footprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>footprint</span></a> <a href=\"https://mas.to/tags/GHG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GHG</span></a> <a href=\"https://mas.to/tags/CO2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CO2</span></a> <a href=\"https://mas.to/tags/extractivism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>extractivism</span></a> \u23da<br>Banner is a photograph of a pine forest after a wildfire.<br>Avatar shows a white man in a heatwave.</p>",
+                "url": "https://mas.to/@maugendre",
+                "uri": "https://mas.to/users/maugendre",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/350/168/646/793/225/original/756b9ceb3fc1f295.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/350/168/646/793/225/original/756b9ceb3fc1f295.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/350/168/646/793/225/original/7b130a4ee4ff9bad.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/350/168/646/793/225/original/7b130a4ee4ff9bad.jpg",
+                "followers_count": 149,
+                "following_count": 62,
+                "statuses_count": 548,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "GHG emissions in 2024",
+                        "value": "<a href=\"http://data.yt/projections/2024-results.html\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">data.yt/projections/2024-resul</span><span class=\"invisible\">ts.html</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "ethics",
+                        "value": "<a href=\"https://social.coop/@eric\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">social.coop/@eric</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-24T21:07:06.847+00:00"
+                    },
+                    {
+                        "name": "data",
+                        "value": "<a href=\"https://hachyderm.io/@maugendre\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">hachyderm.io/@maugendre</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-24T21:07:07.022+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "113000792396903429",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/113/000/792/396/903/429/original/245fda209de7fb6d.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/113/000/792/396/903/429/small/245fda209de7fb6d.png",
+                    "remote_url": "https://media.mas.to/media_attachments/files/113/000/717/622/351/730/original/500ae213c8704ffc.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "focus": {
+                            "x": -0.62,
+                            "y": 1.0
+                        },
+                        "original": {
+                            "width": 1313,
+                            "height": 1316,
+                            "size": "1313x1316",
+                            "aspect": 0.9977203647416414
+                        },
+                        "small": {
+                            "width": 479,
+                            "height": 480,
+                            "size": "479x480",
+                            "aspect": 0.9979166666666667
+                        }
+                    },
+                    "description": "A graph that shows the CO2 delivery of three economic sectors:\n* Arab-state entities keep sending more each year.\n* Investors-owned corporations send as much GHG this year as the previous.",
+                    "blurhash": "U4Sr};Vg.g?u-qxaS1oz?ZWA%Nxu_MD%%Mxu"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

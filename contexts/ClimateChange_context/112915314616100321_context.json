@@ -1,0 +1,299 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112915338687350626",
+            "created_at": "2024-08-06T13:35:33.000Z",
+            "in_reply_to_id": "112915314616100321",
+            "in_reply_to_account_id": "1078390",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/ingalls/statuses/112915338578436493",
+            "url": "https://mstdn.ca/@ingalls/112915338578436493",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@christianschwaegerl\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>christianschwaegerl</span></a></span> I've noticed my 14 Pro gets hot way more often than any other iPhone I've owned (since the 6).</p>",
+            "reblog": null,
+            "account": {
+                "id": "112555196235007571",
+                "username": "ingalls",
+                "acct": "ingalls@mstdn.ca",
+                "display_name": "Mark Ingalls",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-06-03T00:00:00.000Z",
+                "note": "<p>Surrey, B.C. based meteorologist working in the energy industry. Tooting about weather in and around my region as well as some geology, my thoughts on urban and family life, and occasional references to my LDS faith.</p>",
+                "url": "https://mstdn.ca/@ingalls",
+                "uri": "https://mstdn.ca/users/ingalls",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/555/196/235/007/571/original/2989e9506fd70078.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/555/196/235/007/571/original/2989e9506fd70078.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/555/196/235/007/571/original/1e5f8d2482a84565.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/555/196/235/007/571/original/1e5f8d2482a84565.jpeg",
+                "followers_count": 2279,
+                "following_count": 975,
+                "statuses_count": 1481,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Location",
+                        "value": "CN89ob",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://ingallswx.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">ingallswx.com/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T22:46:43.313+00:00"
+                    },
+                    {
+                        "name": "Born",
+                        "value": "356.4 ppm",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Backup",
+                        "value": "<a href=\"https://m.ai6yr.org/@ingalls\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">m.ai6yr.org/@ingalls</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T22:46:43.640+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "1078390",
+                    "username": "christianschwaegerl",
+                    "url": "https://mastodon.social/@christianschwaegerl",
+                    "acct": "christianschwaegerl"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112915382554997817",
+            "created_at": "2024-08-06T13:46:44.322Z",
+            "in_reply_to_id": "112915314616100321",
+            "in_reply_to_account_id": "1078390",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/markv/statuses/112915382554997817",
+            "url": "https://mastodon.social/@markv/112915382554997817",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@christianschwaegerl\" class=\"u-url mention\">@<span>christianschwaegerl</span></a></span> Did you have it directly in the sun though? I&#39;ve noticed mine gets really hot and really upset when I do that \ud83d\ude05</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110102404729630988",
+                "username": "markv",
+                "acct": "markv",
+                "display_name": "MarkV",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-03-28T00:00:00.000Z",
+                "note": "<p>Parent. Nerd. Human.</p>",
+                "url": "https://mastodon.social/@markv",
+                "uri": "https://mastodon.social/users/markv",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/102/404/729/630/988/original/098dd13170e17ed1.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/102/404/729/630/988/original/098dd13170e17ed1.jpeg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 76,
+                "following_count": 641,
+                "statuses_count": 1138,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "1078390",
+                    "username": "christianschwaegerl",
+                    "url": "https://mastodon.social/@christianschwaegerl",
+                    "acct": "christianschwaegerl"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112915657791866576",
+            "created_at": "2024-08-06T14:56:44.106Z",
+            "in_reply_to_id": "112915382554997817",
+            "in_reply_to_account_id": "110102404729630988",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/christianschwaegerl/statuses/112915657791866576",
+            "url": "https://mastodon.social/@christianschwaegerl/112915657791866576",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@markv\" class=\"u-url mention\">@<span>markv</span></a></span> I was out cycling and put it on a table for a couple of minutes. In a 50C heatwave we will be offline when outdoors it seems.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Toot!",
+                "website": "https://toot.c3.cx/"
+            },
+            "account": {
+                "id": "1078390",
+                "username": "christianschwaegerl",
+                "acct": "christianschwaegerl",
+                "display_name": "Christian Schw\u00e4gerl",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2020-01-08T00:00:00.000Z",
+                "note": "<p>science biosphere political journalist for FAZ, Spektrum der Wissenschaft, Yale E360 &amp;&amp; | director <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@riffnonprofit\" class=\"u-url mention\">@<span>riffnonprofit</span></a></span> and co-founder <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@riffreporter\" class=\"u-url mention\">@<span>riffreporter</span></a></span> journalism <a href=\"https://mastodon.social/tags/coop\" class=\"mention hashtag\" rel=\"tag\">#<span>coop</span></a> | books on anthropocene, novel wars, digital futures. Birds, plants, mountains, bogs.<br />Photo: cs</p>",
+                "url": "https://mastodon.social/@christianschwaegerl",
+                "uri": "https://mastodon.social/users/christianschwaegerl",
+                "avatar": "https://files.mastodon.social/accounts/avatars/001/078/390/original/862ebdd5f747c9bf.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/001/078/390/original/862ebdd5f747c9bf.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/001/078/390/original/7024b11f67f3a373.jpeg",
+                "header_static": "https://files.mastodon.social/accounts/headers/001/078/390/original/7024b11f67f3a373.jpeg",
+                "followers_count": 2868,
+                "following_count": 1815,
+                "statuses_count": 4378,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "About me, in German",
+                        "value": "<a href=\"https://www.christian-schwaegerl.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">christian-schwaegerl.de/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Verified Journalist",
+                        "value": "<a href=\"https://www.verifiedjournalist.org/people/@christianschwaegerl@mastodon.social\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">verifiedjournalist.org/people/</span><span class=\"invisible\">@christianschwaegerl@mastodon.social</span></a>",
+                        "verified_at": "2023-04-06T08:20:36.685+00:00"
+                    },
+                    {
+                        "name": "About me, in English",
+                        "value": "<a href=\"https://www.christian-schwaegerl.de/home-english\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">christian-schwaegerl.de/home-e</span><span class=\"invisible\">nglish</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Boost my work",
+                        "value": "<a href=\"https://www.christian-schwaegerl.de/recherchen-foerdern\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">christian-schwaegerl.de/recher</span><span class=\"invisible\">chen-foerdern</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110102404729630988",
+                    "username": "markv",
+                    "url": "https://mastodon.social/@markv",
+                    "acct": "markv"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112915406999819263",
+            "created_at": "2024-08-06T13:52:57.319Z",
+            "in_reply_to_id": "112915314616100321",
+            "in_reply_to_account_id": "1078390",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/_RyekDarkener_/statuses/112915406999819263",
+            "url": "https://mastodon.social/@_RyekDarkener_/112915406999819263",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@christianschwaegerl\" class=\"u-url mention\">@<span>christianschwaegerl</span></a></span> </p><p>The safest way to use battery driven hand-held devices is in an air-conditioned environment.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "108097090331071906",
+                "username": "_RyekDarkener_",
+                "acct": "_RyekDarkener_",
+                "display_name": "Ryek Darkener",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-04-08T00:00:00.000Z",
+                "note": "<p>Back again. ;)</p><p>Schreibt <a href=\"https://mastodon.social/tags/ScienceFiction\" class=\"mention hashtag\" rel=\"tag\">#<span>ScienceFiction</span></a>, <a href=\"https://mastodon.social/tags/UrbanFantasy\" class=\"mention hashtag\" rel=\"tag\">#<span>UrbanFantasy</span></a>, <br />Mostly harmless.<br />Hat Ahnung von IT und BWL.<br /><a href=\"https://mastodon.social/tags/ClimateBusinessCase\" class=\"mention hashtag\" rel=\"tag\">#<span>ClimateBusinessCase</span></a> now!<br />Don\u2019t feed the Plants!</p><p>Deutsch/English</p><p>Impressum: Angaben gem\u00e4\u00df \u00a7 5 TMG und \u00a7 55 Abs. 2 RStV:</p><p>Ryek Darkener<br />c/o Block Services<br />Stuttgarter Str. 106<br />70736 Fellbach </p><p>Mobile: +49 1575 1660252</p><p>E-Mail: ryek.darkener(at)posteo.de</p><p>Bitte E-Mail nutzen, wenn m\u00f6glich.</p>",
+                "url": "https://mastodon.social/@_RyekDarkener_",
+                "uri": "https://mastodon.social/users/_RyekDarkener_",
+                "avatar": "https://files.mastodon.social/accounts/avatars/108/097/090/331/071/906/original/8e1b77a62b775d0d.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/108/097/090/331/071/906/original/8e1b77a62b775d0d.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/108/097/090/331/071/906/original/bcf22adcb63138e8.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/108/097/090/331/071/906/original/bcf22adcb63138e8.jpg",
+                "followers_count": 263,
+                "following_count": 578,
+                "statuses_count": 12235,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Meine Romane",
+                        "value": "<a href=\"https://www.bod.de/buchshop/catalogsearch/result/?q=ryek+darkener\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bod.de/buchshop/catalogsearch/</span><span class=\"invisible\">result/?q=ryek+darkener</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "1078390",
+                    "username": "christianschwaegerl",
+                    "url": "https://mastodon.social/@christianschwaegerl",
+                    "acct": "christianschwaegerl"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

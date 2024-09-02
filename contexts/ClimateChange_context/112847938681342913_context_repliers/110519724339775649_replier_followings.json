@@ -1,0 +1,90 @@
+[
+    {
+        "id": "13656",
+        "username": "hetisniels",
+        "acct": "hetisniels",
+        "display_name": "Niels van Velzen",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2016-11-23T00:00:00.000Z",
+        "note": "<p>Software engineer, geek. Working on OSS projects like <a href=\"https://mastodon.social/tags/jellyfin\" class=\"mention hashtag\" rel=\"tag\">#<span>jellyfin</span></a> in my spare time.</p>",
+        "url": "https://mastodon.social/@hetisniels",
+        "uri": "https://mastodon.social/users/hetisniels",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/013/656/original/5e8a03d09921ec62.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/013/656/original/5e8a03d09921ec62.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/013/656/original/860d7bb0f185b23f.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/013/656/original/860d7bb0f185b23f.png",
+        "followers_count": 528,
+        "following_count": 55,
+        "statuses_count": 133,
+        "last_status_at": "2024-08-25",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/nielsvanvelzen\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nielsvanvelzen</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-06-19T10:10:52.949+00:00"
+            },
+            {
+                "name": "Website",
+                "value": "<a href=\"https://nielsvanvelzen.me\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">nielsvanvelzen.me</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "837271",
+        "username": "joplinapp",
+        "acct": "joplinapp",
+        "display_name": "Joplin",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2019-06-19T00:00:00.000Z",
+        "note": "<p>The open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS</p>",
+        "url": "https://mastodon.social/@joplinapp",
+        "uri": "https://mastodon.social/users/joplinapp",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/837/271/original/3e82902dda4b0867.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/837/271/original/3e82902dda4b0867.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/837/271/original/8cdc93ab9b0ab82e.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/837/271/original/8cdc93ab9b0ab82e.png",
+        "followers_count": 4737,
+        "following_count": 0,
+        "statuses_count": 213,
+        "last_status_at": "2024-08-13",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://joplinapp.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">joplinapp.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2019-06-28T16:49:14.164+00:00"
+            },
+            {
+                "name": "Forum",
+                "value": "<a href=\"https://discourse.joplinapp.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">discourse.joplinapp.org/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/laurent22/joplin\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/laurent22/joplin</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Discord",
+                "value": "<a href=\"https://discord.gg/VSj7AFHvpq\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">discord.gg/VSj7AFHvpq</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

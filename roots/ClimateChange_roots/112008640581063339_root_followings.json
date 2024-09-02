@@ -1,0 +1,70 @@
+[
+    {
+        "id": "109246545835121960",
+        "username": "bjenquist",
+        "acct": "bjenquist",
+        "display_name": "Brian J. Enquist",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p>Professor Ecology and Evolutionary Biology, University of Arizona. External Professor The Santa Fe Institute @UofAEEB: <a href=\"https://mastodon.social/tags/Biodiversity\" class=\"mention hashtag\" rel=\"tag\">#<span>Biodiversity</span></a> | <a href=\"https://mastodon.social/tags/Ecology\" class=\"mention hashtag\" rel=\"tag\">#<span>Ecology</span></a> | <a href=\"https://mastodon.social/tags/ClimateChange\" class=\"mention hashtag\" rel=\"tag\">#<span>ClimateChange</span></a> | <a href=\"https://mastodon.social/tags/Scaling\" class=\"mention hashtag\" rel=\"tag\">#<span>Scaling</span></a> | <a href=\"https://mastodon.social/tags/PhysiologicalEcology\" class=\"mention hashtag\" rel=\"tag\">#<span>PhysiologicalEcology</span></a> | <a href=\"https://mastodon.social/tags/Theory\" class=\"mention hashtag\" rel=\"tag\">#<span>Theory</span></a> | <a href=\"https://mastodon.social/tags/Macroecology\" class=\"mention hashtag\" rel=\"tag\">#<span>Macroecology</span></a> | <a href=\"https://mastodon.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenScience</span></a>.  Proud father &amp; Sonoran telemarker (he/him) @uarizonaBBCS @sfiscience <a href=\"https://brianjenquist.wordpress.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">brianjenquist.wordpress.com/</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@bjenquist",
+        "uri": "https://mastodon.social/users/bjenquist",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/246/545/835/121/960/original/4b81a6cc39760061.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/246/545/835/121/960/original/4b81a6cc39760061.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/246/545/835/121/960/original/4e3fed609dbdd5ad.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/246/545/835/121/960/original/4e3fed609dbdd5ad.jpeg",
+        "followers_count": 1518,
+        "following_count": 192,
+        "statuses_count": 600,
+        "last_status_at": "2024-08-05",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Location",
+                "value": "UArizona | Santa Fe Institute",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "110818832527252037",
+        "username": "EconovoAU",
+        "acct": "EconovoAU",
+        "display_name": "ECONOVO",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-08-02T00:00:00.000Z",
+        "note": "<p>DNRF Center of Excellence - Center for Ecological Dynamics in a Novel Biosphere (ECONOVO) headed by Center Director Jens-Christian Svenning, Aarhus University, Denmark</p>",
+        "url": "https://mastodon.social/@EconovoAU",
+        "uri": "https://mastodon.social/users/EconovoAU",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/818/832/527/252/037/original/56f8c33868240bbc.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/818/832/527/252/037/original/56f8c33868240bbc.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/818/832/527/252/037/original/e2afa2b41cc5ecbc.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/818/832/527/252/037/original/e2afa2b41cc5ecbc.png",
+        "followers_count": 1,
+        "following_count": 0,
+        "statuses_count": 0,
+        "last_status_at": null,
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Homepage",
+                "value": "<a href=\"https://bio.au.dk/forskning/forskningscentre/econovo\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bio.au.dk/forskning/forsknings</span><span class=\"invisible\">centre/econovo</span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

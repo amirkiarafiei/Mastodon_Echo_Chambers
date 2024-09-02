@@ -1,0 +1,2656 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112841625063415384",
+            "created_at": "2024-07-24T13:09:13.841Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://evil.social/notes/9w3fdx4hd2fp481a",
+            "url": "https://evil.social/notes/9w3fdx4hd2fp481a",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@breadandcircuses@climatejustice.social</a><span> <br><br>It's like, \"cool. Cool. Will the food-plants that we eat and that feed our livestock adapt well to the heat? Also, how about the pollinators that make the food that we eat grow and reproduce: will they be adapting as well? And will we, our crops and everything else adapt to changing waterfall/drought patterns?\"</span></p>",
+            "reblog": null,
+            "account": {
+                "id": "110386373227098025",
+                "username": "ferricoxide",
+                "acct": "ferricoxide@evil.social",
+                "display_name": "",
+                "locked": true,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-05-17T00:00:00.000Z",
+                "note": "<p><span>Ex of Twitter (and many others before that) by way of </span><a href=\"https://mastodon.social/@ferricoxide\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span>mastodon.social</span></a><span> (same user ID across a lot of platforms). Moved here because I like the ability to format posts and, sometimes, I need more than 500 characters ...plus there had been rumblings about mastodon.social getting widely defederated.</span></p>",
+                "url": "https://evil.social/@ferricoxide",
+                "uri": "https://evil.social/users/9evrpru46h",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/386/373/227/098/025/original/2052f2c83c2ca579.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/386/373/227/098/025/original/2052f2c83c2ca579.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 25,
+                "following_count": 102,
+                "statuses_count": 17402,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Random Musings (longer-form)",
+                        "value": "<a href=\"https://acrankinesssingularity.blogspot.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://acrankinesssingularity.blogspot.com/</a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112841717729070344",
+            "created_at": "2024-07-24T13:32:48.283Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/skua/statuses/112841717729070344",
+            "url": "https://mastodon.social/@skua/112841717729070344",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> <br />The article reads like massaged <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"tag\">#<span>AI</span></a> generated propaganda.</p><p>If so we&#39;ve got <a href=\"https://mastodon.social/tags/AnneApplebaum\" class=\"mention hashtag\" rel=\"tag\">#<span>AnneApplebaum</span></a>&#39;s <a href=\"https://mastodon.social/tags/MuskApologia\" class=\"mention hashtag\" rel=\"tag\">#<span>MuskApologia</span></a> in the Guardian, similar garbage in <a href=\"https://mastodon.social/tags/TheAtlantic\" class=\"mention hashtag\" rel=\"tag\">#<span>TheAtlantic</span></a> and now this slime-mould in <a href=\"https://mastodon.social/tags/Salon\" class=\"mention hashtag\" rel=\"tag\">#<span>Salon</span></a>.</p><p>The <a href=\"https://mastodon.social/tags/SpinDoctors\" class=\"mention hashtag\" rel=\"tag\">#<span>SpinDoctors</span></a> are pushing their wares just like the customers want them to.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Pachli",
+                "website": "https://pachli.app"
+            },
+            "account": {
+                "id": "109205963723515372",
+                "username": "skua",
+                "acct": "skua",
+                "display_name": "skua",
+                "locked": true,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-21T00:00:00.000Z",
+                "note": "<p>Civil responses to my posts sought.<br />If I want to express myself without response I&#39;ll talk into my pillow.</p><p>Watching, wrestling, working, dreaming and sleeping in Australia.<br />Not always clear which is which. <a href=\"https://mastodon.social/tags/AgedCareBusinesses\" class=\"mention hashtag\" rel=\"tag\">#<span>AgedCareBusinesses</span></a>  <a href=\"https://mastodon.social/tags/WhatHappensAfterYouDie\" class=\"mention hashtag\" rel=\"tag\">#<span>WhatHappensAfterYouDie</span></a> <a href=\"https://mastodon.social/tags/ArchiveElon\" class=\"mention hashtag\" rel=\"tag\">#<span>ArchiveElon</span></a> <a href=\"https://mastodon.social/tags/AgedCare\" class=\"mention hashtag\" rel=\"tag\">#<span>AgedCare</span></a> <a href=\"https://mastodon.social/tags/Robodebt\" class=\"mention hashtag\" rel=\"tag\">#<span>Robodebt</span></a> <a href=\"https://mastodon.social/tags/TheColorOfDistance\" class=\"mention hashtag\" rel=\"tag\">#<span>TheColorOfDistance</span></a> <a href=\"https://mastodon.social/tags/Dance\" class=\"mention hashtag\" rel=\"tag\">#<span>Dance</span></a> <a href=\"https://mastodon.social/tags/PinaBausch\" class=\"mention hashtag\" rel=\"tag\">#<span>PinaBausch</span></a> <a href=\"https://mastodon.social/tags/ContactImprovisation\" class=\"mention hashtag\" rel=\"tag\">#<span>ContactImprovisation</span></a> <a href=\"https://mastodon.social/tags/SeaKayaking\" class=\"mention hashtag\" rel=\"tag\">#<span>SeaKayaking</span></a> <a href=\"https://mastodon.social/tags/HannahNyala\" class=\"mention hashtag\" rel=\"tag\">#<span>HannahNyala</span></a> <a href=\"https://mastodon.social/tags/Schnapsen\" class=\"mention hashtag\" rel=\"tag\">#<span>Schnapsen</span></a> <a href=\"https://mastodon.social/tags/LibertarianBillionaires\" class=\"mention hashtag\" rel=\"tag\">#<span>LibertarianBillionaires</span></a> <a href=\"https://mastodon.social/tags/RePurposeMyEducation\" class=\"mention hashtag\" rel=\"tag\">#<span>RePurposeMyEducation</span></a> <a href=\"https://mastodon.social/tags/HellScapeTheBioSphere\" class=\"mention hashtag\" rel=\"tag\">#<span>HellScapeTheBioSphere</span></a> <a href=\"https://mastodon.social/tags/GraeberAndWengrow\" class=\"mention hashtag\" rel=\"tag\">#<span>GraeberAndWengrow</span></a> <a href=\"https://mastodon.social/tags/DawnOfEverything\" class=\"mention hashtag\" rel=\"tag\">#<span>DawnOfEverything</span></a></p>",
+                "url": "https://mastodon.social/@skua",
+                "uri": "https://mastodon.social/users/skua",
+                "avatar": "https://files.mastodon.social/accounts/avatars/109/205/963/723/515/372/original/da86b538114d3575.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/109/205/963/723/515/372/original/da86b538114d3575.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/109/205/963/723/515/372/original/f266789e24347b26.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/109/205/963/723/515/372/original/f266789e24347b26.jpg",
+                "followers_count": 496,
+                "following_count": 820,
+                "statuses_count": 19014,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Interest 1",
+                        "value": "The purposes of commercialised aged care. And the cultural pressures against humane alternatives.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Interest 2",
+                        "value": "Abundance/scarcity tension and how that relates to purpose and meaning.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Interest 3",
+                        "value": "Ritual, spectacle and consuming.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Interest 4",
+                        "value": "Grounded science / junk science.  No-holds-barred science and rational, collegial science as well.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "ai",
+                    "url": "https://mastodon.social/tags/ai"
+                },
+                {
+                    "name": "anneapplebaum",
+                    "url": "https://mastodon.social/tags/anneapplebaum"
+                },
+                {
+                    "name": "muskapologia",
+                    "url": "https://mastodon.social/tags/muskapologia"
+                },
+                {
+                    "name": "theatlantic",
+                    "url": "https://mastodon.social/tags/theatlantic"
+                },
+                {
+                    "name": "salon",
+                    "url": "https://mastodon.social/tags/salon"
+                },
+                {
+                    "name": "spindoctors",
+                    "url": "https://mastodon.social/tags/spindoctors"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112843148910159032",
+            "created_at": "2024-07-24T19:36:44.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://ursal.zone/users/fabiocosta0305/statuses/112843148803440550",
+            "url": "https://ursal.zone/@fabiocosta0305/112843148803440550",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> they are trying to forcing a Social Darwinism on this!</p><p>Of course there'll be adaptations for climate change, but not enough. This way they are trying to justify survivalism and TESCREAL as a justification to \"fight\" climate change</p>",
+            "reblog": null,
+            "account": {
+                "id": "1134638",
+                "username": "fabiocosta0305",
+                "acct": "fabiocosta0305@ursal.zone",
+                "display_name": "F\u00e1bio Costa \ud83d\udc07\ud83d\udd50\ud83c\udfa9\u2615",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2020-03-02T00:00:00.000Z",
+                "note": "<p>O oposto de grimdark \u00e9 hopepunk. Passe a mensagem \u00e0 diante.</p><p>Quando a viol\u00eancia \u00e9 a norma, a gentileza \u00e9 a resist\u00eancia.</p><p>Dados n\u00e3o s\u00e3o o novo petr\u00f3leo, s\u00e3o o novo ur\u00e2nio.</p><p>Voc\u00ea n\u00e3o \u00e9 o produto. Voc\u00ea \u00e9 o elefante ou b\u00fafalo morto deixado para tr\u00e1s.</p><p>46664</p><p>N\u00e3o existe DevOps sem Ops!</p><p>Fot\u00f3grafo, Cosplayer...</p><p>Enemy of Progress <a href=\"https://ursal.zone/tags/fuckAndreseen\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fuckAndreseen</span></a></p>",
+                "url": "https://ursal.zone/@fabiocosta0305",
+                "uri": "https://ursal.zone/users/fabiocosta0305",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/001/134/638/original/f6c2a645446282e4.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/001/134/638/original/f6c2a645446282e4.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/001/134/638/original/2bb0f92d091f5a1e.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/001/134/638/original/2bb0f92d091f5a1e.jpg",
+                "followers_count": 318,
+                "following_count": 989,
+                "statuses_count": 7504,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Pixelfed",
+                        "value": "<a href=\"http://bolha.photos/FabioCosta0305\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">bolha.photos/FabioCosta0305</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Gradua\u00e7\u00e3o",
+                        "value": "Ci\u00eancia de Dados (UniVESP)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Telegram",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://ursal.zone/@fabiocosta0305\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fabiocosta0305</span></a></span>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"http://fabiocosta0305.gitlab.io\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">fabiocosta0305.gitlab.io</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112843154676044041",
+            "created_at": "2024-07-24T19:38:12.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://tech.lgbt/users/burnoutqueen/statuses/112843154558894235",
+            "url": "https://tech.lgbt/@burnoutqueen/112843154558894235",
+            "replies_count": 1,
+            "reblogs_count": 4,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> The cherry on the cake</p><p>Shellenberger has publicly said \"that he wants to end access to all gender-affirming surgeries\".[92] He was the keynote speaker for Genspect's 2022 conference in Denver.[93] In 2023, Environmental Progress published \"The WPATH Files\", a leaked collection of internal discussions among people who maintain the medical standards of transgender health care.[94] The documents revealed discussion over whether very young people could reasonably consent to gender affirming care.[95][96] Critics accused Shellenberger of working with Genspect to release out of context and biased information about transgender people.[92]</p>",
+            "reblog": null,
+            "account": {
+                "id": "112600472876008557",
+                "username": "burnoutqueen",
+                "acct": "burnoutqueen@tech.lgbt",
+                "display_name": "Queen Antifa \ud83c\udf39:debian_logo:\u200b:linux:",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-06-11T00:00:00.000Z",
+                "note": "<p>Debian enthusiast and technician class ham<br>Proud democratic socialist and DSA member<br>Anti-Stalinism<br>Pro-Gaza and antifascist rabblerouser<br>Transfem and probably straight <br>Pro-Human, Pro-Jewish, Pro-Palestinian, Pro-Ukraine<br>Anti-Zionist (2 staters are begrudgingly tolerated here too, this is a safe space for you guys)<br>Glory to the Popular Front!<br>Autism fueled Anxious wreck<br>I try to use alt text and refrain from boosting posts without alt text.</p><p>Trying to be anti-racist.</p><p>United States Citizen</p><p>Netanyahu apologists, prolific hornyposters, Jew haters, Palestinian haters, woman haters, LGBT haters, genocide apologists (Armenian genocide deniers, Shoah deniers, Uyghur genocide deniers, Gaza famine deniers, Holodomor deniers), tankies, racists, all kinds of bigots, right wingers, annoying Biden fanboys and western imperialists dni</p><p>Political on main</p><p>Not a Furry\u2122\ufe0f</p><p>Read this: <a href=\"https://monthlyreview.org/2009/05/01/why-socialism/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">monthlyreview.org/2009/05/01/w</span><span class=\"invisible\">hy-socialism/</span></a></p><p><a href=\"https://tech.lgbt/tags/NoSearch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoSearch</span></a> <a href=\"https://tech.lgbt/tags/NoIndex\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoIndex</span></a> <a href=\"https://tech.lgbt/tags/NoBot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoBot</span></a> <a href=\"https://tech.lgbt/tags/NoBridge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoBridge</span></a> <a href=\"https://tech.lgbt/tags/actuallyautistic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>actuallyautistic</span></a> <a href=\"https://tech.lgbt/tags/socialism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>socialism</span></a> <a href=\"https://tech.lgbt/tags/marxwasright\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>marxwasright</span></a></p>",
+                "url": "https://tech.lgbt/@burnoutqueen",
+                "uri": "https://tech.lgbt/users/burnoutqueen",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/600/472/876/008/557/original/3170c03f7677a52a.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/600/472/876/008/557/original/3170c03f7677a52a.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/600/472/876/008/557/original/1af23d6c8c73b638.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/600/472/876/008/557/original/1af23d6c8c73b638.png",
+                "followers_count": 407,
+                "following_count": 451,
+                "statuses_count": 11116,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "debian_logo",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/492/802/original/c1ff9770a11e6642.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/492/802/static/c1ff9770a11e6642.png",
+                        "visible_in_picker": true
+                    },
+                    {
+                        "shortcode": "linux",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/455/807/original/080c0f0cfde0e23e.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/455/807/static/080c0f0cfde0e23e.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Pronouns",
+                        "value": "She/Her",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pessimist?",
+                        "value": "Realist",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Ideology",
+                        "value": "classical social democrat, internationalist, technosocialist",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Linux Distros I use",
+                        "value": "Debian, Ubuntu, Mint, Raspbian, Android(?)",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112843512062004072",
+            "created_at": "2024-07-24T21:09:06.000Z",
+            "in_reply_to_id": "112843154676044041",
+            "in_reply_to_account_id": "112600472876008557",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.cloud/users/tlariv/statuses/112843511987700121",
+            "url": "https://mastodon.cloud/@tlariv/112843511987700121",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://tech.lgbt/@burnoutqueen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>burnoutqueen</span></a></span><br>So he wants to start with gynecomastia surgery for cis men right? </p><p>Right?<br><span class=\"h-card\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "1371439",
+                "username": "tlariv",
+                "acct": "tlariv@mastodon.cloud",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-02-11T00:00:00.000Z",
+                "note": "<p>Some white guy in Chicago. Velophile, bibliophile, gastronome. Turnoffs include fascism.<br>He/him/hey you</p>",
+                "url": "https://mastodon.cloud/@tlariv",
+                "uri": "https://mastodon.cloud/users/tlariv",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/001/371/439/original/510d29615cd87e30.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/001/371/439/original/510d29615cd87e30.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/001/371/439/original/f2e02f670dfcfcfd.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/001/371/439/original/f2e02f670dfcfcfd.png",
+                "followers_count": 182,
+                "following_count": 625,
+                "statuses_count": 1889,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "My best Tweet",
+                        "value": "\"Password must be at least twelve characters and contain at least one capital letter, one number, and one special character.\" Well, Jesus, why didn't you tell me? Now I know what I would have used.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Tracy Letts quote that I wish had aged better",
+                        "value": "Greatest Generation, my ass... [W]hat makes them so great anyway? Because they were poor and hated Nazis? Who doesn't fucking hate Nazis?!\"",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112600472876008557",
+                    "username": "burnoutqueen",
+                    "url": "https://tech.lgbt/@burnoutqueen",
+                    "acct": "burnoutqueen@tech.lgbt"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112843196463668256",
+            "created_at": "2024-07-24T19:48:50.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://social.linux.pizza/users/c_merriweather/statuses/112843196359803182",
+            "url": "https://social.linux.pizza/@c_merriweather/112843196359803182",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> What garbage. Yes, the climate is getting hotter. No, there are no good \"adaptation\" alternatives. Civilization, as we know it, cannot adapt.</p><p>Survival may be possible, but the great collapse will happen (and is already happening).</p>",
+            "reblog": null,
+            "account": {
+                "id": "792811",
+                "username": "c_merriweather",
+                "acct": "c_merriweather@social.linux.pizza",
+                "display_name": "Kinene",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-04-17T00:00:00.000Z",
+                "note": "<p>Classically trained <a href=\"https://social.linux.pizza/tags/musician\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>musician</span></a>, specializing in <br><a href=\"https://social.linux.pizza/tags/medievalmusic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>medievalmusic</span></a> and <a href=\"https://social.linux.pizza/tags/Renaissancemusic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Renaissancemusic</span></a><br>Other interests:<br><a href=\"https://social.linux.pizza/tags/history\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>history</span></a> <a href=\"https://social.linux.pizza/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> <a href=\"https://social.linux.pizza/tags/travellerrpg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>travellerrpg</span></a> <a href=\"https://social.linux.pizza/tags/ttrpg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ttrpg</span></a> <a href=\"https://social.linux.pizza/tags/knitting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>knitting</span></a> <a href=\"https://social.linux.pizza/tags/sewing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sewing</span></a> <a href=\"https://social.linux.pizza/tags/weaving\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>weaving</span></a> <a href=\"https://social.linux.pizza/tags/gardening\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gardening</span></a> <a href=\"https://social.linux.pizza/tags/cockatiel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cockatiel</span></a> <a href=\"https://social.linux.pizza/tags/chickens\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chickens</span></a> <a href=\"https://social.linux.pizza/tags/woodworking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>woodworking</span></a> <a href=\"https://social.linux.pizza/tags/FractalArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FractalArt</span></a> <a href=\"https://social.linux.pizza/tags/costuming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>costuming</span></a> <a href=\"https://social.linux.pizza/tags/Rotary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rotary</span></a></p><p>Born when CO2 was 315 ppm. The \"c\" may also be for \"Cassandra.\" </p><p>Languages: \ud83c\uddfa\ud83c\uddf2\ud83c\udde9\ud83c\uddea, trying to learn <a href=\"https://social.linux.pizza/tags/Persian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Persian</span></a></p><p>AKA - NorCal Renaissance faires: Cecil Merriweather(musician), Elizabeth Kytson (Noble, St. George)</p><p>Lake County, NorCal</p>",
+                "url": "https://social.linux.pizza/@c_merriweather",
+                "uri": "https://social.linux.pizza/users/c_merriweather",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/792/811/original/3512ec587803c783.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/792/811/original/3512ec587803c783.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 123,
+                "following_count": 202,
+                "statuses_count": 2420,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112843340386299221",
+            "created_at": "2024-07-24T20:25:28.064Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/_RyekDarkener_/statuses/112843340386299221",
+            "url": "https://mastodon.social/@_RyekDarkener_/112843340386299221",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> </p><p>Maybe it\u2019s their business model?</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "108097090331071906",
+                "username": "_RyekDarkener_",
+                "acct": "_RyekDarkener_",
+                "display_name": "Ryek Darkener",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-04-08T00:00:00.000Z",
+                "note": "<p>Back again. ;)</p><p>Schreibt <a href=\"https://mastodon.social/tags/ScienceFiction\" class=\"mention hashtag\" rel=\"tag\">#<span>ScienceFiction</span></a>, <a href=\"https://mastodon.social/tags/UrbanFantasy\" class=\"mention hashtag\" rel=\"tag\">#<span>UrbanFantasy</span></a>, <br />Mostly harmless.<br />Hat Ahnung von IT und BWL.<br /><a href=\"https://mastodon.social/tags/ClimateBusinessCase\" class=\"mention hashtag\" rel=\"tag\">#<span>ClimateBusinessCase</span></a> now!<br />Don\u2019t feed the Plants!</p><p>Deutsch/English</p><p>Impressum: Angaben gem\u00e4\u00df \u00a7 5 TMG und \u00a7 55 Abs. 2 RStV:</p><p>Ryek Darkener<br />c/o Block Services<br />Stuttgarter Str. 106<br />70736 Fellbach </p><p>Mobile: +49 1575 1660252</p><p>E-Mail: ryek.darkener(at)posteo.de</p><p>Bitte E-Mail nutzen, wenn m\u00f6glich.</p>",
+                "url": "https://mastodon.social/@_RyekDarkener_",
+                "uri": "https://mastodon.social/users/_RyekDarkener_",
+                "avatar": "https://files.mastodon.social/accounts/avatars/108/097/090/331/071/906/original/8e1b77a62b775d0d.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/108/097/090/331/071/906/original/8e1b77a62b775d0d.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/108/097/090/331/071/906/original/bcf22adcb63138e8.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/108/097/090/331/071/906/original/bcf22adcb63138e8.jpg",
+                "followers_count": 263,
+                "following_count": 578,
+                "statuses_count": 12234,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Meine Romane",
+                        "value": "<a href=\"https://www.bod.de/buchshop/catalogsearch/result/?q=ryek+darkener\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bod.de/buchshop/catalogsearch/</span><span class=\"invisible\">result/?q=ryek+darkener</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112843359980868031",
+            "created_at": "2024-07-24T20:30:27.055Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/courtcan/statuses/112843359980868031",
+            "url": "https://mastodon.social/@courtcan/112843359980868031",
+            "replies_count": 2,
+            "reblogs_count": 1,
+            "favourites_count": 6,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> My simple question is: How can we adapt to not having any food? </p><p>That guy has the stupidest take I&#39;ve heard on climate crisis yet.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for Android",
+                "website": "https://app.joinmastodon.org/android"
+            },
+            "account": {
+                "id": "108131017378560705",
+                "username": "courtcan",
+                "acct": "courtcan",
+                "display_name": "CourtneyCantrell won't go back",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-14T00:00:00.000Z",
+                "note": "<p>WYRDE<br /><a href=\"https://mastodon.social/tags/author\" class=\"mention hashtag\" rel=\"tag\">#<span>author</span></a> &amp; <a href=\"https://mastodon.social/tags/bibliophile\" class=\"mention hashtag\" rel=\"tag\">#<span>bibliophile</span></a>: <a href=\"https://mastodon.social/tags/fantasy\" class=\"mention hashtag\" rel=\"tag\">#<span>fantasy</span></a> <a href=\"https://mastodon.social/tags/scifi\" class=\"mention hashtag\" rel=\"tag\">#<span>scifi</span></a> <a href=\"https://mastodon.social/tags/specfic\" class=\"mention hashtag\" rel=\"tag\">#<span>specfic</span></a><br />Amerigerman cultural mutt <a href=\"https://mastodon.social/tags/ThirdCultureKid\" class=\"mention hashtag\" rel=\"tag\">#<span>ThirdCultureKid</span></a><br /><a href=\"https://mastodon.social/tags/ADHD\" class=\"mention hashtag\" rel=\"tag\">#<span>ADHD</span></a> <a href=\"https://mastodon.social/tags/DAVE\" class=\"mention hashtag\" rel=\"tag\">#<span>DAVE</span></a><br />leaning into lack<br />mischief<br />a/theist tarrying in the &quot;slash&quot;<br />critical thought <a href=\"https://mastodon.social/tags/neurosparkly\" class=\"mention hashtag\" rel=\"tag\">#<span>neurosparkly</span></a><br />she/her<br /><a href=\"https://mastodon.social/tags/Abi\" class=\"mention hashtag\" rel=\"tag\">#<span>Abi</span></a> &#39;96</p><p>courtcan.com</p><p>profile pic: me. white woman. 40s. chin-length dark blond curls w multi-colored streaks. gray &amp; black t-shirt</p><p>header: from my YA fantasy THE ACCURSED cover: teen girl, back to viewer, in ominous forest. long frizzy hair, long red dress. hopeful light beyond trees</p>",
+                "url": "https://mastodon.social/@courtcan",
+                "uri": "https://mastodon.social/users/courtcan",
+                "avatar": "https://files.mastodon.social/accounts/avatars/108/131/017/378/560/705/original/98ea37efd76771bd.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/108/131/017/378/560/705/original/98ea37efd76771bd.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/108/131/017/378/560/705/original/f6aa879b712d67d0.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/108/131/017/378/560/705/original/f6aa879b712d67d0.png",
+                "followers_count": 1755,
+                "following_count": 1173,
+                "statuses_count": 33448,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112843372527831552",
+            "created_at": "2024-07-24T20:33:37.000Z",
+            "in_reply_to_id": "112843359980868031",
+            "in_reply_to_account_id": "108131017378560705",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://me.dm/users/alloydflanagan/statuses/112843372474849307",
+            "url": "https://me.dm/@alloydflanagan/112843372474849307",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@courtcan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>courtcan</span></a></span> I understand we\u2019ll be eating jellyfish. Tastes terrible but we\u2019re creating oceans perfect for them.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110907691407110174",
+                "username": "alloydflanagan",
+                "acct": "alloydflanagan@me.dm",
+                "display_name": "A Lloyd Flanagan",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-05-22T00:00:00.000Z",
+                "note": "<p>Professional software developer, amateur robotics tinkerer. Antifascist. Cat person. Dad.</p>",
+                "url": "https://me.dm/@alloydflanagan",
+                "uri": "https://me.dm/users/alloydflanagan",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/907/691/407/110/174/original/207b016482563b02.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/907/691/407/110/174/original/207b016482563b02.jpeg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 23,
+                "following_count": 151,
+                "statuses_count": 1311,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Medium",
+                        "value": "<a href=\"https://medium.com/@alloydflanagan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">medium.com/@alloydflanagan</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-24T22:46:11.311+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108131017378560705",
+                    "username": "courtcan",
+                    "url": "https://mastodon.social/@courtcan",
+                    "acct": "courtcan"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112843412544614191",
+            "created_at": "2024-07-24T20:43:49.114Z",
+            "in_reply_to_id": "112843372527831552",
+            "in_reply_to_account_id": "110907691407110174",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/courtcan/statuses/112843412544614191",
+            "url": "https://mastodon.social/@courtcan/112843412544614191",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 2,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://me.dm/@alloydflanagan\" class=\"u-url mention\">@<span>alloydflanagan</span></a></span></p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for Android",
+                "website": "https://app.joinmastodon.org/android"
+            },
+            "account": {
+                "id": "108131017378560705",
+                "username": "courtcan",
+                "acct": "courtcan",
+                "display_name": "CourtneyCantrell won't go back",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-14T00:00:00.000Z",
+                "note": "<p>WYRDE<br /><a href=\"https://mastodon.social/tags/author\" class=\"mention hashtag\" rel=\"tag\">#<span>author</span></a> &amp; <a href=\"https://mastodon.social/tags/bibliophile\" class=\"mention hashtag\" rel=\"tag\">#<span>bibliophile</span></a>: <a href=\"https://mastodon.social/tags/fantasy\" class=\"mention hashtag\" rel=\"tag\">#<span>fantasy</span></a> <a href=\"https://mastodon.social/tags/scifi\" class=\"mention hashtag\" rel=\"tag\">#<span>scifi</span></a> <a href=\"https://mastodon.social/tags/specfic\" class=\"mention hashtag\" rel=\"tag\">#<span>specfic</span></a><br />Amerigerman cultural mutt <a href=\"https://mastodon.social/tags/ThirdCultureKid\" class=\"mention hashtag\" rel=\"tag\">#<span>ThirdCultureKid</span></a><br /><a href=\"https://mastodon.social/tags/ADHD\" class=\"mention hashtag\" rel=\"tag\">#<span>ADHD</span></a> <a href=\"https://mastodon.social/tags/DAVE\" class=\"mention hashtag\" rel=\"tag\">#<span>DAVE</span></a><br />leaning into lack<br />mischief<br />a/theist tarrying in the &quot;slash&quot;<br />critical thought <a href=\"https://mastodon.social/tags/neurosparkly\" class=\"mention hashtag\" rel=\"tag\">#<span>neurosparkly</span></a><br />she/her<br /><a href=\"https://mastodon.social/tags/Abi\" class=\"mention hashtag\" rel=\"tag\">#<span>Abi</span></a> &#39;96</p><p>courtcan.com</p><p>profile pic: me. white woman. 40s. chin-length dark blond curls w multi-colored streaks. gray &amp; black t-shirt</p><p>header: from my YA fantasy THE ACCURSED cover: teen girl, back to viewer, in ominous forest. long frizzy hair, long red dress. hopeful light beyond trees</p>",
+                "url": "https://mastodon.social/@courtcan",
+                "uri": "https://mastodon.social/users/courtcan",
+                "avatar": "https://files.mastodon.social/accounts/avatars/108/131/017/378/560/705/original/98ea37efd76771bd.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/108/131/017/378/560/705/original/98ea37efd76771bd.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/108/131/017/378/560/705/original/f6aa879b712d67d0.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/108/131/017/378/560/705/original/f6aa879b712d67d0.png",
+                "followers_count": 1755,
+                "following_count": 1173,
+                "statuses_count": 33448,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [
+                {
+                    "id": "112843410914977654",
+                    "type": "gifv",
+                    "url": "https://files.mastodon.social/media_attachments/files/112/843/410/914/977/654/original/a1aae7e8be8010bf.mp4",
+                    "preview_url": "https://files.mastodon.social/media_attachments/files/112/843/410/914/977/654/small/a1aae7e8be8010bf.png",
+                    "remote_url": null,
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 220,
+                            "height": 122,
+                            "frame_rate": "10/1",
+                            "duration": 1.6,
+                            "bitrate": 53595
+                        },
+                        "small": {
+                            "width": 220,
+                            "height": 122,
+                            "size": "220x122",
+                            "aspect": 1.8032786885245902
+                        }
+                    },
+                    "description": "Gif of actress Maya Rudolph looking shocked and horrified.",
+                    "blurhash": "UOHJ{o0fADR*R+NHRks:I;fRxGoLR*WCs:oL"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": "110907691407110174",
+                    "username": "alloydflanagan",
+                    "url": "https://me.dm/@alloydflanagan",
+                    "acct": "alloydflanagan@me.dm"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112843436973696908",
+            "created_at": "2024-07-24T20:50:01.000Z",
+            "in_reply_to_id": "112843359980868031",
+            "in_reply_to_account_id": "108131017378560705",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://ottawa.place/users/MichaelPorter/statuses/112843436925901556",
+            "url": "https://ottawa.place/@MichaelPorter/112843436925901556",
+            "replies_count": 2,
+            "reblogs_count": 4,
+            "favourites_count": 2,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@courtcan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>courtcan</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> More importantly, the sooner we figure out a way to change our body temperature, maybe to 42\u00b0C or so, the better. </p><p>Food\u2019s easy, we\u2019ll just bioengineer photosynthesis or something. \ud83d\ude09</p>",
+            "reblog": null,
+            "account": {
+                "id": "109442122945486649",
+                "username": "MichaelPorter",
+                "acct": "MichaelPorter@ottawa.place",
+                "display_name": "Michael Porter",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-02T00:00:00.000Z",
+                "note": "<p>Retired Chem/Physics/Earth Sciences teacher. I'm interested in everything.</p><p>I think society performs at its best when we take care of others, especially the weakest among us. That means a strong social safety net, with \"free\" healthcare, education, and public transit. It's a dream, I know.</p><p>30+ years of explaining stuff to teenagers has left me with some habits... I'm not a mansplainer, but I *do* like to find ways to 'splain stuff to receptive ears \ud83d\ude0a</p><p>My Toots: <a href=\"https://justmytoots.com/MichaelPorter@ottawa.place\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justmytoots.com/MichaelPorter@</span><span class=\"invisible\">ottawa.place</span></a></p>",
+                "url": "https://ottawa.place/@MichaelPorter",
+                "uri": "https://ottawa.place/users/MichaelPorter",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/442/122/945/486/649/original/3862f1e9fcf0008f.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/442/122/945/486/649/original/3862f1e9fcf0008f.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/442/122/945/486/649/original/6a834d7493ae26d8.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/442/122/945/486/649/original/6a834d7493ae26d8.jpeg",
+                "followers_count": 815,
+                "following_count": 527,
+                "statuses_count": 24403,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Red",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Philosophy",
+                        "value": "Humanist",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Politics",
+                        "value": "Woke AF",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108131017378560705",
+                    "username": "courtcan",
+                    "url": "https://mastodon.social/@courtcan",
+                    "acct": "courtcan"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112843616974855762",
+            "created_at": "2024-07-24T21:35:48.480Z",
+            "in_reply_to_id": "112843436973696908",
+            "in_reply_to_account_id": "109442122945486649",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.social/users/courtcan/statuses/112843616974855762",
+            "url": "https://mastodon.social/@courtcan/112843616974855762",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 3,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@MichaelPorter\" class=\"u-url mention\">@<span>MichaelPorter</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> Excellent. I am looking forward to growing my rhododendron body. \ud83c\udf38\ud83d\ude06\ud83d\udc99</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for Android",
+                "website": "https://app.joinmastodon.org/android"
+            },
+            "account": {
+                "id": "108131017378560705",
+                "username": "courtcan",
+                "acct": "courtcan",
+                "display_name": "CourtneyCantrell won't go back",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-14T00:00:00.000Z",
+                "note": "<p>WYRDE<br /><a href=\"https://mastodon.social/tags/author\" class=\"mention hashtag\" rel=\"tag\">#<span>author</span></a> &amp; <a href=\"https://mastodon.social/tags/bibliophile\" class=\"mention hashtag\" rel=\"tag\">#<span>bibliophile</span></a>: <a href=\"https://mastodon.social/tags/fantasy\" class=\"mention hashtag\" rel=\"tag\">#<span>fantasy</span></a> <a href=\"https://mastodon.social/tags/scifi\" class=\"mention hashtag\" rel=\"tag\">#<span>scifi</span></a> <a href=\"https://mastodon.social/tags/specfic\" class=\"mention hashtag\" rel=\"tag\">#<span>specfic</span></a><br />Amerigerman cultural mutt <a href=\"https://mastodon.social/tags/ThirdCultureKid\" class=\"mention hashtag\" rel=\"tag\">#<span>ThirdCultureKid</span></a><br /><a href=\"https://mastodon.social/tags/ADHD\" class=\"mention hashtag\" rel=\"tag\">#<span>ADHD</span></a> <a href=\"https://mastodon.social/tags/DAVE\" class=\"mention hashtag\" rel=\"tag\">#<span>DAVE</span></a><br />leaning into lack<br />mischief<br />a/theist tarrying in the &quot;slash&quot;<br />critical thought <a href=\"https://mastodon.social/tags/neurosparkly\" class=\"mention hashtag\" rel=\"tag\">#<span>neurosparkly</span></a><br />she/her<br /><a href=\"https://mastodon.social/tags/Abi\" class=\"mention hashtag\" rel=\"tag\">#<span>Abi</span></a> &#39;96</p><p>courtcan.com</p><p>profile pic: me. white woman. 40s. chin-length dark blond curls w multi-colored streaks. gray &amp; black t-shirt</p><p>header: from my YA fantasy THE ACCURSED cover: teen girl, back to viewer, in ominous forest. long frizzy hair, long red dress. hopeful light beyond trees</p>",
+                "url": "https://mastodon.social/@courtcan",
+                "uri": "https://mastodon.social/users/courtcan",
+                "avatar": "https://files.mastodon.social/accounts/avatars/108/131/017/378/560/705/original/98ea37efd76771bd.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/108/131/017/378/560/705/original/98ea37efd76771bd.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/108/131/017/378/560/705/original/f6aa879b712d67d0.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/108/131/017/378/560/705/original/f6aa879b712d67d0.png",
+                "followers_count": 1755,
+                "following_count": 1173,
+                "statuses_count": 33448,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109442122945486649",
+                    "username": "MichaelPorter",
+                    "url": "https://ottawa.place/@MichaelPorter",
+                    "acct": "MichaelPorter@ottawa.place"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112847778197992558",
+            "created_at": "2024-07-25T15:14:02.000Z",
+            "in_reply_to_id": "112843436973696908",
+            "in_reply_to_account_id": "109442122945486649",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/DoomsdaysCW/statuses/112847778118021157",
+            "url": "https://kolektiva.social/@DoomsdaysCW/112847778118021157",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p>Soylent green? <span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@MichaelPorter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MichaelPorter</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@courtcan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>courtcan</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "109367452842773908",
+                "username": "DoomsdaysCW",
+                "acct": "DoomsdaysCW@kolektiva.social",
+                "display_name": "DoomsdaysCW",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>Former Journalist\ud83d\udcf0 and occasional Librarian \ud83d\udcda, <a href=\"https://kolektiva.social/tags/IndigenousAlly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousAlly</span></a> living on <a href=\"https://kolektiva.social/tags/Wabanaki\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wabanaki</span></a> land\ud83c\udf04. <br><a href=\"https://kolektiva.social/tags/NonBinary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NonBinary</span></a> :nonbinary_flag:  <a href=\"https://kolektiva.social/tags/Queer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Queer</span></a> :QueerCat_Aromantic: <a href=\"https://kolektiva.social/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyAutistic</span></a>\u267e\ufe0f Pronouns: They, them, per, person, human.<br><a href=\"https://kolektiva.social/tags/Green\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Green</span></a>\ud83c\udf33 <a href=\"https://kolektiva.social/tags/Socialist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Socialist</span></a>\ud83e\udd1d Student of <a href=\"https://kolektiva.social/tags/Archaeology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Archaeology</span></a> \ud83d\udc80&amp; <a href=\"https://kolektiva.social/tags/History\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>History</span></a> \ud83d\udcdc<br><a href=\"https://kolektiva.social/tags/NoNukes\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoNukes</span></a>\u2622\ufe0f Anti-<a href=\"https://kolektiva.social/tags/Oligarchy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Oligarchy</span></a>\ud83c\udfa9 <a href=\"https://kolektiva.social/tags/NoWar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoWar</span></a>\u262e\ufe0f <a href=\"https://kolektiva.social/tags/GetMoneyOut\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GetMoneyOut</span></a>\ud83d\udcb0<a href=\"https://kolektiva.social/tags/HumanRights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HumanRights</span></a>\ud83d\udd75\ufe0f\u200d\u2642\ufe0f <a href=\"https://kolektiva.social/tags/CeasefireNow\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CeasefireNow</span></a>\ud83c\uddf5\ud83c\uddf8 <a href=\"https://kolektiva.social/tags/BLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BLM</span></a>\u270a\ud83c\udfff  <a href=\"https://kolektiva.social/tags/IndigenousRights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousRights</span></a> \ud83c\udf3f <a href=\"https://kolektiva.social/tags/WaterIsLife\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WaterIsLife</span></a>\ud83d\udca7Anti-<a href=\"https://kolektiva.social/tags/Corruption\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Corruption</span></a>\ud83d\udd0d <a href=\"https://kolektiva.social/tags/ClimateCrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCrisis</span></a>\ud83c\udf0d <a href=\"https://kolektiva.social/tags/RightToRepair\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RightToRepair</span></a> \ud83e\ude9b</p>",
+                "url": "https://kolektiva.social/@DoomsdaysCW",
+                "uri": "https://kolektiva.social/users/DoomsdaysCW",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/367/452/842/773/908/original/4b40403bb51ededf.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/367/452/842/773/908/original/4b40403bb51ededf.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/367/452/842/773/908/original/bb64ad69091f2627.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/367/452/842/773/908/original/bb64ad69091f2627.jpg",
+                "followers_count": 2314,
+                "following_count": 3854,
+                "statuses_count": 41345,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "nonbinary_flag",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/445/449/original/2688ffe05c44d21b.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/445/449/static/2688ffe05c44d21b.png",
+                        "visible_in_picker": true
+                    },
+                    {
+                        "shortcode": "QueerCat_Aromantic",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/435/006/original/43dcd4f881c410a2.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/435/006/static/43dcd4f881c410a2.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109442122945486649",
+                    "username": "MichaelPorter",
+                    "url": "https://ottawa.place/@MichaelPorter",
+                    "acct": "MichaelPorter@ottawa.place"
+                },
+                {
+                    "id": "108131017378560705",
+                    "username": "courtcan",
+                    "url": "https://mastodon.social/@courtcan",
+                    "acct": "courtcan"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112848414817563088",
+            "created_at": "2024-07-25T17:55:57.749Z",
+            "in_reply_to_id": "112847778197992558",
+            "in_reply_to_account_id": "109367452842773908",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.social/users/courtcan/statuses/112848414817563088",
+            "url": "https://mastodon.social/@courtcan/112848414817563088",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://kolektiva.social/@DoomsdaysCW\" class=\"u-url mention\">@<span>DoomsdaysCW</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@MichaelPorter\" class=\"u-url mention\">@<span>MichaelPorter</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> \ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for Android",
+                "website": "https://app.joinmastodon.org/android"
+            },
+            "account": {
+                "id": "108131017378560705",
+                "username": "courtcan",
+                "acct": "courtcan",
+                "display_name": "CourtneyCantrell won't go back",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-14T00:00:00.000Z",
+                "note": "<p>WYRDE<br /><a href=\"https://mastodon.social/tags/author\" class=\"mention hashtag\" rel=\"tag\">#<span>author</span></a> &amp; <a href=\"https://mastodon.social/tags/bibliophile\" class=\"mention hashtag\" rel=\"tag\">#<span>bibliophile</span></a>: <a href=\"https://mastodon.social/tags/fantasy\" class=\"mention hashtag\" rel=\"tag\">#<span>fantasy</span></a> <a href=\"https://mastodon.social/tags/scifi\" class=\"mention hashtag\" rel=\"tag\">#<span>scifi</span></a> <a href=\"https://mastodon.social/tags/specfic\" class=\"mention hashtag\" rel=\"tag\">#<span>specfic</span></a><br />Amerigerman cultural mutt <a href=\"https://mastodon.social/tags/ThirdCultureKid\" class=\"mention hashtag\" rel=\"tag\">#<span>ThirdCultureKid</span></a><br /><a href=\"https://mastodon.social/tags/ADHD\" class=\"mention hashtag\" rel=\"tag\">#<span>ADHD</span></a> <a href=\"https://mastodon.social/tags/DAVE\" class=\"mention hashtag\" rel=\"tag\">#<span>DAVE</span></a><br />leaning into lack<br />mischief<br />a/theist tarrying in the &quot;slash&quot;<br />critical thought <a href=\"https://mastodon.social/tags/neurosparkly\" class=\"mention hashtag\" rel=\"tag\">#<span>neurosparkly</span></a><br />she/her<br /><a href=\"https://mastodon.social/tags/Abi\" class=\"mention hashtag\" rel=\"tag\">#<span>Abi</span></a> &#39;96</p><p>courtcan.com</p><p>profile pic: me. white woman. 40s. chin-length dark blond curls w multi-colored streaks. gray &amp; black t-shirt</p><p>header: from my YA fantasy THE ACCURSED cover: teen girl, back to viewer, in ominous forest. long frizzy hair, long red dress. hopeful light beyond trees</p>",
+                "url": "https://mastodon.social/@courtcan",
+                "uri": "https://mastodon.social/users/courtcan",
+                "avatar": "https://files.mastodon.social/accounts/avatars/108/131/017/378/560/705/original/98ea37efd76771bd.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/108/131/017/378/560/705/original/98ea37efd76771bd.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/108/131/017/378/560/705/original/f6aa879b712d67d0.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/108/131/017/378/560/705/original/f6aa879b712d67d0.png",
+                "followers_count": 1755,
+                "following_count": 1173,
+                "statuses_count": 33448,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109367452842773908",
+                    "username": "DoomsdaysCW",
+                    "url": "https://kolektiva.social/@DoomsdaysCW",
+                    "acct": "DoomsdaysCW@kolektiva.social"
+                },
+                {
+                    "id": "109442122945486649",
+                    "username": "MichaelPorter",
+                    "url": "https://ottawa.place/@MichaelPorter",
+                    "acct": "MichaelPorter@ottawa.place"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112848861250490774",
+            "created_at": "2024-07-25T19:49:29.000Z",
+            "in_reply_to_id": "112847778197992558",
+            "in_reply_to_account_id": "109367452842773908",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://ottawa.place/users/MichaelPorter/statuses/112848861202253350",
+            "url": "https://ottawa.place/@MichaelPorter/112848861202253350",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://kolektiva.social/@DoomsdaysCW\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>DoomsdaysCW</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@courtcan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>courtcan</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Oh, definitely - it\u2019s the circle of life \ud83c\udfb6</p>",
+            "reblog": null,
+            "account": {
+                "id": "109442122945486649",
+                "username": "MichaelPorter",
+                "acct": "MichaelPorter@ottawa.place",
+                "display_name": "Michael Porter",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-02T00:00:00.000Z",
+                "note": "<p>Retired Chem/Physics/Earth Sciences teacher. I'm interested in everything.</p><p>I think society performs at its best when we take care of others, especially the weakest among us. That means a strong social safety net, with \"free\" healthcare, education, and public transit. It's a dream, I know.</p><p>30+ years of explaining stuff to teenagers has left me with some habits... I'm not a mansplainer, but I *do* like to find ways to 'splain stuff to receptive ears \ud83d\ude0a</p><p>My Toots: <a href=\"https://justmytoots.com/MichaelPorter@ottawa.place\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justmytoots.com/MichaelPorter@</span><span class=\"invisible\">ottawa.place</span></a></p>",
+                "url": "https://ottawa.place/@MichaelPorter",
+                "uri": "https://ottawa.place/users/MichaelPorter",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/442/122/945/486/649/original/3862f1e9fcf0008f.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/442/122/945/486/649/original/3862f1e9fcf0008f.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/442/122/945/486/649/original/6a834d7493ae26d8.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/442/122/945/486/649/original/6a834d7493ae26d8.jpeg",
+                "followers_count": 815,
+                "following_count": 527,
+                "statuses_count": 24403,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Head",
+                        "value": "Red",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Philosophy",
+                        "value": "Humanist",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Politics",
+                        "value": "Woke AF",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109367452842773908",
+                    "username": "DoomsdaysCW",
+                    "url": "https://kolektiva.social/@DoomsdaysCW",
+                    "acct": "DoomsdaysCW@kolektiva.social"
+                },
+                {
+                    "id": "108131017378560705",
+                    "username": "courtcan",
+                    "url": "https://mastodon.social/@courtcan",
+                    "acct": "courtcan"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112850405119652148",
+            "created_at": "2024-07-26T02:22:07.349Z",
+            "in_reply_to_id": "112848861250490774",
+            "in_reply_to_account_id": "109442122945486649",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.social/users/courtcan/statuses/112850405119652148",
+            "url": "https://mastodon.social/@courtcan/112850405119652148",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 2,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@MichaelPorter\" class=\"u-url mention\">@<span>MichaelPorter</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://kolektiva.social/@DoomsdaysCW\" class=\"u-url mention\">@<span>DoomsdaysCW</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> \ud83c\udfb6and it eats us alllllllll\ud83c\udfb6</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for Android",
+                "website": "https://app.joinmastodon.org/android"
+            },
+            "account": {
+                "id": "108131017378560705",
+                "username": "courtcan",
+                "acct": "courtcan",
+                "display_name": "CourtneyCantrell won't go back",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-14T00:00:00.000Z",
+                "note": "<p>WYRDE<br /><a href=\"https://mastodon.social/tags/author\" class=\"mention hashtag\" rel=\"tag\">#<span>author</span></a> &amp; <a href=\"https://mastodon.social/tags/bibliophile\" class=\"mention hashtag\" rel=\"tag\">#<span>bibliophile</span></a>: <a href=\"https://mastodon.social/tags/fantasy\" class=\"mention hashtag\" rel=\"tag\">#<span>fantasy</span></a> <a href=\"https://mastodon.social/tags/scifi\" class=\"mention hashtag\" rel=\"tag\">#<span>scifi</span></a> <a href=\"https://mastodon.social/tags/specfic\" class=\"mention hashtag\" rel=\"tag\">#<span>specfic</span></a><br />Amerigerman cultural mutt <a href=\"https://mastodon.social/tags/ThirdCultureKid\" class=\"mention hashtag\" rel=\"tag\">#<span>ThirdCultureKid</span></a><br /><a href=\"https://mastodon.social/tags/ADHD\" class=\"mention hashtag\" rel=\"tag\">#<span>ADHD</span></a> <a href=\"https://mastodon.social/tags/DAVE\" class=\"mention hashtag\" rel=\"tag\">#<span>DAVE</span></a><br />leaning into lack<br />mischief<br />a/theist tarrying in the &quot;slash&quot;<br />critical thought <a href=\"https://mastodon.social/tags/neurosparkly\" class=\"mention hashtag\" rel=\"tag\">#<span>neurosparkly</span></a><br />she/her<br /><a href=\"https://mastodon.social/tags/Abi\" class=\"mention hashtag\" rel=\"tag\">#<span>Abi</span></a> &#39;96</p><p>courtcan.com</p><p>profile pic: me. white woman. 40s. chin-length dark blond curls w multi-colored streaks. gray &amp; black t-shirt</p><p>header: from my YA fantasy THE ACCURSED cover: teen girl, back to viewer, in ominous forest. long frizzy hair, long red dress. hopeful light beyond trees</p>",
+                "url": "https://mastodon.social/@courtcan",
+                "uri": "https://mastodon.social/users/courtcan",
+                "avatar": "https://files.mastodon.social/accounts/avatars/108/131/017/378/560/705/original/98ea37efd76771bd.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/108/131/017/378/560/705/original/98ea37efd76771bd.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/108/131/017/378/560/705/original/f6aa879b712d67d0.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/108/131/017/378/560/705/original/f6aa879b712d67d0.png",
+                "followers_count": 1755,
+                "following_count": 1173,
+                "statuses_count": 33448,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109442122945486649",
+                    "username": "MichaelPorter",
+                    "url": "https://ottawa.place/@MichaelPorter",
+                    "acct": "MichaelPorter@ottawa.place"
+                },
+                {
+                    "id": "109367452842773908",
+                    "username": "DoomsdaysCW",
+                    "url": "https://kolektiva.social/@DoomsdaysCW",
+                    "acct": "DoomsdaysCW@kolektiva.social"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112843439981113078",
+            "created_at": "2024-07-24T20:50:47.764Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.social/users/Eetschrijver/statuses/112843439981113078",
+            "url": "https://mastodon.social/@Eetschrijver/112843439981113078",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> Sure, we&#39;ll all adapt just wonderfully. \ud83d\ude44</p>",
+            "reblog": null,
+            "application": {
+                "name": "Tusky",
+                "website": "https://tusky.app"
+            },
+            "account": {
+                "id": "8699",
+                "username": "Eetschrijver",
+                "acct": "Eetschrijver",
+                "display_name": "GJ Groothedde \ud83c\uddea\ud83c\uddfa",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": true,
+                "group": false,
+                "created_at": "2016-11-02T00:00:00.000Z",
+                "note": "<p>Europ\u00e9en en Limousin. Auteur &#39;Weg van de supermarkt&#39; en &#39;het Antidieetboek&#39;. Schrijft en vertaalt, vaak in opdracht. Gemeenteraadslid in Pittoresk Eetschrijversdorpje (F). Heet voluit Gerrit Jan (negen letters, \u00e9\u00e9n spatie, geen streepje). Volgt wanneer leuke interactie ontstaat. Opgeheven vingertjes mogen in een dijk of in een ander donker gat. <br />I am a food writer and translator living my best life in France. I post mainly in Dutch, respond in English, French and more. Trump enablers = block.</p>",
+                "url": "https://mastodon.social/@Eetschrijver",
+                "uri": "https://mastodon.social/users/Eetschrijver",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/008/699/original/HADB_cutout.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/008/699/original/HADB_cutout.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/000/008/699/original/5f1489e1cfca8154.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/008/699/original/5f1489e1cfca8154.png",
+                "followers_count": 1991,
+                "following_count": 979,
+                "statuses_count": 64395,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://eetschrijver.nl\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">eetschrijver.nl</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112843439700071161",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/media_attachments/files/112/843/439/700/071/161/original/5ad06bd3ab4b6130.png",
+                    "preview_url": "https://files.mastodon.social/media_attachments/files/112/843/439/700/071/161/small/5ad06bd3ab4b6130.png",
+                    "remote_url": null,
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 604,
+                            "height": 270,
+                            "size": "604x270",
+                            "aspect": 2.237037037037037
+                        },
+                        "small": {
+                            "width": 604,
+                            "height": 270,
+                            "size": "604x270",
+                            "aspect": 2.237037037037037
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "UmKnYnDi0Kxv%hofMdV@?HWBInbHWXRjxZof"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112844018903776257",
+            "created_at": "2024-07-24T23:18:00.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://awscommunity.social/users/Cirdan/statuses/112844018842418601",
+            "url": "https://awscommunity.social/@Cirdan/112844018842418601",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> <br>The article is myopic. That vast majority of people dieing will result from climactic conditions causing a collapse in food chains and distribution chains.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109310324928503046",
+                "username": "Cirdan",
+                "acct": "Cirdan@awscommunity.social",
+                "display_name": "Jonathan D. Cope,  Esq.",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-05T00:00:00.000Z",
+                "note": "<p>Neurodivergent Alaskan expat who is a proud father to one autistic, and very brainy, transgender daughter, one heterosexual son, and one gay son</p><p>Olympia, Washington </p><p>Background: Copper River Basin Alaska<br>I saw why salmon swim upstream to die in Heaven</p><p><a href=\"https://awscommunity.social/tags/capitalism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>capitalism</span></a> <a href=\"https://awscommunity.social/tags/law\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>law</span></a> <a href=\"https://awscommunity.social/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a> <a href=\"https://awscommunity.social/tags/CCE\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CCE</span></a><br><a href=\"https://awscommunity.social/tags/lawfedi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lawfedi</span></a> <a href=\"https://awscommunity.social/tags/legal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>legal</span></a> <a href=\"https://awscommunity.social/tags/lawprofs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lawprofs</span></a> <a href=\"https://awscommunity.social/tags/scotus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scotus</span></a><br><a href=\"https://awscommunity.social/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://awscommunity.social/tags/CommonsCapitalism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CommonsCapitalism</span></a><br><a href=\"https://awscommunity.social/tags/socialism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>socialism</span></a></p>",
+                "url": "https://awscommunity.social/@Cirdan",
+                "uri": "https://awscommunity.social/users/Cirdan",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/310/324/928/503/046/original/41292ca47cd81b1b.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/310/324/928/503/046/original/41292ca47cd81b1b.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/310/324/928/503/046/original/e7b6ab2286e5e20c.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/310/324/928/503/046/original/e7b6ab2286e5e20c.jpg",
+                "followers_count": 126,
+                "following_count": 375,
+                "statuses_count": 3443,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "www.commonscapitalism.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Email",
+                        "value": "jdcope@commonscapitalism.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Gravatar",
+                        "value": "<a href=\"https://gravatar.com/mellowsecretly39b5fddcd1\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gravatar.com/mellowsecretly39b</span><span class=\"invisible\">5fddcd1</span></a>",
+                        "verified_at": "2024-08-24T16:30:30.544+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112844405352166752",
+            "created_at": "2024-07-25T00:56:17.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://techhub.social/users/Ralph058/statuses/112844405326440090",
+            "url": "https://techhub.social/@Ralph058/112844405326440090",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> All of the models have been based on a linear increase in temperature. The past three years have set a trend line that looks like the expected climate change for 60 years from now will occur in 10.<br>The good news is that 'silicon Valley' university will be uninhabitable and tech billionaires' ocean front properties will be under water.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109367491303479074",
+                "username": "Ralph058",
+                "acct": "Ralph058@techhub.social",
+                "display_name": "Ralph058 (S/he/it) 4 Harris",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>Old spook and spy. DSc in Optical Sciences and Sensors. Worked in aerospace, medical device development, and ADAS. Mostly a good paying hobby. Retired for now. Playing with Computer Vision and DNNs. Whimsical outdoor railroad with gnomes, fairies, and dragons.</p>",
+                "url": "https://techhub.social/@Ralph058",
+                "uri": "https://techhub.social/users/Ralph058",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/367/491/303/479/074/original/83e42518e28c0afa.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/367/491/303/479/074/original/83e42518e28c0afa.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 359,
+                "following_count": 448,
+                "statuses_count": 38066,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112845084631564375",
+            "created_at": "2024-07-25T03:48:57.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112845084288365303",
+            "url": "https://mastodon.au/@largess/112845084288365303",
+            "replies_count": 2,
+            "reblogs_count": 14,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span><br>Expect humans to adapt huh? And what experts are these, this guy perhaps ?</p><p><a href=\"https://theintercept.com/2023/10/29/william-nordhaus-climate-economics/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">theintercept.com/2023/10/29/wi</span><span class=\"invisible\">lliam-nordhaus-climate-economics/</span></a></p><p>The wealthy will find it more inconvenient and costly as this gets worse ... and the poor will die.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://theintercept.com/2023/10/29/william-nordhaus-climate-economics/",
+                "title": "When Idiot Savants Do Climate Economics",
+                "description": "How an elite clique of math-addled economists hijacked climate policy.",
+                "language": "en",
+                "type": "link",
+                "author_name": "Christopher Ketcham",
+                "author_url": "",
+                "provider_name": "The Intercept",
+                "provider_url": "",
+                "html": "",
+                "width": 678,
+                "height": 339,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/077/433/483/original/b998faa9236e67b9.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "ULAv|coN0eW=M]NGM{%1o~s.s8I;IVR.%MoI",
+                "published_at": "2023-10-29T12:00:00.000Z",
+                "authors": [
+                    {
+                        "name": "Christopher Ketcham",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112846863538641901",
+            "created_at": "2024-07-25T11:21:26.000Z",
+            "in_reply_to_id": "112845084631564375",
+            "in_reply_to_account_id": "109412631555333276",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://social.doescher.me/users/marcusdeh/statuses/01J3MSZQE2SCFKEM6FSW1GE2QA",
+            "url": "https://social.doescher.me/@marcusdeh/statuses/01J3MSZQE2SCFKEM6FSW1GE2QA",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.au/@largess\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>largess</span></a></span> <span class=\"h-card\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> sometimes my only solace is the knowledge that the wealthy will eventually suffer as well \ud83d\ude22\ud83d\ude2c</p>",
+            "reblog": null,
+            "account": {
+                "id": "112554936782760327",
+                "username": "marcusdeh",
+                "acct": "marcusdeh@social.doescher.me",
+                "display_name": "marcus :neobread_flag_pan: :neobread_flag_nb: \ud83d\ude37",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-06-03T00:00:00.000Z",
+                "note": "<p>Caring about politics, writing, science fiction, coding and more. Working as a computer toucher in germany. Still avoiding covid.<br><br>Would love to visit Aotearoa / New Zealand &amp; Australia sometime in the future. Maybe even live there for a while.<br><br>Something like a newly hatched enby (do enbies hatch from eggs as well?)<br><br>Usually moderately annoyed with things.<br><br>admin and single inhabitant of social.doescher.me<br><br><a href=\"https://social.doescher.me/tags/covidisnotover\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>covidisnotover</span></a> <a href=\"https://social.doescher.me/tags/millenial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>millenial</span></a> <a href=\"https://social.doescher.me/tags/enby\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>enby</span></a> <a href=\"https://social.doescher.me/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webdev</span></a> \ud83c\uddfa\ud83c\udde6<br><br>avatar by <span class=\"h-card\"><a href=\"https://socel.net/@heyheymomo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>heyheymomo</span></a></span></p>",
+                "url": "https://social.doescher.me/@marcusdeh",
+                "uri": "https://social.doescher.me/users/marcusdeh",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/554/936/782/760/327/original/65a0048e49ab3ef5.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/554/936/782/760/327/original/65a0048e49ab3ef5.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/554/936/782/760/327/original/7827a169d83725c2.webp",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/554/936/782/760/327/original/7827a169d83725c2.webp",
+                "followers_count": 8,
+                "following_count": 479,
+                "statuses_count": 298,
+                "last_status_at": "2024-08-25",
+                "hide_collections": false,
+                "moved": {
+                    "id": "109281048707452505",
+                    "username": "marcusdeh",
+                    "acct": "marcusdeh@indieweb.social",
+                    "display_name": "marcus",
+                    "locked": false,
+                    "bot": false,
+                    "discoverable": false,
+                    "indexable": false,
+                    "group": false,
+                    "created_at": "2022-11-03T00:00:00.000Z",
+                    "note": "<p>Caring about politics, writing, science fiction, coding and more. Working as a computer toucher in germany. Still avoiding covid.</p><p>Would love to visit Aotearoa / New Zealand &amp; Australia sometime in the future. Maybe even live there for a while. </p><p>Something like a newly hatched enby. </p><p>Semi professional vibe-salter. <br>Usually moderately annoyed with things. </p><p>It's only AI if it's from the AI region in France. Otherwise it's just sparkling autocomplete. </p><p>avatar by <span class=\"h-card\" translate=\"no\"><a href=\"https://socel.net/@heyheymomo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>heyheymomo</span></a></span></p>",
+                    "url": "https://indieweb.social/@marcusdeh",
+                    "uri": "https://indieweb.social/users/marcusdeh",
+                    "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/281/048/707/452/505/original/3e35a4d9984aa223.png",
+                    "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/281/048/707/452/505/original/3e35a4d9984aa223.png",
+                    "header": "https://files.mastodon.social/cache/accounts/headers/109/281/048/707/452/505/original/1049ad86dd0a4ecc.jpg",
+                    "header_static": "https://files.mastodon.social/cache/accounts/headers/109/281/048/707/452/505/original/1049ad86dd0a4ecc.jpg",
+                    "followers_count": 59,
+                    "following_count": 490,
+                    "statuses_count": 378,
+                    "last_status_at": "2024-08-27",
+                    "hide_collections": false,
+                    "emojis": [],
+                    "fields": [
+                        {
+                            "name": "location",
+                            "value": "Germany",
+                            "verified_at": null
+                        },
+                        {
+                            "name": "pronouns",
+                            "value": "they / them",
+                            "verified_at": null
+                        },
+                        {
+                            "name": "covid",
+                            "value": "no thank you",
+                            "verified_at": null
+                        },
+                        {
+                            "name": "doescher.ninja",
+                            "value": "<a href=\"https://doescher.ninja\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doescher.ninja</span><span class=\"invisible\"></span></a>",
+                            "verified_at": null
+                        }
+                    ]
+                },
+                "emojis": [
+                    {
+                        "shortcode": "neobread_flag_pan",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/936/804/original/37e545359e86721c.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/936/804/static/37e545359e86721c.png",
+                        "visible_in_picker": true
+                    },
+                    {
+                        "shortcode": "neobread_flag_nb",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/936/829/original/6f60cfa0c752809b.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/936/829/static/6f60cfa0c752809b.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "pronouns",
+                        "value": "they / them",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "covid",
+                        "value": "no thank you",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "website",
+                        "value": "<a href=\"https://doescher.me\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">doescher.me</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T02:25:31.716+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109412631555333276",
+                    "username": "largess",
+                    "url": "https://mastodon.au/@largess",
+                    "acct": "largess@mastodon.au"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112847754692943811",
+            "created_at": "2024-07-25T15:08:02.000Z",
+            "in_reply_to_id": "112845084631564375",
+            "in_reply_to_account_id": "109412631555333276",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/DoomsdaysCW/statuses/112847754497507324",
+            "url": "https://kolektiva.social/@DoomsdaysCW/112847754497507324",
+            "replies_count": 1,
+            "reblogs_count": 10,
+            "favourites_count": 2,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.au/@largess\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>largess</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> And it's always, \"How are humans going to adapt,\" or \"How humans can filter PFAS and protect their health,\" etc. -- as if they were the only living beings on this planet! Are we going to install PFAS filters in all the rivers and the clouds?!!! And don't get me started about deep sea mining! smh</p>",
+            "reblog": null,
+            "account": {
+                "id": "109367452842773908",
+                "username": "DoomsdaysCW",
+                "acct": "DoomsdaysCW@kolektiva.social",
+                "display_name": "DoomsdaysCW",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>Former Journalist\ud83d\udcf0 and occasional Librarian \ud83d\udcda, <a href=\"https://kolektiva.social/tags/IndigenousAlly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousAlly</span></a> living on <a href=\"https://kolektiva.social/tags/Wabanaki\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wabanaki</span></a> land\ud83c\udf04. <br><a href=\"https://kolektiva.social/tags/NonBinary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NonBinary</span></a> :nonbinary_flag:  <a href=\"https://kolektiva.social/tags/Queer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Queer</span></a> :QueerCat_Aromantic: <a href=\"https://kolektiva.social/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyAutistic</span></a>\u267e\ufe0f Pronouns: They, them, per, person, human.<br><a href=\"https://kolektiva.social/tags/Green\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Green</span></a>\ud83c\udf33 <a href=\"https://kolektiva.social/tags/Socialist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Socialist</span></a>\ud83e\udd1d Student of <a href=\"https://kolektiva.social/tags/Archaeology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Archaeology</span></a> \ud83d\udc80&amp; <a href=\"https://kolektiva.social/tags/History\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>History</span></a> \ud83d\udcdc<br><a href=\"https://kolektiva.social/tags/NoNukes\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoNukes</span></a>\u2622\ufe0f Anti-<a href=\"https://kolektiva.social/tags/Oligarchy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Oligarchy</span></a>\ud83c\udfa9 <a href=\"https://kolektiva.social/tags/NoWar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoWar</span></a>\u262e\ufe0f <a href=\"https://kolektiva.social/tags/GetMoneyOut\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GetMoneyOut</span></a>\ud83d\udcb0<a href=\"https://kolektiva.social/tags/HumanRights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HumanRights</span></a>\ud83d\udd75\ufe0f\u200d\u2642\ufe0f <a href=\"https://kolektiva.social/tags/CeasefireNow\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CeasefireNow</span></a>\ud83c\uddf5\ud83c\uddf8 <a href=\"https://kolektiva.social/tags/BLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BLM</span></a>\u270a\ud83c\udfff  <a href=\"https://kolektiva.social/tags/IndigenousRights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousRights</span></a> \ud83c\udf3f <a href=\"https://kolektiva.social/tags/WaterIsLife\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WaterIsLife</span></a>\ud83d\udca7Anti-<a href=\"https://kolektiva.social/tags/Corruption\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Corruption</span></a>\ud83d\udd0d <a href=\"https://kolektiva.social/tags/ClimateCrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCrisis</span></a>\ud83c\udf0d <a href=\"https://kolektiva.social/tags/RightToRepair\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RightToRepair</span></a> \ud83e\ude9b</p>",
+                "url": "https://kolektiva.social/@DoomsdaysCW",
+                "uri": "https://kolektiva.social/users/DoomsdaysCW",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/367/452/842/773/908/original/4b40403bb51ededf.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/367/452/842/773/908/original/4b40403bb51ededf.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/367/452/842/773/908/original/bb64ad69091f2627.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/367/452/842/773/908/original/bb64ad69091f2627.jpg",
+                "followers_count": 2314,
+                "following_count": 3854,
+                "statuses_count": 41345,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "nonbinary_flag",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/445/449/original/2688ffe05c44d21b.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/445/449/static/2688ffe05c44d21b.png",
+                        "visible_in_picker": true
+                    },
+                    {
+                        "shortcode": "QueerCat_Aromantic",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/435/006/original/43dcd4f881c410a2.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/435/006/static/43dcd4f881c410a2.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109412631555333276",
+                    "username": "largess",
+                    "url": "https://mastodon.au/@largess",
+                    "acct": "largess@mastodon.au"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112847889473125228",
+            "created_at": "2024-07-25T15:42:20.000Z",
+            "in_reply_to_id": "112847754692943811",
+            "in_reply_to_account_id": "109367452842773908",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "de",
+            "uri": "https://troet.cafe/users/grootinside/statuses/112847889394117458",
+            "url": "https://troet.cafe/@grootinside/112847889394117458",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://kolektiva.social/@DoomsdaysCW\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>DoomsdaysCW</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.au/@largess\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>largess</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Exactly. All food- and supplychains will collapse, one by one, As the ecosystems are dying off and the fieldworkers can't handle the heat, the floods and their livings in general anymore. <br>Something like Soylent Green then... til the environment is not livable/affordable for most of us anymore.<br>Yay.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110051627089348085",
+                "username": "grootinside",
+                "acct": "grootinside@troet.cafe",
+                "display_name": "Gondor",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-03-19T00:00:00.000Z",
+                "note": "<p>Based near Berlin, into eMobility, 3D printing, music, music, photography, humor, artists, travelling, Motorcycles, surviving humans as they destroy nature, definitely NOT enjoying being a part of \"the problem\".... Did i mention music?</p><p>Btw. using mostly english since this is the internet.</p>",
+                "url": "https://troet.cafe/@grootinside",
+                "uri": "https://troet.cafe/users/grootinside",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/051/627/089/348/085/original/eac41e5e1c3479b8.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/051/627/089/348/085/original/eac41e5e1c3479b8.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/051/627/089/348/085/original/aea22f2b57aa1e6b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/051/627/089/348/085/original/aea22f2b57aa1e6b.jpg",
+                "followers_count": 188,
+                "following_count": 265,
+                "statuses_count": 1069,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109367452842773908",
+                    "username": "DoomsdaysCW",
+                    "url": "https://kolektiva.social/@DoomsdaysCW",
+                    "acct": "DoomsdaysCW@kolektiva.social"
+                },
+                {
+                    "id": "109412631555333276",
+                    "username": "largess",
+                    "url": "https://mastodon.au/@largess",
+                    "acct": "largess@mastodon.au"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112846109571682957",
+            "created_at": "2024-07-25T08:09:41.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.nl/users/xerge/statuses/112846109531858189",
+            "url": "https://mastodon.nl/@xerge/112846109531858189",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> we were doomed the moment that journalism largely transitioned from well-informed articles firmly connected to reality to more profitable clickbait. At this point it also doesn\u2019t really matter anymore if journalists are able to distinguish experts from confident idiots or if they just couldn\u2019t care less. The outcome is the same. We\u2019re done.</p>",
+            "reblog": null,
+            "account": {
+                "id": "1204208",
+                "username": "xerge",
+                "acct": "xerge@mastodon.nl",
+                "display_name": "Serge",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-05-02T00:00:00.000Z",
+                "note": "<p>Scientist | Engineer | Supramolecular and Organic Chemist | Biomaterials | NMR Guy | Collector of Skills | Solver of Puzzles | Maker of Things</p>",
+                "url": "https://mastodon.nl/@xerge",
+                "uri": "https://mastodon.nl/users/xerge",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/001/204/208/original/083405a1da5a2a5a.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/001/204/208/original/083405a1da5a2a5a.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 170,
+                "following_count": 167,
+                "statuses_count": 3866,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112846701023571154",
+            "created_at": "2024-07-25T10:40:06.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://norden.social/users/wackJackle/statuses/112846700982958024",
+            "url": "https://norden.social/@wackJackle/112846700982958024",
+            "replies_count": 0,
+            "reblogs_count": 2,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Unbelievable irresponsibility. Those 'journalists' should face consequences one day.</p>",
+            "reblog": null,
+            "account": {
+                "id": "108196493079961171",
+                "username": "wackJackle",
+                "acct": "wackJackle@norden.social",
+                "display_name": "Weltzeitgeist",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-25T00:00:00.000Z",
+                "note": "<p>Metamoderne // Solarpunk // Wider dem Technofaschismus des Sp\u00e4tkapitalismus' // AnsichtenEinesClowns  // 'Kreisende Erregungen im Netzwerk' (Peter Kruse) --&gt; <a href=\"https://www.youtube.com/watch?v=kFMd-Q-0jvs\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=kFMd-Q-0jv</span><span class=\"invisible\">s</span></a></p>",
+                "url": "https://norden.social/@wackJackle",
+                "uri": "https://norden.social/users/wackJackle",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/196/493/079/961/171/original/443c5a765778178c.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/196/493/079/961/171/original/443c5a765778178c.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/196/493/079/961/171/original/dd609230193d42e4.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/196/493/079/961/171/original/dd609230193d42e4.jpeg",
+                "followers_count": 687,
+                "following_count": 2357,
+                "statuses_count": 16005,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112846788576520980",
+            "created_at": "2024-07-25T11:02:19.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.social/users/justafrog/statuses/112846788310656355",
+            "url": "https://mstdn.social/@justafrog/112846788310656355",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Really curious what their expected adaptations are for long periods of 55C+ temperatures, multi-year droughts and Cat6 hurricanes.</p><p>Those all seem really hard to survive, and will happen to populated areas.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109565903208027512",
+                "username": "justafrog",
+                "acct": "justafrog@mstdn.social",
+                "display_name": "JustAFrog",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-24T00:00:00.000Z",
+                "note": "<p>Full-time amphibian.</p><p>Strongly committed to treating all individuals of the most common primate species fully as valid persons as much as possible.</p><p>Concerned about covid19, climate destabilization and economic equality.</p><p>Likes complete information abstract board games which have been played for centuries, straight into this modern time.</p><p>Middling at chess, kind of okay at baduk. Into the third year of taking shogi seriously.</p>",
+                "url": "https://mstdn.social/@justafrog",
+                "uri": "https://mstdn.social/users/justafrog",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/565/903/208/027/512/original/44f3208a50ee49f3.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/565/903/208/027/512/original/44f3208a50ee49f3.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 662,
+                "following_count": 218,
+                "statuses_count": 7602,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112846896372531214",
+            "created_at": "2024-07-25T11:29:28.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/MelissaBenyon/statuses/112846895069194454",
+            "url": "https://climatejustice.social/@MelissaBenyon/112846895069194454",
+            "replies_count": 1,
+            "reblogs_count": 5,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> One point to be aware of : There is an organisation in Australia called Breakthrough : National Centre for Climate Restoration which does good work and has nothing to do with the Breakthrough Institute.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109285027480093361",
+                "username": "MelissaBenyon",
+                "acct": "MelissaBenyon@climatejustice.social",
+                "display_name": "Melissa B",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-04T00:00:00.000Z",
+                "note": "<p>Climate action, sustainability, justice and equality for all. Living off-grid on acreage in southern NSW.</p>",
+                "url": "https://climatejustice.social/@MelissaBenyon",
+                "uri": "https://climatejustice.social/users/MelissaBenyon",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/285/027/480/093/361/original/539670d535c25c86.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/285/027/480/093/361/original/539670d535c25c86.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/285/027/480/093/361/original/4be41aea21d96207.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/285/027/480/093/361/original/4be41aea21d96207.jpg",
+                "followers_count": 42,
+                "following_count": 130,
+                "statuses_count": 220,
+                "last_status_at": "2024-08-17",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112846922918738695",
+            "created_at": "2024-07-25T11:34:14.000Z",
+            "in_reply_to_id": "112846896372531214",
+            "in_reply_to_account_id": "109285027480093361",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/breadandcircuses/statuses/112846913811826928",
+            "url": "https://climatejustice.social/@breadandcircuses/112846913811826928",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@MelissaBenyon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MelissaBenyon</span></a></span> Thank you for that heads-up!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109298515581226227",
+                "username": "breadandcircuses",
+                "acct": "breadandcircuses@climatejustice.social",
+                "display_name": "Bread and Circuses",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-06T00:00:00.000Z",
+                "note": "<p>\ud83c\udf0f Born at 312 PPM</p><p>Retired NGO executive doing my best to stay informed and raise awareness about environmental crises, climate breakdown, and the rapacious, murderous impact of greedy capitalists and the politicians they own.</p><p>Why the name?  Back in the day, empires placated their citizens with \"bread and circuses.\" Now we get fast food and apps. But it's all basically the same \u2014 distraction from what's REALLY happening.</p>",
+                "url": "https://climatejustice.social/@breadandcircuses",
+                "uri": "https://climatejustice.social/users/breadandcircuses",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/298/515/581/226/227/original/681f99a5d35fedf3.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/298/515/581/226/227/original/681f99a5d35fedf3.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/298/515/581/226/227/original/1aeb7143cc06b930.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/298/515/581/226/227/original/1aeb7143cc06b930.jpg",
+                "followers_count": 9545,
+                "following_count": 742,
+                "statuses_count": 4421,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "See my Toots",
+                        "value": "<a href=\"https://justmytoots.com/@breadandcircuses@climatejustice.social\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justmytoots.com/@breadandcircu</span><span class=\"invisible\">ses@climatejustice.social</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Favorite saying",
+                        "value": "\"Be kind to everyone you meet, for they are fighting a great battle.\u201d",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109285027480093361",
+                    "username": "MelissaBenyon",
+                    "url": "https://climatejustice.social/@MelissaBenyon",
+                    "acct": "MelissaBenyon@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112846952685713895",
+            "created_at": "2024-07-25T11:44:07.379Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/tadbithuman/statuses/112846952685713895",
+            "url": "https://mastodon.social/@tadbithuman/112846952685713895",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> those people, their ideas and the resources they command make them a threat to all humanity.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for Android",
+                "website": "https://app.joinmastodon.org/android"
+            },
+            "account": {
+                "id": "109246039769118046",
+                "username": "tadbithuman",
+                "acct": "tadbithuman",
+                "display_name": "Nobody \u0628\u0627\u0686\u06cc\u0632 \u0928\u093e\u0938\u094d\u0924\u093f (he/him)",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>Hello everyone!</p><p>I&#39;m an engineer interested in safe, sustainable and resilient shelter and infrastructure, reversing climate change, climate equity, IAQ, social justice.</p><p><a href=\"https://mastodon.social/@tadbithuman/109260045494704312\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@tadbithuman/1</span><span class=\"invisible\">09260045494704312</span></a></p>",
+                "url": "https://mastodon.social/@tadbithuman",
+                "uri": "https://mastodon.social/users/tadbithuman",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 680,
+                "following_count": 1673,
+                "statuses_count": 81696,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112846993659965019",
+            "created_at": "2024-07-25T11:54:31.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://techhub.social/users/leeloo/statuses/112846993617449500",
+            "url": "https://techhub.social/@leeloo/112846993617449500",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span><br>I have no doubt that humans will adapt.</p><p>But I am not humans, and neither are you.</p><p>Humans can adapt to a world that can only provide food for a few tens of thousands individuals, our ancestors managed to survive a few ice ages. But you and me? We are unlikely to be among those few.</p>",
+            "reblog": null,
+            "account": {
+                "id": "111714016532840303",
+                "username": "leeloo",
+                "acct": "leeloo@techhub.social",
+                "display_name": "Leeloo",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-01-04T00:00:00.000Z",
+                "note": "<p>Software developer, hobbyist keyboard player, kayaker, home cook. Casual gamer. Preferred games are no faster than Portal and less violent than chess. I need time to think.</p><p>C#, Swift, Javascript, C.</p><p>Windows for work, everything else at home. Keeping things separate.</p><p>\ud83c\udde9\ud83c\uddf0\ud83d\udeb4\u200d\u2640\ufe0f\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83e\uddc4\ud83e\udd56</p>",
+                "url": "https://techhub.social/@leeloo",
+                "uri": "https://techhub.social/users/leeloo",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/714/016/532/840/303/original/86c3569d15f72a1b.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/714/016/532/840/303/original/86c3569d15f72a1b.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/111/714/016/532/840/303/original/3c00706453a14a3c.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/111/714/016/532/840/303/original/3c00706453a14a3c.jpg",
+                "followers_count": 88,
+                "following_count": 37,
+                "statuses_count": 1491,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"http://leeloo.dk.eu.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">leeloo.dk.eu.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112847784997436452",
+            "created_at": "2024-07-25T15:15:45.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/DoomsdaysCW/statuses/112847784894175202",
+            "url": "https://kolektiva.social/@DoomsdaysCW/112847784894175202",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Agreed! I was stunned when I saw that headline.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109367452842773908",
+                "username": "DoomsdaysCW",
+                "acct": "DoomsdaysCW@kolektiva.social",
+                "display_name": "DoomsdaysCW",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>Former Journalist\ud83d\udcf0 and occasional Librarian \ud83d\udcda, <a href=\"https://kolektiva.social/tags/IndigenousAlly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousAlly</span></a> living on <a href=\"https://kolektiva.social/tags/Wabanaki\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wabanaki</span></a> land\ud83c\udf04. <br><a href=\"https://kolektiva.social/tags/NonBinary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NonBinary</span></a> :nonbinary_flag:  <a href=\"https://kolektiva.social/tags/Queer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Queer</span></a> :QueerCat_Aromantic: <a href=\"https://kolektiva.social/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyAutistic</span></a>\u267e\ufe0f Pronouns: They, them, per, person, human.<br><a href=\"https://kolektiva.social/tags/Green\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Green</span></a>\ud83c\udf33 <a href=\"https://kolektiva.social/tags/Socialist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Socialist</span></a>\ud83e\udd1d Student of <a href=\"https://kolektiva.social/tags/Archaeology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Archaeology</span></a> \ud83d\udc80&amp; <a href=\"https://kolektiva.social/tags/History\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>History</span></a> \ud83d\udcdc<br><a href=\"https://kolektiva.social/tags/NoNukes\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoNukes</span></a>\u2622\ufe0f Anti-<a href=\"https://kolektiva.social/tags/Oligarchy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Oligarchy</span></a>\ud83c\udfa9 <a href=\"https://kolektiva.social/tags/NoWar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoWar</span></a>\u262e\ufe0f <a href=\"https://kolektiva.social/tags/GetMoneyOut\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GetMoneyOut</span></a>\ud83d\udcb0<a href=\"https://kolektiva.social/tags/HumanRights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HumanRights</span></a>\ud83d\udd75\ufe0f\u200d\u2642\ufe0f <a href=\"https://kolektiva.social/tags/CeasefireNow\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CeasefireNow</span></a>\ud83c\uddf5\ud83c\uddf8 <a href=\"https://kolektiva.social/tags/BLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BLM</span></a>\u270a\ud83c\udfff  <a href=\"https://kolektiva.social/tags/IndigenousRights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousRights</span></a> \ud83c\udf3f <a href=\"https://kolektiva.social/tags/WaterIsLife\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WaterIsLife</span></a>\ud83d\udca7Anti-<a href=\"https://kolektiva.social/tags/Corruption\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Corruption</span></a>\ud83d\udd0d <a href=\"https://kolektiva.social/tags/ClimateCrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCrisis</span></a>\ud83c\udf0d <a href=\"https://kolektiva.social/tags/RightToRepair\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RightToRepair</span></a> \ud83e\ude9b</p>",
+                "url": "https://kolektiva.social/@DoomsdaysCW",
+                "uri": "https://kolektiva.social/users/DoomsdaysCW",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/367/452/842/773/908/original/4b40403bb51ededf.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/367/452/842/773/908/original/4b40403bb51ededf.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/367/452/842/773/908/original/bb64ad69091f2627.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/367/452/842/773/908/original/bb64ad69091f2627.jpg",
+                "followers_count": 2314,
+                "following_count": 3854,
+                "statuses_count": 41345,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "nonbinary_flag",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/445/449/original/2688ffe05c44d21b.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/445/449/static/2688ffe05c44d21b.png",
+                        "visible_in_picker": true
+                    },
+                    {
+                        "shortcode": "QueerCat_Aromantic",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/435/006/original/43dcd4f881c410a2.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/435/006/static/43dcd4f881c410a2.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112847835792553303",
+            "created_at": "2024-07-25T15:27:40.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/Brad_Rosenheim/statuses/112847831747260887",
+            "url": "https://climatejustice.social/@Brad_Rosenheim/112847831747260887",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> I was shocked that a Nobel would be awarded to Nordiques on the basis of a gaslighting paper. But, that paper was published after is Nobel Prize, which honored him for incorporating climate change into economic models. In a way it is worse to publish that trash after receiving the gravity of a Nobel Prize.</p>",
+            "reblog": null,
+            "account": {
+                "id": "111896689013475615",
+                "username": "Brad_Rosenheim",
+                "acct": "Brad_Rosenheim@climatejustice.social",
+                "display_name": "Dr. Brad Rosenheim",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-02-07T00:00:00.000Z",
+                "note": "<p>Isotope <a href=\"https://climatejustice.social/tags/geochemist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geochemist</span></a>. Climate <a href=\"https://climatejustice.social/tags/scientist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scientist</span></a>. Concerned <a href=\"https://climatejustice.social/tags/citizen\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>citizen</span></a>. Person of precision,  but one who knows when to sacrifice precision for accuracy. Studying past records of <a href=\"https://climatejustice.social/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a> and <a href=\"https://climatejustice.social/tags/carbon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>carbon</span></a> cycling since 1999. Frustrated that our scientifically advanced society seems impervious to scientific advice. Same handle on Xitter, but fully posting in the <a href=\"https://climatejustice.social/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a> since Nov. 2022.</p>",
+                "url": "https://climatejustice.social/@Brad_Rosenheim",
+                "uri": "https://climatejustice.social/users/Brad_Rosenheim",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/896/689/013/475/615/original/2fa541c7568294fe.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/896/689/013/475/615/original/2fa541c7568294fe.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/111/896/689/013/475/615/original/1bde76d807fb5fd8.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/111/896/689/013/475/615/original/1bde76d807fb5fd8.jpg",
+                "followers_count": 2658,
+                "following_count": 1387,
+                "statuses_count": 7704,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Languages:",
+                        "value": "English (fluent) - most posts. Fran\u00e7ais (de temps en temps). Portugu\u00eas (Eu estou aprendando)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns:",
+                        "value": "he/him/his",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Born:",
+                        "value": "New Jersey, @ 332 ppm CO2 (www.esrl.noaa.gov)",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112847874532755950",
+            "created_at": "2024-07-25T15:38:31.000Z",
+            "in_reply_to_id": "112847835792553303",
+            "in_reply_to_account_id": "111896689013475615",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://astrodon.social/users/jknodlseder/statuses/112847874415893481",
+            "url": "https://astrodon.social/@jknodlseder/112847874415893481",
+            "replies_count": 1,
+            "reblogs_count": 3,
+            "favourites_count": 0,
+            "edited_at": "2024-07-25T15:39:03.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Brad_Rosenheim\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Brad_Rosenheim</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> What you call the \u00ab&nbsp;Nobel Prize&nbsp;\u00bb is actually just the \u00ab&nbsp;Prize of the Bank of Sweden&nbsp;\u00bb \ud83d\ude09</p>",
+            "reblog": null,
+            "account": {
+                "id": "109274981578226094",
+                "username": "jknodlseder",
+                "acct": "jknodlseder@astrodon.social",
+                "display_name": "Dr. J\u00fcrgen Kn\u00f6dlseder",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-02T00:00:00.000Z",
+                "note": "<p>I\u2019m an astrophysicist working in the field of gamma-ray astronomy at IRAP (CNRS) in Toulouse, France.\u2029 Since a couple of years I\u2019m also doing research on the environmental impact of scientific research (and of astrophysics in particular), and I\u2019m engaged in @labos1point5 and <span class=\"h-card\" translate=\"no\"><a href=\"https://astrodon.social/@a4e\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>a4e</span></a></span>. \u2029I\u2019m also doing local politics as city and community \u200b\u200bcouncillor with a strong focus on environmental politics.\u2029 Born at 320 ppm.</p>",
+                "url": "https://astrodon.social/@jknodlseder",
+                "uri": "https://astrodon.social/users/jknodlseder",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/274/981/578/226/094/original/7e81795c2ab7634f.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/274/981/578/226/094/original/7e81795c2ab7634f.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/274/981/578/226/094/original/ca498297eae8486b.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/274/981/578/226/094/original/ca498297eae8486b.png",
+                "followers_count": 1099,
+                "following_count": 687,
+                "statuses_count": 7225,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Hashtags",
+                        "value": "<a href=\"https://astrodon.social/tags/astronomy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>astronomy</span></a>  <a href=\"https://astrodon.social/tags/astrophysics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>astrophysics</span></a> <a href=\"https://astrodon.social/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a> <a href=\"https://astrodon.social/tags/environment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>environment</span></a> <a href=\"https://astrodon.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Country",
+                        "value": "France",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Toots in",
+                        "value": "English, French, German",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Github",
+                        "value": "<a href=\"https://github.com/jknodlseder\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jknodlseder</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T14:05:58.405+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111896689013475615",
+                    "username": "Brad_Rosenheim",
+                    "url": "https://climatejustice.social/@Brad_Rosenheim",
+                    "acct": "Brad_Rosenheim@climatejustice.social"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112848183699394292",
+            "created_at": "2024-07-25T16:57:10.000Z",
+            "in_reply_to_id": "112847874532755950",
+            "in_reply_to_account_id": "109274981578226094",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.scot/users/tompearce49/statuses/112848183665080045",
+            "url": "https://mastodon.scot/@tompearce49/112848183665080045",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://astrodon.social/@jknodlseder\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jknodlseder</span></a></span></p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Brad_Rosenheim\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Brad_Rosenheim</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span></p><p>Absolutely, always annoys me enormously. As does Economics' claim to have a scientific basis in many quarters.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109293369131462053",
+                "username": "tompearce49",
+                "acct": "tompearce49@mastodon.scot",
+                "display_name": "Tom Pearce",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-05T00:00:00.000Z",
+                "note": "<p>Someone who is a  \"...dreamer of the day [...] acting my dreams with the open eyes\", trying to act with kindness, generosity, gratitude and compassion. <a href=\"https://mastodon.scot/tags/LeftWing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LeftWing</span></a> (really left wing) <a href=\"https://mastodon.scot/tags/environmentalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>environmentalist</span></a>. Follower of the Stoics and guided by Zen Buddhism. There is no alternative to socially and environmentally conscious cooperation and collaboration. Also writing infrequently at www.tompearce.co.uk/wp Trying to make sense of childhood trauma, and maybe making slow headway (on better days).</p>",
+                "url": "https://mastodon.scot/@tompearce49",
+                "uri": "https://mastodon.scot/users/tompearce49",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/293/369/131/462/053/original/7360670769fe414d.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/293/369/131/462/053/original/7360670769fe414d.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/293/369/131/462/053/original/61a299856891ae62.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/293/369/131/462/053/original/61a299856891ae62.png",
+                "followers_count": 913,
+                "following_count": 342,
+                "statuses_count": 16741,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Music",
+                        "value": "Any, but just now Ravel, Faure, Piaf, Piazzolla",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Country",
+                        "value": "An independent Scottish Republic",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "He/Him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Website",
+                        "value": "www.tompearce.co.uk/wp",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109274981578226094",
+                    "username": "jknodlseder",
+                    "url": "https://astrodon.social/@jknodlseder",
+                    "acct": "jknodlseder@astrodon.social"
+                },
+                {
+                    "id": "111896689013475615",
+                    "username": "Brad_Rosenheim",
+                    "url": "https://climatejustice.social/@Brad_Rosenheim",
+                    "acct": "Brad_Rosenheim@climatejustice.social"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112848081746086297",
+            "created_at": "2024-07-25T16:31:15.000Z",
+            "in_reply_to_id": "112841597008105657",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://universeodon.com/users/the_Effekt/statuses/112848081774628779",
+            "url": "https://universeodon.com/@the_Effekt/112848081774628779",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> </p><p>I'm sure they will be able to adapt when a wall of mud or a wildfire takes out their neighborhood. \ud83d\ude44</p>",
+            "reblog": null,
+            "account": {
+                "id": "109365888793555550",
+                "username": "the_Effekt",
+                "acct": "the_Effekt@universeodon.com",
+                "display_name": "JohnW",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p><a href=\"https://universeodon.com/tags/WebDev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WebDev</span></a>, <a href=\"https://universeodon.com/tags/FrontEndDev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FrontEndDev</span></a>, <a href=\"https://universeodon.com/tags/WebApps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WebApps</span></a> - Buildinator, Integrator, Configurator</p><p><a href=\"https://universeodon.com/tags/Independent\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Independent</span></a> <a href=\"https://universeodon.com/tags/Anarchist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Anarchist</span></a> <a href=\"https://universeodon.com/tags/GenX\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenX</span></a> <a href=\"https://universeodon.com/tags/Realist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Realist</span></a></p><p>I \u2764\ufe0f \u279f <a href=\"https://universeodon.com/tags/Hiking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hiking</span></a>\ud83c\udfd4\ufe0f <a href=\"https://universeodon.com/tags/Dragons\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Dragons</span></a>\ud83d\udc09 <br><a href=\"https://universeodon.com/tags/ProgRock\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ProgRock</span></a> \ud83c\udfb6 <a href=\"https://universeodon.com/tags/Beer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Beer</span></a>\ud83c\udf7b &amp; <a href=\"https://universeodon.com/tags/Tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tech</span></a> \ud83d\udda5\ufe0f  \u30c5 </p><p>\u270d <a href=\"https://universeodon.com/tags/Blogs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Blogs</span></a> <a href=\"https://universeodon.com/tags/Landscape\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Landscape</span></a> <a href=\"https://universeodon.com/tags/Photography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Photography</span></a><br><a href=\"https://theaftereffekt.com/pg/media-center/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">theaftereffekt.com/pg/media-ce</span><span class=\"invisible\">nter/</span></a></p><p>I'll talk about anything but main interests are<br><a href=\"https://universeodon.com/tags/Metaphysics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Metaphysics</span></a> <a href=\"https://universeodon.com/tags/Fantasy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fantasy</span></a> <a href=\"https://universeodon.com/tags/ClimateChange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateChange</span></a> <a href=\"https://universeodon.com/tags/Antifa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Antifa</span></a> <a href=\"https://universeodon.com/tags/AntiRacism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AntiRacism</span></a> <a href=\"https://universeodon.com/tags/BlackLivesMatter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BlackLivesMatter</span></a> <a href=\"https://universeodon.com/tags/WealthGap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WealthGap</span></a> <a href=\"https://universeodon.com/tags/InformationWar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>InformationWar</span></a> <a href=\"https://universeodon.com/tags/WarpedHumor\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WarpedHumor</span></a></p><p>San Juan Mountains, <a href=\"https://universeodon.com/tags/Colorado\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Colorado</span></a></p>",
+                "url": "https://universeodon.com/@the_Effekt",
+                "uri": "https://universeodon.com/users/the_Effekt",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/365/888/793/555/550/original/33233385cdac2104.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/365/888/793/555/550/original/33233385cdac2104.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/365/888/793/555/550/original/cc5bee78c1b0912b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/365/888/793/555/550/original/cc5bee78c1b0912b.jpg",
+                "followers_count": 1495,
+                "following_count": 1773,
+                "statuses_count": 28568,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "\u270d\ufe0f The Aftereffekt",
+                        "value": "<a href=\"https://theaftereffekt.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">theaftereffekt.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T00:59:23.971+00:00"
+                    },
+                    {
+                        "name": "\ud83d\udda5\ufe0f Mythic Web Solutions",
+                        "value": "<a href=\"https://mythicweb.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">mythicweb.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T00:59:24.567+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

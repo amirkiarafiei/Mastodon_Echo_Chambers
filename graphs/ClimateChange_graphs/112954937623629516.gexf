@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-28">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="relation" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="pos" type="double" />
+      <attribute id="1" title="neg" type="double" />
+      <attribute id="2" title="compound" type="double" />
+    </attributes>
+    <nodes>
+      <node id="109362219047670363" label="109362219047670363">
+        <attvalues>
+          <attvalue for="0" value="0.064" />
+          <attvalue for="1" value="0.027" />
+          <attvalue for="2" value="-0.004" />
+        </attvalues>
+      </node>
+      <node id="109371820295780594" label="109371820295780594">
+        <attvalues>
+          <attvalue for="0" value="0.077" />
+          <attvalue for="1" value="0.009" />
+          <attvalue for="2" value="0.31" />
+        </attvalues>
+      </node>
+      <node id="109382093344816730" label="109382093344816730">
+        <attvalues>
+          <attvalue for="0" value="0.243" />
+          <attvalue for="1" value="0.103" />
+          <attvalue for="2" value="-0.214" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="109362219047670363" target="109371820295780594" id="0">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="109362219047670363" target="109382093344816730" id="1">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,279 @@
+[
+    {
+        "id": "214779",
+        "username": "hanshuebner",
+        "acct": "hanshuebner",
+        "display_name": "Hans H\u00fcbner",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-10-15T00:00:00.000Z",
+        "note": "<p>I was born with a QWERTY keyboard in my mouth.<br /><a href=\"https://mastodon.social/tags/lisp\" class=\"mention hashtag\" rel=\"tag\">#<span>lisp</span></a> <a href=\"https://mastodon.social/tags/xml\" class=\"mention hashtag\" rel=\"tag\">#<span>xml</span></a> <a href=\"https://mastodon.social/tags/retrocomputing\" class=\"mention hashtag\" rel=\"tag\">#<span>retrocomputing</span></a></p>",
+        "url": "https://mastodon.social/@hanshuebner",
+        "uri": "https://mastodon.social/users/hanshuebner",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/214/779/original/cd4abfc10fa5c38c.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/214/779/original/cd4abfc10fa5c38c.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 816,
+        "following_count": 420,
+        "statuses_count": 767,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "blog",
+                "value": "<a href=\"https://netzhansa.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">netzhansa.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-07T06:05:21.401+00:00"
+            }
+        ]
+    },
+    {
+        "id": "111798567755734714",
+        "username": "stayforever",
+        "acct": "stayforever",
+        "display_name": "Stay Forever Podcast",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2024-01-22T00:00:00.000Z",
+        "note": "<p>Wir sprechen \u00fcber alte Games (und mehr). Die Stimmen: Gunnar Lott, Christian Schmidt, Fabian K\u00e4ufer, Henner Thomsen, Christian Beuster, Rahel Schmitz.</p>",
+        "url": "https://mastodon.social/@stayforever",
+        "uri": "https://mastodon.social/users/stayforever",
+        "avatar": "https://files.mastodon.social/accounts/avatars/111/798/567/755/734/714/original/f6674f0d82996fee.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/111/798/567/755/734/714/original/f6674f0d82996fee.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/111/798/567/755/734/714/original/6fd9b82fcb93cf47.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/111/798/567/755/734/714/original/6fd9b82fcb93cf47.jpeg",
+        "followers_count": 269,
+        "following_count": 35,
+        "statuses_count": 46,
+        "last_status_at": "2024-08-22",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Webseite",
+                "value": "www.stayforever.de",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109755797041861298",
+        "username": "343max",
+        "acct": "343max",
+        "display_name": "Max von Webel",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-01-26T00:00:00.000Z",
+        "note": "",
+        "url": "https://mastodon.social/@343max",
+        "uri": "https://mastodon.social/users/343max",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/755/797/041/861/298/original/6b23a5761e7bac33.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/755/797/041/861/298/original/6b23a5761e7bac33.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 3881,
+        "following_count": 2007,
+        "statuses_count": 4203,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Podcast",
+                "value": "<a href=\"https://wir.muessenreden.de\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">wir.muessenreden.de</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/343max\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/343max</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-12-17T12:43:42.160+00:00"
+            },
+            {
+                "name": "Gravatar",
+                "value": "<a href=\"https://gravatar.com/343max\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gravatar.com/343max</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-12-17T16:14:00.469+00:00"
+            },
+            {
+                "name": "Signal",
+                "value": "<a href=\"https://signal.me/#eu/QBUiAwcyTT14Eb-mE5HXod8qfAlGVpYnVtiBIM4yhd7d6KtNLBxEzpn6Ce0PLVWa\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">signal.me/#eu/QBUiAwcyTT14Eb-m</span><span class=\"invisible\">E5HXod8qfAlGVpYnVtiBIM4yhd7d6KtNLBxEzpn6Ce0PLVWa</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "567877",
+        "username": "amigalove",
+        "acct": "amigalove",
+        "display_name": "Amiga Love \u2764",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-10-16T00:00:00.000Z",
+        "note": "<p>Supporting and fostering the love and USAGE of the Amiga computer and all things Commodore. 8-bit/16-bit FTW! (C64/C128/CMD) <br />Seattle, WA, USA</p><p><a href=\"https://mastodon.social/tags/RetroGaming\" class=\"mention hashtag\" rel=\"tag\">#<span>RetroGaming</span></a> <a href=\"https://mastodon.social/tags/RetroComputing\" class=\"mention hashtag\" rel=\"tag\">#<span>RetroComputing</span></a> <a href=\"https://mastodon.social/tags/VintageGaming\" class=\"mention hashtag\" rel=\"tag\">#<span>VintageGaming</span></a> <a href=\"https://mastodon.social/tags/VideoGames\" class=\"mention hashtag\" rel=\"tag\">#<span>VideoGames</span></a> <a href=\"https://mastodon.social/tags/ComputerHistory\" class=\"mention hashtag\" rel=\"tag\">#<span>ComputerHistory</span></a> <a href=\"https://mastodon.social/tags/Commodore\" class=\"mention hashtag\" rel=\"tag\">#<span>Commodore</span></a> <a href=\"https://mastodon.social/tags/Amiga\" class=\"mention hashtag\" rel=\"tag\">#<span>Amiga</span></a> <a href=\"https://mastodon.social/tags/C64\" class=\"mention hashtag\" rel=\"tag\">#<span>C64</span></a> <a href=\"https://mastodon.social/tags/80s\" class=\"mention hashtag\" rel=\"tag\">#<span>80s</span></a> <a href=\"https://mastodon.social/tags/90s\" class=\"mention hashtag\" rel=\"tag\">#<span>90s</span></a> <a href=\"https://mastodon.social/tags/Macintosh\" class=\"mention hashtag\" rel=\"tag\">#<span>Macintosh</span></a></p>",
+        "url": "https://mastodon.social/@amigalove",
+        "uri": "https://mastodon.social/users/amigalove",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/567/877/original/18b4957ee9febfe6.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/567/877/original/18b4957ee9febfe6.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/567/877/original/0e377314cdda28a6.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/567/877/original/0e377314cdda28a6.png",
+        "followers_count": 2584,
+        "following_count": 222,
+        "statuses_count": 1207,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "DA SITE",
+                "value": "<a href=\"https://amigalove.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">amigalove.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-08T16:37:56.048+00:00"
+            },
+            {
+                "name": "YOUTUBE",
+                "value": "<a href=\"https://www.youtube.com/c/AmigaLove\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/c/AmigaLove</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "LOCATION",
+                "value": "Seattle, WA, USA",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "110984380512159768",
+        "username": "leibnizopenscience",
+        "acct": "leibnizopenscience",
+        "display_name": "Leibniz Open Science",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-08-31T00:00:00.000Z",
+        "note": "<p>The Leibniz Strategy Forum Open Science examines the effects of participatory tools and Open Science on the scholarly system </p><p>Data Protection: <a href=\"http://zbw.to/OfNVS\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">zbw.to/OfNVS</span><span class=\"invisible\"></span></a> <br />Imprint: <a href=\"http://zbw.to/JDMxO\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">zbw.to/JDMxO</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@leibnizopenscience",
+        "uri": "https://mastodon.social/users/leibnizopenscience",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/984/380/512/159/768/original/b2c6b7722d3e7a12.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/984/380/512/159/768/original/b2c6b7722d3e7a12.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/984/380/512/159/768/original/216f6a22b3a3fb92.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/984/380/512/159/768/original/216f6a22b3a3fb92.png",
+        "followers_count": 1144,
+        "following_count": 522,
+        "statuses_count": 816,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.leibniz-openscience.de\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">leibniz-openscience.de</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-09-07T07:27:01.898+00:00"
+            },
+            {
+                "name": "Open Science Conference",
+                "value": "<a href=\"https://www.open-science-conference.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">open-science-conference.eu</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-09-07T09:05:56.123+00:00"
+            },
+            {
+                "name": "Barcamp Open Science",
+                "value": "<a href=\"https://www.barcamp-open-science.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">barcamp-open-science.eu</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-09-07T09:05:56.534+00:00"
+            }
+        ]
+    },
+    {
+        "id": "72280",
+        "username": "Roddi",
+        "acct": "Roddi",
+        "display_name": "Roddi",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-04-12T00:00:00.000Z",
+        "note": "",
+        "url": "https://mastodon.social/@Roddi",
+        "uri": "https://mastodon.social/users/Roddi",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/072/280/original/6eab0710d078495f.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/072/280/original/6eab0710d078495f.jpeg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 1630,
+        "following_count": 26,
+        "statuses_count": 164,
+        "last_status_at": "2024-08-30",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "37131",
+        "username": "timpritlove",
+        "acct": "timpritlove",
+        "display_name": "Tim Pritlove",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-04-03T00:00:00.000Z",
+        "note": "<p>Dedicated Podcaster. Professional Amateur. Discordian Evangelist.</p><p>Berlin, Germany</p>",
+        "url": "https://mastodon.social/@timpritlove",
+        "uri": "https://mastodon.social/users/timpritlove",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/037/131/original/6114673056f5e01c.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/037/131/original/6114673056f5e01c.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/000/037/131/original/45ac5a9608088025.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/037/131/original/45ac5a9608088025.png",
+        "followers_count": 12078,
+        "following_count": 500,
+        "statuses_count": 1240,
+        "last_status_at": "2024-08-30",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Metaebene",
+                "value": "<a href=\"https://metaebene.me\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">metaebene.me</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://tim.pritlove.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tim.pritlove.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/timpritlove\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/timpritlove</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

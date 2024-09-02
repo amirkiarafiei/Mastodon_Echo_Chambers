@@ -1,0 +1,670 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112936201022613439",
+            "created_at": "2024-08-10T06:01:07.000Z",
+            "in_reply_to_id": "112935639558008803",
+            "in_reply_to_account_id": "112905985862457767",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://regenerate.social/users/mk30/statuses/112936200953192089",
+            "url": "https://regenerate.social/@mk30/112936200953192089",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://autistics.life/@justpassingthrough\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>justpassingthrough</span></a></span> you may want to add the tag <a href=\"https://regenerate.social/tags/ClimateDiary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateDiary</span></a> to this important post. Very sad \ud83d\ude22</p>",
+            "reblog": null,
+            "account": {
+                "id": "109341015215855520",
+                "username": "mk30",
+                "acct": "mk30@regenerate.social",
+                "display_name": "mk30",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-10T00:00:00.000Z",
+                "note": "<p>artist/programmer living off-grid on hawai'i island.</p><p>as people here say, aloha 'aina!</p><p>programming alt: <span class=\"h-card\" translate=\"no\"><a href=\"https://tilde.zone/@mk30\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mk30</span></a></span><br>art alt: <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.art/@mk30\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mk30</span></a></span></p>",
+                "url": "https://regenerate.social/@mk30",
+                "uri": "https://regenerate.social/users/mk30",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/341/015/215/855/520/original/8669994a2df1329c.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/341/015/215/855/520/original/8669994a2df1329c.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/341/015/215/855/520/original/495d9998d3b1a402.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/341/015/215/855/520/original/495d9998d3b1a402.jpeg",
+                "followers_count": 360,
+                "following_count": 158,
+                "statuses_count": 1731,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "website",
+                        "value": "<a href=\"https://kukso.space\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">kukso.space</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112905985862457767",
+                    "username": "justpassingthrough",
+                    "url": "https://autistics.life/@justpassingthrough",
+                    "acct": "justpassingthrough@autistics.life"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "climatediary",
+                    "url": "https://mastodon.social/tags/climatediary"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112936227419988891",
+            "created_at": "2024-08-10T06:07:51.000Z",
+            "in_reply_to_id": "112936201022613439",
+            "in_reply_to_account_id": "109341015215855520",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://autistics.life/users/justpassingthrough/statuses/112936227376743371",
+            "url": "https://autistics.life/@justpassingthrough/112936227376743371",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://regenerate.social/@mk30\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mk30</span></a></span> Thank you! Will do!</p>",
+            "reblog": null,
+            "account": {
+                "id": "112905985862457767",
+                "username": "justpassingthrough",
+                "acct": "justpassingthrough@autistics.life",
+                "display_name": "Bubbles",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-08-04T00:00:00.000Z",
+                "note": "<p>Married. Childfree. Retired. Artist (fiber arts &amp; painting). <br>Vegetarian. Autistic. Former vocalist and local radio deejay. Former educator. Profile Pic: an Animal Crossing avatar of a middle-aged woman with gray eyes, brown-framed glasses &amp; long brown hair done up in barrettes. Header:<br>A blooming pink sacred lotus blossom surrounded by big, green, floppy lotus leaves. Located on South Korea's west coast. All photos my own unless otherwise indicated.</p>",
+                "url": "https://autistics.life/@justpassingthrough",
+                "uri": "https://autistics.life/users/justpassingthrough",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/905/985/862/457/767/original/65007fcec27ed37e.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/905/985/862/457/767/original/65007fcec27ed37e.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/905/985/862/457/767/original/eb0529070dc97f74.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/905/985/862/457/767/original/eb0529070dc97f74.jpeg",
+                "followers_count": 123,
+                "following_count": 174,
+                "statuses_count": 235,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Languages",
+                        "value": "English, \u65e5\u672c\u8a9e, \ud55c\uad6d\uc5b4",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Countries Lived",
+                        "value": "USA (Alaska), Japan (Hokkaido, Ibaraki, Shiga, Hiroshima), South Korea (Seoul, Gyeonggi, Chungnam)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Hashtags",
+                        "value": "<a href=\"https://autistics.life/tags/NonAIContent\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NonAIContent</span></a>, <a href=\"https://autistics.life/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyAutistic</span></a>, <a href=\"https://autistics.life/tags/JapaneseCommercials\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JapaneseCommercials</span></a>, <a href=\"https://autistics.life/tags/KoreanCommercials\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KoreanCommercials</span></a>, <a href=\"https://autistics.life/tags/GrowYourOwn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GrowYourOwn</span></a>, <a href=\"https://autistics.life/tags/Climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Climate</span></a>, <a href=\"https://autistics.life/tags/KoreaLife\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KoreaLife</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Belief System",
+                        "value": "Ahisma",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109341015215855520",
+                    "username": "mk30",
+                    "url": "https://regenerate.social/@mk30",
+                    "acct": "mk30@regenerate.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112936291539082984",
+            "created_at": "2024-08-10T06:24:09.000Z",
+            "in_reply_to_id": "112935639558008803",
+            "in_reply_to_account_id": "112905985862457767",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mindly.social/users/TisTree/statuses/112936291493810227",
+            "url": "https://mindly.social/@TisTree/112936291493810227",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://autistics.life/@justpassingthrough\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>justpassingthrough</span></a></span> <br>That sounds awful. If you don\u2019t mind saying, where were you wading in the sea, and what was the temperature?</p>",
+            "reblog": null,
+            "account": {
+                "id": "109565748259991382",
+                "username": "TisTree",
+                "acct": "TisTree@mindly.social",
+                "display_name": "Tree",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-23T00:00:00.000Z",
+                "note": "<p>Trying to be a good human.<br>Toots will fall somewhere between pithy and blathering.<br>Hoping to share interesting ideas and good conversation. <br><a href=\"https://mindly.social/tags/art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>art</span></a> <a href=\"https://mindly.social/tags/design\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>design</span></a> <a href=\"https://mindly.social/tags/books\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>books</span></a> <a href=\"https://mindly.social/tags/naturephotography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>naturephotography</span></a> <a href=\"https://mindly.social/tags/allcreatures\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>allcreatures</span></a> <a href=\"https://mindly.social/tags/genealogy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genealogy</span></a> <a href=\"https://mindly.social/tags/history\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>history</span></a> <a href=\"https://mindly.social/tags/music\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>music</span></a> <a href=\"https://mindly.social/tags/progressive\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>progressive</span></a></p>",
+                "url": "https://mindly.social/@TisTree",
+                "uri": "https://mindly.social/users/TisTree",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/565/748/259/991/382/original/b0f8baf40191a99b.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/565/748/259/991/382/original/b0f8baf40191a99b.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/565/748/259/991/382/original/0df9eeb6a07ff8bc.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/565/748/259/991/382/original/0df9eeb6a07ff8bc.jpeg",
+                "followers_count": 226,
+                "following_count": 283,
+                "statuses_count": 811,
+                "last_status_at": "2024-08-25",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112905985862457767",
+                    "username": "justpassingthrough",
+                    "url": "https://autistics.life/@justpassingthrough",
+                    "acct": "justpassingthrough@autistics.life"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112937821393758543",
+            "created_at": "2024-08-10T12:53:11.000Z",
+            "in_reply_to_id": "112935639558008803",
+            "in_reply_to_account_id": "112905985862457767",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://social.linux-magazin.de/users/mfeilner/statuses/112937821263477546",
+            "url": "https://social.linux-magazin.de/@mfeilner/112937821263477546",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://autistics.life/@justpassingthrough\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>justpassingthrough</span></a></span> that is the feeling we will have forever, i guess.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112135764023810746",
+                "username": "mfeilner",
+                "acct": "mfeilner@social.linux-magazin.de",
+                "display_name": "Markus Feilner",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-03-21T00:00:00.000Z",
+                "note": "<p>The Open Source Guy. On the road in the formerly UK and the maybe future United Celtic Kingdom. Coming from: <a href=\"https://mastodon.cloud/@mfeilner\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.cloud/@mfeilner</span><span class=\"invisible\"></span></a><br><a href=\"https://social.linux-magazin.de/tags/FR42\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FR42</span></a> <a href=\"https://social.linux-magazin.de/tags/FLGW\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FLGW</span></a> <a href=\"https://social.linux-magazin.de/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> <a href=\"https://social.linux-magazin.de/tags/Opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Opensource</span></a> <a href=\"https://social.linux-magazin.de/tags/ClimateCollapse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCollapse</span></a> <a href=\"https://social.linux-magazin.de/tags/Digisov\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Digisov</span></a> <a href=\"https://social.linux-magazin.de/tags/Digisus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Digisus</span></a> <a href=\"https://social.linux-magazin.de/tags/smallAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>smallAI</span></a></p>",
+                "url": "https://social.linux-magazin.de/@mfeilner",
+                "uri": "https://social.linux-magazin.de/users/mfeilner",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/135/764/023/810/746/original/591849dca2cc39da.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/135/764/023/810/746/original/591849dca2cc39da.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/135/764/023/810/746/original/94bc2f86a69e891b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/135/764/023/810/746/original/94bc2f86a69e891b.jpg",
+                "followers_count": 27,
+                "following_count": 26,
+                "statuses_count": 230,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112905985862457767",
+                    "username": "justpassingthrough",
+                    "url": "https://autistics.life/@justpassingthrough",
+                    "acct": "justpassingthrough@autistics.life"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112937933048420230",
+            "created_at": "2024-08-10T13:21:37.000Z",
+            "in_reply_to_id": "112937821393758543",
+            "in_reply_to_account_id": "112135764023810746",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://autistics.life/users/justpassingthrough/statuses/112937933018102794",
+            "url": "https://autistics.life/@justpassingthrough/112937933018102794",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.linux-magazin.de/@mfeilner\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mfeilner</span></a></span> It hurts so much, doesn't it? \ud83d\ude1e</p>",
+            "reblog": null,
+            "account": {
+                "id": "112905985862457767",
+                "username": "justpassingthrough",
+                "acct": "justpassingthrough@autistics.life",
+                "display_name": "Bubbles",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-08-04T00:00:00.000Z",
+                "note": "<p>Married. Childfree. Retired. Artist (fiber arts &amp; painting). <br>Vegetarian. Autistic. Former vocalist and local radio deejay. Former educator. Profile Pic: an Animal Crossing avatar of a middle-aged woman with gray eyes, brown-framed glasses &amp; long brown hair done up in barrettes. Header:<br>A blooming pink sacred lotus blossom surrounded by big, green, floppy lotus leaves. Located on South Korea's west coast. All photos my own unless otherwise indicated.</p>",
+                "url": "https://autistics.life/@justpassingthrough",
+                "uri": "https://autistics.life/users/justpassingthrough",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/905/985/862/457/767/original/65007fcec27ed37e.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/905/985/862/457/767/original/65007fcec27ed37e.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/905/985/862/457/767/original/eb0529070dc97f74.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/905/985/862/457/767/original/eb0529070dc97f74.jpeg",
+                "followers_count": 123,
+                "following_count": 174,
+                "statuses_count": 235,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Languages",
+                        "value": "English, \u65e5\u672c\u8a9e, \ud55c\uad6d\uc5b4",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Countries Lived",
+                        "value": "USA (Alaska), Japan (Hokkaido, Ibaraki, Shiga, Hiroshima), South Korea (Seoul, Gyeonggi, Chungnam)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Hashtags",
+                        "value": "<a href=\"https://autistics.life/tags/NonAIContent\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NonAIContent</span></a>, <a href=\"https://autistics.life/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyAutistic</span></a>, <a href=\"https://autistics.life/tags/JapaneseCommercials\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JapaneseCommercials</span></a>, <a href=\"https://autistics.life/tags/KoreanCommercials\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KoreanCommercials</span></a>, <a href=\"https://autistics.life/tags/GrowYourOwn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GrowYourOwn</span></a>, <a href=\"https://autistics.life/tags/Climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Climate</span></a>, <a href=\"https://autistics.life/tags/KoreaLife\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KoreaLife</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Belief System",
+                        "value": "Ahisma",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112135764023810746",
+                    "username": "mfeilner",
+                    "url": "https://social.linux-magazin.de/@mfeilner",
+                    "acct": "mfeilner@social.linux-magazin.de"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112938926648063485",
+            "created_at": "2024-08-10T17:34:13.000Z",
+            "in_reply_to_id": "112937933048420230",
+            "in_reply_to_account_id": "112905985862457767",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://social.linux-magazin.de/users/mfeilner/statuses/112938926311325420",
+            "url": "https://social.linux-magazin.de/@mfeilner/112938926311325420",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://autistics.life/@justpassingthrough\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>justpassingthrough</span></a></span> </p><p>It's the toughest job of our lifes. live that feeling without getting angry, sad or depressed.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112135764023810746",
+                "username": "mfeilner",
+                "acct": "mfeilner@social.linux-magazin.de",
+                "display_name": "Markus Feilner",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-03-21T00:00:00.000Z",
+                "note": "<p>The Open Source Guy. On the road in the formerly UK and the maybe future United Celtic Kingdom. Coming from: <a href=\"https://mastodon.cloud/@mfeilner\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.cloud/@mfeilner</span><span class=\"invisible\"></span></a><br><a href=\"https://social.linux-magazin.de/tags/FR42\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FR42</span></a> <a href=\"https://social.linux-magazin.de/tags/FLGW\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FLGW</span></a> <a href=\"https://social.linux-magazin.de/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> <a href=\"https://social.linux-magazin.de/tags/Opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Opensource</span></a> <a href=\"https://social.linux-magazin.de/tags/ClimateCollapse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCollapse</span></a> <a href=\"https://social.linux-magazin.de/tags/Digisov\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Digisov</span></a> <a href=\"https://social.linux-magazin.de/tags/Digisus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Digisus</span></a> <a href=\"https://social.linux-magazin.de/tags/smallAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>smallAI</span></a></p>",
+                "url": "https://social.linux-magazin.de/@mfeilner",
+                "uri": "https://social.linux-magazin.de/users/mfeilner",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/135/764/023/810/746/original/591849dca2cc39da.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/135/764/023/810/746/original/591849dca2cc39da.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/135/764/023/810/746/original/94bc2f86a69e891b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/135/764/023/810/746/original/94bc2f86a69e891b.jpg",
+                "followers_count": 27,
+                "following_count": 26,
+                "statuses_count": 230,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112905985862457767",
+                    "username": "justpassingthrough",
+                    "url": "https://autistics.life/@justpassingthrough",
+                    "acct": "justpassingthrough@autistics.life"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112939474703623221",
+            "created_at": "2024-08-10T19:53:40.000Z",
+            "in_reply_to_id": "112938926648063485",
+            "in_reply_to_account_id": "112135764023810746",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://autistics.life/users/justpassingthrough/statuses/112939474635790116",
+            "url": "https://autistics.life/@justpassingthrough/112939474635790116",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-08-10T20:04:32.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.linux-magazin.de/@mfeilner\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mfeilner</span></a></span> Hmm. I think I see what you mean, but I have to disagree a little there about emotional repression. Anger &amp; sadness are healthy, natural &amp; necessary human emotions. We need to grieve loss to stay healthy, and sadness helps us through that process. Healthy anger is necessary to help push us through into initiating positive change. For instance, I became a vegetarian in protest of how terribly animals are treated in the livestock industry, and how animal agriculture is poisoning the environment where I live. As a consumer our decisions in how we live directly impact our environment. Depression on the other hand, is the unhealthy, serious medical illness that requires treatment. A good way to avoid depression is to allow yourself to really feel your negative feelings and grieve and get angry enough to do your part in raising awareness, affecting change and fighting the good fight even when the odds are against us. \ud83e\udd1d There's so much we can do. Even if we believe things like voting, boycotting &amp; protesting don't work (they do if enough people do it), there are so many small things we can do that have a big impact, like stopping consuming so much, altering our lifestyles to needs-oriented instead of wants-oriented, growing our own food &amp; sharing with our neighbors, cleaning up the beaches &amp; forests, switching to bicycles &amp; public transportation, so many things.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112905985862457767",
+                "username": "justpassingthrough",
+                "acct": "justpassingthrough@autistics.life",
+                "display_name": "Bubbles",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-08-04T00:00:00.000Z",
+                "note": "<p>Married. Childfree. Retired. Artist (fiber arts &amp; painting). <br>Vegetarian. Autistic. Former vocalist and local radio deejay. Former educator. Profile Pic: an Animal Crossing avatar of a middle-aged woman with gray eyes, brown-framed glasses &amp; long brown hair done up in barrettes. Header:<br>A blooming pink sacred lotus blossom surrounded by big, green, floppy lotus leaves. Located on South Korea's west coast. All photos my own unless otherwise indicated.</p>",
+                "url": "https://autistics.life/@justpassingthrough",
+                "uri": "https://autistics.life/users/justpassingthrough",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/905/985/862/457/767/original/65007fcec27ed37e.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/905/985/862/457/767/original/65007fcec27ed37e.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/905/985/862/457/767/original/eb0529070dc97f74.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/905/985/862/457/767/original/eb0529070dc97f74.jpeg",
+                "followers_count": 123,
+                "following_count": 174,
+                "statuses_count": 235,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Languages",
+                        "value": "English, \u65e5\u672c\u8a9e, \ud55c\uad6d\uc5b4",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Countries Lived",
+                        "value": "USA (Alaska), Japan (Hokkaido, Ibaraki, Shiga, Hiroshima), South Korea (Seoul, Gyeonggi, Chungnam)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Hashtags",
+                        "value": "<a href=\"https://autistics.life/tags/NonAIContent\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NonAIContent</span></a>, <a href=\"https://autistics.life/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyAutistic</span></a>, <a href=\"https://autistics.life/tags/JapaneseCommercials\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JapaneseCommercials</span></a>, <a href=\"https://autistics.life/tags/KoreanCommercials\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KoreanCommercials</span></a>, <a href=\"https://autistics.life/tags/GrowYourOwn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GrowYourOwn</span></a>, <a href=\"https://autistics.life/tags/Climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Climate</span></a>, <a href=\"https://autistics.life/tags/KoreaLife\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KoreaLife</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Belief System",
+                        "value": "Ahisma",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112135764023810746",
+                    "username": "mfeilner",
+                    "url": "https://social.linux-magazin.de/@mfeilner",
+                    "acct": "mfeilner@social.linux-magazin.de"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112945115992279521",
+            "created_at": "2024-08-11T19:48:20.000Z",
+            "in_reply_to_id": "112938926648063485",
+            "in_reply_to_account_id": "112905985862457767",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://social.linux-magazin.de/users/mfeilner/statuses/112945115983788030",
+            "url": "https://social.linux-magazin.de/@mfeilner/112945115983788030",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://autistics.life/@justpassingthrough\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>justpassingthrough</span></a></span> I've come to the point that I WANT to DO as much as possible in MY life, and that I try but it seems impossible to convince others (at the necessary rate)... and still remain happy despite seeing friendly people kill the world</p>",
+            "reblog": null,
+            "account": {
+                "id": "112135764023810746",
+                "username": "mfeilner",
+                "acct": "mfeilner@social.linux-magazin.de",
+                "display_name": "Markus Feilner",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-03-21T00:00:00.000Z",
+                "note": "<p>The Open Source Guy. On the road in the formerly UK and the maybe future United Celtic Kingdom. Coming from: <a href=\"https://mastodon.cloud/@mfeilner\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.cloud/@mfeilner</span><span class=\"invisible\"></span></a><br><a href=\"https://social.linux-magazin.de/tags/FR42\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FR42</span></a> <a href=\"https://social.linux-magazin.de/tags/FLGW\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FLGW</span></a> <a href=\"https://social.linux-magazin.de/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> <a href=\"https://social.linux-magazin.de/tags/Opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Opensource</span></a> <a href=\"https://social.linux-magazin.de/tags/ClimateCollapse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCollapse</span></a> <a href=\"https://social.linux-magazin.de/tags/Digisov\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Digisov</span></a> <a href=\"https://social.linux-magazin.de/tags/Digisus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Digisus</span></a> <a href=\"https://social.linux-magazin.de/tags/smallAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>smallAI</span></a></p>",
+                "url": "https://social.linux-magazin.de/@mfeilner",
+                "uri": "https://social.linux-magazin.de/users/mfeilner",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/135/764/023/810/746/original/591849dca2cc39da.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/135/764/023/810/746/original/591849dca2cc39da.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/135/764/023/810/746/original/94bc2f86a69e891b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/135/764/023/810/746/original/94bc2f86a69e891b.jpg",
+                "followers_count": 27,
+                "following_count": 26,
+                "statuses_count": 230,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112905985862457767",
+                    "username": "justpassingthrough",
+                    "url": "https://autistics.life/@justpassingthrough",
+                    "acct": "justpassingthrough@autistics.life"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112945307661493297",
+            "created_at": "2024-08-11T20:37:04.000Z",
+            "in_reply_to_id": "112945115992279521",
+            "in_reply_to_account_id": "112135764023810746",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://autistics.life/users/justpassingthrough/statuses/112945307616897752",
+            "url": "https://autistics.life/@justpassingthrough/112945307616897752",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.linux-magazin.de/@mfeilner\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mfeilner</span></a></span> Ah, I see what you mean. You're doing the best that you can. \ud83e\udd1d</p>",
+            "reblog": null,
+            "account": {
+                "id": "112905985862457767",
+                "username": "justpassingthrough",
+                "acct": "justpassingthrough@autistics.life",
+                "display_name": "Bubbles",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-08-04T00:00:00.000Z",
+                "note": "<p>Married. Childfree. Retired. Artist (fiber arts &amp; painting). <br>Vegetarian. Autistic. Former vocalist and local radio deejay. Former educator. Profile Pic: an Animal Crossing avatar of a middle-aged woman with gray eyes, brown-framed glasses &amp; long brown hair done up in barrettes. Header:<br>A blooming pink sacred lotus blossom surrounded by big, green, floppy lotus leaves. Located on South Korea's west coast. All photos my own unless otherwise indicated.</p>",
+                "url": "https://autistics.life/@justpassingthrough",
+                "uri": "https://autistics.life/users/justpassingthrough",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/905/985/862/457/767/original/65007fcec27ed37e.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/905/985/862/457/767/original/65007fcec27ed37e.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/905/985/862/457/767/original/eb0529070dc97f74.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/905/985/862/457/767/original/eb0529070dc97f74.jpeg",
+                "followers_count": 123,
+                "following_count": 174,
+                "statuses_count": 235,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Languages",
+                        "value": "English, \u65e5\u672c\u8a9e, \ud55c\uad6d\uc5b4",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Countries Lived",
+                        "value": "USA (Alaska), Japan (Hokkaido, Ibaraki, Shiga, Hiroshima), South Korea (Seoul, Gyeonggi, Chungnam)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Hashtags",
+                        "value": "<a href=\"https://autistics.life/tags/NonAIContent\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NonAIContent</span></a>, <a href=\"https://autistics.life/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyAutistic</span></a>, <a href=\"https://autistics.life/tags/JapaneseCommercials\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JapaneseCommercials</span></a>, <a href=\"https://autistics.life/tags/KoreanCommercials\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KoreanCommercials</span></a>, <a href=\"https://autistics.life/tags/GrowYourOwn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GrowYourOwn</span></a>, <a href=\"https://autistics.life/tags/Climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Climate</span></a>, <a href=\"https://autistics.life/tags/KoreaLife\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KoreaLife</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Belief System",
+                        "value": "Ahisma",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112135764023810746",
+                    "username": "mfeilner",
+                    "url": "https://social.linux-magazin.de/@mfeilner",
+                    "acct": "mfeilner@social.linux-magazin.de"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112948874594629320",
+            "created_at": "2024-08-12T11:44:10.000Z",
+            "in_reply_to_id": "112945307661493297",
+            "in_reply_to_account_id": "112905985862457767",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://social.linux-magazin.de/users/mfeilner/statuses/112948874503918319",
+            "url": "https://social.linux-magazin.de/@mfeilner/112948874503918319",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://autistics.life/@justpassingthrough\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>justpassingthrough</span></a></span> Exactly. And as much as I can to amend my bad concience ... but that's not always possible.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112135764023810746",
+                "username": "mfeilner",
+                "acct": "mfeilner@social.linux-magazin.de",
+                "display_name": "Markus Feilner",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-03-21T00:00:00.000Z",
+                "note": "<p>The Open Source Guy. On the road in the formerly UK and the maybe future United Celtic Kingdom. Coming from: <a href=\"https://mastodon.cloud/@mfeilner\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.cloud/@mfeilner</span><span class=\"invisible\"></span></a><br><a href=\"https://social.linux-magazin.de/tags/FR42\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FR42</span></a> <a href=\"https://social.linux-magazin.de/tags/FLGW\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FLGW</span></a> <a href=\"https://social.linux-magazin.de/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> <a href=\"https://social.linux-magazin.de/tags/Opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Opensource</span></a> <a href=\"https://social.linux-magazin.de/tags/ClimateCollapse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCollapse</span></a> <a href=\"https://social.linux-magazin.de/tags/Digisov\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Digisov</span></a> <a href=\"https://social.linux-magazin.de/tags/Digisus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Digisus</span></a> <a href=\"https://social.linux-magazin.de/tags/smallAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>smallAI</span></a></p>",
+                "url": "https://social.linux-magazin.de/@mfeilner",
+                "uri": "https://social.linux-magazin.de/users/mfeilner",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/135/764/023/810/746/original/591849dca2cc39da.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/135/764/023/810/746/original/591849dca2cc39da.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/135/764/023/810/746/original/94bc2f86a69e891b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/135/764/023/810/746/original/94bc2f86a69e891b.jpg",
+                "followers_count": 27,
+                "following_count": 26,
+                "statuses_count": 230,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112905985862457767",
+                    "username": "justpassingthrough",
+                    "url": "https://autistics.life/@justpassingthrough",
+                    "acct": "justpassingthrough@autistics.life"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

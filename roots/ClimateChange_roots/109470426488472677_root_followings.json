@@ -1,0 +1,51 @@
+[
+    {
+        "id": "109362199590280979",
+        "username": "TheWarOnCars",
+        "acct": "TheWarOnCars",
+        "display_name": "The War on Cars",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-18T00:00:00.000Z",
+        "note": "<p>A podcast about the fight against car culture. Hosted by Aaron Naparstek, Sarah Goodyear and Doug Gordon. (You can find our individual accounts on Mastodon.)</p>",
+        "url": "https://mastodon.social/@TheWarOnCars",
+        "uri": "https://mastodon.social/users/TheWarOnCars",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/362/199/590/280/979/original/e695efa7ccef5e68.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/362/199/590/280/979/original/e695efa7ccef5e68.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/362/199/590/280/979/original/1f251029e26683f9.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/362/199/590/280/979/original/1f251029e26683f9.jpeg",
+        "followers_count": 12668,
+        "following_count": 592,
+        "statuses_count": 1121,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Main show site",
+                "value": "<a href=\"https://thewaroncars.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">thewaroncars.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Follow/rate/review on Apple Podcasts",
+                "value": "<a href=\"https://podcasts.apple.com/us/podcast/the-war-on-cars/id1437755068?itsct=podcast_box&amp;itscg=30200\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">podcasts.apple.com/us/podcast/</span><span class=\"invisible\">the-war-on-cars/id1437755068?itsct=podcast_box&amp;itscg=30200</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://www.patreon.com/thewaroncarspod\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">patreon.com/thewaroncarspod</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "More links",
+                "value": "<a href=\"https://linktr.ee/TheWarOnCars\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/TheWarOnCars</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

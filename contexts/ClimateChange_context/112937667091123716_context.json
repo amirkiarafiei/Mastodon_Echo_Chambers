@@ -1,0 +1,62 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112946993713029494",
+            "created_at": "2024-08-12T03:45:51.000Z",
+            "in_reply_to_id": "112937667091123716",
+            "in_reply_to_account_id": "1414763",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.world/users/thefathippy/statuses/112946993691329402",
+            "url": "https://mastodon.world/@thefathippy/112946993691329402",
+            "replies_count": 0,
+            "reblogs_count": 2,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.scot/@paka\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>paka</span></a></span> </p><p>I'm in the market, but am not considering a Tesla at all. OK, mainly because they're bigger than one person needs, but I'd really struggle to buy a smaller Tesla, if they ever bother. Are they on again, or still off the table in favour of robotaxis?</p><p>That struggle would be 100% due to Mad Musk. I can't bolster the fortune of one of the most loudly and proudly odious men on the planet. A pity, because Tesla showed the world that EVs could replace ICE.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109876880904410143",
+                "username": "thefathippy",
+                "acct": "thefathippy@mastodon.world",
+                "display_name": "thefathippy",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-02-16T00:00:00.000Z",
+                "note": "<p>Cared for my wife from 2017-23. After sudden deterioration, she moved to professional care. I'm in therapy. Alzheimer's is an awful disease for all concerned.\ud83d\ude2d</p><p>On his deathbed, dad said his dad &amp; grandmother were Aboriginal, calling his grandparents a combo - an illegal mixed couple. Who knew? Not me. True? No idea. Yet. I toot as a white man, &amp; benefit from the privilege that brings in Australia. I live on Darug land.</p><p>I follow people, but get a little confused when people follow me.\ud83e\udd37\u200d\u2642\ufe0f</p>",
+                "url": "https://mastodon.world/@thefathippy",
+                "uri": "https://mastodon.world/users/thefathippy",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/876/880/904/410/143/original/45e7a26ba98e46c9.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/876/880/904/410/143/original/45e7a26ba98e46c9.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/876/880/904/410/143/original/8fd6735cac441a79.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/876/880/904/410/143/original/8fd6735cac441a79.jpg",
+                "followers_count": 416,
+                "following_count": 208,
+                "statuses_count": 3430,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "1414763",
+                    "username": "paka",
+                    "url": "https://mastodon.scot/@paka",
+                    "acct": "paka@mastodon.scot"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

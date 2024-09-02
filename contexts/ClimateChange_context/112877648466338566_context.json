@@ -1,0 +1,1367 @@
+{
+    "ancestors": [
+        {
+            "id": "112877624840931405",
+            "created_at": "2024-07-30T21:44:27.326Z",
+            "in_reply_to_id": null,
+            "in_reply_to_account_id": null,
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/matthiasott/statuses/112877624840931405",
+            "url": "https://mastodon.social/@matthiasott/112877624840931405",
+            "replies_count": 1,
+            "reblogs_count": 10,
+            "favourites_count": 13,
+            "edited_at": null,
+            "content": "<p>That climate change thing is really not going well atm. \ud83d\ude14</p><p>We just had the four hottest days ever observed: <a href=\"https://web.archive.org/web/20240727230446/https://www.washingtonpost.com/climate-environment/2024/07/27/hottest-days-ever-recorded-climate-change/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">web.archive.org/web/2024072723</span><span class=\"invisible\">0446/https://www.washingtonpost.com/climate-environment/2024/07/27/hottest-days-ever-recorded-climate-change/</span></a></p><p><a href=\"https://mastodon.social/tags/climatechange\" class=\"mention hashtag\" rel=\"tag\">#<span>climatechange</span></a><br /><a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a><br /><a href=\"https://mastodon.social/tags/climateemergency\" class=\"mention hashtag\" rel=\"tag\">#<span>climateemergency</span></a><br /><a href=\"https://mastodon.social/tags/climateaction\" class=\"mention hashtag\" rel=\"tag\">#<span>climateaction</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Ivory for iOS",
+                "website": "https://tapbots.com/"
+            },
+            "account": {
+                "id": "7423",
+                "username": "matthiasott",
+                "acct": "matthiasott",
+                "display_name": "Matthias Ott",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2016-11-01T00:00:00.000Z",
+                "note": "<p>Independent user experience designer and web design engineer, teacher, speaker. Interface Prototyping at Muthesius University of Fine Arts and Design. UX and web design engineering workshops. <a href=\"https://mastodon.social/tags/searchable\" class=\"mention hashtag\" rel=\"tag\">#<span>searchable</span></a> \ud83c\uddea\ud83c\uddfa\ud83c\udf0d<br />Newsletter: <a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a><br />\u2028<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://mastodon.social/@matthiasott",
+                "uri": "https://mastodon.social/users/matthiasott",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "header": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "followers_count": 3642,
+                "following_count": 650,
+                "statuses_count": 5304,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-10T13:05:35.588+00:00"
+                    },
+                    {
+                        "name": "Own Your Web Newsletter",
+                        "value": "<a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/matthiasott/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/matthiasott/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "CodePen",
+                        "value": "<a href=\"https://www.codepen.io/matthiasott\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">codepen.io/matthiasott</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-20T21:35:42.759+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climateemergency",
+                    "url": "https://mastodon.social/tags/climateemergency"
+                },
+                {
+                    "name": "climateaction",
+                    "url": "https://mastodon.social/tags/climateaction"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://web.archive.org/web/20240727230446/https://www.washingtonpost.com/climate-environment/2024/07/27/hottest-days-ever-recorded-climate-change/",
+                "title": "4 hottest days ever observed raise fears of a planet nearing \u2018tipping points\u2019",
+                "description": "This week marked the apex of an unprecedented hot streak that toppled records and left communities and ecosystems reeling.",
+                "language": "en",
+                "type": "link",
+                "author_name": "Sarah Kaplan",
+                "author_url": "https://web.archive.org/web/20240727230446/https://www.washingtonpost.com/people/sarah-kaplan/",
+                "provider_name": "The Washington Post",
+                "provider_url": "",
+                "html": "",
+                "width": 588,
+                "height": 392,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/106/036/304/original/131c3d8dca2aa2eb.jpeg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "U29jffr?4-9u~WxZNFNyI:NFxF-qtlShnO-V",
+                "published_at": "2024-07-27T13:18:06.817Z",
+                "authors": [
+                    {
+                        "name": "Sarah Kaplan",
+                        "url": "https://web.archive.org/web/20240727230446/https://www.washingtonpost.com/people/sarah-kaplan/",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112877630075424404",
+            "created_at": "2024-07-30T21:45:47.199Z",
+            "in_reply_to_id": "112877624840931405",
+            "in_reply_to_account_id": "7423",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/matthiasott/statuses/112877630075424404",
+            "url": "https://mastodon.social/@matthiasott/112877630075424404",
+            "replies_count": 1,
+            "reblogs_count": 10,
+            "favourites_count": 6,
+            "edited_at": null,
+            "content": "<p>June 2024 was Earth\u2019s 13th consecutive warmest month on record:<br /><a href=\"https://yaleclimateconnections.org/2024/07/june-2024-earths-13th-consecutive-warmest-month-on-record/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">yaleclimateconnections.org/202</span><span class=\"invisible\">4/07/june-2024-earths-13th-consecutive-warmest-month-on-record/</span></a></p><p><a href=\"https://mastodon.social/tags/climatechange\" class=\"mention hashtag\" rel=\"tag\">#<span>climatechange</span></a> <a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://mastodon.social/tags/climateemergency\" class=\"mention hashtag\" rel=\"tag\">#<span>climateemergency</span></a> <a href=\"https://mastodon.social/tags/climateaction\" class=\"mention hashtag\" rel=\"tag\">#<span>climateaction</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Ivory for iOS",
+                "website": "https://tapbots.com/"
+            },
+            "account": {
+                "id": "7423",
+                "username": "matthiasott",
+                "acct": "matthiasott",
+                "display_name": "Matthias Ott",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2016-11-01T00:00:00.000Z",
+                "note": "<p>Independent user experience designer and web design engineer, teacher, speaker. Interface Prototyping at Muthesius University of Fine Arts and Design. UX and web design engineering workshops. <a href=\"https://mastodon.social/tags/searchable\" class=\"mention hashtag\" rel=\"tag\">#<span>searchable</span></a> \ud83c\uddea\ud83c\uddfa\ud83c\udf0d<br />Newsletter: <a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a><br />\u2028<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://mastodon.social/@matthiasott",
+                "uri": "https://mastodon.social/users/matthiasott",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "header": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "followers_count": 3642,
+                "following_count": 650,
+                "statuses_count": 5304,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-10T13:05:35.588+00:00"
+                    },
+                    {
+                        "name": "Own Your Web Newsletter",
+                        "value": "<a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/matthiasott/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/matthiasott/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "CodePen",
+                        "value": "<a href=\"https://www.codepen.io/matthiasott\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">codepen.io/matthiasott</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-20T21:35:42.759+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climateemergency",
+                    "url": "https://mastodon.social/tags/climateemergency"
+                },
+                {
+                    "name": "climateaction",
+                    "url": "https://mastodon.social/tags/climateaction"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://yaleclimateconnections.org/2024/07/june-2024-earths-13th-consecutive-warmest-month-on-record/",
+                "title": "June 2024: Earth\u2019s 13th-consecutive warmest month on record",
+                "description": "La Ni\u00f1a may nudge global temperatures just below record-smashing territory later this year.",
+                "language": "en",
+                "type": "link",
+                "author_name": "Jeff Masters",
+                "author_url": "",
+                "provider_name": "Yale Climate Connections",
+                "provider_url": "",
+                "html": "",
+                "width": 640,
+                "height": 360,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/104/837/180/original/3d91f76df40205cc.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UFDcXU_300M{IUofxuayM{WBt7j[t7offPay",
+                "published_at": "2024-07-12T17:01:00.000Z",
+                "authors": [
+                    {
+                        "name": "Jeff Masters",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112877632895121810",
+            "created_at": "2024-07-30T21:46:30.229Z",
+            "in_reply_to_id": "112877630075424404",
+            "in_reply_to_account_id": "7423",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/matthiasott/statuses/112877632895121810",
+            "url": "https://mastodon.social/@matthiasott/112877632895121810",
+            "replies_count": 1,
+            "reblogs_count": 10,
+            "favourites_count": 5,
+            "edited_at": null,
+            "content": "<p>Land carbon sinks collapsed in 2023: <a href=\"https://www.lemonde.fr/en/environment/article/2024/07/30/terrestrial-carbon-sinks-collapsed-in-2023_6704503_114.html\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">lemonde.fr/en/environment/arti</span><span class=\"invisible\">cle/2024/07/30/terrestrial-carbon-sinks-collapsed-in-2023_6704503_114.html</span></a></p><p><a href=\"https://mastodon.social/tags/climatechange\" class=\"mention hashtag\" rel=\"tag\">#<span>climatechange</span></a> <a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://mastodon.social/tags/climateemergency\" class=\"mention hashtag\" rel=\"tag\">#<span>climateemergency</span></a> <a href=\"https://mastodon.social/tags/climateaction\" class=\"mention hashtag\" rel=\"tag\">#<span>climateaction</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Ivory for iOS",
+                "website": "https://tapbots.com/"
+            },
+            "account": {
+                "id": "7423",
+                "username": "matthiasott",
+                "acct": "matthiasott",
+                "display_name": "Matthias Ott",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2016-11-01T00:00:00.000Z",
+                "note": "<p>Independent user experience designer and web design engineer, teacher, speaker. Interface Prototyping at Muthesius University of Fine Arts and Design. UX and web design engineering workshops. <a href=\"https://mastodon.social/tags/searchable\" class=\"mention hashtag\" rel=\"tag\">#<span>searchable</span></a> \ud83c\uddea\ud83c\uddfa\ud83c\udf0d<br />Newsletter: <a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a><br />\u2028<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://mastodon.social/@matthiasott",
+                "uri": "https://mastodon.social/users/matthiasott",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "header": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "followers_count": 3642,
+                "following_count": 650,
+                "statuses_count": 5304,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-10T13:05:35.588+00:00"
+                    },
+                    {
+                        "name": "Own Your Web Newsletter",
+                        "value": "<a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/matthiasott/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/matthiasott/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "CodePen",
+                        "value": "<a href=\"https://www.codepen.io/matthiasott\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">codepen.io/matthiasott</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-20T21:35:42.759+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climateemergency",
+                    "url": "https://mastodon.social/tags/climateemergency"
+                },
+                {
+                    "name": "climateaction",
+                    "url": "https://mastodon.social/tags/climateaction"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.lemonde.fr/en/environment/article/2024/07/30/terrestrial-carbon-sinks-collapsed-in-2023_6704503_114.html",
+                "title": "Land carbon sinks collapsed in 2023, a stark warning of climate changes to come",
+                "description": "Forests and soils only absorbed between 1.5 and 2.6 billion metric tons of CO2 in 2023, far behind the 9.5 billion in 2022, mainly due to drought in the Amazon and fires in Canada and Siberia.",
+                "language": "en",
+                "type": "link",
+                "author_name": "Audrey Garric",
+                "author_url": "",
+                "provider_name": "Le Monde",
+                "provider_url": "",
+                "html": "",
+                "width": 588,
+                "height": 392,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/106/174/780/original/006d8e74ffc42b61.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UYC%EUxWRPX9~pt6Rja#-:ayj[j?%MWBj[of",
+                "published_at": "2024-07-30T03:07:56.000Z",
+                "authors": [
+                    {
+                        "name": "Audrey Garric",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112877635265478415",
+            "created_at": "2024-07-30T21:47:06.391Z",
+            "in_reply_to_id": "112877632895121810",
+            "in_reply_to_account_id": "7423",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/matthiasott/statuses/112877635265478415",
+            "url": "https://mastodon.social/@matthiasott/112877635265478415",
+            "replies_count": 1,
+            "reblogs_count": 6,
+            "favourites_count": 8,
+            "edited_at": null,
+            "content": "<p>Nearly all of the world&#39;s oceans are in the midst of \u201cunusual warmth\u201d:<br /><a href=\"https://www.axios.com/2024/07/26/ocean-temperatures-extreme-heat-records\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">axios.com/2024/07/26/ocean-tem</span><span class=\"invisible\">peratures-extreme-heat-records</span></a></p><p><a href=\"https://mastodon.social/tags/climatechange\" class=\"mention hashtag\" rel=\"tag\">#<span>climatechange</span></a> <a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://mastodon.social/tags/climateemergency\" class=\"mention hashtag\" rel=\"tag\">#<span>climateemergency</span></a> <a href=\"https://mastodon.social/tags/climateaction\" class=\"mention hashtag\" rel=\"tag\">#<span>climateaction</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Ivory for iOS",
+                "website": "https://tapbots.com/"
+            },
+            "account": {
+                "id": "7423",
+                "username": "matthiasott",
+                "acct": "matthiasott",
+                "display_name": "Matthias Ott",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2016-11-01T00:00:00.000Z",
+                "note": "<p>Independent user experience designer and web design engineer, teacher, speaker. Interface Prototyping at Muthesius University of Fine Arts and Design. UX and web design engineering workshops. <a href=\"https://mastodon.social/tags/searchable\" class=\"mention hashtag\" rel=\"tag\">#<span>searchable</span></a> \ud83c\uddea\ud83c\uddfa\ud83c\udf0d<br />Newsletter: <a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a><br />\u2028<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://mastodon.social/@matthiasott",
+                "uri": "https://mastodon.social/users/matthiasott",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "header": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "followers_count": 3642,
+                "following_count": 650,
+                "statuses_count": 5304,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-10T13:05:35.588+00:00"
+                    },
+                    {
+                        "name": "Own Your Web Newsletter",
+                        "value": "<a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/matthiasott/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/matthiasott/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "CodePen",
+                        "value": "<a href=\"https://www.codepen.io/matthiasott\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">codepen.io/matthiasott</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-20T21:35:42.759+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climateemergency",
+                    "url": "https://mastodon.social/tags/climateemergency"
+                },
+                {
+                    "name": "climateaction",
+                    "url": "https://mastodon.social/tags/climateaction"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.axios.com/2024/07/26/ocean-temperatures-extreme-heat-records",
+                "title": "The seas are not alright: \"Unusual warmth\" hits nearly all of world's oceans",
+                "description": "The warmer ocean temperatures have impacted ecosystems in both hemispheres.",
+                "language": "en",
+                "type": "link",
+                "author_name": "Andrew Freedman",
+                "author_url": "https://www.axios.com/authors/afreedman",
+                "provider_name": "Axios",
+                "provider_url": "",
+                "html": "",
+                "width": 640,
+                "height": 360,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/105/772/174/original/6a97e3c2818f0e65.jpg",
+                "image_description": "Dead elkhorn coral stand at a site called Horseshoe near Elbow Reef off the coast of Key Largo, FL on November 28, 2023. ",
+                "embed_url": "",
+                "blurhash": "UO7ot_V@OZkCYRayo2jZcFV@nhofozjYaeWC",
+                "published_at": "2024-07-26T12:20:09.645Z",
+                "authors": [
+                    {
+                        "name": "Andrew Freedman",
+                        "url": "https://www.axios.com/authors/afreedman",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112877637874395943",
+            "created_at": "2024-07-30T21:47:46.200Z",
+            "in_reply_to_id": "112877635265478415",
+            "in_reply_to_account_id": "7423",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/matthiasott/statuses/112877637874395943",
+            "url": "https://mastodon.social/@matthiasott/112877637874395943",
+            "replies_count": 1,
+            "reblogs_count": 9,
+            "favourites_count": 11,
+            "edited_at": null,
+            "content": "<p>Global sea ice is not looking good: <a href=\"https://fediscience.org/@ZLabe/112855704997962734\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fediscience.org/@ZLabe/1128557</span><span class=\"invisible\">04997962734</span></a></p><p><a href=\"https://mastodon.social/tags/climatechange\" class=\"mention hashtag\" rel=\"tag\">#<span>climatechange</span></a> <a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://mastodon.social/tags/climateemergency\" class=\"mention hashtag\" rel=\"tag\">#<span>climateemergency</span></a> <a href=\"https://mastodon.social/tags/climateaction\" class=\"mention hashtag\" rel=\"tag\">#<span>climateaction</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Ivory for iOS",
+                "website": "https://tapbots.com/"
+            },
+            "account": {
+                "id": "7423",
+                "username": "matthiasott",
+                "acct": "matthiasott",
+                "display_name": "Matthias Ott",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2016-11-01T00:00:00.000Z",
+                "note": "<p>Independent user experience designer and web design engineer, teacher, speaker. Interface Prototyping at Muthesius University of Fine Arts and Design. UX and web design engineering workshops. <a href=\"https://mastodon.social/tags/searchable\" class=\"mention hashtag\" rel=\"tag\">#<span>searchable</span></a> \ud83c\uddea\ud83c\uddfa\ud83c\udf0d<br />Newsletter: <a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a><br />\u2028<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://mastodon.social/@matthiasott",
+                "uri": "https://mastodon.social/users/matthiasott",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "header": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "followers_count": 3642,
+                "following_count": 650,
+                "statuses_count": 5304,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-10T13:05:35.588+00:00"
+                    },
+                    {
+                        "name": "Own Your Web Newsletter",
+                        "value": "<a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/matthiasott/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/matthiasott/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "CodePen",
+                        "value": "<a href=\"https://www.codepen.io/matthiasott\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">codepen.io/matthiasott</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-20T21:35:42.759+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climateemergency",
+                    "url": "https://mastodon.social/tags/climateemergency"
+                },
+                {
+                    "name": "climateaction",
+                    "url": "https://mastodon.social/tags/climateaction"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://fediscience.org/@ZLabe/112855704997962734",
+                "title": "Zack Labe (@ZLabe@fediscience.org)",
+                "description": "Attached: 1 image\n\nDue to anomalously low sea ice in both poles, global sea ice extent levels are now at a record low for this time of year...\n\nMore sea ice graphics available at https://zacklabe.com/global-sea-ice-extent-conc/",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "FediScience.org",
+                "provider_url": "",
+                "html": "",
+                "width": 588,
+                "height": 392,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/105/957/619/original/608c5c0b04211311.png",
+                "image_description": "Line graph time series of 2024's daily global sea ice extent in red shading compared to each year from 1979 to 2022 using shades of purple to white for each line. 2023 is annotated in yellow, which was a record low in the boreal summer months. There is substantial interannual and daily variability. Seasonal cycles are visible. A disclaimer is shown, which states: Trends/variability in Arctic and Antarctic sea ice are affected by very different atmospheric/oceanic processes and opposite seasonality!",
+                "embed_url": "",
+                "blurhash": "U35Epsr;9ZR%?dImD%s;XKS0IAt9-P-rRSR*",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112877640842338111",
+            "created_at": "2024-07-30T21:48:31.492Z",
+            "in_reply_to_id": "112877637874395943",
+            "in_reply_to_account_id": "7423",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/matthiasott/statuses/112877640842338111",
+            "url": "https://mastodon.social/@matthiasott/112877640842338111",
+            "replies_count": 1,
+            "reblogs_count": 6,
+            "favourites_count": 3,
+            "edited_at": null,
+            "content": "<p>And the AMOC will likely collapse around mid-century:<br /><a href=\"https://www.nature.com/articles/s41467-023-39810-w\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41467-023</span><span class=\"invisible\">-39810-w</span></a></p><p><a href=\"https://mastodon.social/tags/climatechange\" class=\"mention hashtag\" rel=\"tag\">#<span>climatechange</span></a> <a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://mastodon.social/tags/climateemergency\" class=\"mention hashtag\" rel=\"tag\">#<span>climateemergency</span></a> <a href=\"https://mastodon.social/tags/climateaction\" class=\"mention hashtag\" rel=\"tag\">#<span>climateaction</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Ivory for iOS",
+                "website": "https://tapbots.com/"
+            },
+            "account": {
+                "id": "7423",
+                "username": "matthiasott",
+                "acct": "matthiasott",
+                "display_name": "Matthias Ott",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2016-11-01T00:00:00.000Z",
+                "note": "<p>Independent user experience designer and web design engineer, teacher, speaker. Interface Prototyping at Muthesius University of Fine Arts and Design. UX and web design engineering workshops. <a href=\"https://mastodon.social/tags/searchable\" class=\"mention hashtag\" rel=\"tag\">#<span>searchable</span></a> \ud83c\uddea\ud83c\uddfa\ud83c\udf0d<br />Newsletter: <a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a><br />\u2028<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://mastodon.social/@matthiasott",
+                "uri": "https://mastodon.social/users/matthiasott",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "header": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "followers_count": 3642,
+                "following_count": 650,
+                "statuses_count": 5304,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-10T13:05:35.588+00:00"
+                    },
+                    {
+                        "name": "Own Your Web Newsletter",
+                        "value": "<a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/matthiasott/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/matthiasott/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "CodePen",
+                        "value": "<a href=\"https://www.codepen.io/matthiasott\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">codepen.io/matthiasott</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-20T21:35:42.759+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climateemergency",
+                    "url": "https://mastodon.social/tags/climateemergency"
+                },
+                {
+                    "name": "climateaction",
+                    "url": "https://mastodon.social/tags/climateaction"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.nature.com/articles/s41467-023-39810-w",
+                "title": "Warning of a forthcoming collapse of the Atlantic meridional overturning circulation - Nature Communications",
+                "description": "The Atlantic meridional overturning circulation (AMOC) is a major tipping element in the climate system. Here, data-driven estimators for the time of tipping predict a potential AMOC collapse mid-century under the current emission scenario.",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Nature",
+                "provider_url": "",
+                "html": "",
+                "width": 369,
+                "height": 625,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/068/131/313/original/6e6b2e510e07c983.png",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "U6R3cv?J=_~ppxkE-n%2=XxUShR:x{siI.R:",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112877643490668829",
+            "created_at": "2024-07-30T21:49:11.897Z",
+            "in_reply_to_id": "112877640842338111",
+            "in_reply_to_account_id": "7423",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/matthiasott/statuses/112877643490668829",
+            "url": "https://mastodon.social/@matthiasott/112877643490668829",
+            "replies_count": 1,
+            "reblogs_count": 6,
+            "favourites_count": 5,
+            "edited_at": null,
+            "content": "<p>Canada, Oregon, and California are on fire again:<br /><a href=\"https://www.theatlantic.com/photo/2024/07/photos-california-park-fire/679280/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theatlantic.com/photo/2024/07/</span><span class=\"invisible\">photos-california-park-fire/679280/</span></a></p><p><a href=\"https://mastodon.social/tags/climatechange\" class=\"mention hashtag\" rel=\"tag\">#<span>climatechange</span></a> <a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://mastodon.social/tags/climateemergency\" class=\"mention hashtag\" rel=\"tag\">#<span>climateemergency</span></a> <a href=\"https://mastodon.social/tags/climateaction\" class=\"mention hashtag\" rel=\"tag\">#<span>climateaction</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Ivory for iOS",
+                "website": "https://tapbots.com/"
+            },
+            "account": {
+                "id": "7423",
+                "username": "matthiasott",
+                "acct": "matthiasott",
+                "display_name": "Matthias Ott",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2016-11-01T00:00:00.000Z",
+                "note": "<p>Independent user experience designer and web design engineer, teacher, speaker. Interface Prototyping at Muthesius University of Fine Arts and Design. UX and web design engineering workshops. <a href=\"https://mastodon.social/tags/searchable\" class=\"mention hashtag\" rel=\"tag\">#<span>searchable</span></a> \ud83c\uddea\ud83c\uddfa\ud83c\udf0d<br />Newsletter: <a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a><br />\u2028<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://mastodon.social/@matthiasott",
+                "uri": "https://mastodon.social/users/matthiasott",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "header": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "followers_count": 3642,
+                "following_count": 650,
+                "statuses_count": 5304,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-10T13:05:35.588+00:00"
+                    },
+                    {
+                        "name": "Own Your Web Newsletter",
+                        "value": "<a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/matthiasott/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/matthiasott/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "CodePen",
+                        "value": "<a href=\"https://www.codepen.io/matthiasott\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">codepen.io/matthiasott</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-20T21:35:42.759+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climateemergency",
+                    "url": "https://mastodon.social/tags/climateemergency"
+                },
+                {
+                    "name": "climateaction",
+                    "url": "https://mastodon.social/tags/climateaction"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.theatlantic.com/photo/2024/07/photos-california-park-fire/679280/",
+                "title": "Photos: California\u2019s Massive Park Fire Continues to Grow",
+                "description": "Images from\u00a0one of the largest wildfires in state history",
+                "language": "en",
+                "type": "link",
+                "author_name": "Alan Taylor",
+                "author_url": "",
+                "provider_name": "The Atlantic",
+                "provider_url": "",
+                "html": "",
+                "width": 664,
+                "height": 346,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/106/106/203/original/a864410a47034ed4.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UZIeXo}W9_V]w_WWSMs.9_R+xYX7-9s.R+e:",
+                "published_at": "2024-07-29T16:46:02.000Z",
+                "authors": [
+                    {
+                        "name": "Alan Taylor",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112877646580570555",
+            "created_at": "2024-07-30T21:49:59.045Z",
+            "in_reply_to_id": "112877643490668829",
+            "in_reply_to_account_id": "7423",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/matthiasott/statuses/112877646580570555",
+            "url": "https://mastodon.social/@matthiasott/112877646580570555",
+            "replies_count": 1,
+            "reblogs_count": 27,
+            "favourites_count": 17,
+            "edited_at": null,
+            "content": "<p>The U.S. faces a prolonged, coast-to-coast heatwave:<br /><a href=\"https://wapo.st/3LL3CDl\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">wapo.st/3LL3CDl</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/tags/climatechange\" class=\"mention hashtag\" rel=\"tag\">#<span>climatechange</span></a> <a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://mastodon.social/tags/climateemergency\" class=\"mention hashtag\" rel=\"tag\">#<span>climateemergency</span></a> <a href=\"https://mastodon.social/tags/climateaction\" class=\"mention hashtag\" rel=\"tag\">#<span>climateaction</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Ivory for iOS",
+                "website": "https://tapbots.com/"
+            },
+            "account": {
+                "id": "7423",
+                "username": "matthiasott",
+                "acct": "matthiasott",
+                "display_name": "Matthias Ott",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2016-11-01T00:00:00.000Z",
+                "note": "<p>Independent user experience designer and web design engineer, teacher, speaker. Interface Prototyping at Muthesius University of Fine Arts and Design. UX and web design engineering workshops. <a href=\"https://mastodon.social/tags/searchable\" class=\"mention hashtag\" rel=\"tag\">#<span>searchable</span></a> \ud83c\uddea\ud83c\uddfa\ud83c\udf0d<br />Newsletter: <a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a><br />\u2028<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://mastodon.social/@matthiasott",
+                "uri": "https://mastodon.social/users/matthiasott",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "header": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "followers_count": 3642,
+                "following_count": 650,
+                "statuses_count": 5304,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-10T13:05:35.588+00:00"
+                    },
+                    {
+                        "name": "Own Your Web Newsletter",
+                        "value": "<a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/matthiasott/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/matthiasott/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "CodePen",
+                        "value": "<a href=\"https://www.codepen.io/matthiasott\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">codepen.io/matthiasott</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-20T21:35:42.759+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climateemergency",
+                    "url": "https://mastodon.social/tags/climateemergency"
+                },
+                {
+                    "name": "climateaction",
+                    "url": "https://mastodon.social/tags/climateaction"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://wapo.st/3LL3CDl",
+                "title": "U.S. faces prolonged, coast-to-coast heat wave. Here\u2019s a forecast for 12 cities.",
+                "description": "The heat will extend through the first week of August, with records possible in both the East and the West.",
+                "language": "en",
+                "type": "link",
+                "author_name": "Ian Livingston",
+                "author_url": "https://www.washingtonpost.com/people/ian-livingston/",
+                "provider_name": "The Washington Post",
+                "provider_url": "",
+                "html": "",
+                "width": 518,
+                "height": 444,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/106/244/375/original/fd4b57577fa1ab64.jpeg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UcM=b5TI?Fx@%$R-W=af_NniM}jFk?oexGS1",
+                "published_at": "2024-07-30T16:52:51.383Z",
+                "authors": [
+                    {
+                        "name": "Ian Livingston",
+                        "url": "https://www.washingtonpost.com/people/ian-livingston/",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ],
+    "descendants": [
+        {
+            "id": "112877657729299298",
+            "created_at": "2024-07-30T21:52:49.163Z",
+            "in_reply_to_id": "112877648466338566",
+            "in_reply_to_account_id": "7423",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/matthiasott/statuses/112877657729299298",
+            "url": "https://mastodon.social/@matthiasott/112877657729299298",
+            "replies_count": 2,
+            "reblogs_count": 6,
+            "favourites_count": 10,
+            "edited_at": null,
+            "content": "<p>Vote accordingly \ud83c\udf0d\ud83c\udf3f\u2705<br /><a href=\"https://mastodon.social/tags/climatechange\" class=\"mention hashtag\" rel=\"tag\">#<span>climatechange</span></a> <a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://mastodon.social/tags/climateemergency\" class=\"mention hashtag\" rel=\"tag\">#<span>climateemergency</span></a> <a href=\"https://mastodon.social/tags/climateaction\" class=\"mention hashtag\" rel=\"tag\">#<span>climateaction</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Ivory for iOS",
+                "website": "https://tapbots.com/"
+            },
+            "account": {
+                "id": "7423",
+                "username": "matthiasott",
+                "acct": "matthiasott",
+                "display_name": "Matthias Ott",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2016-11-01T00:00:00.000Z",
+                "note": "<p>Independent user experience designer and web design engineer, teacher, speaker. Interface Prototyping at Muthesius University of Fine Arts and Design. UX and web design engineering workshops. <a href=\"https://mastodon.social/tags/searchable\" class=\"mention hashtag\" rel=\"tag\">#<span>searchable</span></a> \ud83c\uddea\ud83c\uddfa\ud83c\udf0d<br />Newsletter: <a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a><br />\u2028<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://mastodon.social/@matthiasott",
+                "uri": "https://mastodon.social/users/matthiasott",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/007/423/original/c8168133c9e44c46.png",
+                "header": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/007/423/original/f2c030ccd50a739a.jpg",
+                "followers_count": 3642,
+                "following_count": 650,
+                "statuses_count": 5304,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://matthiasott.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-10T13:05:35.588+00:00"
+                    },
+                    {
+                        "name": "Own Your Web Newsletter",
+                        "value": "<a href=\"https://matthiasott.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthiasott.com/newsletter</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/matthiasott/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/matthiasott/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "CodePen",
+                        "value": "<a href=\"https://www.codepen.io/matthiasott\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">codepen.io/matthiasott</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-20T21:35:42.759+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climateemergency",
+                    "url": "https://mastodon.social/tags/climateemergency"
+                },
+                {
+                    "name": "climateaction",
+                    "url": "https://mastodon.social/tags/climateaction"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112877771160201238",
+            "created_at": "2024-07-30T22:21:39.981Z",
+            "in_reply_to_id": "112877657729299298",
+            "in_reply_to_account_id": "7423",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/timsev/statuses/112877771160201238",
+            "url": "https://mastodon.social/@timsev/112877771160201238",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\">@<span>matthiasott</span></a></span> I\u2019ve been voting green for years now. They might not have attractive policy (i.e. aims to spend funds on abstract and long-term things instead of short-term populist bullshit), but it\u2019s the only one that aims to prevent mass relocation and death. It\u2019s a no-brainer.</p>",
+            "reblog": null,
+            "account": {
+                "id": "453152",
+                "username": "timsev",
+                "acct": "timsev",
+                "display_name": "Tim Severien",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2018-08-17T00:00:00.000Z",
+                "note": "<p>I build websites @ fresk.digital. Toots mainly about <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"tag\">#<span>webdev</span></a>, and sometimes about mental health and ethics.</p>",
+                "url": "https://mastodon.social/@timsev",
+                "uri": "https://mastodon.social/users/timsev",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/453/152/original/c7fc593e1f48b943.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/453/152/original/c7fc593e1f48b943.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/000/453/152/original/c7d24a8761266b90.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/453/152/original/c7d24a8761266b90.jpg",
+                "followers_count": 194,
+                "following_count": 126,
+                "statuses_count": 790,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://tsev.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tsev.dev</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2023-08-22T16:20:11.606+00:00"
+                    },
+                    {
+                        "name": "Mastodon",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ijsjes\" class=\"u-url mention\">@<span>ijsjes</span></a></span>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "7423",
+                    "username": "matthiasott",
+                    "url": "https://mastodon.social/@matthiasott",
+                    "acct": "matthiasott"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112882387877729637",
+            "created_at": "2024-07-31T17:55:45.000Z",
+            "in_reply_to_id": "112877657729299298",
+            "in_reply_to_account_id": "7423",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://social.lol/users/anniegreens/statuses/112882387850394080",
+            "url": "https://social.lol/@anniegreens/112882387850394080",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>matthiasott</span></a></span> BTW thank you for this thread, I very much appreciate when people raise issues that need raising in spaces where the subject may not always get heard</p>",
+            "reblog": null,
+            "account": {
+                "id": "109737410580680042",
+                "username": "anniegreens",
+                "acct": "anniegreens@social.lol",
+                "display_name": "Apple Annie :prami:",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-01-23T00:00:00.000Z",
+                "note": "<p>On \u201cI put pixels in their place\u201d hiatus. Recovering front-end web developer. You might find me in the garden or staring at a bird.<br>\u2022\u2014\u2022<br>Header alt: Closeup of purple tulips from near ground level, making them look like goblets on green stems against a blue sky with white clouds.</p><p>Avatar alt: A stylized avatar illustration of a woman with brown hair with gray streaks in a bun, rounded rectangular turquoise glasses, a laptop adorned with stickers, and a slight smirk.</p><p><a href=\"https://proven.lol/f84024\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">proven.lol/f84024</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://social.lol/@anniegreens",
+                "uri": "https://social.lol/users/anniegreens",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/737/410/580/680/042/original/bb04899ef2feacc3.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/737/410/580/680/042/original/bb04899ef2feacc3.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/737/410/580/680/042/original/9134e5370d1aad49.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/737/410/580/680/042/original/9134e5370d1aad49.jpeg",
+                "followers_count": 238,
+                "following_count": 217,
+                "statuses_count": 10791,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [
+                    {
+                        "shortcode": "prami",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/416/925/original/5cb1485e56f84e64.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/416/925/static/5cb1485e56f84e64.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Location",
+                        "value": "Lower Columbia, PDX, PNW",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Site",
+                        "value": "<a href=\"https://anniegreens.lol\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">anniegreens.lol</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-25T17:38:41.496+00:00"
+                    },
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://weblog.anniegreens.lol\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">weblog.anniegreens.lol</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-25T17:38:42.126+00:00"
+                    },
+                    {
+                        "name": "Here for",
+                        "value": "new stuff, old stuff, fun stuff",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "7423",
+                    "username": "matthiasott",
+                    "url": "https://mastodon.social/@matthiasott",
+                    "acct": "matthiasott"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112877661372569829",
+            "created_at": "2024-07-30T21:53:44.000Z",
+            "in_reply_to_id": "112877648466338566",
+            "in_reply_to_account_id": "7423",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://social.lol/users/anniegreens/statuses/112877661352445442",
+            "url": "https://social.lol/@anniegreens/112877661352445442",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 2,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>matthiasott</span></a></span> It gets really hard to figure out where we as individuals can make a change. And that is on purpose, those with the power to actually make the change won't because it isn't financially beneficial *now* in the short-term, so they place this ridiculous calculation and burden on us as individuals and when we can't make a change, we give up and some folks just dig their heels in with apathy.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109737410580680042",
+                "username": "anniegreens",
+                "acct": "anniegreens@social.lol",
+                "display_name": "Apple Annie :prami:",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-01-23T00:00:00.000Z",
+                "note": "<p>On \u201cI put pixels in their place\u201d hiatus. Recovering front-end web developer. You might find me in the garden or staring at a bird.<br>\u2022\u2014\u2022<br>Header alt: Closeup of purple tulips from near ground level, making them look like goblets on green stems against a blue sky with white clouds.</p><p>Avatar alt: A stylized avatar illustration of a woman with brown hair with gray streaks in a bun, rounded rectangular turquoise glasses, a laptop adorned with stickers, and a slight smirk.</p><p><a href=\"https://proven.lol/f84024\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">proven.lol/f84024</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://social.lol/@anniegreens",
+                "uri": "https://social.lol/users/anniegreens",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/737/410/580/680/042/original/bb04899ef2feacc3.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/737/410/580/680/042/original/bb04899ef2feacc3.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/737/410/580/680/042/original/9134e5370d1aad49.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/737/410/580/680/042/original/9134e5370d1aad49.jpeg",
+                "followers_count": 238,
+                "following_count": 217,
+                "statuses_count": 10791,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [
+                    {
+                        "shortcode": "prami",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/416/925/original/5cb1485e56f84e64.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/416/925/static/5cb1485e56f84e64.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Location",
+                        "value": "Lower Columbia, PDX, PNW",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Site",
+                        "value": "<a href=\"https://anniegreens.lol\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">anniegreens.lol</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-25T17:38:41.496+00:00"
+                    },
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://weblog.anniegreens.lol\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">weblog.anniegreens.lol</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-25T17:38:42.126+00:00"
+                    },
+                    {
+                        "name": "Here for",
+                        "value": "new stuff, old stuff, fun stuff",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "7423",
+                    "username": "matthiasott",
+                    "url": "https://mastodon.social/@matthiasott",
+                    "acct": "matthiasott"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112880008205558349",
+            "created_at": "2024-07-31T07:50:34.585Z",
+            "in_reply_to_id": "112877661372569829",
+            "in_reply_to_account_id": "109737410580680042",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ryanroberts/statuses/112880008205558349",
+            "url": "https://mastodon.social/@ryanroberts/112880008205558349",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.lol/@anniegreens\" class=\"u-url mention\">@<span>anniegreens</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@matthiasott\" class=\"u-url mention\">@<span>matthiasott</span></a></span> Pretty much everyone (in the west) is in the position to stop consuming so much, to stop supporting animal agriculture, and to stop voting for politicians who won\u2019t do anything meaningful. But most people don\u2019t want to change, they want to eat their cake and keep it while waiting for others to change.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mona for iPhone",
+                "website": "https://mastodon.social/@MonaApp"
+            },
+            "account": {
+                "id": "860170",
+                "username": "ryanroberts",
+                "acct": "ryanroberts",
+                "display_name": "Ryan",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-07-17T00:00:00.000Z",
+                "note": "<p>Web dev using Craft CMS, Tailwind and Alpine.js amongst other things. Mostly here just reading what you\u2019re all posting \ud83e\udd78</p>",
+                "url": "https://mastodon.social/@ryanroberts",
+                "uri": "https://mastodon.social/users/ryanroberts",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/860/170/original/fea38290b9acad4f.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/860/170/original/fea38290b9acad4f.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/000/860/170/original/e41fcb11d08a9e24.jpeg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/860/170/original/e41fcb11d08a9e24.jpeg",
+                "followers_count": 16,
+                "following_count": 86,
+                "statuses_count": 232,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "noindex": true,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://ryanroberts.co.uk\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">ryanroberts.co.uk</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2023-07-15T20:36:54.146+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109737410580680042",
+                    "username": "anniegreens",
+                    "url": "https://social.lol/@anniegreens",
+                    "acct": "anniegreens@social.lol"
+                },
+                {
+                    "id": "7423",
+                    "username": "matthiasott",
+                    "url": "https://mastodon.social/@matthiasott",
+                    "acct": "matthiasott"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

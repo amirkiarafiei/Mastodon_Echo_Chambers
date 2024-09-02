@@ -1,0 +1,953 @@
+{
+    "ancestors": [
+        {
+            "id": "112865146824249563",
+            "created_at": "2024-07-28T16:51:06.000Z",
+            "in_reply_to_id": null,
+            "in_reply_to_account_id": null,
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/emsenn/statuses/112865146746543767",
+            "url": "https://kolektiva.social/@emsenn/112865146746543767",
+            "replies_count": 1,
+            "reblogs_count": 12,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>I haven't been able to get on much recently, because I'm helping my family prepare for our annual sundance ceremony.</p><p>We've got a bunch we're working on, one thing is to get a kitchen set up for serving food they'll like to the kids that come out. We've got the appliances to get it done - including fun things like the solar stove I'm linking a video of in the replies - but we need more funds for food, and fuel for our chainsaws and trucks, to go get the pine we'll use to make the kitchen structure.</p><p>Donate through <a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a> please</p><p><a href=\"https://kolektiva.social/tags/IndigenousMutualAid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousMutualAid</span></a> <a href=\"https://kolektiva.social/tags/MutualAid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MutualAid</span></a> <a href=\"https://kolektiva.social/tags/SettlerSaturday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SettlerSaturday</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "108170525371080076",
+                "username": "emsenn",
+                "acct": "emsenn@kolektiva.social",
+                "display_name": "emsenn",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2021-12-21T00:00:00.000Z",
+                "note": "<p>My name is emsenn (e/em/eir pronouns); I'm a lost bird Itazipco Lakota, queer, and live with mobility limitations and chronic pain.</p><p>I'm also an anarcho-nihilist who works to cultivate habits of liberation while living in a heartland of colonial empire.</p>",
+                "url": "https://kolektiva.social/@emsenn",
+                "uri": "https://kolektiva.social/users/emsenn",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "followers_count": 234,
+                "following_count": 35,
+                "statuses_count": 135,
+                "last_status_at": "2024-08-03",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "homepage",
+                        "value": "<a href=\"https://emsenn.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">emsenn.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "donate",
+                        "value": "<a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "IndigenousMutualAid",
+                    "url": "https://mastodon.social/tags/IndigenousMutualAid"
+                },
+                {
+                    "name": "mutualaid",
+                    "url": "https://mastodon.social/tags/mutualaid"
+                },
+                {
+                    "name": "settlersaturday",
+                    "url": "https://mastodon.social/tags/settlersaturday"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://ko-fi.com/emsenn",
+                "title": "Support emsenn on Ko-fi! \u2764\ufe0f",
+                "description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Ko-fi",
+                "provider_url": "",
+                "html": "",
+                "width": 650,
+                "height": 354,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/025/690/490/original/af090aff3dc5e9f0.png",
+                "image_description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "embed_url": "",
+                "blurhash": "U*HxpY~p-poft7ofayWBfht6t7azt7t7ayRk",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112865151594883770",
+            "created_at": "2024-07-28T16:52:19.000Z",
+            "in_reply_to_id": "112865146824249563",
+            "in_reply_to_account_id": "108170525371080076",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/emsenn/statuses/112865151539295421",
+            "url": "https://kolektiva.social/@emsenn/112865151539295421",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p>Here's a demo of our solar stove, which we're planning to use in making frybread, without having to keep a fire stoked.</p><p><a href=\"https://www.youtube.com/shorts/xQ10EWasclY\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/shorts/xQ10EWasclY</span><span class=\"invisible\"></span></a></p><p>Again, donate at <a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a></p><p><a href=\"https://kolektiva.social/tags/solarpunk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>solarpunk</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "108170525371080076",
+                "username": "emsenn",
+                "acct": "emsenn@kolektiva.social",
+                "display_name": "emsenn",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2021-12-21T00:00:00.000Z",
+                "note": "<p>My name is emsenn (e/em/eir pronouns); I'm a lost bird Itazipco Lakota, queer, and live with mobility limitations and chronic pain.</p><p>I'm also an anarcho-nihilist who works to cultivate habits of liberation while living in a heartland of colonial empire.</p>",
+                "url": "https://kolektiva.social/@emsenn",
+                "uri": "https://kolektiva.social/users/emsenn",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "followers_count": 234,
+                "following_count": 35,
+                "statuses_count": 135,
+                "last_status_at": "2024-08-03",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "homepage",
+                        "value": "<a href=\"https://emsenn.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">emsenn.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "donate",
+                        "value": "<a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "solarpunk",
+                    "url": "https://mastodon.social/tags/solarpunk"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.youtube.com/shorts/xQ10EWasclY",
+                "title": "Testing our new #solar stove #offthegrid #solarpunk #sustainability #pineridge",
+                "description": "",
+                "language": null,
+                "type": "video",
+                "author_name": "Michael Marmot",
+                "author_url": "https://www.youtube.com/@MichaelMarmot561",
+                "provider_name": "YouTube",
+                "provider_url": "https://www.youtube.com/",
+                "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/xQ10EWasclY?feature=oembed\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms\"></iframe>",
+                "width": 113,
+                "height": 200,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/105/994/039/original/79190da36a662f78.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UQBWe~nh00kYjDo#kDROI_WAxAozRlWCoeof",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "Michael Marmot",
+                        "url": "https://www.youtube.com/@MichaelMarmot561",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112865162455527423",
+            "created_at": "2024-07-28T16:55:05.000Z",
+            "in_reply_to_id": "112865151594883770",
+            "in_reply_to_account_id": "108170525371080076",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/emsenn/statuses/112865162423269678",
+            "url": "https://kolektiva.social/@emsenn/112865162423269678",
+            "replies_count": 1,
+            "reblogs_count": 3,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>Short update for followers new and old: I'm going to be in lots of conversations over the next couple months that'll help give a more legible shape to the work me and my family are doing here on Pine Ridge, but regardless of that, winter is coming up soon and we'll need all the support we can get.</p><p>In addition to one-off donations for special causes like sundance prep, monthly supporters are Ko-fi are critical: that's the money me and my family use to sustain ourselves while we work to end apartheid conditions in literally the poorest place within the United States.</p><p>That number - excuse me, URL - again is <a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "108170525371080076",
+                "username": "emsenn",
+                "acct": "emsenn@kolektiva.social",
+                "display_name": "emsenn",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2021-12-21T00:00:00.000Z",
+                "note": "<p>My name is emsenn (e/em/eir pronouns); I'm a lost bird Itazipco Lakota, queer, and live with mobility limitations and chronic pain.</p><p>I'm also an anarcho-nihilist who works to cultivate habits of liberation while living in a heartland of colonial empire.</p>",
+                "url": "https://kolektiva.social/@emsenn",
+                "uri": "https://kolektiva.social/users/emsenn",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "followers_count": 234,
+                "following_count": 35,
+                "statuses_count": 135,
+                "last_status_at": "2024-08-03",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "homepage",
+                        "value": "<a href=\"https://emsenn.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">emsenn.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "donate",
+                        "value": "<a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://ko-fi.com/emsenn",
+                "title": "Support emsenn on Ko-fi! \u2764\ufe0f",
+                "description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Ko-fi",
+                "provider_url": "",
+                "html": "",
+                "width": 650,
+                "height": 354,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/025/690/490/original/af090aff3dc5e9f0.png",
+                "image_description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "embed_url": "",
+                "blurhash": "U*HxpY~p-poft7ofayWBfht6t7azt7t7ayRk",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ],
+    "descendants": [
+        {
+            "id": "112867775664536628",
+            "created_at": "2024-07-29T03:59:39.000Z",
+            "in_reply_to_id": "112865365064481099",
+            "in_reply_to_account_id": "108170525371080076",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/emsenn/statuses/112867775599243246",
+            "url": "https://kolektiva.social/@emsenn/112867775599243246",
+            "replies_count": 1,
+            "reblogs_count": 16,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>Okay but no really <a href=\"https://kolektiva.social/tags/MastodonForLandBack\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastodonForLandBack</span></a> cause [due to some white people being deeply unserious and treating requests for material solidarity like opportunities to go on ethnotourist vacations on the reservation] we're out two days of Sundance prep and most a tank of gas.</p><p><a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a></p><p><a href=\"https://kolektiva.social/tags/MutualAid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MutualAid</span></a> <a href=\"https://kolektiva.social/tags/IndigenousMutualAid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousMutualAid</span></a> </p><p>If anyone else wants to make posts with my ko-fi on it, over the next few weeks, that'd also be super duper appreciated. Even without the superfluous work, I'm hella busy each day and keeping my laptop charged (and thinking of how to write posts people will read) is tricky.</p>",
+            "reblog": null,
+            "account": {
+                "id": "108170525371080076",
+                "username": "emsenn",
+                "acct": "emsenn@kolektiva.social",
+                "display_name": "emsenn",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2021-12-21T00:00:00.000Z",
+                "note": "<p>My name is emsenn (e/em/eir pronouns); I'm a lost bird Itazipco Lakota, queer, and live with mobility limitations and chronic pain.</p><p>I'm also an anarcho-nihilist who works to cultivate habits of liberation while living in a heartland of colonial empire.</p>",
+                "url": "https://kolektiva.social/@emsenn",
+                "uri": "https://kolektiva.social/users/emsenn",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "followers_count": 234,
+                "following_count": 35,
+                "statuses_count": 135,
+                "last_status_at": "2024-08-03",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "homepage",
+                        "value": "<a href=\"https://emsenn.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">emsenn.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "donate",
+                        "value": "<a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "mastodonforlandback",
+                    "url": "https://mastodon.social/tags/mastodonforlandback"
+                },
+                {
+                    "name": "mutualaid",
+                    "url": "https://mastodon.social/tags/mutualaid"
+                },
+                {
+                    "name": "IndigenousMutualAid",
+                    "url": "https://mastodon.social/tags/IndigenousMutualAid"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://ko-fi.com/emsenn",
+                "title": "Support emsenn on Ko-fi! \u2764\ufe0f",
+                "description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Ko-fi",
+                "provider_url": "",
+                "html": "",
+                "width": 650,
+                "height": 354,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/025/690/490/original/af090aff3dc5e9f0.png",
+                "image_description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "embed_url": "",
+                "blurhash": "U*HxpY~p-poft7ofayWBfht6t7azt7t7ayRk",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112870425250031543",
+            "created_at": "2024-07-29T15:13:28.000Z",
+            "in_reply_to_id": "112867775664536628",
+            "in_reply_to_account_id": "108170525371080076",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/emsenn/statuses/112870425163216694",
+            "url": "https://kolektiva.social/@emsenn/112870425163216694",
+            "replies_count": 1,
+            "reblogs_count": 11,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>Thank you to a new donor, and an extra gift from a subscriber - we're able to refill the gas in the truck, and get a couple gallons for our chainsaws.</p><p>Which is great! It lets us do important work!</p><p>But also means we'll need more funds before too long. I'd love to stay ahead of it, and not end up with downtime because no one has money to get more gas.</p><p>So, let's keep the momentum going: share this post, or any in the thread, please!</p><p><a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a></p><p><a href=\"https://kolektiva.social/tags/MutualAid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MutualAid</span></a> <a href=\"https://kolektiva.social/tags/IndigenousMutualAid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousMutualAid</span></a> <a href=\"https://kolektiva.social/tags/MastodonForLandBack\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastodonForLandBack</span></a> <a href=\"https://kolektiva.social/tags/SettlerSaturday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SettlerSaturday</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "108170525371080076",
+                "username": "emsenn",
+                "acct": "emsenn@kolektiva.social",
+                "display_name": "emsenn",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2021-12-21T00:00:00.000Z",
+                "note": "<p>My name is emsenn (e/em/eir pronouns); I'm a lost bird Itazipco Lakota, queer, and live with mobility limitations and chronic pain.</p><p>I'm also an anarcho-nihilist who works to cultivate habits of liberation while living in a heartland of colonial empire.</p>",
+                "url": "https://kolektiva.social/@emsenn",
+                "uri": "https://kolektiva.social/users/emsenn",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "followers_count": 234,
+                "following_count": 35,
+                "statuses_count": 135,
+                "last_status_at": "2024-08-03",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "homepage",
+                        "value": "<a href=\"https://emsenn.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">emsenn.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "donate",
+                        "value": "<a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "mutualaid",
+                    "url": "https://mastodon.social/tags/mutualaid"
+                },
+                {
+                    "name": "IndigenousMutualAid",
+                    "url": "https://mastodon.social/tags/IndigenousMutualAid"
+                },
+                {
+                    "name": "mastodonforlandback",
+                    "url": "https://mastodon.social/tags/mastodonforlandback"
+                },
+                {
+                    "name": "settlersaturday",
+                    "url": "https://mastodon.social/tags/settlersaturday"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://ko-fi.com/emsenn",
+                "title": "Support emsenn on Ko-fi! \u2764\ufe0f",
+                "description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Ko-fi",
+                "provider_url": "",
+                "html": "",
+                "width": 650,
+                "height": 354,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/025/690/490/original/af090aff3dc5e9f0.png",
+                "image_description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "embed_url": "",
+                "blurhash": "U*HxpY~p-poft7ofayWBfht6t7azt7t7ayRk",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112873262856358931",
+            "created_at": "2024-07-30T03:15:07.000Z",
+            "in_reply_to_id": "112870425250031543",
+            "in_reply_to_account_id": "108170525371080076",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/emsenn/statuses/112873262788231547",
+            "url": "https://kolektiva.social/@emsenn/112873262788231547",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-07-30T03:25:08.000Z",
+            "content": "<p>ccording to my phone and truck, I walked 6 miles today, drove 12 miles between like, going between the vairous homes you see grouped in the videos on my YouTube, and sundance grounds, 8 miles in the backcountry, and 112 miles between towns.</p><p>I'm really not joking about needing just, a lot of fuel to keep folk hydrated, fed, and moving toward getting our ceremony done.</p><p>Btw that youtube channel is at <a href=\"https://youtube.com/@MichaelMarmot561\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtube.com/@MichaelMarmot561</span><span class=\"invisible\"></span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "108170525371080076",
+                "username": "emsenn",
+                "acct": "emsenn@kolektiva.social",
+                "display_name": "emsenn",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2021-12-21T00:00:00.000Z",
+                "note": "<p>My name is emsenn (e/em/eir pronouns); I'm a lost bird Itazipco Lakota, queer, and live with mobility limitations and chronic pain.</p><p>I'm also an anarcho-nihilist who works to cultivate habits of liberation while living in a heartland of colonial empire.</p>",
+                "url": "https://kolektiva.social/@emsenn",
+                "uri": "https://kolektiva.social/users/emsenn",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "followers_count": 234,
+                "following_count": 35,
+                "statuses_count": 135,
+                "last_status_at": "2024-08-03",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "homepage",
+                        "value": "<a href=\"https://emsenn.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">emsenn.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "donate",
+                        "value": "<a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://youtube.com/@MichaelMarmot561",
+                "title": "Bevor Sie zu YouTube weitergehen",
+                "description": "",
+                "language": "de",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 0,
+                "height": 0,
+                "image": null,
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": null,
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112873289212184198",
+            "created_at": "2024-07-30T03:21:50.000Z",
+            "in_reply_to_id": "112873262856358931",
+            "in_reply_to_account_id": "108170525371080076",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/emsenn/statuses/112873289158555653",
+            "url": "https://kolektiva.social/@emsenn/112873289158555653",
+            "replies_count": 1,
+            "reblogs_count": 5,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p>Oh dang, I was so busy today I forgot to share one of the things that has us so busy!!</p><p>Tomorrow, social workers are gonna come to check out one of the trailers to make sure it's a good home, cause we're gonna be watching some new nephew for a few months or years.</p><p>I'm sure most of y'all reading have felt the stress of cleaning before a guest; imagine if the consequences of not getting it done right were a kid potentially going into the adoption system, getting disconnected from their family's culture and spirituality.</p><p>When we're out picking up mail and scavenging for pallets and other scrap tomorrow, I'd love to be able to pop to the store to get things like soda and ice to toss in a cooler, and maybe some potato chips or something, to keep folks morale up, as we keep on cleaning tomorrow morning.</p><p><a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "108170525371080076",
+                "username": "emsenn",
+                "acct": "emsenn@kolektiva.social",
+                "display_name": "emsenn",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2021-12-21T00:00:00.000Z",
+                "note": "<p>My name is emsenn (e/em/eir pronouns); I'm a lost bird Itazipco Lakota, queer, and live with mobility limitations and chronic pain.</p><p>I'm also an anarcho-nihilist who works to cultivate habits of liberation while living in a heartland of colonial empire.</p>",
+                "url": "https://kolektiva.social/@emsenn",
+                "uri": "https://kolektiva.social/users/emsenn",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "followers_count": 234,
+                "following_count": 35,
+                "statuses_count": 135,
+                "last_status_at": "2024-08-03",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "homepage",
+                        "value": "<a href=\"https://emsenn.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">emsenn.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "donate",
+                        "value": "<a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://ko-fi.com/emsenn",
+                "title": "Support emsenn on Ko-fi! \u2764\ufe0f",
+                "description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Ko-fi",
+                "provider_url": "",
+                "html": "",
+                "width": 650,
+                "height": 354,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/025/690/490/original/af090aff3dc5e9f0.png",
+                "image_description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "embed_url": "",
+                "blurhash": "U*HxpY~p-poft7ofayWBfht6t7azt7t7ayRk",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112893046903361305",
+            "created_at": "2024-08-02T15:06:28.000Z",
+            "in_reply_to_id": "112873289212184198",
+            "in_reply_to_account_id": "108170525371080076",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/emsenn/statuses/112893046828666760",
+            "url": "https://kolektiva.social/@emsenn/112893046828666760",
+            "replies_count": 1,
+            "reblogs_count": 19,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p>Found some time for a break this mid-morning, so I'll try and share some updates!</p><p>The couple got approved so now we've got a new brother-cousin living around.</p><p>Prep for Sundance has been going well, and we're getting the kitchen for feeding kids built! Next step is getting enough food to keep up with those appetites!</p><p>We'll be going into the city tomorrow to get as much as we can when we pick up a cousin from the airport, so any donations that come in today would really help with that.</p><p>To give an idea of things, we're expecting to need to feed about 30-50 kids for 5+ days, which is no small feat, even outside the reservation.</p><p><a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a></p><p><a href=\"https://kolektiva.social/tags/MutualAid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MutualAid</span></a> <a href=\"https://kolektiva.social/tags/IndigenousMutualAid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndigenousMutualAid</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "108170525371080076",
+                "username": "emsenn",
+                "acct": "emsenn@kolektiva.social",
+                "display_name": "emsenn",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2021-12-21T00:00:00.000Z",
+                "note": "<p>My name is emsenn (e/em/eir pronouns); I'm a lost bird Itazipco Lakota, queer, and live with mobility limitations and chronic pain.</p><p>I'm also an anarcho-nihilist who works to cultivate habits of liberation while living in a heartland of colonial empire.</p>",
+                "url": "https://kolektiva.social/@emsenn",
+                "uri": "https://kolektiva.social/users/emsenn",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/170/525/371/080/076/original/491c480aa9bf6349.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/170/525/371/080/076/original/812b5a328f99b3e3.jpg",
+                "followers_count": 234,
+                "following_count": 35,
+                "statuses_count": 135,
+                "last_status_at": "2024-08-03",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "homepage",
+                        "value": "<a href=\"https://emsenn.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">emsenn.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "donate",
+                        "value": "<a href=\"https://ko-fi.com/emsenn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/emsenn</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "mutualaid",
+                    "url": "https://mastodon.social/tags/mutualaid"
+                },
+                {
+                    "name": "IndigenousMutualAid",
+                    "url": "https://mastodon.social/tags/IndigenousMutualAid"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://ko-fi.com/emsenn",
+                "title": "Support emsenn on Ko-fi! \u2764\ufe0f",
+                "description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Ko-fi",
+                "provider_url": "",
+                "html": "",
+                "width": 650,
+                "height": 354,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/025/690/490/original/af090aff3dc5e9f0.png",
+                "image_description": "Support emsenn On Ko-fi. Ko-fi lets you support the people and causes you love with small donations",
+                "embed_url": "",
+                "blurhash": "U*HxpY~p-poft7ofayWBfht6t7azt7t7ayRk",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112895245367663157",
+            "created_at": "2024-08-03T00:25:35.227Z",
+            "in_reply_to_id": "112893046903361305",
+            "in_reply_to_account_id": "108170525371080076",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/criprevolution/statuses/112895245367663157",
+            "url": "https://mastodon.social/@criprevolution/112895245367663157",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://kolektiva.social/@emsenn\" class=\"u-url mention\">@<span>emsenn</span></a></span> is there anything the kids want or need, specifically?</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "106824417595824041",
+                "username": "criprevolution",
+                "acct": "criprevolution",
+                "display_name": "benny \ud83c\udf19\ud83c\udf47\ud83c\udf3f\ud83d\udc0b whalefall",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2021-08-26T00:00:00.000Z",
+                "note": "<p><a href=\"https://mastodon.social/tags/Greek\" class=\"mention hashtag\" rel=\"tag\">#<span>Greek</span></a>-lineage autistic asshole &amp; artist; \u03b1\u03b3\u03c1\u03af\u03bc\u03b9 trying/learning to practice \u03c6\u03b9\u03bb\u03cc\u03c4\u03b9\u03bc\u03bf. currently @ Yaanga, Turtle Island. early 20s</p>",
+                "url": "https://mastodon.social/@criprevolution",
+                "uri": "https://mastodon.social/users/criprevolution",
+                "avatar": "https://files.mastodon.social/accounts/avatars/106/824/417/595/824/041/original/8ff48d89ebcd2985.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/106/824/417/595/824/041/original/8ff48d89ebcd2985.png",
+                "header": "https://files.mastodon.social/accounts/headers/106/824/417/595/824/041/original/0d3ac5a42e0a415d.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/106/824/417/595/824/041/original/0d3ac5a42e0a415d.png",
+                "followers_count": 6,
+                "following_count": 7,
+                "statuses_count": 38,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "my writing",
+                        "value": "<a href=\"https://spacehey.com/whalefall\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">spacehey.com/whalefall</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "my labels",
+                        "value": "neurodivergent, physically disabled, queer, he/him/his -- and i wouldn&#39;t need most of these if whiteness had failed to dominate",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108170525371080076",
+                    "username": "emsenn",
+                    "url": "https://kolektiva.social/@emsenn",
+                    "acct": "emsenn@kolektiva.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112894728645494937",
+            "created_at": "2024-08-02T22:14:09.000Z",
+            "in_reply_to_id": "112865365064481099",
+            "in_reply_to_account_id": "108170525371080076",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://infosec.exchange/users/indie/statuses/112894728573796120",
+            "url": "https://infosec.exchange/@indie/112894728573796120",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://kolektiva.social/@emsenn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>emsenn@kolektiva.social</span></a></span> </p><p>Found ya on iNaturalist and have been doing some more plant posts there.  Emailed an update but that email account is one I don't use  much and keep forgetting about it.</p><p>I have been less interested in the same old fediverse drama myself these days.</p><p>It's like ever since Nvidia was allowed to buy that Israel startup \"run . ai\"  the Mastodon Fediverse has been pummeled with gloom and doom and bad news trying to make everybody depresso!</p><p>As for your Harris/Mastodon hashtag ranty, I love it.  Might I suggest a <a href=\"https://infosec.exchange/tags/YellLouder\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>YellLouder</span></a> ??</p><p>Thanks for all the posts and updates of late.  One of the Wolverine spirit cats we adopted since the oldman Siamese cat passed away has birthed recently, and her sister is gonna birth soon.  </p><p>Life goes on.  Keep being awesome.</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://ecosteader.com/@emsenn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>emsenn@ecosteader.com</span></a></span> <br><span class=\"h-card\" translate=\"no\"><a href=\"https://turtleisland.social/@emsenn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>emsenn@turtleisland.social</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "851249",
+                "username": "indie",
+                "acct": "indie@infosec.exchange",
+                "display_name": "indie",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2019-05-21T00:00:00.000Z",
+                "note": "<p>My followers count is turned OFF here at infosec because ANY site that federates w/the CEO of Facebook's Hellscape will:</p><p>\u2705  default LIE about metrics<br>\u2705  have contaminated <a href=\"https://infosec.exchange/tags/data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>data</span></a>. =&gt; Where metrics lie; your judgey judgey of me be wrong.</p><p>Bio relevant to infosec: (1) Donated_ more than 10K open source coder hours to the 12-step recovery communities' meeting seekers (2) Built a free, open-source Ruby/Rails/PassengerPhusion framework that  \"literally millions\" in the SF Bay and PDX metro used.  My code was later turned into a \"Wordpress App\" and committees maintain it; bigger numbers of millions of people use it.</p><p>Off the RCT clocks: Built a custom Apache masto instance for Ecosteader, had to defederate it from college dropout CEO stalking me here.</p><p>Ergo: if you have FB/IG links in your post or profile, DO NOT ATTEMPT INTERACT WITH ME: I'll block you w/no remorse. I'll NEVER stop defending those who left Zuck's toxic Hellscape for healthy life, indigenous peoples, women in tech.</p>",
+                "url": "https://infosec.exchange/@indie",
+                "uri": "https://infosec.exchange/users/indie",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/851/249/original/ed3ee324f76c33cf.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/851/249/original/ed3ee324f76c33cf.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/851/249/original/9a2fccf8c0607383.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/851/249/original/9a2fccf8c0607383.png",
+                "followers_count": 14,
+                "following_count": 18,
+                "statuses_count": 237,
+                "last_status_at": "2024-08-21",
+                "hide_collections": true,
+                "emojis": [
+                    {
+                        "shortcode": "crt_w_prompt",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/081/177/original/004903cb010abc1c.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/081/177/static/004903cb010abc1c.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Indie Design Hub",
+                        "value": "<a href=\"https://ecosteader.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">ecosteader.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-02T22:33:43.296+00:00"
+                    },
+                    {
+                        "name": "infograph.exchange",
+                        "value": "<a href=\"https://ssl.zentu.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">ssl.zentu.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-02T22:33:43.954+00:00"
+                    },
+                    {
+                        "name": ":crt_w_prompt: #qmec",
+                        "value": "<a href=\"https://github.com/ecosteader/qmec.git\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ecosteader/qmec.git</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Primary Mastodon",
+                        "value": "<a href=\"https://mastodon.sdf.org/@indie\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.sdf.org/@indie</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112894728593701342",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/894/728/593/701/342/original/3f668492f3df026c.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/894/728/593/701/342/small/3f668492f3df026c.png",
+                    "remote_url": "https://media.infosec.exchange/infosec.exchange/media_attachments/files/112/894/692/394/096/566/original/e3df3a8b59dc6038.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 792,
+                            "height": 591,
+                            "size": "792x591",
+                            "aspect": 1.3401015228426396
+                        },
+                        "small": {
+                            "width": 556,
+                            "height": 415,
+                            "size": "556x415",
+                            "aspect": 1.3397590361445784
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "USF}p7-p-;yD~qx]tRx]^QkCNHS~tRM{aexG"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": "108170525371080076",
+                    "username": "emsenn",
+                    "url": "https://kolektiva.social/@emsenn",
+                    "acct": "emsenn@kolektiva.social"
+                },
+                {
+                    "id": "1209346",
+                    "username": "emsenn",
+                    "url": "https://ecosteader.com/@emsenn",
+                    "acct": "emsenn@ecosteader.com"
+                },
+                {
+                    "id": "111389368075909154",
+                    "username": "emsenn",
+                    "url": "https://turtleisland.social/@emsenn",
+                    "acct": "emsenn@turtleisland.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "yelllouder",
+                    "url": "https://mastodon.social/tags/yelllouder"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

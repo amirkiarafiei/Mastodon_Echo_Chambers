@@ -1,0 +1,140 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112850578512075378",
+            "created_at": "2024-07-26T03:06:12.000Z",
+            "in_reply_to_id": "112850445605415123",
+            "in_reply_to_account_id": "109361291782693060",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://ecoevo.social/users/dmayhood/statuses/112850578486831666",
+            "url": "https://ecoevo.social/@dmayhood/112850578486831666",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.scot/@starraven\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>starraven</span></a></span> Don\u2019t forget Slave Lake. Lytton. Churchill Falls just weeks ago. Parts of Halifax. Many towns in California (eg Paradise). Australia. Greece. Spain. And on. And on.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109309942551666887",
+                "username": "dmayhood",
+                "acct": "dmayhood@ecoevo.social",
+                "display_name": "David Mayhood",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-08T00:00:00.000Z",
+                "note": "<p>Aquatic ecologist. Watershed development effects, stream ecology, conservation biology of native trout in SW Alberta.</p><p>Header photo: Bow Lake, 1920 m/6300', Banff National Park, Alberta, at ice-out 2022.06.17. Looking SW to (L-R): shoulder of Crowfoot Mtn, Vulture Pk (just visible w magnification), Mt Olive, St Nicholas Pk, Bow Glacier/Wapta Icefield. Out of displayed view R: Portal Pk, Mt Thompson.</p><p>In various ways, Bow watershed has formed me.</p><p><a href=\"https://fwresearch.ca\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fwresearch.ca</span><span class=\"invisible\"></span></a> [no longer kept current]</p>",
+                "url": "https://ecoevo.social/@dmayhood",
+                "uri": "https://ecoevo.social/users/dmayhood",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/309/942/551/666/887/original/2f37bed03bfe9ae2.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/309/942/551/666/887/original/2f37bed03bfe9ae2.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/309/942/551/666/887/original/ae7fd63244d48292.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/309/942/551/666/887/original/ae7fd63244d48292.jpeg",
+                "followers_count": 345,
+                "following_count": 549,
+                "statuses_count": 1035,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109361291782693060",
+                    "username": "starraven",
+                    "url": "https://mastodon.scot/@starraven",
+                    "acct": "starraven@mastodon.scot"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112851645077387514",
+            "created_at": "2024-07-26T07:37:26.000Z",
+            "in_reply_to_id": "112850445605415123",
+            "in_reply_to_account_id": "109361291782693060",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112851645019700771",
+            "url": "https://mastodon.au/@largess/112851645019700771",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.scot/@starraven\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>starraven</span></a></span><br>Poor Lytton.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109361291782693060",
+                    "username": "starraven",
+                    "url": "https://mastodon.scot/@starraven",
+                    "acct": "starraven@mastodon.scot"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

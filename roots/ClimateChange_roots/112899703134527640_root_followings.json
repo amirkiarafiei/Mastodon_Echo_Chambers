@@ -1,0 +1,365 @@
+[
+    {
+        "id": "16041",
+        "username": "dansup",
+        "acct": "dansup",
+        "display_name": "dansup",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2016-11-27T00:00:00.000Z",
+        "note": "<p>activitypub builder and aspiring astronaut</p><p>Building <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@pixelfed\" class=\"u-url mention\">@<span>pixelfed</span></a></span>, <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fedidb\" class=\"u-url mention\">@<span>fedidb</span></a></span>, @supapp and other fedi services \ud83e\udd20</p><p>he/him \u00b7 canada \u00b7 \ud83c\udff3\ufe0f\u200d\ud83c\udf08</p>",
+        "url": "https://mastodon.social/@dansup",
+        "uri": "https://mastodon.social/users/dansup",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/016/041/original/39c77acd31cf70e5.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/016/041/original/39c77acd31cf70e5.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/016/041/original/176ba2e67370b446.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/016/041/original/176ba2e67370b446.jpg",
+        "followers_count": 19179,
+        "following_count": 121,
+        "statuses_count": 20164,
+        "last_status_at": "2024-08-29",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "pixelfed",
+                "value": "<a href=\"https://pixelfed.social/dansup\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.social/dansup</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2019-12-13T06:09:38.095+00:00"
+            },
+            {
+                "name": "github",
+                "value": "<a href=\"https://github.com/dansup\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/dansup</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-04T04:28:02.153+00:00"
+            },
+            {
+                "name": "patreon",
+                "value": "<a href=\"https://patreon.com/dansup\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/dansup</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "website",
+                "value": "<a href=\"https://dansup.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dansup.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2020-01-26T05:26:13.117+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109648744105191077",
+        "username": "fediversereport",
+        "acct": "fediversereport",
+        "display_name": "Fediverse Report",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-01-07T00:00:00.000Z",
+        "note": "<p>The Fediverse Report is a curated blog, giving you links and context to all the news that is happening in the fediverse.</p><p>Every week you get &#39;Last Week in the Fediverse&#39;, with a summary of the relevant news of the week.</p><p>Feel free to follow my personal account as well.</p><p><a href=\"https://mastodon.social/tags/fediverse\" class=\"mention hashtag\" rel=\"tag\">#<span>fediverse</span></a> <a href=\"https://mastodon.social/tags/fediversereport\" class=\"mention hashtag\" rel=\"tag\">#<span>fediversereport</span></a> <a href=\"https://mastodon.social/tags/technology\" class=\"mention hashtag\" rel=\"tag\">#<span>technology</span></a> <a href=\"https://mastodon.social/tags/news\" class=\"mention hashtag\" rel=\"tag\">#<span>news</span></a> <a href=\"https://mastodon.social/tags/tech\" class=\"mention hashtag\" rel=\"tag\">#<span>tech</span></a> <a href=\"https://mastodon.social/tags/technews\" class=\"mention hashtag\" rel=\"tag\">#<span>technews</span></a> <a href=\"https://mastodon.social/tags/opensource\" class=\"mention hashtag\" rel=\"tag\">#<span>opensource</span></a></p>",
+        "url": "https://mastodon.social/@fediversereport",
+        "uri": "https://mastodon.social/users/fediversereport",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/648/744/105/191/077/original/8182254f0835279e.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/648/744/105/191/077/original/8182254f0835279e.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/648/744/105/191/077/original/3e80a1ece457d079.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/648/744/105/191/077/original/3e80a1ece457d079.jpg",
+        "followers_count": 7377,
+        "following_count": 835,
+        "statuses_count": 3070,
+        "last_status_at": "2024-08-29",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Fediverse Report",
+                "value": "<a href=\"https://fediversereport.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">fediversereport.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-01-30T08:13:52.904+00:00"
+            },
+            {
+                "name": "Personal website",
+                "value": "<a href=\"https://laurenshof.online\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">laurenshof.online</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Personal account fedi",
+                "value": "<a href=\"https://indieweb.social/@laurenshof\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">indieweb.social/@laurenshof</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Email",
+                "value": "fediversereport at proton.me",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109246411862197824",
+        "username": "_elena",
+        "acct": "_elena",
+        "display_name": "\u2042 Elena Rossini \u2042 \u270f\ufe0f\u2728\ud83d\udcf8",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p>Italian filmmaker, photographer and activist \ud83d\udcdd\ud83c\udfac Director of: The Illusionists &amp; The Realists \ud83c\udf9e\ufe0f Neil Postman aficionada \ud83d\udc8c <a href=\"https://mastodon.social/tags/TheFutureIsFederated\" class=\"mention hashtag\" rel=\"tag\">#<span>TheFutureIsFederated</span></a></p><p>Friendica: <span class=\"h-card\" translate=\"no\"><a href=\"https://poliverso.org/profile/elena\" class=\"u-url mention\">@<span>elena</span></a></span><br />Pixelfed: <span class=\"h-card\" translate=\"no\"><a href=\"https://pixelfed.social/elenarossini\" class=\"u-url mention\">@<span>elenarossini</span></a></span><br />Federated Wordpress blog: <span class=\"h-card\" translate=\"no\"><a href=\"https://elenarossini.com/@ele\" class=\"u-url mention\">@<span>ele</span></a></span></p>",
+        "url": "https://mastodon.social/@_elena",
+        "uri": "https://mastodon.social/users/_elena",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/246/411/862/197/824/original/16b4d03c1b5adeaf.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/246/411/862/197/824/original/16b4d03c1b5adeaf.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/109/246/411/862/197/824/original/e4dfdb4c10f8b2e9.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/246/411/862/197/824/original/e4dfdb4c10f8b2e9.jpg",
+        "followers_count": 1267,
+        "following_count": 197,
+        "statuses_count": 1124,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb website",
+                "value": "<a href=\"https://elenarossini.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">elenarossini.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-01-26T15:00:06.800+00:00"
+            },
+            {
+                "name": "\ud83d\udc8c newsletter: The Future is Federated",
+                "value": "<a href=\"https://blog.elenarossini.com/tag/fediverse/#post-list\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.elenarossini.com/tag/fedi</span><span class=\"invisible\">verse/#post-list</span></a>",
+                "verified_at": "2024-06-24T10:23:56.539+00:00"
+            },
+            {
+                "name": "\ud83d\udcfd\ufe0f documentary",
+                "value": "<a href=\"https://illusionists.vhx.tv\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">illusionists.vhx.tv</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "\ud83d\udccd location",
+                "value": "Paris \ud83c\uddeb\ud83c\uddf7 but currently on summer break in \ud83c\uddee\ud83c\uddf9",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "412906",
+        "username": "gruber",
+        "acct": "gruber",
+        "display_name": "John Gruber",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-10T00:00:00.000Z",
+        "note": "<p>I write Daring Fireball, host The Talk Show, and created Markdown.</p>",
+        "url": "https://mastodon.social/@gruber",
+        "uri": "https://mastodon.social/users/gruber",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/412/906/original/95c8ac0fda2b2782.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/412/906/original/95c8ac0fda2b2782.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/412/906/original/2868a6722ea7d746.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/412/906/original/2868a6722ea7d746.jpeg",
+        "followers_count": 53257,
+        "following_count": 527,
+        "statuses_count": 5138,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Web",
+                "value": "<a href=\"https://daringfireball.net/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">daringfireball.net/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-21T23:39:53.636+00:00"
+            },
+            {
+                "name": "Threads",
+                "value": "<a href=\"https://threads.net/@gruber\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">threads.net/@gruber</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Bluesky",
+                "value": "<a href=\"https://bsky.app/profile/gruber.foo\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bsky.app/profile/gruber.foo</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/gruber\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/gruber</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "2400",
+        "username": "taylorlorenz",
+        "acct": "taylorlorenz",
+        "display_name": "Taylor Lorenz",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2016-10-06T00:00:00.000Z",
+        "note": "<p>Technology columnist at The Washington Post. Previously tech reporter at The New York Times and The Atlantic\u2029News and opinions about <a href=\"https://mastodon.social/tags/technology\" class=\"mention hashtag\" rel=\"tag\">#<span>technology</span></a>, <a href=\"https://mastodon.social/tags/internetculture\" class=\"mention hashtag\" rel=\"tag\">#<span>internetculture</span></a>, <a href=\"https://mastodon.social/tags/media\" class=\"mention hashtag\" rel=\"tag\">#<span>media</span></a>, <a href=\"https://mastodon.social/tags/news\" class=\"mention hashtag\" rel=\"tag\">#<span>news</span></a>, <a href=\"https://mastodon.social/tags/tech\" class=\"mention hashtag\" rel=\"tag\">#<span>tech</span></a>, <a href=\"https://mastodon.social/tags/twitter\" class=\"mention hashtag\" rel=\"tag\">#<span>twitter</span></a> <a href=\"https://mastodon.social/tags/journalist\" class=\"mention hashtag\" rel=\"tag\">#<span>journalist</span></a></p>",
+        "url": "https://mastodon.social/@taylorlorenz",
+        "uri": "https://mastodon.social/users/taylorlorenz",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/002/400/original/ce3d1f56519ccf33.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/002/400/original/ce3d1f56519ccf33.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/002/400/original/06cf494d8199a50a.gif",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/002/400/static/06cf494d8199a50a.png",
+        "followers_count": 183015,
+        "following_count": 443,
+        "statuses_count": 1200,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/taylorlorenz\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/taylorlorenz</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "377402",
+        "username": "fsfe",
+        "acct": "fsfe",
+        "display_name": "Free Software Foundation Europe",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-06-21T00:00:00.000Z",
+        "note": "<p>:fsfe: Free Software Foundation Europe is a charity that empowers users to control technology. Software is deeply involved in all aspects of our lives. <a href=\"https://mastodon.social/tags/FreeSoftware\" class=\"mention hashtag\" rel=\"tag\">#<span>FreeSoftware</span></a> (aka <a href=\"https://mastodon.social/tags/OpenSource\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenSource</span></a>) gives everybody the rights to use, understand, adapt, and share software. These rights help support other fundamental rights like freedom of speech, freedom of press, and privacy. <a href=\"https://mastodon.social/tags/SoftwareFreedom\" class=\"mention hashtag\" rel=\"tag\">#<span>SoftwareFreedom</span></a> </p><p>Public Money? <a href=\"https://mastodon.social/tags/PublicCode\" class=\"mention hashtag\" rel=\"tag\">#<span>PublicCode</span></a> ! <a href=\"https://mastodon.social/tags/DeviceNeutrality\" class=\"mention hashtag\" rel=\"tag\">#<span>DeviceNeutrality</span></a> <a href=\"https://mastodon.social/tags/UpcyclingAndroid\" class=\"mention hashtag\" rel=\"tag\">#<span>UpcyclingAndroid</span></a> <a href=\"https://mastodon.social/tags/RouterFreedom\" class=\"mention hashtag\" rel=\"tag\">#<span>RouterFreedom</span></a> <a href=\"https://mastodon.social/tags/ilovefs\" class=\"mention hashtag\" rel=\"tag\">#<span>ilovefs</span></a> <a href=\"https://mastodon.social/tags/YH4F\" class=\"mention hashtag\" rel=\"tag\">#<span>YH4F</span></a> <a href=\"https://mastodon.social/tags/REUSE\" class=\"mention hashtag\" rel=\"tag\">#<span>REUSE</span></a> <a href=\"https://mastodon.social/tags/DigitalRights\" class=\"mention hashtag\" rel=\"tag\">#<span>DigitalRights</span></a></p>",
+        "url": "https://mastodon.social/@fsfe",
+        "uri": "https://mastodon.social/users/fsfe",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/377/402/original/19edbd43c05a3fcc.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/377/402/original/19edbd43c05a3fcc.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/377/402/original/405ce65e69621520.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/377/402/original/405ce65e69621520.jpg",
+        "followers_count": 15823,
+        "following_count": 25,
+        "statuses_count": 2183,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [
+            {
+                "shortcode": "fsfe",
+                "url": "https://files.mastodon.social/custom_emojis/images/000/266/015/original/40cafccf23c39c18.png",
+                "static_url": "https://files.mastodon.social/custom_emojis/images/000/266/015/static/40cafccf23c39c18.png",
+                "visible_in_picker": true
+            }
+        ],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://fsfe.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">fsfe.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2018-09-20T21:04:02.881+00:00"
+            },
+            {
+                "name": "Join us",
+                "value": "<a href=\"https://fsfe.org/contribute/contribute\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">fsfe.org/contribute/contribute</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Support us",
+                "value": "<a href=\"https://my.fsfe.org/support\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">my.fsfe.org/support</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "PeerTube",
+                "value": "<a href=\"https://media.fsfe.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">media.fsfe.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "207529",
+        "username": "Tutanota",
+        "acct": "Tutanota",
+        "display_name": "Tuta",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-09-25T00:00:00.000Z",
+        "note": "<p>Tuta is the secure email service with automatic encryption. We protect your emails from everyone - even from us! Committed to privacy and open source.</p>",
+        "url": "https://mastodon.social/@Tutanota",
+        "uri": "https://mastodon.social/users/Tutanota",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/207/529/original/54f1c149bd7d41f1.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/207/529/original/54f1c149bd7d41f1.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/207/529/original/f7b5bd5d3c2d85dd.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/207/529/original/f7b5bd5d3c2d85dd.png",
+        "followers_count": 26149,
+        "following_count": 25,
+        "statuses_count": 6210,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Web/Imprint",
+                "value": "<a href=\"https://tuta.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tuta.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-11-07T09:41:44.612+00:00"
+            },
+            {
+                "name": "Forum",
+                "value": "<a href=\"https://www.reddit.com/r/tutanota/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">reddit.com/r/tutanota/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Code",
+                "value": "<a href=\"https://github.com/tutao/tutanota\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tutao/tutanota</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "F-Droid App",
+                "value": "<a href=\"https://tuta.com/open-sourcesource-email/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tuta.com/open-sourcesource-ema</span><span class=\"invisible\">il/</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "7632",
+        "username": "sirodoht",
+        "acct": "sirodoht",
+        "display_name": "Theodore Keloglou",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2016-11-01T00:00:00.000Z",
+        "note": "<p>software, education, philosophy, society, mataroa.blog, chaitinschool.org, laniakeabooks.org, nutcroft.com</p>",
+        "url": "https://mastodon.social/@sirodoht",
+        "uri": "https://mastodon.social/users/sirodoht",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/007/632/original/9df53f3c5928713f.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/007/632/original/9df53f3c5928713f.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/007/632/original/5ace9dfb64c35bc7.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/007/632/original/5ace9dfb64c35bc7.jpg",
+        "followers_count": 89,
+        "following_count": 143,
+        "statuses_count": 1360,
+        "last_status_at": "2024-08-02",
+        "hide_collections": false,
+        "noindex": true,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    }
+]

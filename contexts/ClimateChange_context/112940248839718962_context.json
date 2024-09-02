@@ -1,0 +1,68 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112940850474293377",
+            "created_at": "2024-08-11T01:43:33.000Z",
+            "in_reply_to_id": "112940248839718962",
+            "in_reply_to_account_id": "109304060849720955",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://aus.social/users/rwba/statuses/112940850445958743",
+            "url": "https://aus.social/@rwba/112940850445958743",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.sdf.org/@mcskinney\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mcskinney</span></a></span> Yeah. What if...</p>",
+            "reblog": null,
+            "account": {
+                "id": "109295139628465122",
+                "username": "rwba",
+                "acct": "rwba@aus.social",
+                "display_name": "Ross B Voted Yes",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-06T00:00:00.000Z",
+                "note": "<p>Retired secondary school teacher. <a href=\"https://aus.social/tags/Aikido\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Aikido</span></a> student. Lover of Australian <a href=\"https://aus.social/tags/wildlife\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wildlife</span></a>. Born 310ppm CO\u2082. Life science student. Had a gutful of hyperpartisanship threatening democracy and meaningful climate action. Canadian expat Living on <a href=\"https://aus.social/tags/Bundjalung\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bundjalung</span></a> country. Linux and FOSS user since the 1990s.</p>",
+                "url": "https://aus.social/@rwba",
+                "uri": "https://aus.social/users/rwba",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/295/139/628/465/122/original/a69b6c83f0f59690.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/295/139/628/465/122/original/a69b6c83f0f59690.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/295/139/628/465/122/original/b5c5d3f01fecea37.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/295/139/628/465/122/original/b5c5d3f01fecea37.jpeg",
+                "followers_count": 479,
+                "following_count": 540,
+                "statuses_count": 385,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "My Twitter account",
+                        "value": "Deleted",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109304060849720955",
+                    "username": "mcskinney",
+                    "url": "https://mastodon.sdf.org/@mcskinney",
+                    "acct": "mcskinney@mastodon.sdf.org"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

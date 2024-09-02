@@ -1,0 +1,463 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112853116447879301",
+            "created_at": "2024-07-26T13:51:38.000Z",
+            "in_reply_to_id": "112853042457207624",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/Rickd6/statuses/112853116410719397",
+            "url": "https://mstdn.ca/@Rickd6/112853116410719397",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> climate change denial is more intrinsically prevalent than obvious.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109362092607267498",
+                "username": "Rickd6",
+                "acct": "Rickd6@mstdn.ca",
+                "display_name": "Rickd6",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-06T00:00:00.000Z",
+                "note": "",
+                "url": "https://mstdn.ca/@Rickd6",
+                "uri": "https://mstdn.ca/users/Rickd6",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 58,
+                "following_count": 99,
+                "statuses_count": 1905,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112853176513996329",
+            "created_at": "2024-07-26T14:06:55.462Z",
+            "in_reply_to_id": "112853042457207624",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/Smalltofeds/statuses/112853176513996329",
+            "url": "https://mastodon.social/@Smalltofeds/112853176513996329",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> </p><p>Recommend you put out  blog article(s) with suggested solutions to the risks you have identified. Link them with a synopsis placed here. </p><p>Until they  arrive we will flail about endlessly and simply make observations as you have, hoping someone else will take the corrective right action.   </p><p>We are all selling. <br />Consider linking solutions to problems and your readership may multiply exponentially, particularly among those who share your values. </p><p> <a href=\"https://www.smalltofeds.com/2012/11/value-\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">smalltofeds.com/2012/11/value-</span><span class=\"invisible\"></span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110571036582816944",
+                "username": "Smalltofeds",
+                "acct": "Smalltofeds",
+                "display_name": "Ken Larson",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-06-19T00:00:00.000Z",
+                "note": "<p>Ken Larson was awarded the Bronze Star during two military tours in Vietnam. His career subsequently spanned 36 years with major aerospace and defense companies and small business consulting. Ken received the SCORE National Achievement Award in 2010 and the MicroMentor Award for Outstanding Service In Mentorship in 2021. Micro Mentor and SCORE are non-profit organization offering free assistance to small business in business planning, operations, marketing and other aspects  of success.</p>",
+                "url": "https://mastodon.social/@Smalltofeds",
+                "uri": "https://mastodon.social/users/Smalltofeds",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/571/036/582/816/944/original/f627aae2e0d0220b.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/571/036/582/816/944/original/f627aae2e0d0220b.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/110/571/036/582/816/944/original/81939ef181d45a1e.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/571/036/582/816/944/original/81939ef181d45a1e.jpg",
+                "followers_count": 272,
+                "following_count": 1225,
+                "statuses_count": 1329,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Small Business Volunteer Counselor",
+                        "value": "2 Tour Vietnam Veteran",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Roscoverdglasses.com",
+                        "value": "SCORE Counselor",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Veteran Small Business  Commentary",
+                        "value": "Free Small Business  Books",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "MicroMentor Counselor",
+                        "value": "Smalltofeds",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112853175374914073",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/media_attachments/files/112/853/175/374/914/073/original/54666833cf32c2a7.jpg",
+                    "preview_url": "https://files.mastodon.social/media_attachments/files/112/853/175/374/914/073/small/54666833cf32c2a7.jpg",
+                    "remote_url": null,
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 2660,
+                            "height": 2055,
+                            "size": "2660x2055",
+                            "aspect": 1.294403892944039
+                        },
+                        "small": {
+                            "width": 546,
+                            "height": 422,
+                            "size": "546x422",
+                            "aspect": 1.2938388625592416
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "UvIPMNIpR5xtL4off,s.E+jsbwWCv|t7n$NG"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112853500681596266",
+            "created_at": "2024-07-26T15:29:21.000Z",
+            "in_reply_to_id": "112853042457207624",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mindly.social/users/alan/statuses/112853500628395405",
+            "url": "https://mindly.social/@alan/112853500628395405",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Up until about a decade ago, yup. Now it's just trying to navigate the disaster we could have avoided.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109288811804695156",
+                "username": "alan",
+                "acct": "alan@mindly.social",
+                "display_name": "Alan Langford",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-05T00:00:00.000Z",
+                "note": "<p>Canadian, occupying land resulting from bad faith deals with indigenous peoples, between Toronto and Ottawa. @ 314.8 PPM CO\u00b2 . Privilege is transparent to the privileged.</p><p>Tags: <a href=\"https://mindly.social/tags/3dprinting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>3dprinting</span></a> <a href=\"https://mindly.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://mindly.social/tags/art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>art</span></a> <a href=\"https://mindly.social/tags/artist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artist</span></a> <a href=\"https://mindly.social/tags/CAD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CAD</span></a> <a href=\"https://mindly.social/tags/cnc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cnc</span></a> <a href=\"https://mindly.social/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a> <a href=\"https://mindly.social/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> <a href=\"https://mindly.social/tags/FreeCAD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FreeCAD</span></a> <a href=\"https://mindly.social/tags/fusedGlass\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fusedGlass</span></a> <a href=\"https://mindly.social/tags/glass\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>glass</span></a> <a href=\"https://mindly.social/tags/glassArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>glassArt</span></a> <a href=\"https://mindly.social/tags/Neurodivergent\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Neurodivergent</span></a> <a href=\"https://mindly.social/tags/php\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>php</span></a> <a href=\"https://mindly.social/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>photography</span></a> <a href=\"https://mindly.social/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a> <a href=\"https://mindly.social/tags/software\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>software</span></a> <a href=\"https://mindly.social/tags/woodworking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>woodworking</span></a> <a href=\"https://mindly.social/tags/writer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>writer</span></a> <a href=\"https://mindly.social/tags/writing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>writing</span></a><br><a href=\"https://mindly.social/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a></p><p>Writer working on my first SF/cyberpunk novel.</p><p>I'm aphantasic. Instead I process abstractions. Abstract algebra is intuitive to me.</p>",
+                "url": "https://mindly.social/@alan",
+                "uri": "https://mindly.social/users/alan",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/288/811/804/695/156/original/5c4fc26263cd3d7e.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/288/811/804/695/156/original/5c4fc26263cd3d7e.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/288/811/804/695/156/original/549412b438707aea.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/288/811/804/695/156/original/549412b438707aea.png",
+                "followers_count": 654,
+                "following_count": 440,
+                "statuses_count": 5896,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Art/Writing/Projects Site (WIP)",
+                        "value": "<a href=\"https://alanlangford.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">alanlangford.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T12:35:09.831+00:00"
+                    },
+                    {
+                        "name": "Old Code/Recipies/stuff blog",
+                        "value": "<a href=\"https://ambitonline.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">ambitonline.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T12:35:10.467+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "they/them/he/yo: Gender is a spectrum.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Just My Toots",
+                        "value": "<a href=\"https://justmytoots.com/@alan@mindly.social\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justmytoots.com/@alan@mindly.s</span><span class=\"invisible\">ocial</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112853569352432159",
+            "created_at": "2024-07-26T15:46:44.000Z",
+            "in_reply_to_id": "112853042457207624",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://sfba.social/users/denniskoch/statuses/112853569018105015",
+            "url": "https://sfba.social/@denniskoch/112853569018105015",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> I always wonder how many people other than me are talking to their therapists about their worries about climate change, politics, and so on. Seriously, I have to consciously try to stop thinking about it just to relax sometimes.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109305683615772304",
+                "username": "denniskoch",
+                "acct": "denniskoch@sfba.social",
+                "display_name": "D's lack of faith in humanity",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-07T00:00:00.000Z",
+                "note": "<p>Vet, progressive, fact checker. You don't need religion to be moral. Climate change is real. He/Him/His</p>",
+                "url": "https://sfba.social/@denniskoch",
+                "uri": "https://sfba.social/users/denniskoch",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/305/683/615/772/304/original/d9fcd669f38546ae.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/305/683/615/772/304/original/d9fcd669f38546ae.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/305/683/615/772/304/original/bd8d4ae660a15a86.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/305/683/615/772/304/original/bd8d4ae660a15a86.png",
+                "followers_count": 214,
+                "following_count": 258,
+                "statuses_count": 2643,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112854471795819687",
+            "created_at": "2024-07-26T19:36:19.000Z",
+            "in_reply_to_id": "112853042457207624",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/arrrg/statuses/112854471743278224",
+            "url": "https://kolektiva.social/@arrrg/112854471743278224",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> i'm very worried, but i never can see anything that i can do to actually make a difference, outside of changing how i live. this seems very inconsequential.</p><p>real change will come through a massive collective effort that can't happen, at least not in the US, because neither political party is actually taking climate change seriously.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110961476055052176",
+                "username": "arrrg",
+                "acct": "arrrg@kolektiva.social",
+                "display_name": "Flatted Fifth",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-08-24T00:00:00.000Z",
+                "note": "<p>BOYCOTT MONDAY: The first Monday of every month don't shop. Don't buy gas, food, energy drinks, candy bars, nothing this one day of the month. If you can, take the day off work too.</p><p>Upcoming Boycott Mondays: <br>August 5<br>September 2<br>October 7</p><p>* Avitar is a monkey riding on a pelican in flight. The monkey is holding an anti-fascist flag. Header is a photo of a graffiti piece that reads \"Rest in Power Heather Heyer.\"</p>",
+                "url": "https://kolektiva.social/@arrrg",
+                "uri": "https://kolektiva.social/users/arrrg",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/961/476/055/052/176/original/9c5f393c2a1a7ee6.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/961/476/055/052/176/original/9c5f393c2a1a7ee6.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/961/476/055/052/176/original/3e148da94d5d02df.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/961/476/055/052/176/original/3e148da94d5d02df.png",
+                "followers_count": 304,
+                "following_count": 123,
+                "statuses_count": 9403,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Radio Resistance - Music and News",
+                        "value": "<a href=\"https://radio.antifadocket.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">radio.antifadocket.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T10:27:22.633+00:00"
+                    },
+                    {
+                        "name": "Anti-fascist Docket",
+                        "value": "<a href=\"https://antifadocket.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">antifadocket.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Support Buy a T-Shirt",
+                        "value": "<a href=\"https://www.bonfire.com/nat-turner-was-right/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bonfire.com/nat-turner-was-rig</span><span class=\"invisible\">ht/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Help Me Out",
+                        "value": "<a href=\"https://ko-fi.com/arrrg24\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/arrrg24</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112854770368487205",
+            "created_at": "2024-07-26T20:52:15.000Z",
+            "in_reply_to_id": "112853042457207624",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.green/users/GregDance/statuses/112854770332222491",
+            "url": "https://mastodon.green/@GregDance/112854770332222491",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> </p><p>Last November I did a course created by Prof. Jen Bendell titled \u201cLeadership Through Collapse\u201d<br>The course is for people who choose to face the statistical &amp; scientific truths that our civilisation won\u2019t survive like it is  now (and in our lifetimes, always was) and will collapse.<br>Contributing factors;<br>Climatic disruptions to food , water &amp; habitation.<br>Economic systems collapse because money is in the wrong places<br>Political &amp; administrative disconnect continues to destruction</p>",
+            "reblog": null,
+            "account": {
+                "id": "109298277705842863",
+                "username": "GregDance",
+                "acct": "GregDance@mastodon.green",
+                "display_name": "Greg Dance",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-01T00:00:00.000Z",
+                "note": "<p>Technical &amp; Ecological, I follow science yet accept some esoteric.<br>\u2029\u2029I don't fear reality, but fear powerful idiots who hide from it!<br>Nations qualify as civilised only after they have ratified the Rome Statute! <br>Dumpster states aren\u2019t on this list<br><a href=\"https://asp.icc-cpi.int/states-parties\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">asp.icc-cpi.int/states-parties</span><span class=\"invisible\"></span></a>\u2028\u2028\u2028<br>Content to be just a Male!\u2029\u2029\u2028<br>Opinions are mine!</p>",
+                "url": "https://mastodon.green/@GregDance",
+                "uri": "https://mastodon.green/users/GregDance",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/298/277/705/842/863/original/1580548e15d451c7.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/298/277/705/842/863/original/1580548e15d451c7.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 267,
+                "following_count": 497,
+                "statuses_count": 1033,
+                "last_status_at": "2024-08-26",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Current Status",
+                        "value": "Mostly functional",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Age",
+                        "value": "Younger than All Tories",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Philosophy",
+                        "value": "Voting is like ejaculation, it lasts seconds but it\u2019s effects last years! Do it with that knowledge!",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "The Scuttled BritWreck off the EU coast",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

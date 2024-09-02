@@ -1,0 +1,83 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112894619888085591",
+            "created_at": "2024-08-02T21:46:30.000Z",
+            "in_reply_to_id": "112894103105224930",
+            "in_reply_to_account_id": "109514242010201873",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.green/users/gueuledatmosphere/statuses/112894619858823094",
+            "url": "https://mastodon.green/@gueuledatmosphere/112894619858823094",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-08-02T21:52:08.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@BenjaminHCCarr\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>BenjaminHCCarr</span></a></span> <br>Good. A while back I checked out the Wikipedia article on hurricane Maria. It has a sourced damage estimate for Dominica (not Puerto Rico but somewhat comparable) of US $1.37 billion, and claims that to be 226 percent of its 2016 GDP.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109296554804098951",
+                "username": "gueuledatmosphere",
+                "acct": "gueuledatmosphere@mastodon.green",
+                "display_name": "Gueule d'atmosph\u00e8re",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-06T00:00:00.000Z",
+                "note": "<p>English intro in the pinned posts</p><p>Comprendre le monde naturel ; vivre dans ce monde et les uns avec les autres</p><p>M\u00e9t\u00e9orologue et manager retrait\u00e9. Exp\u00e9rience: syst\u00e8mes et mod\u00e9lisation informatique; libre-acc\u00e8s aux donn\u00e9es; m\u00e9t\u00e9o mondiale; pr\u00e9visions sp\u00e9cialis\u00e9es 24/7</p><p>Il faut fermer le robinet des combustibles fossiles</p><p>Solidaire de l'Ukraine</p><p>Il/Lui. Fran\u00e7ais/English</p><p>Il y a un site gueuledatmosphere.org . Ils sont sympas mais c'est pas moi.</p><p><a href=\"https://mastodon.green/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobridge</span></a> <a href=\"https://mastodon.green/tags/nobot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobot</span></a></p>",
+                "url": "https://mastodon.green/@gueuledatmosphere",
+                "uri": "https://mastodon.green/users/gueuledatmosphere",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/296/554/804/098/951/original/95eb2f804456e33f.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/296/554/804/098/951/original/95eb2f804456e33f.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/296/554/804/098/951/original/e784cc9f024f5da3.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/296/554/804/098/951/original/e784cc9f024f5da3.jpeg",
+                "followers_count": 81,
+                "following_count": 464,
+                "statuses_count": 1481,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "My old gig",
+                        "value": "<a href=\"https://eccc-msc.github.io/open-data/msc-geomet/readme_en/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">eccc-msc.github.io/open-data/m</span><span class=\"invisible\">sc-geomet/readme_en/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "First linux distro",
+                        "value": "Debian on an Atari TT/030",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Disclaimer",
+                        "value": "Opinions my own. Use any information found here at your own risk, including anything I might say about the weather.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Climate",
+                        "value": "<a href=\"https://www.canada.ca/en/environment-climate-change/services/climate-change/canadian-centre-climate-services/display-download/advanced-tools.html\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">canada.ca/en/environment-clima</span><span class=\"invisible\">te-change/services/climate-change/canadian-centre-climate-services/display-download/advanced-tools.html</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109514242010201873",
+                    "username": "BenjaminHCCarr",
+                    "url": "https://hachyderm.io/@BenjaminHCCarr",
+                    "acct": "BenjaminHCCarr@hachyderm.io"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

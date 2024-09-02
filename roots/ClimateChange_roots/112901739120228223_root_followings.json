@@ -1,0 +1,80 @@
+[
+    {
+        "id": "8699",
+        "username": "Eetschrijver",
+        "acct": "Eetschrijver",
+        "display_name": "GJ Groothedde \ud83c\uddea\ud83c\uddfa",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": true,
+        "group": false,
+        "created_at": "2016-11-02T00:00:00.000Z",
+        "note": "<p>Europ\u00e9en en Limousin. Auteur &#39;Weg van de supermarkt&#39; en &#39;het Antidieetboek&#39;. Schrijft en vertaalt, vaak in opdracht. Gemeenteraadslid in Pittoresk Eetschrijversdorpje (F). Heet voluit Gerrit Jan (negen letters, \u00e9\u00e9n spatie, geen streepje). Volgt wanneer leuke interactie ontstaat. Opgeheven vingertjes mogen in een dijk of in een ander donker gat. <br />I am a food writer and translator living my best life in France. I post mainly in Dutch, respond in English, French and more. Trump enablers = block.</p>",
+        "url": "https://mastodon.social/@Eetschrijver",
+        "uri": "https://mastodon.social/users/Eetschrijver",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/008/699/original/HADB_cutout.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/008/699/original/HADB_cutout.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/008/699/original/5f1489e1cfca8154.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/008/699/original/5f1489e1cfca8154.png",
+        "followers_count": 1994,
+        "following_count": 981,
+        "statuses_count": 64665,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://eetschrijver.nl\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">eetschrijver.nl</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "108197900630052143",
+        "username": "randahl",
+        "acct": "randahl",
+        "display_name": "Randahl Fink",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-04-26T00:00:00.000Z",
+        "note": "<p>Political commentator.</p>",
+        "url": "https://mastodon.social/@randahl",
+        "uri": "https://mastodon.social/users/randahl",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/197/900/630/052/143/original/020394fc9a0b4155.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/197/900/630/052/143/original/020394fc9a0b4155.png",
+        "header": "https://files.mastodon.social/accounts/headers/108/197/900/630/052/143/original/357ba28824046b15.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/197/900/630/052/143/original/357ba28824046b15.png",
+        "followers_count": 8700,
+        "following_count": 5395,
+        "statuses_count": 10004,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "YouTube",
+                "value": "<a href=\"https://youtube.com/@randahlfink\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">youtube.com/@randahlfink</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://patreon.com/Randahl\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/Randahl</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Location",
+                "value": "Vejle, Denmark, Europe",
+                "verified_at": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,1426 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112968009414505368",
+            "created_at": "2024-08-15T20:50:25.000Z",
+            "in_reply_to_id": "112967961029219726",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://sfba.social/users/PaulWermer/statuses/112968009339420720",
+            "url": "https://sfba.social/@PaulWermer/112968009339420720",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <br>Is this perchance where the entire system reaches a tipping point?</p>",
+            "reblog": null,
+            "account": {
+                "id": "109523724922756697",
+                "username": "PaulWermer",
+                "acct": "PaulWermer@sfba.social",
+                "display_name": "Paul Wermer",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-12-15T00:00:00.000Z",
+                "note": "<p>Retired chemist - advocating for local climate action, perhaps a bit too deep in the weeds.</p><p>and a cynic</p><p>And searchable</p>",
+                "url": "https://sfba.social/@PaulWermer",
+                "uri": "https://sfba.social/users/PaulWermer",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/523/724/922/756/697/original/edd86cc426292e6f.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/523/724/922/756/697/original/edd86cc426292e6f.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 287,
+                "following_count": 324,
+                "statuses_count": 9321,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112968094583230833",
+            "created_at": "2024-08-15T21:12:04.000Z",
+            "in_reply_to_id": "112967961029219726",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://ottawa.place/users/dan613/statuses/112968094480080627",
+            "url": "https://ottawa.place/@dan613/112968094480080627",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> I really think that the El Ni\u00f1o is enough to explain current warming within natural variability. It\u2019s nearly the same offset from the trend as 2016 was when strength of El Ni\u00f1o is considered. </p><p>When deniers said there was no warming (the pause), scientists insisted you couldn\u2019t draw conclusions from only a few years. The same is true of unexpected warming.</p>",
+            "reblog": null,
+            "account": {
+                "id": "111938291291623519",
+                "username": "dan613",
+                "acct": "dan613@ottawa.place",
+                "display_name": "Dan Neuman",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-02-15T00:00:00.000Z",
+                "note": "<p>\ud83c\udde8\ud83c\udde6Recovering engineer, ex-military (<a href=\"https://ottawa.place/tags/RMC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RMC</span></a>), ex-Jazz musician, triggered by injustice. Born 318.5 ppm CO\u2082. Raised in BC, but in Ottawa since 1990. Generation Jones, but never conservative. Joined Mastodon in April 2022.</p><p>Profile pic: myself against Canada's warming stripes<br>Banner: Cityscape of Cyberpunk 2077's Night City at twilight</p>",
+                "url": "https://ottawa.place/@dan613",
+                "uri": "https://ottawa.place/users/dan613",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/938/291/291/623/519/original/f0d40c070bb7d881.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/938/291/291/623/519/original/f0d40c070bb7d881.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/111/938/291/291/623/519/original/264659b16bc13a66.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/111/938/291/291/623/519/original/264659b16bc13a66.jpeg",
+                "followers_count": 1545,
+                "following_count": 1936,
+                "statuses_count": 11378,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"http://github.com/dneuman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">github.com/dneuman</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://dmn613.wordpress.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dmn613.wordpress.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T14:39:48.791+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "He/Him",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112968406535404939",
+            "created_at": "2024-08-15T22:31:25.000Z",
+            "in_reply_to_id": "112968094583230833",
+            "in_reply_to_account_id": "111938291291623519",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://sfba.social/users/PaulWermer/statuses/112968406491145061",
+            "url": "https://sfba.social/@PaulWermer/112968406491145061",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@dan613\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dan613</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> fully agree that we don't quite know where we are yet.  I just wish my local and national politicians didn't treat this as if we had time to act.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109523724922756697",
+                "username": "PaulWermer",
+                "acct": "PaulWermer@sfba.social",
+                "display_name": "Paul Wermer",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-12-15T00:00:00.000Z",
+                "note": "<p>Retired chemist - advocating for local climate action, perhaps a bit too deep in the weeds.</p><p>and a cynic</p><p>And searchable</p>",
+                "url": "https://sfba.social/@PaulWermer",
+                "uri": "https://sfba.social/users/PaulWermer",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/523/724/922/756/697/original/edd86cc426292e6f.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/523/724/922/756/697/original/edd86cc426292e6f.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 287,
+                "following_count": 324,
+                "statuses_count": 9321,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111938291291623519",
+                    "username": "dan613",
+                    "url": "https://ottawa.place/@dan613",
+                    "acct": "dan613@ottawa.place"
+                },
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112968945280902744",
+            "created_at": "2024-08-16T00:48:09.000Z",
+            "in_reply_to_id": "112968094583230833",
+            "in_reply_to_account_id": "111938291291623519",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/Global_Repercussions/statuses/112968944179488823",
+            "url": "https://climatejustice.social/@Global_Repercussions/112968944179488823",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@dan613\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dan613</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> </p><p>Think harder. <a href=\"https://climatejustice.social/tags/climatescientists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatescientists</span></a> currently can't explain it. So El Nino does not explain it</p><p><a href=\"https://www.theguardian.com/environment/article/2024/aug/15/we-should-have-better-answers-by-now-climate-scientists-baffled-by-unexpected-pace-of-heating\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theguardian.com/environment/ar</span><span class=\"invisible\">ticle/2024/aug/15/we-should-have-better-answers-by-now-climate-scientists-baffled-by-unexpected-pace-of-heating</span></a></p><p>Everyone is, of course welcome to their thoughts. There is no obligation they be based in reality, or explain it.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112777670627763915",
+                "username": "Global_Repercussions",
+                "acct": "Global_Repercussions@climatejustice.social",
+                "display_name": "Global Repercussions",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-07-12T00:00:00.000Z",
+                "note": "<p>I don't want to change the world.<br>Just the atmosphere and the oceans.</p>",
+                "url": "https://climatejustice.social/@Global_Repercussions",
+                "uri": "https://climatejustice.social/users/Global_Repercussions",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "followers_count": 50,
+                "following_count": 22,
+                "statuses_count": 631,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111938291291623519",
+                    "username": "dan613",
+                    "url": "https://ottawa.place/@dan613",
+                    "acct": "dan613@ottawa.place"
+                },
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "climatescientists",
+                    "url": "https://mastodon.social/tags/climatescientists"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.theguardian.com/environment/article/2024/aug/15/we-should-have-better-answers-by-now-climate-scientists-baffled-by-unexpected-pace-of-heating",
+                "title": "\u2018We should have better answers by now\u2019: climate scientists baffled by unexpected pace of heating",
+                "description": "The leap in temperatures over the past 13 months has exceeded the global heating forecasts \u2013 is this just a blip or a systemic shift?",
+                "language": "en",
+                "type": "link",
+                "author_name": "Jonathan Watts",
+                "author_url": "",
+                "provider_name": "The Guardian",
+                "provider_url": "",
+                "html": "",
+                "width": 0,
+                "height": 0,
+                "image": null,
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": null,
+                "published_at": "2024-08-15T12:00:08.000Z",
+                "authors": [
+                    {
+                        "name": "Jonathan Watts",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112969193339394159",
+            "created_at": "2024-08-16T01:51:31.000Z",
+            "in_reply_to_id": "112968945280902744",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://sfba.social/users/PaulWermer/statuses/112969193301790189",
+            "url": "https://sfba.social/@PaulWermer/112969193301790189",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@dan613\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dan613</span></a></span> <br>It's common in science to observe a phenomenon and realize the current model/ hypothesis/ theory doesn't explain it.  Science is the process of recognizing that, and then figuring out what sort of experiment/ data gathering is needed to develop an explanation.</p><p>So the fact that \"scientists can't explain it\" only means that they need to do a bit of problem solving, not that anyone's guess is ok.</p><p>It's important to realize when one needs to gather more data, and to figure out what data is helpful in expanding our understanding</p>",
+            "reblog": null,
+            "account": {
+                "id": "109523724922756697",
+                "username": "PaulWermer",
+                "acct": "PaulWermer@sfba.social",
+                "display_name": "Paul Wermer",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-12-15T00:00:00.000Z",
+                "note": "<p>Retired chemist - advocating for local climate action, perhaps a bit too deep in the weeds.</p><p>and a cynic</p><p>And searchable</p>",
+                "url": "https://sfba.social/@PaulWermer",
+                "uri": "https://sfba.social/users/PaulWermer",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/523/724/922/756/697/original/edd86cc426292e6f.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/523/724/922/756/697/original/edd86cc426292e6f.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 287,
+                "following_count": 324,
+                "statuses_count": 9321,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "111938291291623519",
+                    "username": "dan613",
+                    "url": "https://ottawa.place/@dan613",
+                    "acct": "dan613@ottawa.place"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112969398184752922",
+            "created_at": "2024-08-16T02:43:35.000Z",
+            "in_reply_to_id": "112969193339394159",
+            "in_reply_to_account_id": "109523724922756697",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/Global_Repercussions/statuses/112969398065172674",
+            "url": "https://climatejustice.social/@Global_Repercussions/112969398065172674",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": "2024-08-16T02:45:14.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@dan613\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dan613</span></a></span> <br>The article points out that many suspects have been examined and not explained the unexpected step change in reported temperatures over the past 13 months.</p><p><a href=\"https://climatejustice.social/tags/elnino\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>elnino</span></a> <br><a href=\"https://climatejustice.social/tags/sulphuremissions\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sulphuremissions</span></a> reduction from shipping legislation<br><a href=\"https://climatejustice.social/tags/watervapour\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>watervapour</span></a> from volcanic eruption of Hunga Tonga\u2013Hunga Ha\u02bbapai, a submarine volcano in the Tongan archipelago in the southern Pacific Ocean.<br><a href=\"https://climatejustice.social/tags/albedochange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>albedochange</span></a> from reduced surface ice in <a href=\"https://climatejustice.social/tags/arctic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arctic</span></a>, <a href=\"https://climatejustice.social/tags/Antarctic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Antarctic</span></a> and other <a href=\"https://climatejustice.social/tags/glaciers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>glaciers</span></a> </p><p>So, aside from all those here is my thought. The bulk of <a href=\"https://climatejustice.social/tags/atmospheric\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>atmospheric</span></a> <a href=\"https://climatejustice.social/tags/greenhouseeffect\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>greenhouseeffect</span></a> occurs in the lowest 100 metres of the <a href=\"https://climatejustice.social/tags/troposphere\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>troposphere</span></a>. The bit of teh atmosphere closest to the ground, or <a href=\"https://climatejustice.social/tags/sealevel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sealevel</span></a>.</p><p><a href=\"https://en.wikipedia.org/wiki/Greenhouse_effect#:~:text=Each%20molecule%20in%20the%20air,can%20in%20the%20upper%20atmosphere\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Greenhou</span><span class=\"invisible\">se_effect#:~:text=Each%20molecule%20in%20the%20air,can%20in%20the%20upper%20atmosphere</span></a>.</p><p><a href=\"https://www.readingma.gov/Faq.aspx?QID=172#:~:text=Atmospheric%20radiation%20is%20emitted%20to,is%20called%20the%20greenhouse%20effect\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">readingma.gov/Faq.aspx?QID=172</span><span class=\"invisible\">#:~:text=Atmospheric%20radiation%20is%20emitted%20to,is%20called%20the%20greenhouse%20effect</span></a>.</p><p>There are going to be significant regional variations in the level of greenhouse gasses in the lower 100 metres of the atmosphere, effected by local emission sources. Especially melting <a href=\"https://climatejustice.social/tags/permafrost\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>permafrost</span></a>, <a href=\"https://climatejustice.social/tags/wetlands\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wetlands</span></a>, leaking <a href=\"https://climatejustice.social/tags/oil\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>oil</span></a> and <a href=\"https://climatejustice.social/tags/gas\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gas</span></a> wells and other things.</p><p>Models are using the aggregate global average CO2 and CO2 equivalent greenhouse gas measures to estimate temperature and climate outcomes. But short term, local and regional temperature increases will differ based on on local and regional CO2 equivalent greenhouse gas levels. Leading to overall accumulation of energy in the global system.</p><p>But, if we do need to take some time time to figure out in more detail and get general agreement as to what the fuck is going on, how about we have a <a href=\"https://climatejustice.social/tags/moratorium\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>moratorium</span></a> on producing greenhouse gases while we work it out? Start with say a month or two?</p>",
+            "reblog": null,
+            "account": {
+                "id": "112777670627763915",
+                "username": "Global_Repercussions",
+                "acct": "Global_Repercussions@climatejustice.social",
+                "display_name": "Global Repercussions",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-07-12T00:00:00.000Z",
+                "note": "<p>I don't want to change the world.<br>Just the atmosphere and the oceans.</p>",
+                "url": "https://climatejustice.social/@Global_Repercussions",
+                "uri": "https://climatejustice.social/users/Global_Repercussions",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "followers_count": 50,
+                "following_count": 22,
+                "statuses_count": 631,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                },
+                {
+                    "id": "111938291291623519",
+                    "username": "dan613",
+                    "url": "https://ottawa.place/@dan613",
+                    "acct": "dan613@ottawa.place"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "elnino",
+                    "url": "https://mastodon.social/tags/elnino"
+                },
+                {
+                    "name": "sulphuremissions",
+                    "url": "https://mastodon.social/tags/sulphuremissions"
+                },
+                {
+                    "name": "watervapour",
+                    "url": "https://mastodon.social/tags/watervapour"
+                },
+                {
+                    "name": "albedochange",
+                    "url": "https://mastodon.social/tags/albedochange"
+                },
+                {
+                    "name": "arctic",
+                    "url": "https://mastodon.social/tags/arctic"
+                },
+                {
+                    "name": "antarctic",
+                    "url": "https://mastodon.social/tags/antarctic"
+                },
+                {
+                    "name": "glaciers",
+                    "url": "https://mastodon.social/tags/glaciers"
+                },
+                {
+                    "name": "atmospheric",
+                    "url": "https://mastodon.social/tags/atmospheric"
+                },
+                {
+                    "name": "greenhouseeffect",
+                    "url": "https://mastodon.social/tags/greenhouseeffect"
+                },
+                {
+                    "name": "troposphere",
+                    "url": "https://mastodon.social/tags/troposphere"
+                },
+                {
+                    "name": "sealevel",
+                    "url": "https://mastodon.social/tags/sealevel"
+                },
+                {
+                    "name": "permafrost",
+                    "url": "https://mastodon.social/tags/permafrost"
+                },
+                {
+                    "name": "wetlands",
+                    "url": "https://mastodon.social/tags/wetlands"
+                },
+                {
+                    "name": "oil",
+                    "url": "https://mastodon.social/tags/oil"
+                },
+                {
+                    "name": "gas",
+                    "url": "https://mastodon.social/tags/gas"
+                },
+                {
+                    "name": "moratorium",
+                    "url": "https://mastodon.social/tags/moratorium"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://en.wikipedia.org/wiki/Greenhouse_effect#:~:text=Each%20molecule%20in%20the%20air,can%20in%20the%20upper%20atmosphere",
+                "title": "Greenhouse effect - Wikipedia",
+                "description": "",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 516,
+                "height": 447,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/007/471/025/original/3287b3481e87b28b.png",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UH7nRi-IbNtIsyxxxSWHIINHWCWFIuIVIuk7",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112970080704328885",
+            "created_at": "2024-08-16T05:36:51.000Z",
+            "in_reply_to_id": "112969398184752922",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/anlomedad/statuses/112970079370151244",
+            "url": "https://climatejustice.social/@anlomedad/112970079370151244",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@dan613\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dan613</span></a></span> </p><p>Wrt <a href=\"https://climatejustice.social/tags/Hungatonga\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Hungatonga</span></a> and the past 13 months: Jucker et al mapped the multi-year effect of the water vapour on precipitation, temperature and jet stream in a detailed global grid. </p><p>Their layman's prose article says specifically that according to their results HungaTonga is no factor at all in the bananas phenomenon. <br><a href=\"https://theconversation.com/tongas-volcanic-eruption-could-cause-unusual-weather-for-the-rest-of-the-decade-new-study-shows-231074\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">theconversation.com/tongas-vol</span><span class=\"invisible\">canic-eruption-could-cause-unusual-weather-for-the-rest-of-the-decade-new-study-shows-231074</span></a></p><p>Obviously the past months pique everyone's curiosity and I see no reason why we should not speculate wildly what the reasons might be. We are The Society. The science law does not fall into our jurisdiction, so to speak. That people like Rahmstorf don't speculate if they can't back it up with sciency looking stuff \u2013 that's fine. I'd rather people like him not speculating without a sliver of attempted proof. <br>But this rule doesn't apply to us, The Society. </p><p>The land carbon sink net collapsed in 2023. A station in Australia Cape Grim <a href=\"https://capegrim.csiro.au\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">capegrim.csiro.au</span><span class=\"invisible\"></span></a> received the signal in January 2024ff. Later than other stations due to delay in  atmospheric mixing. </p><p>El Nino is a CO2-intense phase. One can sync the CO2 growth rate in the Cape Grim time series to, for example, the ElNino phase 2016 by moving the monthly growth values 8 months back. This sort of helps to triangulate the CO2 sources that arrive in Cape Grim during El Nino phases. Having done that, one sees that last year's Nino CO2 source arrived at Cape Grim earlier than the signals in other Nino years. This points to a CO2-origin that is close by in terms of atmospheric mixing. Close by = in the Southern Hemisphere. </p><p>So. The drought in the Amazon? Something like intensified ocean upwelling? <br>Or... was the mixing stronger and quicker this time than in 2016 or 1997?</p>",
+            "reblog": null,
+            "account": {
+                "id": "109289873858739853",
+                "username": "anlomedad",
+                "acct": "anlomedad@climatejustice.social",
+                "display_name": "anlomedad",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-05T00:00:00.000Z",
+                "note": "<p>I know nothing of Snow and climate change. But its complexity is fascinating.<br>And how should our societies live within biophysical planetary boundaries?<br>*322ppm</p>",
+                "url": "https://climatejustice.social/@anlomedad",
+                "uri": "https://climatejustice.social/users/anlomedad",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/289/873/858/739/853/original/78925ea003d46717.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/289/873/858/739/853/original/78925ea003d46717.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/289/873/858/739/853/original/ff2127b87f1c55f4.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/289/873/858/739/853/original/ff2127b87f1c55f4.jpg",
+                "followers_count": 570,
+                "following_count": 1075,
+                "statuses_count": 3918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [
+                {
+                    "id": "112970080622571334",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/970/080/622/571/334/original/ff084879ba70ae15.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/970/080/622/571/334/small/ff084879ba70ae15.png",
+                    "remote_url": "https://climatejustice.social/system/media_attachments/files/112/970/049/930/888/163/original/074c0365713dc65d.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "focus": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "original": {
+                            "width": 2252,
+                            "height": 1728,
+                            "size": "2252x1728",
+                            "aspect": 1.3032407407407407
+                        },
+                        "small": {
+                            "width": 547,
+                            "height": 420,
+                            "size": "547x420",
+                            "aspect": 1.3023809523809524
+                        }
+                    },
+                    "description": "3 line charts with El Nino Index and CO2 growth in Cape Grim. Top chart original CO2 growth together with the MEI flavour of ENSO.\nMiddle chart is the same but moved 8 months back to sync with El Nino 2016. And as described in the post, in 2023/2024, the CO2 signal arrived 4 months earlier than El Nino began in reality. Whereas for example the CO2 signal in the 1997 El Nino arrived 4 months later, pointing to a CO2 source that is further away from Cape Grim in terms of atmospheric mixing. Further away than the 2016 source and also than the 2023/2024 source.  \nBottom chart is just the SST anomaly at ENSO3.4 and Cape Grim's CO2 growth synced to El Nino 2016.",
+                    "blurhash": "U6R:E7-o-;.8~qs.offlWAflayae~qofj[of"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                },
+                {
+                    "id": "111938291291623519",
+                    "username": "dan613",
+                    "url": "https://ottawa.place/@dan613",
+                    "acct": "dan613@ottawa.place"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "HungaTonga",
+                    "url": "https://mastodon.social/tags/HungaTonga"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://theconversation.com/tongas-volcanic-eruption-could-cause-unusual-weather-for-the-rest-of-the-decade-new-study-shows-231074",
+                "title": "Tonga\u2019s volcanic eruption could cause unusual weather for the rest of the decade, new study shows",
+                "description": "Our new research predicts how Hunga Tonga\u2019s vast underwater eruption in 2022 will change winters worldwide for years to come \u2013 as far away as Australia, North America and even Scandinavia.",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "The Conversation",
+                "provider_url": "",
+                "html": "",
+                "width": 684,
+                "height": 337,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/099/114/977/original/faec855f0cc825d7.png",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UhJa}|~qRjxuRixuayRjofWBofofkCj]Rjof",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112970300759098813",
+            "created_at": "2024-08-16T06:32:16.000Z",
+            "in_reply_to_id": "112970080704328885",
+            "in_reply_to_account_id": "109289873858739853",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/Global_Repercussions/statuses/112970297279061055",
+            "url": "https://climatejustice.social/@Global_Repercussions/112970297279061055",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@anlomedad\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>anlomedad</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@dan613\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dan613</span></a></span> </p><p>Don't forget to add <a href=\"https://climatejustice.social/tags/methane\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>methane</span></a>, and other <a href=\"https://climatejustice.social/tags/greenhousegases\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>greenhousegases</span></a> </p><p><a href=\"https://gml.noaa.gov/ccgg/trends_ch4/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gml.noaa.gov/ccgg/trends_ch4/</span><span class=\"invisible\"></span></a></p><p>There seems to be a significant lift in the rate of additional <a href=\"https://climatejustice.social/tags/ch4\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ch4</span></a> in the year 2020-2023.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112777670627763915",
+                "username": "Global_Repercussions",
+                "acct": "Global_Repercussions@climatejustice.social",
+                "display_name": "Global Repercussions",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-07-12T00:00:00.000Z",
+                "note": "<p>I don't want to change the world.<br>Just the atmosphere and the oceans.</p>",
+                "url": "https://climatejustice.social/@Global_Repercussions",
+                "uri": "https://climatejustice.social/users/Global_Repercussions",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "followers_count": 50,
+                "following_count": 22,
+                "statuses_count": 631,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109289873858739853",
+                    "username": "anlomedad",
+                    "url": "https://climatejustice.social/@anlomedad",
+                    "acct": "anlomedad@climatejustice.social"
+                },
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                },
+                {
+                    "id": "111938291291623519",
+                    "username": "dan613",
+                    "url": "https://ottawa.place/@dan613",
+                    "acct": "dan613@ottawa.place"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "methane",
+                    "url": "https://mastodon.social/tags/methane"
+                },
+                {
+                    "name": "greenhousegases",
+                    "url": "https://mastodon.social/tags/greenhousegases"
+                },
+                {
+                    "name": "ch4",
+                    "url": "https://mastodon.social/tags/ch4"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://gml.noaa.gov/ccgg/trends_ch4/",
+                "title": "Global Monitoring Laboratory - Carbon Cycle Greenhouse Gases",
+                "description": "The Global Monitoring Laboratory conducts research on greenhouse gas and carbon cycle feedbacks, changes in clouds, aerosols, and surface radiation, and recovery of stratospheric ozone. ",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 0,
+                "height": 0,
+                "image": null,
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": null,
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112973011360692424",
+            "created_at": "2024-08-16T18:02:28.000Z",
+            "in_reply_to_id": "112968945280902744",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://ottawa.place/users/dan613/statuses/112973011226697065",
+            "url": "https://ottawa.place/@dan613/112973011226697065",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> This is what I mean: when you remove the natural influences, there isn't a statistically significant change in the trend over the course of data since 1990. There was an unusually cold period between 2012 and 2016. If you remove that period there is practically no change.</p>",
+            "reblog": null,
+            "account": {
+                "id": "111938291291623519",
+                "username": "dan613",
+                "acct": "dan613@ottawa.place",
+                "display_name": "Dan Neuman",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-02-15T00:00:00.000Z",
+                "note": "<p>\ud83c\udde8\ud83c\udde6Recovering engineer, ex-military (<a href=\"https://ottawa.place/tags/RMC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RMC</span></a>), ex-Jazz musician, triggered by injustice. Born 318.5 ppm CO\u2082. Raised in BC, but in Ottawa since 1990. Generation Jones, but never conservative. Joined Mastodon in April 2022.</p><p>Profile pic: myself against Canada's warming stripes<br>Banner: Cityscape of Cyberpunk 2077's Night City at twilight</p>",
+                "url": "https://ottawa.place/@dan613",
+                "uri": "https://ottawa.place/users/dan613",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/938/291/291/623/519/original/f0d40c070bb7d881.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/938/291/291/623/519/original/f0d40c070bb7d881.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/111/938/291/291/623/519/original/264659b16bc13a66.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/111/938/291/291/623/519/original/264659b16bc13a66.jpeg",
+                "followers_count": 1545,
+                "following_count": 1936,
+                "statuses_count": 11378,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"http://github.com/dneuman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">github.com/dneuman</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://dmn613.wordpress.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dmn613.wordpress.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T14:39:48.791+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "He/Him",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112973011293211446",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/973/011/293/211/446/original/5bd2da770ec11b1f.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/973/011/293/211/446/small/5bd2da770ec11b1f.png",
+                    "remote_url": "https://assets.ottawa.place/media_attachments/files/112/973/011/204/178/967/original/947229c7dff730cd.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 1200,
+                            "height": 675,
+                            "size": "1200x675",
+                            "aspect": 1.7777777777777777
+                        },
+                        "small": {
+                            "width": 640,
+                            "height": 360,
+                            "size": "640x360",
+                            "aspect": 1.7777777777777777
+                        }
+                    },
+                    "description": "Two charts showing the difference of the global monthly temperature from the trend starting in 1990. The top one shows the raw data overlaid with the influence from solar, volcanoes, and El Ni\u00f1o, with the trend being 0.220\u2103/decade. The bottom one shows the data with the natural influences removed, overlaid with the 12 month moving average. The trend is 0.204\u2103/decade.",
+                    "blurhash": "UERV^WtQ~m-;xHRjt7of?pM{RVt7%zRjWEt7"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112976306339239485",
+            "created_at": "2024-08-17T08:00:26.000Z",
+            "in_reply_to_id": "112973011360692424",
+            "in_reply_to_account_id": "111938291291623519",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/Global_Repercussions/statuses/112976306273342543",
+            "url": "https://climatejustice.social/@Global_Repercussions/112976306273342543",
+            "replies_count": 1,
+            "reblogs_count": 2,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@dan613\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dan613</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> </p><p>Are we differentiating between a concerning warming trend, an alarming warming trend, and/or a diabolically catstrophic warming trend.</p><p>As we are often lead to respond, we really wish you were right. Although you seem to be agreeing there is a long term and significant warming trend. Which I assume you agree is going to be an ongoing warmingbtren until global <a href=\"https://climatejustice.social/tags/greenhousegasemissions\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>greenhousegasemissions</span></a>  are reduced or stopped, and atmospheric <a href=\"https://climatejustice.social/tags/greenhousegas\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>greenhousegas</span></a> levels are reduced.</p><p>See how many more months this kind of thing keeps going on for.</p><p><a href=\"https://www.noaa.gov/news/earth-just-had-its-warmest-july-on-record\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">noaa.gov/news/earth-just-had-i</span><span class=\"invisible\">ts-warmest-july-on-record</span></a></p><p>Whichever trend state we confirm ourselves to be in, the task and the goal remains the same.</p><p><a href=\"https://350.org/science/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">350.org/science/</span><span class=\"invisible\"></span></a></p><p><a href=\"https://climatejustice.social/tags/GlobalWarming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GlobalWarming</span></a> <br><a href=\"https://climatejustice.social/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a><br><a href=\"https://climatejustice.social/tags/climatechange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatechange</span></a><br><a href=\"https://climatejustice.social/tags/climatecrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatecrisis</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "112777670627763915",
+                "username": "Global_Repercussions",
+                "acct": "Global_Repercussions@climatejustice.social",
+                "display_name": "Global Repercussions",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-07-12T00:00:00.000Z",
+                "note": "<p>I don't want to change the world.<br>Just the atmosphere and the oceans.</p>",
+                "url": "https://climatejustice.social/@Global_Repercussions",
+                "uri": "https://climatejustice.social/users/Global_Repercussions",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "followers_count": 50,
+                "following_count": 22,
+                "statuses_count": 631,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111938291291623519",
+                    "username": "dan613",
+                    "url": "https://ottawa.place/@dan613",
+                    "acct": "dan613@ottawa.place"
+                },
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "greenhousegasemissions",
+                    "url": "https://mastodon.social/tags/greenhousegasemissions"
+                },
+                {
+                    "name": "greenhousegas",
+                    "url": "https://mastodon.social/tags/greenhousegas"
+                },
+                {
+                    "name": "globalwarming",
+                    "url": "https://mastodon.social/tags/globalwarming"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climatecrisis",
+                    "url": "https://mastodon.social/tags/climatecrisis"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.noaa.gov/news/earth-just-had-its-warmest-july-on-record",
+                "title": "Earth just had its warmest July on record",
+                "description": "July was the globe\u2019s 14th month in a row of record warmth",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 640,
+                "height": 360,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/107/847/982/original/f314d92e1ff058dc.jpg",
+                "image_description": "MELENCI, SERBIA - JULY 25, 2024: A worker from a spa collects mud at Lake Rusanda, which dried up for the first time in recorded history during a prolonged heatwave.",
+                "embed_url": "",
+                "blurhash": "UIC6r*R*ofj]?wxaa}ayI[t6ayWVRjWBofWV",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112977065403770723",
+            "created_at": "2024-08-17T11:13:28.000Z",
+            "in_reply_to_id": "112976306339239485",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://ottawa.place/users/dan613/statuses/112977065337464110",
+            "url": "https://ottawa.place/@dan613/112977065337464110",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> We are talking about whether the trend is within our control or not.</p>",
+            "reblog": null,
+            "account": {
+                "id": "111938291291623519",
+                "username": "dan613",
+                "acct": "dan613@ottawa.place",
+                "display_name": "Dan Neuman",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-02-15T00:00:00.000Z",
+                "note": "<p>\ud83c\udde8\ud83c\udde6Recovering engineer, ex-military (<a href=\"https://ottawa.place/tags/RMC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RMC</span></a>), ex-Jazz musician, triggered by injustice. Born 318.5 ppm CO\u2082. Raised in BC, but in Ottawa since 1990. Generation Jones, but never conservative. Joined Mastodon in April 2022.</p><p>Profile pic: myself against Canada's warming stripes<br>Banner: Cityscape of Cyberpunk 2077's Night City at twilight</p>",
+                "url": "https://ottawa.place/@dan613",
+                "uri": "https://ottawa.place/users/dan613",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/938/291/291/623/519/original/f0d40c070bb7d881.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/938/291/291/623/519/original/f0d40c070bb7d881.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/111/938/291/291/623/519/original/264659b16bc13a66.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/111/938/291/291/623/519/original/264659b16bc13a66.jpeg",
+                "followers_count": 1545,
+                "following_count": 1936,
+                "statuses_count": 11378,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"http://github.com/dneuman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">github.com/dneuman</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://dmn613.wordpress.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dmn613.wordpress.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T14:39:48.791+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "He/Him",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112979097341117844",
+            "created_at": "2024-08-17T19:50:14.000Z",
+            "in_reply_to_id": "112977065403770723",
+            "in_reply_to_account_id": "111938291291623519",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/Global_Repercussions/statuses/112979097286291760",
+            "url": "https://climatejustice.social/@Global_Repercussions/112979097286291760",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@dan613\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dan613</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> </p><p>We have not been in control, we have been the cause.</p><p>We are not in control, we do have choices.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112777670627763915",
+                "username": "Global_Repercussions",
+                "acct": "Global_Repercussions@climatejustice.social",
+                "display_name": "Global Repercussions",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-07-12T00:00:00.000Z",
+                "note": "<p>I don't want to change the world.<br>Just the atmosphere and the oceans.</p>",
+                "url": "https://climatejustice.social/@Global_Repercussions",
+                "uri": "https://climatejustice.social/users/Global_Repercussions",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "followers_count": 50,
+                "following_count": 22,
+                "statuses_count": 631,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111938291291623519",
+                    "username": "dan613",
+                    "url": "https://ottawa.place/@dan613",
+                    "acct": "dan613@ottawa.place"
+                },
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112985127680976723",
+            "created_at": "2024-08-18T21:23:49.000Z",
+            "in_reply_to_id": "112979097341117844",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://ottawa.place/users/dan613/statuses/112985127629670860",
+            "url": "https://ottawa.place/@dan613/112985127629670860",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> We've always had control. We just never liked the choices, for poor reasons.</p>",
+            "reblog": null,
+            "account": {
+                "id": "111938291291623519",
+                "username": "dan613",
+                "acct": "dan613@ottawa.place",
+                "display_name": "Dan Neuman",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-02-15T00:00:00.000Z",
+                "note": "<p>\ud83c\udde8\ud83c\udde6Recovering engineer, ex-military (<a href=\"https://ottawa.place/tags/RMC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RMC</span></a>), ex-Jazz musician, triggered by injustice. Born 318.5 ppm CO\u2082. Raised in BC, but in Ottawa since 1990. Generation Jones, but never conservative. Joined Mastodon in April 2022.</p><p>Profile pic: myself against Canada's warming stripes<br>Banner: Cityscape of Cyberpunk 2077's Night City at twilight</p>",
+                "url": "https://ottawa.place/@dan613",
+                "uri": "https://ottawa.place/users/dan613",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/938/291/291/623/519/original/f0d40c070bb7d881.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/938/291/291/623/519/original/f0d40c070bb7d881.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/111/938/291/291/623/519/original/264659b16bc13a66.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/111/938/291/291/623/519/original/264659b16bc13a66.jpeg",
+                "followers_count": 1545,
+                "following_count": 1936,
+                "statuses_count": 11378,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"http://github.com/dneuman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">github.com/dneuman</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://dmn613.wordpress.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dmn613.wordpress.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T14:39:48.791+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "He/Him",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112985688965970839",
+            "created_at": "2024-08-18T23:46:07.000Z",
+            "in_reply_to_id": "112985127680976723",
+            "in_reply_to_account_id": "111938291291623519",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/Global_Repercussions/statuses/112985687179214499",
+            "url": "https://climatejustice.social/@Global_Repercussions/112985687179214499",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ottawa.place/@dan613\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dan613</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> </p><p>Control of our own actions, possibly? But that would be a key distinction between the powerful and the powerless.</p><p>Control of the global climate? I remain quite dubious of that proposition.</p><p>If we are in control of things I guess we could rapidly end plastic pollution? Or, the illicit trade in drugs?</p><p>That last one is a low bar, you just deciminalise or legalise all the drugs. Problem solved, at least the illicit trade part.</p><p>If we are in control, how come atmospheric CO2 levels are still growing at an increasing rate?</p>",
+            "reblog": null,
+            "account": {
+                "id": "112777670627763915",
+                "username": "Global_Repercussions",
+                "acct": "Global_Repercussions@climatejustice.social",
+                "display_name": "Global Repercussions",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-07-12T00:00:00.000Z",
+                "note": "<p>I don't want to change the world.<br>Just the atmosphere and the oceans.</p>",
+                "url": "https://climatejustice.social/@Global_Repercussions",
+                "uri": "https://climatejustice.social/users/Global_Repercussions",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "followers_count": 50,
+                "following_count": 22,
+                "statuses_count": 631,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111938291291623519",
+                    "username": "dan613",
+                    "url": "https://ottawa.place/@dan613",
+                    "acct": "dan613@ottawa.place"
+                },
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112986400103239513",
+            "created_at": "2024-08-19T02:47:25.000Z",
+            "in_reply_to_id": "112985688965970839",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://ottawa.place/users/dan613/statuses/112986400035387191",
+            "url": "https://ottawa.place/@dan613/112986400035387191",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://sfba.social/@PaulWermer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PaulWermer</span></a></span> Remember when I said we made choices for poor reasons? We chose to vote for people who did nothing. Now many people are voting for people who are doing something, such as incentives for electrifying and requiring more renewables. Change is slow, but it is happening.</p>",
+            "reblog": null,
+            "account": {
+                "id": "111938291291623519",
+                "username": "dan613",
+                "acct": "dan613@ottawa.place",
+                "display_name": "Dan Neuman",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-02-15T00:00:00.000Z",
+                "note": "<p>\ud83c\udde8\ud83c\udde6Recovering engineer, ex-military (<a href=\"https://ottawa.place/tags/RMC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RMC</span></a>), ex-Jazz musician, triggered by injustice. Born 318.5 ppm CO\u2082. Raised in BC, but in Ottawa since 1990. Generation Jones, but never conservative. Joined Mastodon in April 2022.</p><p>Profile pic: myself against Canada's warming stripes<br>Banner: Cityscape of Cyberpunk 2077's Night City at twilight</p>",
+                "url": "https://ottawa.place/@dan613",
+                "uri": "https://ottawa.place/users/dan613",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/938/291/291/623/519/original/f0d40c070bb7d881.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/938/291/291/623/519/original/f0d40c070bb7d881.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/111/938/291/291/623/519/original/264659b16bc13a66.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/111/938/291/291/623/519/original/264659b16bc13a66.jpeg",
+                "followers_count": 1545,
+                "following_count": 1936,
+                "statuses_count": 11378,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"http://github.com/dneuman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">github.com/dneuman</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://dmn613.wordpress.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dmn613.wordpress.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T14:39:48.791+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "He/Him",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "109523724922756697",
+                    "username": "PaulWermer",
+                    "url": "https://sfba.social/@PaulWermer",
+                    "acct": "PaulWermer@sfba.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112969335591976172",
+            "created_at": "2024-08-16T02:27:37.000Z",
+            "in_reply_to_id": "112967961029219726",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112969335300129420",
+            "url": "https://mastodon.au/@largess/112969335300129420",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span><br>&gt;We should have better answers by now\u2019: climate scientists baffled by unexpected pace of heating</p><p>----</p><p>James Hansen enters the chat</p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

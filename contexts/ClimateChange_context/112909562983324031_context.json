@@ -1,0 +1,375 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112909590341968450",
+            "created_at": "2024-08-05T13:13:40.000Z",
+            "in_reply_to_id": "112909562983324031",
+            "in_reply_to_account_id": "109369414644046742",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://social.vivaldi.net/users/hipsauerkraut/statuses/112909590237665482",
+            "url": "https://social.vivaldi.net/@hipsauerkraut/112909590237665482",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-08-05T15:44:59.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ohai.social/@fezzi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fezzi</span></a></span> Lucky you, here too warm.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112441873255247018",
+                "username": "hipsauerkraut",
+                "acct": "hipsauerkraut@vivaldi.net",
+                "display_name": "Dr. Seltsam \ud83c\udf0e\ud83c\udfb6\ud83c\udf33",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-05-14T00:00:00.000Z",
+                "note": "<p>One world, one race.<br>Freidenker Librepensador Freethinker<br>ES EN DE<br>\"Two things are infinite: The universe and human stupidity; and I'm not sure about the universe.\" (source unknown)<br><a href=\"https://social.vivaldi.net/tags/jazz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>jazz</span></a> <a href=\"https://social.vivaldi.net/tags/funk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>funk</span></a> <a href=\"https://social.vivaldi.net/tags/fusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fusion</span></a> <a href=\"https://social.vivaldi.net/tags/rnb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rnb</span></a> <a href=\"https://social.vivaldi.net/tags/funkyfriday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>funkyfriday</span></a> love <a href=\"https://social.vivaldi.net/tags/BAM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BAM</span></a> <a href=\"https://social.vivaldi.net/tags/worldmusic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>worldmusic</span></a> <a href=\"https://social.vivaldi.net/tags/linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>linux</span></a> <a href=\"https://social.vivaldi.net/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a> <a href=\"https://social.vivaldi.net/tags/climatecrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatecrisis</span></a> <a href=\"https://social.vivaldi.net/tags/dominicanrepublic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dominicanrepublic</span></a></p>",
+                "url": "https://social.vivaldi.net/@hipsauerkraut",
+                "uri": "https://social.vivaldi.net/users/hipsauerkraut",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/441/873/255/247/018/original/5c3dfa6b21f1cbca.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/441/873/255/247/018/original/5c3dfa6b21f1cbca.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/441/873/255/247/018/original/2feacf3b17b7c28b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/441/873/255/247/018/original/2feacf3b17b7c28b.jpg",
+                "followers_count": 262,
+                "following_count": 384,
+                "statuses_count": 886,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Religion",
+                        "value": "Freethinker, Agnostic Atheist, YinYang",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Music",
+                        "value": "Jazz is the teacher, and Funk is the preacher",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Movies",
+                        "value": "Blade Runner (and much more)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Political",
+                        "value": "Anti-Monopolist, Ecologist, Progressive as in progressive",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109369414644046742",
+                    "username": "fezzi",
+                    "url": "https://ohai.social/@fezzi",
+                    "acct": "fezzi@ohai.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112909939190784900",
+            "created_at": "2024-08-05T14:42:24.000Z",
+            "in_reply_to_id": "112909590341968450",
+            "in_reply_to_account_id": "112441873255247018",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://ohai.social/users/fezzi/statuses/112909939157106254",
+            "url": "https://ohai.social/@fezzi/112909939157106254",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.vivaldi.net/@hipsauerkraut\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hipsauerkraut</span></a></span> yeah... finally, a winner... \ud83e\udd73</p>",
+            "reblog": null,
+            "account": {
+                "id": "109369414644046742",
+                "username": "fezzi",
+                "acct": "fezzi@ohai.social",
+                "display_name": "Fezzi Fezzino \ud83e\uddca \ud83c\udd92\ufe0f",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-19T00:00:00.000Z",
+                "note": "<p>@fezzi.bsky.social<br>Just another human. Retired in Phuket at home on this planet. Sport addict, interested in all tech and computer stuff, mobile photography, and other silly things... life isn't fair all the time so enjoy your moments. <br>Co Founder of the Phuket Sunshine Village Foundation / A Foster-home for children in need. <br>Time never stands still, it\u2019s always moving on. <br>The past is beyond our control, but the future is still in our hands. <br>To shape it we must make an effort.</p>",
+                "url": "https://ohai.social/@fezzi",
+                "uri": "https://ohai.social/users/fezzi",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/369/414/644/046/742/original/f9717e0819023734.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/369/414/644/046/742/original/f9717e0819023734.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/369/414/644/046/742/original/5a3f838cb46aaec5.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/369/414/644/046/742/original/5a3f838cb46aaec5.jpg",
+                "followers_count": 208,
+                "following_count": 310,
+                "statuses_count": 1700,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://phuketsunshinevillage.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">phuketsunshinevillage.org</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T05:49:26.772+00:00"
+                    },
+                    {
+                        "name": "Threads",
+                        "value": "<a href=\"https://www.threads.net/@fezzifezzino\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">threads.net/@fezzifezzino</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T05:49:28.586+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112441873255247018",
+                    "username": "hipsauerkraut",
+                    "url": "https://social.vivaldi.net/@hipsauerkraut",
+                    "acct": "hipsauerkraut@vivaldi.net"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112909726316487354",
+            "created_at": "2024-08-05T13:48:16.000Z",
+            "in_reply_to_id": "112909562983324031",
+            "in_reply_to_account_id": "109369414644046742",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://ohai.social/users/ThePsyOfLife/statuses/112909726260736758",
+            "url": "https://ohai.social/@ThePsyOfLife/112909726260736758",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ohai.social/@fezzi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fezzi</span></a></span> <br>Count yourself lucky. I just went for a run in 27 degrees, but it felt like 33. The high today was 33, but felt like 42.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109322895441815351",
+                "username": "ThePsyOfLife",
+                "acct": "ThePsyOfLife@ohai.social",
+                "display_name": "ThePsyOfLife",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-11T00:00:00.000Z",
+                "note": "<p>Political Psychology blogging dilatant. American living outside of the US. Snarky, sarcasticky, profaney.</p>",
+                "url": "https://ohai.social/@ThePsyOfLife",
+                "uri": "https://ohai.social/users/ThePsyOfLife",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/322/895/441/815/351/original/6effca3a0fad48d5.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/322/895/441/815/351/original/6effca3a0fad48d5.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/322/895/441/815/351/original/0a59688d17c31195.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/322/895/441/815/351/original/0a59688d17c31195.jpeg",
+                "followers_count": 309,
+                "following_count": 613,
+                "statuses_count": 2071,
+                "last_status_at": "2024-08-17",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "ThePsyOfLife",
+                        "value": "<a href=\"https://thepsyoflifeblog.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thepsyoflifeblog.com/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Attitude",
+                        "value": "Snarky, Sarcasticky, and Profaney",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Facebook",
+                        "value": "<a href=\"https://www.facebook.com/thepsyoflife\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">facebook.com/thepsyoflife</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Instagram",
+                        "value": "<a href=\"https://www.instagram.com/calicojack1718/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/calicojack1718/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109369414644046742",
+                    "username": "fezzi",
+                    "url": "https://ohai.social/@fezzi",
+                    "acct": "fezzi@ohai.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112909937431647091",
+            "created_at": "2024-08-05T14:41:57.000Z",
+            "in_reply_to_id": "112909726316487354",
+            "in_reply_to_account_id": "109322895441815351",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://ohai.social/users/fezzi/statuses/112909937381677147",
+            "url": "https://ohai.social/@fezzi/112909937381677147",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ohai.social/@ThePsyOfLife\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ThePsyOfLife</span></a></span> I am celebrating that the \"socks\" thing is working... \ud83e\udd73</p>",
+            "reblog": null,
+            "account": {
+                "id": "109369414644046742",
+                "username": "fezzi",
+                "acct": "fezzi@ohai.social",
+                "display_name": "Fezzi Fezzino \ud83e\uddca \ud83c\udd92\ufe0f",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-19T00:00:00.000Z",
+                "note": "<p>@fezzi.bsky.social<br>Just another human. Retired in Phuket at home on this planet. Sport addict, interested in all tech and computer stuff, mobile photography, and other silly things... life isn't fair all the time so enjoy your moments. <br>Co Founder of the Phuket Sunshine Village Foundation / A Foster-home for children in need. <br>Time never stands still, it\u2019s always moving on. <br>The past is beyond our control, but the future is still in our hands. <br>To shape it we must make an effort.</p>",
+                "url": "https://ohai.social/@fezzi",
+                "uri": "https://ohai.social/users/fezzi",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/369/414/644/046/742/original/f9717e0819023734.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/369/414/644/046/742/original/f9717e0819023734.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/369/414/644/046/742/original/5a3f838cb46aaec5.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/369/414/644/046/742/original/5a3f838cb46aaec5.jpg",
+                "followers_count": 208,
+                "following_count": 310,
+                "statuses_count": 1700,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://phuketsunshinevillage.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">phuketsunshinevillage.org</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T05:49:26.772+00:00"
+                    },
+                    {
+                        "name": "Threads",
+                        "value": "<a href=\"https://www.threads.net/@fezzifezzino\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">threads.net/@fezzifezzino</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T05:49:28.586+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109322895441815351",
+                    "username": "ThePsyOfLife",
+                    "url": "https://ohai.social/@ThePsyOfLife",
+                    "acct": "ThePsyOfLife@ohai.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112909952649034611",
+            "created_at": "2024-08-05T14:45:49.000Z",
+            "in_reply_to_id": "112909937431647091",
+            "in_reply_to_account_id": "109369414644046742",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://ohai.social/users/ThePsyOfLife/statuses/112909952600787051",
+            "url": "https://ohai.social/@ThePsyOfLife/112909952600787051",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://ohai.social/@fezzi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fezzi</span></a></span> </p><p>You gotta take those victories where you find 'em, amirite?</p>",
+            "reblog": null,
+            "account": {
+                "id": "109322895441815351",
+                "username": "ThePsyOfLife",
+                "acct": "ThePsyOfLife@ohai.social",
+                "display_name": "ThePsyOfLife",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-11T00:00:00.000Z",
+                "note": "<p>Political Psychology blogging dilatant. American living outside of the US. Snarky, sarcasticky, profaney.</p>",
+                "url": "https://ohai.social/@ThePsyOfLife",
+                "uri": "https://ohai.social/users/ThePsyOfLife",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/322/895/441/815/351/original/6effca3a0fad48d5.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/322/895/441/815/351/original/6effca3a0fad48d5.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/322/895/441/815/351/original/0a59688d17c31195.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/322/895/441/815/351/original/0a59688d17c31195.jpeg",
+                "followers_count": 309,
+                "following_count": 613,
+                "statuses_count": 2071,
+                "last_status_at": "2024-08-17",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "ThePsyOfLife",
+                        "value": "<a href=\"https://thepsyoflifeblog.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thepsyoflifeblog.com/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Attitude",
+                        "value": "Snarky, Sarcasticky, and Profaney",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Facebook",
+                        "value": "<a href=\"https://www.facebook.com/thepsyoflife\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">facebook.com/thepsyoflife</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Instagram",
+                        "value": "<a href=\"https://www.instagram.com/calicojack1718/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/calicojack1718/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109369414644046742",
+                    "username": "fezzi",
+                    "url": "https://ohai.social/@fezzi",
+                    "acct": "fezzi@ohai.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112871605301516699",
+            "created_at": "2024-07-29T20:13:35.000Z",
+            "in_reply_to_id": "112871581953621136",
+            "in_reply_to_account_id": "109303413236830785",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://sfba.social/users/PaulWermer/statuses/112871605229792725",
+            "url": "https://sfba.social/@PaulWermer/112871605229792725",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.dias.ie/@Luke_Drury\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Luke_Drury</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://ruhr.social/@700Sachen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>700Sachen</span></a></span> not just Ireland</p>",
+            "reblog": null,
+            "account": {
+                "id": "109523724922756697",
+                "username": "PaulWermer",
+                "acct": "PaulWermer@sfba.social",
+                "display_name": "Paul Wermer",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-12-15T00:00:00.000Z",
+                "note": "<p>Retired chemist - advocating for local climate action, perhaps a bit too deep in the weeds.</p><p>and a cynic</p><p>And searchable</p>",
+                "url": "https://sfba.social/@PaulWermer",
+                "uri": "https://sfba.social/users/PaulWermer",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/523/724/922/756/697/original/edd86cc426292e6f.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/523/724/922/756/697/original/edd86cc426292e6f.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 287,
+                "following_count": 324,
+                "statuses_count": 9321,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109303413236830785",
+                    "username": "Luke_Drury",
+                    "url": "https://mastodon.dias.ie/@Luke_Drury",
+                    "acct": "Luke_Drury@mastodon.dias.ie"
+                },
+                {
+                    "id": "109290817706419509",
+                    "username": "700Sachen",
+                    "url": "https://ruhr.social/@700Sachen",
+                    "acct": "700Sachen@ruhr.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112872570660833418",
+            "created_at": "2024-07-30T00:18:40.000Z",
+            "in_reply_to_id": "112871581953621136",
+            "in_reply_to_account_id": "109303413236830785",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.ie/users/gonecaving/statuses/112872568922847431",
+            "url": "https://mastodon.ie/@gonecaving/112872568922847431",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.dias.ie/@Luke_Drury\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Luke_Drury</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://ruhr.social/@700Sachen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>700Sachen</span></a></span> I\u2019d speculate that it\u2019s not viable until we fix our rural planning regulations to clamp down on one-off housing. cf also cost of broadband and other services, rural public transport and so on ad nauseam</p>",
+            "reblog": null,
+            "account": {
+                "id": "109279365366535163",
+                "username": "gonecaving",
+                "acct": "gonecaving@mastodon.ie",
+                "display_name": "Dunc",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-03T00:00:00.000Z",
+                "note": "<p>Caver, Home Brewer, Synth nerd, Cyclist, and a bit of maths and data work on the side</p>",
+                "url": "https://mastodon.ie/@gonecaving",
+                "uri": "https://mastodon.ie/users/gonecaving",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/279/365/366/535/163/original/d5e15b87dfffdbf3.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/279/365/366/535/163/original/d5e15b87dfffdbf3.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/279/365/366/535/163/original/c5eec4f6777bab00.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/279/365/366/535/163/original/c5eec4f6777bab00.jpeg",
+                "followers_count": 123,
+                "following_count": 163,
+                "statuses_count": 688,
+                "last_status_at": "2024-08-23",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109303413236830785",
+                    "username": "Luke_Drury",
+                    "url": "https://mastodon.dias.ie/@Luke_Drury",
+                    "acct": "Luke_Drury@mastodon.dias.ie"
+                },
+                {
+                    "id": "109290817706419509",
+                    "username": "700Sachen",
+                    "url": "https://ruhr.social/@700Sachen",
+                    "acct": "700Sachen@ruhr.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112875165782303137",
+            "created_at": "2024-07-30T11:19:04.000Z",
+            "in_reply_to_id": "112872570660833418",
+            "in_reply_to_account_id": "109279365366535163",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.dias.ie/users/Luke_Drury/statuses/112875165712653330",
+            "url": "https://mastodon.dias.ie/@Luke_Drury/112875165712653330",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.ie/@gonecaving\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gonecaving</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://ruhr.social/@700Sachen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>700Sachen</span></a></span> It is certainly true that it can't work for isolated bungalows or farms, but there are lots of small towns where it could be viable - and in the Irish context we have ridiculous amounts of waste heat coming from data centres.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109303413236830785",
+                "username": "Luke_Drury",
+                "acct": "Luke_Drury@mastodon.dias.ie",
+                "display_name": "Luke Drury",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-07T00:00:00.000Z",
+                "note": "<p>Emeritus Professor of Astrophysics in DIAS, member and former president of the Royal Irish Academy, former VP of ALLEA.  Interested in open science and the future of scholarly communication. All views expressed here are personal. Languages are English, German and some French.</p>",
+                "url": "https://mastodon.dias.ie/@Luke_Drury",
+                "uri": "https://mastodon.dias.ie/users/Luke_Drury",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/303/413/236/830/785/original/847115c86099b2ad.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/303/413/236/830/785/original/847115c86099b2ad.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/303/413/236/830/785/original/9c39e91c651bc72f.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/303/413/236/830/785/original/9c39e91c651bc72f.jpeg",
+                "followers_count": 685,
+                "following_count": 632,
+                "statuses_count": 3966,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "ORCID",
+                        "value": "<a href=\"https://orcid.org/0000-0002-9257-2270\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">orcid.org/0000-0002-9257-2270</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "ALLEA",
+                        "value": "<a href=\"https://allea.org/luke-drury/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">allea.org/luke-drury/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "DIAS",
+                        "value": "<a href=\"https://www.dias.ie/2010/08/19/astrostaff-ld/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dias.ie/2010/08/19/astrostaff-</span><span class=\"invisible\">ld/</span></a>",
+                        "verified_at": "2024-08-23T23:21:57.172+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109279365366535163",
+                    "username": "gonecaving",
+                    "url": "https://mastodon.ie/@gonecaving",
+                    "acct": "gonecaving@mastodon.ie"
+                },
+                {
+                    "id": "109290817706419509",
+                    "username": "700Sachen",
+                    "url": "https://ruhr.social/@700Sachen",
+                    "acct": "700Sachen@ruhr.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

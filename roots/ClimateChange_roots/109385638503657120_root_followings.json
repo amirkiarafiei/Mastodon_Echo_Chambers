@@ -1,0 +1,46 @@
+[
+    {
+        "id": "13179",
+        "username": "Mastodon",
+        "acct": "Mastodon",
+        "display_name": "Mastodon",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2016-11-23T00:00:00.000Z",
+        "note": "<p>Free, open-source decentralized social media platform.</p>",
+        "url": "https://mastodon.social/@Mastodon",
+        "uri": "https://mastodon.social/users/Mastodon",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/013/179/original/b4ceb19c9c54ec7e.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/013/179/original/b4ceb19c9c54ec7e.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/013/179/original/1375be116fbe0f1d.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/013/179/original/1375be116fbe0f1d.png",
+        "followers_count": 819715,
+        "following_count": 3,
+        "statuses_count": 267,
+        "last_status_at": "2024-07-11",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Homepage",
+                "value": "<a href=\"https://joinmastodon.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2018-10-31T04:11:00.076+00:00"
+            },
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://patreon.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-07-21T13:27:45.996+00:00"
+            }
+        ]
+    }
+]

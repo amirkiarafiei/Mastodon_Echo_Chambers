@@ -1,0 +1,46 @@
+[
+    {
+        "id": "109322080955260878",
+        "username": "grimalkina",
+        "acct": "grimalkina",
+        "display_name": "Cat Hicks",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-10T00:00:00.000Z",
+        "note": "<p>Psychologist for Software Teams. Defender of the mismeasured. Co-host at Change, Technically: <a href=\"https://www.changetechnically.fyi/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">changetechnically.fyi/</span><span class=\"invisible\"></span></a></p><p>\ud83e\udd84\ud83c\udff3\ufe0f\u200d\ud83c\udf08 she/they</p><p>Studying how developers thrive. I care about how people form beliefs about learning and build strategies for resilience, productivity &amp; motivation. Quant Psych PhD (but with a love for qual) and VP of Getting Tech to Do Real Open Science.</p><p>Founder: Catharsis Consulting, Developer Success Lab<br />Neighborhood Cool Aunt of Science</p>",
+        "url": "https://mastodon.social/@grimalkina",
+        "uri": "https://mastodon.social/users/grimalkina",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/322/080/955/260/878/original/708166e7688663f3.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/322/080/955/260/878/original/708166e7688663f3.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/322/080/955/260/878/original/006bab51806dc26e.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/322/080/955/260/878/original/006bab51806dc26e.jpg",
+        "followers_count": 7445,
+        "following_count": 840,
+        "statuses_count": 4960,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": true,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Podcast",
+                "value": "<a href=\"https://www.changetechnically.fyi/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">changetechnically.fyi/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://www.drcathicks.com/blog\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">drcathicks.com/blog</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Developer Science",
+                "value": "<a href=\"https://www.drcathicks.com/projects\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">drcathicks.com/projects</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

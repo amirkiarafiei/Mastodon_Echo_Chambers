@@ -1,0 +1,113 @@
+[
+    {
+        "id": "42551",
+        "username": "lemonde",
+        "acct": "lemonde",
+        "display_name": "Le Monde.fr",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-04-04T00:00:00.000Z",
+        "note": "<p>Le compte officiel du journal du m\u00eame nom.</p>",
+        "url": "https://mastodon.social/@lemonde",
+        "uri": "https://mastodon.social/users/lemonde",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/042/551/original/4982634d5a0adea4.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/042/551/original/4982634d5a0adea4.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/042/551/original/8f17e4d122ec5264.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/042/551/original/8f17e4d122ec5264.jpg",
+        "followers_count": 27999,
+        "following_count": 9,
+        "statuses_count": 12956,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "lemonde.fr",
+                "value": "<a href=\"https://www.lemonde.fr/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">lemonde.fr/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-01-08T14:44:37.619+00:00"
+            }
+        ]
+    },
+    {
+        "id": "42642",
+        "username": "Huffingtonpost",
+        "acct": "Huffingtonpost",
+        "display_name": "The Huffington Post",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-04-04T00:00:00.000Z",
+        "note": "<p>inform | inspire | entertain | empower</p>",
+        "url": "https://mastodon.social/@Huffingtonpost",
+        "uri": "https://mastodon.social/users/Huffingtonpost",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/042/642/original/ad27b330c9c92886.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/042/642/original/ad27b330c9c92886.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 2260,
+        "following_count": 5,
+        "statuses_count": 1,
+        "last_status_at": null,
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "1034676",
+        "username": "CourrierInternational",
+        "acct": "CourrierInternational",
+        "display_name": "Courrier International",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2019-12-18T00:00:00.000Z",
+        "note": "<p>Les news de Courrier international.<br />Paris</p>",
+        "url": "https://mastodon.social/@CourrierInternational",
+        "uri": "https://mastodon.social/users/CourrierInternational",
+        "avatar": "https://files.mastodon.social/accounts/avatars/001/034/676/original/fc44bfa7f3832a98.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/001/034/676/original/fc44bfa7f3832a98.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/001/034/676/original/5e79cdae2a848e9a.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/001/034/676/original/5e79cdae2a848e9a.jpg",
+        "followers_count": 1368,
+        "following_count": 1,
+        "statuses_count": 8719,
+        "last_status_at": "2020-12-16",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Site web",
+                "value": "courrierinternational.com",
+                "verified_at": null
+            },
+            {
+                "name": "Youtube",
+                "value": "<a href=\"https://www.youtube.com/channel/UC7xph2qAEotmyUPJbFVI95w/featured\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/channel/UC7xph2qAE</span><span class=\"invisible\">otmyUPJbFVI95w/featured</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Facebook",
+                "value": "<a href=\"https://www.facebook.com/courrierinternational.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">facebook.com/courrierinternati</span><span class=\"invisible\">onal.com/</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://www.instagram.com/courrierinter/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/courrierinter/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

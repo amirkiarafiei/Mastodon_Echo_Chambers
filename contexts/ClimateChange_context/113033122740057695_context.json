@@ -1,0 +1,357 @@
+{
+    "ancestors": [
+        {
+            "id": "113032679329365420",
+            "created_at": "2024-08-27T06:56:44.643Z",
+            "in_reply_to_id": null,
+            "in_reply_to_account_id": null,
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://bsky.brid.gy/convert/ap/at://did:plc:owvsdfb6do6f7efltq4h7ahx/app.bsky.feed.post/3l2omzdssxd2h",
+            "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:owvsdfb6do6f7efltq4h7ahx/post/3l2omzdssxd2h",
+            "replies_count": 1,
+            "reblogs_count": 3,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>Weite Teile von beliebter Universit\u00e4tsstadt sollen versinken \n\nDeutsche K\u00fcstenorte werden durch den Klimawandel k\u00fcnftig von einem steigenden Meeresspiegel bedroht. Auch eine beliebte Universit\u00e4tsstadt ist betroffen.\n\n<a href=\"https://bsky.brid.gy/hashtag/klimakatastrophe\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#klimakatastrophe</a> <a href=\"https://bsky.brid.gy/hashtag/cr41w\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#cr41w</a><br><br><a href=\"https://www.t-online.de/region/berlin/id_100229328/ostsee-bekannte-stadt-droht-im-meer-zu-versinken-urlaubsregion-berlin.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Weite Teile verschwinden im Me...</a></p>",
+            "reblog": null,
+            "account": {
+                "id": "112552741208435477",
+                "username": "klangruinen.de",
+                "acct": "klangruinen.de@bsky.brid.gy",
+                "display_name": "Klang Ruinen - \u24b6",
+                "locked": false,
+                "bot": true,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-06-03T00:00:00.000Z",
+                "note": "*Der #Mensch ist frei geboren, und liegt doch \u00fcberall in Ketten.\u2018\u2018 J.-J. Rousseau*  \n\n#AntiD &amp; #AntiImp = anarchist! \u24b6\u2691\u2605\ud83c\udfbc\n\n#EBM #Punk #fridaydisco #ruinendisco #cr41w\n\n<a href=\"http://laut.fm/klangruinen\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">laut.fm/klangruinen</a> \n\nclick: <a href=\"https://bsky.app/profile/klangruinen.de/post/3kahsnstbj52i\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">bsky.app/profile/klangr...</a><br><br>[<a href=\"https://fed.brid.gy/bsky/klangruinen.de\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">bridged</a> from <a href=\"https://bsky.app/profile/klangruinen.de\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">klangruinen.de</a> on Bluesky by <a href=\"https://fed.brid.gy/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Bridgy Fed</a>]",
+                "url": "https://bsky.brid.gy/r/https://bsky.app/profile/klangruinen.de",
+                "uri": "https://bsky.brid.gy/ap/did:plc:owvsdfb6do6f7efltq4h7ahx",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/552/741/208/435/477/original/4dde54e6ab558095.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/552/741/208/435/477/original/4dde54e6ab558095.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/552/741/208/435/477/original/288d7b70da208fc3.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/552/741/208/435/477/original/288d7b70da208fc3.jpeg",
+                "followers_count": 17,
+                "following_count": 10,
+                "statuses_count": 14,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Web site",
+                        "value": "<a rel=\"nofollow noopener noreferrer\" href=\"https://bsky.app/profile/klangruinen.de\" target=\"_blank\"><span class=\"invisible\">https://</span>bsky.app/profile/klangruinen.de</a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Link",
+                        "value": "<a rel=\"nofollow noopener noreferrer\" href=\"https://klangruinen.de\" target=\"_blank\"><span class=\"invisible\">https://</span>klangruinen.de</a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Link",
+                        "value": "<a rel=\"nofollow noopener noreferrer\" href=\"https://bsky.app/profile/klangruinen.de/post/3kahsnstbj52i\" target=\"_blank\"><span class=\"invisible\">https://</span>bsky.app/profile/klangruinen.de/post/3kahsnstbj52i</a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "klimakatastrophe",
+                    "url": "https://mastodon.social/tags/klimakatastrophe"
+                },
+                {
+                    "name": "cr41w",
+                    "url": "https://mastodon.social/tags/cr41w"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ],
+    "descendants": [
+        {
+            "id": "113033391815551216",
+            "created_at": "2024-08-27T09:58:02.000Z",
+            "in_reply_to_id": "113033122740057695",
+            "in_reply_to_account_id": "108197379313819444",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://mstdn.social/users/MehrLin/statuses/113033391784467681",
+            "url": "https://mstdn.social/@MehrLin/113033391784467681",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@dgavin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dgavin</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://bsky.brid.gy/r/https://bsky.app/profile/klangruinen.de\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>klangruinen.de</span></a></span> gute Frage.<br>Mir kommt spontan der Satz \"denn sie wissen nicht,was sie tun\" in den Sinn</p>",
+            "reblog": null,
+            "account": {
+                "id": "108198247161721414",
+                "username": "MehrLin",
+                "acct": "MehrLin@mstdn.social",
+                "display_name": "MehrLin\ud83e\udd89\ud83d\udda4",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-26T00:00:00.000Z",
+                "note": "<p>Spurensucherin<br>Schreibt und lebt in GR <br>Ohne Musik geht gar nichts.<br>Hier sind Nazis nicht willkommen<br>Die Fotos sind alle von mir</p>",
+                "url": "https://mstdn.social/@MehrLin",
+                "uri": "https://mstdn.social/users/MehrLin",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/198/247/161/721/414/original/9a982a6adf4eabb7.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/198/247/161/721/414/original/9a982a6adf4eabb7.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/198/247/161/721/414/original/955cbc5323d00c58.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/198/247/161/721/414/original/955cbc5323d00c58.jpg",
+                "followers_count": 427,
+                "following_count": 408,
+                "statuses_count": 823,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Beigetreten",
+                        "value": "26.04.2022",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108197379313819444",
+                    "username": "dgavin",
+                    "url": "https://mastodon.online/@dgavin",
+                    "acct": "dgavin@mastodon.online"
+                },
+                {
+                    "id": "112552741208435477",
+                    "username": "klangruinen.de",
+                    "url": "https://bsky.brid.gy/r/https://bsky.app/profile/klangruinen.de",
+                    "acct": "klangruinen.de@bsky.brid.gy"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113033497905846255",
+            "created_at": "2024-08-27T10:25:00.000Z",
+            "in_reply_to_id": "113033122740057695",
+            "in_reply_to_account_id": "108197379313819444",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://sueden.social/users/muellerwhh/statuses/113033497858638956",
+            "url": "https://sueden.social/@muellerwhh/113033497858638956",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@dgavin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dgavin</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://bsky.brid.gy/r/https://bsky.app/profile/klangruinen.de\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>klangruinen.de</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@MehrLin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MehrLin</span></a></span> Wie ist das eigentlich? Ich dachte, es g\u00e4be da schon ein Limit. Man m\u00fcsste ja nicht nur die D\u00e4mme verbessern, auch die Fl\u00fcsse br\u00e4uchten dann entsprechende D\u00e4mme und Deiche. Momentan sind die Deiche 9m hoch, w\u00fcrde so etwas bei 30m halten, da habe ich so meine Zweifel.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109244884256771056",
+                "username": "muellerwhh",
+                "acct": "muellerwhh@sueden.social",
+                "display_name": "Wolfgang M\u00fcller (DE:er/EN:he)",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>Computer scientist working at a research institute. Biking to the job.</p>",
+                "url": "https://sueden.social/@muellerwhh",
+                "uri": "https://sueden.social/users/muellerwhh",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 136,
+                "following_count": 532,
+                "statuses_count": 5120,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108197379313819444",
+                    "username": "dgavin",
+                    "url": "https://mastodon.online/@dgavin",
+                    "acct": "dgavin@mastodon.online"
+                },
+                {
+                    "id": "112552741208435477",
+                    "username": "klangruinen.de",
+                    "url": "https://bsky.brid.gy/r/https://bsky.app/profile/klangruinen.de",
+                    "acct": "klangruinen.de@bsky.brid.gy"
+                },
+                {
+                    "id": "108198247161721414",
+                    "username": "MehrLin",
+                    "url": "https://mstdn.social/@MehrLin",
+                    "acct": "MehrLin@mstdn.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113033507599431945",
+            "created_at": "2024-08-27T10:27:28.000Z",
+            "in_reply_to_id": "113033497905846255",
+            "in_reply_to_account_id": "109244884256771056",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://mastodon.online/users/dgavin/statuses/113033507516982672",
+            "url": "https://mastodon.online/@dgavin/113033507516982672",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://sueden.social/@muellerwhh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>muellerwhh</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://bsky.brid.gy/r/https://bsky.app/profile/klangruinen.de\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>klangruinen.de</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@MehrLin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MehrLin</span></a></span> Die Frage ist, was teurer ist: hunderte Quadratkilometer Land unter oder eine Staumauer rund ums Land. H\u00e4tte doch bloss jemand schon fr\u00fcher gewarnt, dass der Klimawandel teuer wird\u2026 \ud83d\ude0f</p>",
+            "reblog": null,
+            "account": {
+                "id": "108197379313819444",
+                "username": "dgavin",
+                "acct": "dgavin@mastodon.online",
+                "display_name": "Metafrastis",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-04-25T00:00:00.000Z",
+                "note": "<p>Educator, Photographer, Translator of tech and all things Apple</p><p>All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.</p><p>(Universal Declaration of Human Rights, Article 1)</p>",
+                "url": "https://mastodon.online/@dgavin",
+                "uri": "https://mastodon.online/users/dgavin",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/197/379/313/819/444/original/0f151cf967ccb02d.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/197/379/313/819/444/original/0f151cf967ccb02d.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/197/379/313/819/444/original/beb8258c69cc7e10.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/197/379/313/819/444/original/beb8258c69cc7e10.jpeg",
+                "followers_count": 86,
+                "following_count": 239,
+                "statuses_count": 2651,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109244884256771056",
+                    "username": "muellerwhh",
+                    "url": "https://sueden.social/@muellerwhh",
+                    "acct": "muellerwhh@sueden.social"
+                },
+                {
+                    "id": "112552741208435477",
+                    "username": "klangruinen.de",
+                    "url": "https://bsky.brid.gy/r/https://bsky.app/profile/klangruinen.de",
+                    "acct": "klangruinen.de@bsky.brid.gy"
+                },
+                {
+                    "id": "108198247161721414",
+                    "username": "MehrLin",
+                    "url": "https://mstdn.social/@MehrLin",
+                    "acct": "MehrLin@mstdn.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113033522999670815",
+            "created_at": "2024-08-27T10:31:24.000Z",
+            "in_reply_to_id": "113033507599431945",
+            "in_reply_to_account_id": "108197379313819444",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://sueden.social/users/muellerwhh/statuses/113033522971145241",
+            "url": "https://sueden.social/@muellerwhh/113033522971145241",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@dgavin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dgavin</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://bsky.brid.gy/r/https://bsky.app/profile/klangruinen.de\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>klangruinen.de</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@MehrLin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MehrLin</span></a></span> Also gerade mal nachgesehen. Man geht momentan von ein paar Zentimetern pro Jahr aus, die auch in den n\u00e4chsten Jahren so weiter gehen werden. D.h. Du kommst auf grob nen Meter mehr in 100 Jahren. Das wird sich wohl noch mit Deichen machen lassen.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109244884256771056",
+                "username": "muellerwhh",
+                "acct": "muellerwhh@sueden.social",
+                "display_name": "Wolfgang M\u00fcller (DE:er/EN:he)",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>Computer scientist working at a research institute. Biking to the job.</p>",
+                "url": "https://sueden.social/@muellerwhh",
+                "uri": "https://sueden.social/users/muellerwhh",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 136,
+                "following_count": 532,
+                "statuses_count": 5120,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108197379313819444",
+                    "username": "dgavin",
+                    "url": "https://mastodon.online/@dgavin",
+                    "acct": "dgavin@mastodon.online"
+                },
+                {
+                    "id": "112552741208435477",
+                    "username": "klangruinen.de",
+                    "url": "https://bsky.brid.gy/r/https://bsky.app/profile/klangruinen.de",
+                    "acct": "klangruinen.de@bsky.brid.gy"
+                },
+                {
+                    "id": "108198247161721414",
+                    "username": "MehrLin",
+                    "url": "https://mstdn.social/@MehrLin",
+                    "acct": "MehrLin@mstdn.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

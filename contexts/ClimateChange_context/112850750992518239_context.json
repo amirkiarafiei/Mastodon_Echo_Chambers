@@ -1,0 +1,355 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112850814152554357",
+            "created_at": "2024-07-26T04:06:07.000Z",
+            "in_reply_to_id": "112850750992518239",
+            "in_reply_to_account_id": "109976969164591404",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/cthon1c/statuses/112850814075118430",
+            "url": "https://kolektiva.social/@cthon1c/112850814075118430",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://scicomm.xyz/@ratika\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ratika</span></a></span> since we had bad flooding here, last year on the other side of the world, I feel the same worried way about hard rain. The <a href=\"https://kolektiva.social/tags/ClimateDiary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateDiary</span></a> hashtag is a good community of likeminded people on here, in case you haven\u2019t seen it. Your post would fit right in there</p>",
+            "reblog": null,
+            "account": {
+                "id": "109244931620179759",
+                "username": "cthon1c",
+                "acct": "cthon1c@kolektiva.social",
+                "display_name": "not ch1c",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>\ud83c\udf33\ud83c\udf31\ud83c\udff4\ud83c\udf31\ud83c\udf33</p>",
+                "url": "https://kolektiva.social/@cthon1c",
+                "uri": "https://kolektiva.social/users/cthon1c",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/244/931/620/179/759/original/e55df196ae665635.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/244/931/620/179/759/original/e55df196ae665635.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/244/931/620/179/759/original/08f93cbebec58eba.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/244/931/620/179/759/original/08f93cbebec58eba.jpeg",
+                "followers_count": 468,
+                "following_count": 748,
+                "statuses_count": 2968,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "tends to",
+                        "value": "lurk",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "not fond of",
+                        "value": "fascism",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "reskilling in",
+                        "value": "the garden",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "living on",
+                        "value": "Abenaki land",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109976969164591404",
+                    "username": "ratika",
+                    "url": "https://scicomm.xyz/@ratika",
+                    "acct": "ratika@scicomm.xyz"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "climatediary",
+                    "url": "https://mastodon.social/tags/climatediary"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112850816341150132",
+            "created_at": "2024-07-26T04:06:40.000Z",
+            "in_reply_to_id": "112850814152554357",
+            "in_reply_to_account_id": "109244931620179759",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://scicomm.xyz/users/ratika/statuses/112850816217394708",
+            "url": "https://scicomm.xyz/@ratika/112850816217394708",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://kolektiva.social/@cthon1c\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cthon1c</span></a></span> I didn't know about that hashtag; thanks for sharing it!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109976969164591404",
+                "username": "ratika",
+                "acct": "ratika@scicomm.xyz",
+                "display_name": "Ratika Deshpande (She/her)",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-03-06T00:00:00.000Z",
+                "note": "<p>I write about <a href=\"https://scicomm.xyz/tags/SFF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SFF</span></a> for work and about <a href=\"https://scicomm.xyz/tags/writing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>writing</span></a>, <a href=\"https://scicomm.xyz/tags/education\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>education</span></a> and real life on my blog. </p><p>Working on becoming a more active participant to fight the <a href=\"https://scicomm.xyz/tags/ClimateCrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCrisis</span></a></p><p>I have a degree in <a href=\"https://scicomm.xyz/tags/Psychology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Psychology</span></a> and started my M.A. in <a href=\"https://scicomm.xyz/tags/Education\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Education</span></a> this year.</p><p>I live in <a href=\"https://scicomm.xyz/tags/India\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>India</span></a> and I'm against all forms of bigotry and hatred.</p>",
+                "url": "https://scicomm.xyz/@ratika",
+                "uri": "https://scicomm.xyz/users/ratika",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/976/969/164/591/404/original/1dd3c97e7322eda3.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/976/969/164/591/404/original/1dd3c97e7322eda3.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/976/969/164/591/404/original/39f80a6d429eab0f.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/976/969/164/591/404/original/39f80a6d429eab0f.png",
+                "followers_count": 127,
+                "following_count": 61,
+                "statuses_count": 736,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://chavanniclass.wordpress.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">chavanniclass.wordpress.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Ko-Fi for Kadambari",
+                        "value": "<a href=\"https://ko-fi.com/ratikadeshpande\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/ratikadeshpande</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109244931620179759",
+                    "username": "cthon1c",
+                    "url": "https://kolektiva.social/@cthon1c",
+                    "acct": "cthon1c@kolektiva.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112853127702917138",
+            "created_at": "2024-07-26T13:54:29.000Z",
+            "in_reply_to_id": "112850750992518239",
+            "in_reply_to_account_id": "109976969164591404",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mindly.social/users/grayladywriter/statuses/112853127609291254",
+            "url": "https://mindly.social/@grayladywriter/112853127609291254",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://scicomm.xyz/@ratika\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ratika</span></a></span> And here in the Pacific Northwest we are in the dry season. Snowpack this winter was only 60% of normal. We have not yet had a forest fire (in our temperate rain forest) but everything is dried to a crisp. <a href=\"https://mindly.social/tags/ClimateCrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCrisis</span></a>.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109371357486699441",
+                "username": "grayladywriter",
+                "acct": "grayladywriter@mindly.social",
+                "display_name": "Angela G",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p><a href=\"https://mindly.social/tags/Playwright\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Playwright</span></a>, activist, Devoted Spouse, Pack Mom, First Kitty. I write <a href=\"https://mindly.social/tags/haiku\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>haiku</span></a> and <a href=\"https://mindly.social/tags/senryu\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>senryu</span></a> as my warm-up and my coping skill. I cook elaborate meals because my spouse is willing to wash all the pots and pans. <a href=\"https://mindly.social/tags/vegetarian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vegetarian</span></a> <a href=\"https://mindly.social/tags/PNW\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PNW</span></a></p>",
+                "url": "https://mindly.social/@grayladywriter",
+                "uri": "https://mindly.social/users/grayladywriter",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/371/357/486/699/441/original/9abdbe9c0b753e87.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/371/357/486/699/441/original/9abdbe9c0b753e87.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/371/357/486/699/441/original/6be8c671a7a09537.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/371/357/486/699/441/original/6be8c671a7a09537.jpeg",
+                "followers_count": 296,
+                "following_count": 206,
+                "statuses_count": 5103,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Plays I've Written",
+                        "value": "<a href=\"https://newplayexchange.org/users/42061/angela-gyurko\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">newplayexchange.org/users/4206</span><span class=\"invisible\">1/angela-gyurko</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109976969164591404",
+                    "username": "ratika",
+                    "url": "https://scicomm.xyz/@ratika",
+                    "acct": "ratika@scicomm.xyz"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "climatecrisis",
+                    "url": "https://mastodon.social/tags/climatecrisis"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112853947881679380",
+            "created_at": "2024-07-26T17:23:04.000Z",
+            "in_reply_to_id": "112853127702917138",
+            "in_reply_to_account_id": "109371357486699441",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://scicomm.xyz/users/ratika/statuses/112853947838707168",
+            "url": "https://scicomm.xyz/@ratika/112853947838707168",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mindly.social/@grayladywriter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>grayladywriter</span></a></span> I hope you get some relief soon!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109976969164591404",
+                "username": "ratika",
+                "acct": "ratika@scicomm.xyz",
+                "display_name": "Ratika Deshpande (She/her)",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-03-06T00:00:00.000Z",
+                "note": "<p>I write about <a href=\"https://scicomm.xyz/tags/SFF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SFF</span></a> for work and about <a href=\"https://scicomm.xyz/tags/writing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>writing</span></a>, <a href=\"https://scicomm.xyz/tags/education\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>education</span></a> and real life on my blog. </p><p>Working on becoming a more active participant to fight the <a href=\"https://scicomm.xyz/tags/ClimateCrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCrisis</span></a></p><p>I have a degree in <a href=\"https://scicomm.xyz/tags/Psychology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Psychology</span></a> and started my M.A. in <a href=\"https://scicomm.xyz/tags/Education\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Education</span></a> this year.</p><p>I live in <a href=\"https://scicomm.xyz/tags/India\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>India</span></a> and I'm against all forms of bigotry and hatred.</p>",
+                "url": "https://scicomm.xyz/@ratika",
+                "uri": "https://scicomm.xyz/users/ratika",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/976/969/164/591/404/original/1dd3c97e7322eda3.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/976/969/164/591/404/original/1dd3c97e7322eda3.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/976/969/164/591/404/original/39f80a6d429eab0f.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/976/969/164/591/404/original/39f80a6d429eab0f.png",
+                "followers_count": 127,
+                "following_count": 61,
+                "statuses_count": 736,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://chavanniclass.wordpress.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">chavanniclass.wordpress.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Ko-Fi for Kadambari",
+                        "value": "<a href=\"https://ko-fi.com/ratikadeshpande\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/ratikadeshpande</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109371357486699441",
+                    "username": "grayladywriter",
+                    "url": "https://mindly.social/@grayladywriter",
+                    "acct": "grayladywriter@mindly.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112854008008942448",
+            "created_at": "2024-07-26T17:38:22.000Z",
+            "in_reply_to_id": "112853947881679380",
+            "in_reply_to_account_id": "109976969164591404",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mindly.social/users/grayladywriter/statuses/112854007958147071",
+            "url": "https://mindly.social/@grayladywriter/112854007958147071",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://scicomm.xyz/@ratika\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ratika</span></a></span> Our dry season won\u2019t end until October. We\u2019re worried about the year the rainy season doesn\u2019t come\u2026.</p><p>Wishing you relief as well!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109371357486699441",
+                "username": "grayladywriter",
+                "acct": "grayladywriter@mindly.social",
+                "display_name": "Angela G",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p><a href=\"https://mindly.social/tags/Playwright\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Playwright</span></a>, activist, Devoted Spouse, Pack Mom, First Kitty. I write <a href=\"https://mindly.social/tags/haiku\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>haiku</span></a> and <a href=\"https://mindly.social/tags/senryu\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>senryu</span></a> as my warm-up and my coping skill. I cook elaborate meals because my spouse is willing to wash all the pots and pans. <a href=\"https://mindly.social/tags/vegetarian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vegetarian</span></a> <a href=\"https://mindly.social/tags/PNW\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PNW</span></a></p>",
+                "url": "https://mindly.social/@grayladywriter",
+                "uri": "https://mindly.social/users/grayladywriter",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/371/357/486/699/441/original/9abdbe9c0b753e87.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/371/357/486/699/441/original/9abdbe9c0b753e87.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/371/357/486/699/441/original/6be8c671a7a09537.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/371/357/486/699/441/original/6be8c671a7a09537.jpeg",
+                "followers_count": 296,
+                "following_count": 206,
+                "statuses_count": 5103,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Plays I've Written",
+                        "value": "<a href=\"https://newplayexchange.org/users/42061/angela-gyurko\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">newplayexchange.org/users/4206</span><span class=\"invisible\">1/angela-gyurko</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109976969164591404",
+                    "username": "ratika",
+                    "url": "https://scicomm.xyz/@ratika",
+                    "acct": "ratika@scicomm.xyz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

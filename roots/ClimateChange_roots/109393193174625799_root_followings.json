@@ -1,0 +1,142 @@
+[
+    {
+        "id": "111088387125224046",
+        "username": "privacybadger",
+        "acct": "privacybadger",
+        "display_name": "Privacy Badger",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-09-18T00:00:00.000Z",
+        "note": "<p>Privacy Badger is a browser extension that automatically learns to block invisible trackers. Privacy Badger is made by <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@eff\" class=\"u-url mention\">@<span>eff</span></a></span>,  a nonprofit that fights for your rights online.</p>",
+        "url": "https://mastodon.social/@privacybadger",
+        "uri": "https://mastodon.social/users/privacybadger",
+        "avatar": "https://files.mastodon.social/accounts/avatars/111/088/387/125/224/046/original/70f7a905ec902cc3.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/111/088/387/125/224/046/original/70f7a905ec902cc3.png",
+        "header": "https://files.mastodon.social/accounts/headers/111/088/387/125/224/046/original/1b7f038bc4f08712.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/111/088/387/125/224/046/original/1b7f038bc4f08712.png",
+        "followers_count": 1345,
+        "following_count": 1,
+        "statuses_count": 97,
+        "last_status_at": "2024-08-26",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Homepage",
+                "value": "<a href=\"https://privacybadger.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">privacybadger.org/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-09-19T19:57:00.901+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109244847047894222",
+        "username": "derpostillon",
+        "acct": "derpostillon",
+        "display_name": "Der Postillon \ud83d\udcef",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p>Ehrliche Nachrichten - unabh\u00e4ngig, schnell, seit 1845</p>",
+        "url": "https://mastodon.social/@derpostillon",
+        "uri": "https://mastodon.social/users/derpostillon",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/244/847/047/894/222/original/62e97f2ed68d047f.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/244/847/047/894/222/original/62e97f2ed68d047f.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/244/847/047/894/222/original/d728f1d9c756b2fc.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/244/847/047/894/222/original/d728f1d9c756b2fc.jpg",
+        "followers_count": 121610,
+        "following_count": 11,
+        "statuses_count": 3389,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "35017",
+        "username": "hanno",
+        "acct": "hanno",
+        "display_name": "",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-04-03T00:00:00.000Z",
+        "note": "<p>Freelance Journalist with a focus on Climate, Energy, IT-Security. <a href=\"https://mastodon.social/tags/searchable\" class=\"mention hashtag\" rel=\"tag\">#<span>searchable</span></a></p>",
+        "url": "https://mastodon.social/@hanno",
+        "uri": "https://mastodon.social/users/hanno",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/035/017/original/522b9c4e168955e9.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/035/017/original/522b9c4e168955e9.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/035/017/original/2af1874570d778a3.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/035/017/original/2af1874570d778a3.jpg",
+        "followers_count": 3769,
+        "following_count": 328,
+        "statuses_count": 1391,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "web",
+                "value": "<a href=\"https://hboeck.de/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">hboeck.de/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-09T19:19:02.553+00:00"
+            },
+            {
+                "name": "twitter",
+                "value": "<a href=\"https://twitter.com/hanno\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/hanno</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Newsletter (Climate/Energy/Industry)",
+                "value": "<a href=\"https://industrydecarbonization.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">industrydecarbonization.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109361004216754269",
+        "username": "thisweekinrust",
+        "acct": "thisweekinrust",
+        "display_name": "This Week in Rust",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-17T00:00:00.000Z",
+        "note": "<p>Cataloguing the Rust community&#39;s awesomeness <a href=\"https://mastodon.social/tags/rustlang\" class=\"mention hashtag\" rel=\"tag\">#<span>rustlang</span></a></p>",
+        "url": "https://mastodon.social/@thisweekinrust",
+        "uri": "https://mastodon.social/users/thisweekinrust",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/361/004/216/754/269/original/1dae4982929969a6.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/361/004/216/754/269/original/1dae4982929969a6.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 3789,
+        "following_count": 0,
+        "statuses_count": 111,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "https://this-week-in-rust.org/",
+                "value": "<a href=\"https://this-week-in-rust.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">this-week-in-rust.org/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

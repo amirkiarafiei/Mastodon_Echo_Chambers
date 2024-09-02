@@ -1,0 +1,136 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112993677663703864",
+            "created_at": "2024-08-20T09:38:12.889Z",
+            "in_reply_to_id": "112993350558413672",
+            "in_reply_to_account_id": "112537521259925975",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/grb090423/statuses/112993677663703864",
+            "url": "https://mastodon.social/@grb090423/112993677663703864",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jbz\" class=\"u-url mention\">@<span>jbz</span></a></span> </p><p>These wealthy techbros acknowledge the planet is warming but continue to burn fossil fuels in whatever vehicles they use, whilst wanting to be the first backers of the project that cooled the planet artificially, thus saving humankind.</p><p>smh</p><p>Thank goodness for the Saami.</p><p><a href=\"https://mastodon.social/tags/GlobalHeating\" class=\"mention hashtag\" rel=\"tag\">#<span>GlobalHeating</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "108196653422011279",
+                "username": "grb090423",
+                "acct": "grb090423",
+                "display_name": "Eye",
+                "locked": true,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-04-26T00:00:00.000Z",
+                "note": "<p>Interests: cosmology, astronomy, the sciences in general, wildlife.<br />Rusty polyglot. Slowly learning G\u00e0idhlig (Scottish Gaelic).<br />I informally tweet ESA news when I can.<br />GRB090423 was the furthest Gamma Ray Burst known to us back when I started on social media. <br />Both avatar and header images were taken by me.<br />I rarely boost images that don&#39;t have Alt Text.<br />I boost The Vagina Museum posts; please don&#39;t be offended... it&#39;s good to learn.<br />I always check your TL - If no posts, I don&#39;t follow back.</p>",
+                "url": "https://mastodon.social/@grb090423",
+                "uri": "https://mastodon.social/users/grb090423",
+                "avatar": "https://files.mastodon.social/accounts/avatars/108/196/653/422/011/279/original/34420c4d2b739e20.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/108/196/653/422/011/279/original/34420c4d2b739e20.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/108/196/653/422/011/279/original/8aa4ef891f577863.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/108/196/653/422/011/279/original/8aa4ef891f577863.jpg",
+                "followers_count": 969,
+                "following_count": 1363,
+                "statuses_count": 5750,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": true,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Where:",
+                        "value": "East Anglia, Europe.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112537521259925975",
+                    "username": "jbz",
+                    "url": "https://indieweb.social/@jbz",
+                    "acct": "jbz@indieweb.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "globalheating",
+                    "url": "https://mastodon.social/tags/globalheating"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112993693546018246",
+            "created_at": "2024-08-20T09:42:13.000Z",
+            "in_reply_to_id": "112993350558413672",
+            "in_reply_to_account_id": "112537521259925975",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.au/users/curiously/statuses/112993693438838917",
+            "url": "https://mastodon.au/@curiously/112993693438838917",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@jbz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jbz</span></a></span> or we could build out solar? I mean know tech, more cost effective (with storage) than new coal. Linear thinking got us into this, let's not dig deeper.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109415200903357591",
+                "username": "curiously",
+                "acct": "curiously@mastodon.au",
+                "display_name": "Curious",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-25T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.au/@curiously",
+                "uri": "https://mastodon.au/users/curiously",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/415/200/903/357/591/original/ebbad13eb17f62e8.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/415/200/903/357/591/original/ebbad13eb17f62e8.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 1,
+                "following_count": 30,
+                "statuses_count": 50,
+                "last_status_at": "2024-08-20",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112537521259925975",
+                    "username": "jbz",
+                    "url": "https://indieweb.social/@jbz",
+                    "acct": "jbz@indieweb.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

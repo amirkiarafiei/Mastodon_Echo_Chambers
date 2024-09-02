@@ -1,0 +1,447 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112965685632744759",
+            "created_at": "2024-08-15T10:59:27.000Z",
+            "in_reply_to_id": "112965215690032451",
+            "in_reply_to_account_id": "732176",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://mastodon.cloud/users/mfeilner/statuses/112965685553948642",
+            "url": "https://mastodon.cloud/@mfeilner/112965685553948642",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>follow-up:</p>",
+            "reblog": null,
+            "account": {
+                "id": "732176",
+                "username": "mfeilner",
+                "acct": "mfeilner@mastodon.cloud",
+                "display_name": "Markus Feilner :verified:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-03-01T00:00:00.000Z",
+                "note": "<p>\"Don't worry, climate change will take care of that...\"\u2013\"The blade of that hockey stick is coming roughly 100 years too early\"  <a href=\"https://mastodon.cloud/tags/climatecollapse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatecollapse</span></a></p><p>Senior Open Source Evangelist, Ambassador, Journalist, Management Coach, Keynote Speaker. Expert for: OSI Layer 8 to 11, Public Administration/Digitalization. Open Source/Linux since 1994. Founder and Owner of Feilner IT. </p><p>Open for new challenges to save the world.</p><p><a href=\"https://mastodon.cloud/tags/ownCloud\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ownCloud</span></a> <a href=\"https://mastodon.cloud/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a>-Magazin, <a href=\"https://mastodon.cloud/tags/grommunio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>grommunio</span></a>, <a href=\"https://mastodon.cloud/tags/Greenbone\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Greenbone</span></a>, <a href=\"https://mastodon.cloud/tags/HalloWelt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HalloWelt</span></a>! <a href=\"https://mastodon.cloud/tags/Auctores\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Auctores</span></a> <a href=\"https://mastodon.cloud/tags/openproject\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openproject</span></a></p>",
+                "url": "https://mastodon.cloud/@mfeilner",
+                "uri": "https://mastodon.cloud/users/mfeilner",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "followers_count": 916,
+                "following_count": 797,
+                "statuses_count": 9180,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "verified",
+                        "url": "https://files.mastodon.social/custom_emojis/images/000/033/828/original/58509e2aeb7db68f.png",
+                        "static_url": "https://files.mastodon.social/custom_emojis/images/000/033/828/static/58509e2aeb7db68f.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "The Past",
+                        "value": "Linux &amp; Opensource since 1994, founded FeilnerIT in 2000",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Journalist",
+                        "value": "Linux Magazin, opensource.com, SUSE, Heise IX, Golem, author of several books.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Stage",
+                        "value": "Keynotes, Coaching, Training, Management &amp; Leadership, Workshops, Presentations and Fun",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Future",
+                        "value": "8,9,10,11 \u2013 Humans in IT. Coaching and Explaining. Saving the World wih learnings from Open Source",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112965685590387159",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/965/685/590/387/159/original/fe7a4d89c764b9e9.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/965/685/590/387/159/small/fe7a4d89c764b9e9.png",
+                    "remote_url": "https://media.mastodon.cloud/media_attachments/files/112/965/684/904/229/128/original/10a6d128f989a84d.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 468,
+                            "height": 281,
+                            "size": "468x281",
+                            "aspect": 1.6654804270462633
+                        },
+                        "small": {
+                            "width": 468,
+                            "height": 281,
+                            "size": "468x281",
+                            "aspect": 1.6654804270462633
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "UAQA28?b_N%M-=adRjaz~qM{E1WCtRt7fkj["
+                }
+            ],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112965471371643403",
+            "created_at": "2024-08-15T10:04:58.000Z",
+            "in_reply_to_id": "112965215690032451",
+            "in_reply_to_account_id": "732176",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "de",
+            "uri": "https://nrw.social/users/Boerps/statuses/112965471347454389",
+            "url": "https://nrw.social/@Boerps/112965471347454389",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cloud/@mfeilner\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mfeilner</span></a></span> <br>Das gibt es auch in Deutsch und das ist hier vielleicht verst\u00e4ndlicher:<br><a href=\"https://de.wikipedia.org/wiki/K%C3%BChlgrenztemperatur\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">de.wikipedia.org/wiki/K%C3%BCh</span><span class=\"invisible\">lgrenztemperatur</span></a></p><p>Wichtiger w\u00e4re aber IMHO, was das f\u00fcr uns bedeutet:<br><a href=\"https://de.wikipedia.org/wiki/Folgen_der_globalen_Erw%C3%A4rmung_f%C3%BCr_die_Gesundheit#%C3%9Cberschreiten_der_K%C3%BChlgrenztemperatur\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">de.wikipedia.org/wiki/Folgen_d</span><span class=\"invisible\">er_globalen_Erw%C3%A4rmung_f%C3%BCr_die_Gesundheit#%C3%9Cberschreiten_der_K%C3%BChlgrenztemperatur</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "108227322080876643",
+                "username": "Boerps",
+                "acct": "Boerps@nrw.social",
+                "display_name": "Boerps \u2611\ufe0f",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-05-01T00:00:00.000Z",
+                "note": "<p>Rentner, immer noch in der IT-Beratung t\u00e4tig. Politisch engagiert, mit vielen Interessen, insbesondere klassische Musik, Garten-/Zimmerpflanzen.</p>",
+                "url": "https://nrw.social/@Boerps",
+                "uri": "https://nrw.social/users/Boerps",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/227/322/080/876/643/original/ec2be02030b584c0.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/227/322/080/876/643/original/ec2be02030b584c0.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/227/322/080/876/643/original/c167d6765e775328.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/227/322/080/876/643/original/c167d6765e775328.jpg",
+                "followers_count": 175,
+                "following_count": 109,
+                "statuses_count": 2412,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "732176",
+                    "username": "mfeilner",
+                    "url": "https://mastodon.cloud/@mfeilner",
+                    "acct": "mfeilner@mastodon.cloud"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://de.wikipedia.org/wiki/K%C3%BChlgrenztemperatur",
+                "title": "K\u00fchlgrenztemperatur \u2013 Wikipedia",
+                "description": "",
+                "language": "de",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 507,
+                "height": 455,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/041/204/661/original/65f170b24e3acf5e.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "U4R:HG?b-=?bE1~qs:a_bJMxD%NGM{9E?b?b",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112967440587994478",
+            "created_at": "2024-08-15T18:25:41.000Z",
+            "in_reply_to_id": "112965215690032451",
+            "in_reply_to_account_id": "732176",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://soc.k512.studio/users/PhoenixGee/statuses/112967440208206554",
+            "url": "https://soc.k512.studio/@PhoenixGee/112967440208206554",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cloud/@mfeilner\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mfeilner</span></a></span> Damn, that's worse than in Singapore, and it's insufferable there.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112650852393109801",
+                "username": "PhoenixGee",
+                "acct": "PhoenixGee@soc.k512.studio",
+                "display_name": "Phoenix Gee \ud83e\udd65\ud83c\udf34\ud83d\ude38\ud83d\udc83",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-06-20T00:00:00.000Z",
+                "note": "<p>Around the 50 years old (allegedly). Musician, producer, software developer/architect, ham radio licensed (extra). Radical left (\"common sense\" for non-US). Ex-German. On the spectrum.</p>",
+                "url": "https://soc.k512.studio/@PhoenixGee",
+                "uri": "https://soc.k512.studio/users/PhoenixGee",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/650/852/393/109/801/original/875298fd27bd2252.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/650/852/393/109/801/original/875298fd27bd2252.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/650/852/393/109/801/original/50153f85166332fc.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/650/852/393/109/801/original/50153f85166332fc.png",
+                "followers_count": 52,
+                "following_count": 103,
+                "statuses_count": 569,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Activities",
+                        "value": "Software development, Music production, Ham radio, Guitar/Bass playing",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Verify",
+                        "value": "<a href=\"https://www.k512.studio\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">k512.studio</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Certifications",
+                        "value": "Reply Guy License 3rd degree.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "732176",
+                    "username": "mfeilner",
+                    "url": "https://mastodon.cloud/@mfeilner",
+                    "acct": "mfeilner@mastodon.cloud"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112967490640526690",
+            "created_at": "2024-08-15T18:38:29.000Z",
+            "in_reply_to_id": "112967440587994478",
+            "in_reply_to_account_id": "112650852393109801",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://mastodon.cloud/users/mfeilner/statuses/112967490553393771",
+            "url": "https://mastodon.cloud/@mfeilner/112967490553393771",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-08-15T18:49:53.000Z",
+            "content": "<p><span class=\"h-card\"><a href=\"https://sueden.social/@SonstHarmlos\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SonstHarmlos</span></a></span> Eben hat es mir ein Freund hier auf dem Land quasi best\u00e4tigt, die hatten (selbstgemessene, via Sensoren) 29\u00b0 KGT (35C/65%)</p><p><a href=\"https://www.youtube.com/watch?v=LYzPVKg3wyo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=LYzPVKg3wy</span><span class=\"invisible\">o</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "732176",
+                "username": "mfeilner",
+                "acct": "mfeilner@mastodon.cloud",
+                "display_name": "Markus Feilner :verified:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-03-01T00:00:00.000Z",
+                "note": "<p>\"Don't worry, climate change will take care of that...\"\u2013\"The blade of that hockey stick is coming roughly 100 years too early\"  <a href=\"https://mastodon.cloud/tags/climatecollapse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatecollapse</span></a></p><p>Senior Open Source Evangelist, Ambassador, Journalist, Management Coach, Keynote Speaker. Expert for: OSI Layer 8 to 11, Public Administration/Digitalization. Open Source/Linux since 1994. Founder and Owner of Feilner IT. </p><p>Open for new challenges to save the world.</p><p><a href=\"https://mastodon.cloud/tags/ownCloud\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ownCloud</span></a> <a href=\"https://mastodon.cloud/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a>-Magazin, <a href=\"https://mastodon.cloud/tags/grommunio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>grommunio</span></a>, <a href=\"https://mastodon.cloud/tags/Greenbone\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Greenbone</span></a>, <a href=\"https://mastodon.cloud/tags/HalloWelt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HalloWelt</span></a>! <a href=\"https://mastodon.cloud/tags/Auctores\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Auctores</span></a> <a href=\"https://mastodon.cloud/tags/openproject\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openproject</span></a></p>",
+                "url": "https://mastodon.cloud/@mfeilner",
+                "uri": "https://mastodon.cloud/users/mfeilner",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "followers_count": 916,
+                "following_count": 797,
+                "statuses_count": 9180,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "verified",
+                        "url": "https://files.mastodon.social/custom_emojis/images/000/033/828/original/58509e2aeb7db68f.png",
+                        "static_url": "https://files.mastodon.social/custom_emojis/images/000/033/828/static/58509e2aeb7db68f.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "The Past",
+                        "value": "Linux &amp; Opensource since 1994, founded FeilnerIT in 2000",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Journalist",
+                        "value": "Linux Magazin, opensource.com, SUSE, Heise IX, Golem, author of several books.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Stage",
+                        "value": "Keynotes, Coaching, Training, Management &amp; Leadership, Workshops, Presentations and Fun",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Future",
+                        "value": "8,9,10,11 \u2013 Humans in IT. Coaching and Explaining. Saving the World wih learnings from Open Source",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109428912564545054",
+                    "username": "SonstHarmlos",
+                    "url": "https://sueden.social/@SonstHarmlos",
+                    "acct": "SonstHarmlos@sueden.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.youtube.com/watch?v=LYzPVKg3wyo",
+                "title": "Leonard Cohen - The Future (Official Audio)",
+                "description": "Leonard Cohen - The Future (Official Audio)Listen to Leonard Cohen: https://LeonardCohen.lnk.to/listenYDWatch more Leonard Cohen videos: https://LeonardCohen...",
+                "language": "en",
+                "type": "video",
+                "author_name": "LeonardCohenVEVO",
+                "author_url": "https://www.youtube.com/@LeonardCohenVEVO",
+                "provider_name": "YouTube",
+                "provider_url": "https://www.youtube.com/",
+                "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/LYzPVKg3wyo?feature=oembed\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms\"></iframe>",
+                "width": 200,
+                "height": 113,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/046/914/095/original/ef9a0ffdf42e07b9.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "U,N,}Oof-:ofj[fQj[j[00ayM|ayj[j[ayay",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "LeonardCohenVEVO",
+                        "url": "https://www.youtube.com/@LeonardCohenVEVO",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112967502444743348",
+            "created_at": "2024-08-15T18:41:22.000Z",
+            "in_reply_to_id": "112967490640526690",
+            "in_reply_to_account_id": "732176",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://soc.k512.studio/users/PhoenixGee/statuses/112967501914047491",
+            "url": "https://soc.k512.studio/@PhoenixGee/112967501914047491",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.cloud/@mfeilner\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mfeilner</span></a></span> Und quasi niemand hat Klimaanlagen, das wird echt unertr\u00e4glich bis gef\u00e4hrlich.</p><p>And basically nobody has aircos in their houses. That's unbearable or even dangerous.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112650852393109801",
+                "username": "PhoenixGee",
+                "acct": "PhoenixGee@soc.k512.studio",
+                "display_name": "Phoenix Gee \ud83e\udd65\ud83c\udf34\ud83d\ude38\ud83d\udc83",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-06-20T00:00:00.000Z",
+                "note": "<p>Around the 50 years old (allegedly). Musician, producer, software developer/architect, ham radio licensed (extra). Radical left (\"common sense\" for non-US). Ex-German. On the spectrum.</p>",
+                "url": "https://soc.k512.studio/@PhoenixGee",
+                "uri": "https://soc.k512.studio/users/PhoenixGee",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/650/852/393/109/801/original/875298fd27bd2252.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/650/852/393/109/801/original/875298fd27bd2252.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/650/852/393/109/801/original/50153f85166332fc.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/650/852/393/109/801/original/50153f85166332fc.png",
+                "followers_count": 52,
+                "following_count": 103,
+                "statuses_count": 569,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Activities",
+                        "value": "Software development, Music production, Ham radio, Guitar/Bass playing",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Verify",
+                        "value": "<a href=\"https://www.k512.studio\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">k512.studio</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Certifications",
+                        "value": "Reply Guy License 3rd degree.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "732176",
+                    "username": "mfeilner",
+                    "url": "https://mastodon.cloud/@mfeilner",
+                    "acct": "mfeilner@mastodon.cloud"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

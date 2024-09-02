@@ -1,0 +1,150 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112896341852085618",
+            "created_at": "2024-08-03T05:04:25.000Z",
+            "in_reply_to_id": "112896207684655680",
+            "in_reply_to_account_id": "109574039761339115",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://masto.ai/users/GhostOnTheHalfShell/statuses/112896341803774892",
+            "url": "https://masto.ai/@GhostOnTheHalfShell/112896341803774892",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@Free_Press\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Free_Press</span></a></span> </p><p>As Jason Box says, we are flying blind because models do not account for dynamics which significantly effect ice sheet conditions. The modeling is a mathematical challenge, the compute resources limited and parameterization unfeasible as there is too little data to undertake it.</p><p>Box is a Greenland ice sheet glaciologist.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109338569507713783",
+                "username": "GhostOnTheHalfShell",
+                "acct": "GhostOnTheHalfShell@masto.ai",
+                "display_name": "GhostOnTheHalfShell",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-13T00:00:00.000Z",
+                "note": "<p>opinionated lurker of the intarwebs.</p><p>Used to write code, still do. c/c++, java, php, js, c#, gdscript, gnawed on sql, sparql, unix/windows  etc etc billions of years ago.</p><p>tech, graphics, anything STEM<br>anything anthropology, history, linguistics <br>anything blender, gimp (although i scream using it), audacity <br>prefers not to be run over by cars</p><p>I drink Philz.</p><p>I do a (non-monetized) video or so a week on yt.</p><p>Tyranny and poverty are everywhere a mainstream economics phenomenon.</p>",
+                "url": "https://masto.ai/@GhostOnTheHalfShell",
+                "uri": "https://masto.ai/users/GhostOnTheHalfShell",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/338/569/507/713/783/original/6054a93990a37eaa.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/338/569/507/713/783/original/6054a93990a37eaa.jpeg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 2257,
+                "following_count": 1859,
+                "statuses_count": 5348,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "YouTube",
+                        "value": "<a href=\"https://www.youtube.com/@GhostOnTheHalfShell\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/@GhostOnTheHalfShe</span><span class=\"invisible\">ll</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109574039761339115",
+                    "username": "Free_Press",
+                    "url": "https://mstdn.social/@Free_Press",
+                    "acct": "Free_Press@mstdn.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112897298571120578",
+            "created_at": "2024-08-03T09:07:43.000Z",
+            "in_reply_to_id": "112896207684655680",
+            "in_reply_to_account_id": "109574039761339115",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://theblower.au/users/pavsmith/statuses/112897298518537273",
+            "url": "https://theblower.au/@pavsmith/112897298518537273",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@Free_Press\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Free_Press</span></a></span> a new study? i guess so. this problem has been known for many years. nobody appears to care, though. nor do they believe the implications for weather in the UK and northern europe. ho hum. 2018, for example... <a href=\"https://www.carbonbrief.org/atlantic-conveyor-belt-has-slowed-15-per-cent-since-mid-twentieth-century/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">carbonbrief.org/atlantic-conve</span><span class=\"invisible\">yor-belt-has-slowed-15-per-cent-since-mid-twentieth-century/</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109534532272783132",
+                "username": "pavsmith",
+                "acct": "pavsmith@theblower.au",
+                "display_name": "Paul McO'Smith III",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-05T00:00:00.000Z",
+                "note": "<p>An autonomous anarcho syndicalist collective of the Borg. I am 3 of several...</p>",
+                "url": "https://theblower.au/@pavsmith",
+                "uri": "https://theblower.au/users/pavsmith",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/534/532/272/783/132/original/58aaa415cd7946f1.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/534/532/272/783/132/original/58aaa415cd7946f1.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/534/532/272/783/132/original/e3304df35e174510.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/534/532/272/783/132/original/e3304df35e174510.jpg",
+                "followers_count": 65,
+                "following_count": 60,
+                "statuses_count": 4943,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109574039761339115",
+                    "username": "Free_Press",
+                    "url": "https://mstdn.social/@Free_Press",
+                    "acct": "Free_Press@mstdn.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.carbonbrief.org/atlantic-conveyor-belt-has-slowed-15-per-cent-since-mid-twentieth-century/",
+                "title": "Atlantic \u2018conveyor belt\u2019 has slowed by 15% since mid-20th century - Carbon Brief",
+                "description": "The Atlantic Ocean current that brings warm water up to Europe from the tropics has weakened by 15% since the middle of the last century, new research suggests.",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Carbon Brief",
+                "provider_url": "",
+                "html": "",
+                "width": 606,
+                "height": 380,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/052/641/794/original/5732f9dd26b218a6.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UfBp|jIqNLj[.ANHWXj[XUWVs:a}M}oft6ay",
+                "published_at": "2018-04-11T17:00:41.000Z",
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ]
+}

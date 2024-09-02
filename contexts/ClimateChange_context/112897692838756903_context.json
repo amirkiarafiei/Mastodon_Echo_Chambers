@@ -1,0 +1,62 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112899957573040919",
+            "created_at": "2024-08-03T20:23:56.000Z",
+            "in_reply_to_id": "112897692838756903",
+            "in_reply_to_account_id": "254743",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.xyz/users/Ardubal/statuses/112899957512811849",
+            "url": "https://mastodon.xyz/@Ardubal/112899957512811849",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@thejapantimes\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>thejapantimes</span></a></span> Acid rain is probably not a good solution (except in a very chemical sense obviously).</p>",
+            "reblog": null,
+            "account": {
+                "id": "109524647494526930",
+                "username": "Ardubal",
+                "acct": "Ardubal@mastodon.xyz",
+                "display_name": "Svante",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-16T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.xyz/@Ardubal",
+                "uri": "https://mastodon.xyz/users/Ardubal",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/524/647/494/526/930/original/d9a1bb8932b4fa3e.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/524/647/494/526/930/original/d9a1bb8932b4fa3e.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/524/647/494/526/930/original/e4ab8bb314c68f0d.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/524/647/494/526/930/original/e4ab8bb314c68f0d.jpg",
+                "followers_count": 112,
+                "following_count": 250,
+                "statuses_count": 9891,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "254743",
+                    "username": "thejapantimes",
+                    "url": "https://mastodon.social/@thejapantimes",
+                    "acct": "thejapantimes"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

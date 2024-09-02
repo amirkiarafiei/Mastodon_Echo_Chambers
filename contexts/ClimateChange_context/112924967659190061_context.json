@@ -1,0 +1,140 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112926423935844265",
+            "created_at": "2024-08-08T12:34:38.000Z",
+            "in_reply_to_id": "112924967659190061",
+            "in_reply_to_account_id": "109327343696700872",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112926423694472757",
+            "url": "https://mastodon.au/@largess/112926423694472757",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.energy/@Sustainable2050\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Sustainable2050</span></a></span><br>So the trend is down, good news then  /s</p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109327343696700872",
+                    "username": "Sustainable2050",
+                    "url": "https://mastodon.energy/@Sustainable2050",
+                    "acct": "Sustainable2050@mastodon.energy"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112929046925495541",
+            "created_at": "2024-08-08T23:41:41.000Z",
+            "in_reply_to_id": "112924967659190061",
+            "in_reply_to_account_id": "109327343696700872",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.energy/users/DrJay/statuses/112929046641234221",
+            "url": "https://mastodon.energy/@DrJay/112929046641234221",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.energy/@Sustainable2050\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Sustainable2050</span></a></span> Shows that the massive jump from 2022 to 2023 was not an anomaly.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110446063358799634",
+                "username": "DrJay",
+                "acct": "DrJay@mastodon.energy",
+                "display_name": "Jeff Phillips",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-05-22T00:00:00.000Z",
+                "note": "<p>Engineering professor with expertise in coal power generation and who understands global  CO2 emissions must be drastically decreased.  Also a former big oil employee who believes Rex Tillerson was right!  Indiana, USA.</p>",
+                "url": "https://mastodon.energy/@DrJay",
+                "uri": "https://mastodon.energy/users/DrJay",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/446/063/358/799/634/original/0c3e0e86344378ae.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/446/063/358/799/634/original/0c3e0e86344378ae.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/446/063/358/799/634/original/1c07744a4e9803eb.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/446/063/358/799/634/original/1c07744a4e9803eb.jpg",
+                "followers_count": 11,
+                "following_count": 37,
+                "statuses_count": 148,
+                "last_status_at": "2024-08-25",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109327343696700872",
+                    "username": "Sustainable2050",
+                    "url": "https://mastodon.energy/@Sustainable2050",
+                    "acct": "Sustainable2050@mastodon.energy"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

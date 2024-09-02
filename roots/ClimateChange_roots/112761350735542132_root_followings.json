@@ -1,0 +1,41 @@
+[
+    {
+        "id": "479177",
+        "username": "RonaldSnijder",
+        "acct": "RonaldSnijder",
+        "display_name": "Ronald Snijder",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-21T00:00:00.000Z",
+        "note": "<p>Information and automation; <a href=\"https://mastodon.social/tags/OpenAccess\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenAccess</span></a> books - OAPEN Library &amp; DOAB; my research: <a href=\"https://orcid.org/0000-0001-9260-4941\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">orcid.org/0000-0001-9260-4941</span><span class=\"invisible\"></span></a>. Should be reading books, not toots</p><p><a href=\"https://mastodon.social/tags/tootfinder\" class=\"mention hashtag\" rel=\"tag\">#<span>tootfinder</span></a></p>",
+        "url": "https://mastodon.social/@RonaldSnijder",
+        "uri": "https://mastodon.social/users/RonaldSnijder",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/479/177/original/110c0fee2d34c7e9.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/479/177/original/110c0fee2d34c7e9.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/479/177/original/5eec9ea4e7567435.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/479/177/original/5eec9ea4e7567435.jpg",
+        "followers_count": 516,
+        "following_count": 871,
+        "statuses_count": 819,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "ORCID",
+                "value": "<a href=\"https://orcid.org/0000-0001-9260-4941\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">orcid.org/0000-0001-9260-4941</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "OAPEN",
+                "value": "<a href=\"https://oapen.org/oapen/7664742-team\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">oapen.org/oapen/7664742-team</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-04-24T16:14:05.862+00:00"
+            }
+        ]
+    }
+]

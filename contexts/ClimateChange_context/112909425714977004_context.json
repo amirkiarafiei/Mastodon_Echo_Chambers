@@ -1,0 +1,677 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112909533630563742",
+            "created_at": "2024-08-05T12:59:16.000Z",
+            "in_reply_to_id": "112909425714977004",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.social/users/justafrog/statuses/112909533594252664",
+            "url": "https://mstdn.social/@justafrog/112909533594252664",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Presented as a cause for celebration, no less.</p><p>The people doing this are destroying our habitat and they get treated like heroes.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109565903208027512",
+                "username": "justafrog",
+                "acct": "justafrog@mstdn.social",
+                "display_name": "JustAFrog",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-24T00:00:00.000Z",
+                "note": "<p>Full-time amphibian.</p><p>Strongly committed to treating all individuals of the most common primate species fully as valid persons as much as possible.</p><p>Concerned about covid19, climate destabilization and economic equality.</p><p>Likes complete information abstract board games which have been played for centuries, straight into this modern time.</p><p>Middling at chess, kind of okay at baduk. Into the third year of taking shogi seriously.</p>",
+                "url": "https://mstdn.social/@justafrog",
+                "uri": "https://mstdn.social/users/justafrog",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/565/903/208/027/512/original/44f3208a50ee49f3.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/565/903/208/027/512/original/44f3208a50ee49f3.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 662,
+                "following_count": 218,
+                "statuses_count": 7602,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112911048610957434",
+            "created_at": "2024-08-05T19:24:33.000Z",
+            "in_reply_to_id": "112909425714977004",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "nl",
+            "uri": "https://mastodon.world/users/Herman/statuses/112911048585398467",
+            "url": "https://mastodon.world/@Herman/112911048585398467",
+            "replies_count": 0,
+            "reblogs_count": 2,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Ecocide for profit. <a href=\"https://mastodon.world/tags/exxon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>exxon</span></a> <a href=\"https://mastodon.world/tags/shell\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>shell</span></a> <a href=\"https://mastodon.world/tags/bigoil\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bigoil</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109285609983517415",
+                "username": "Herman",
+                "acct": "Herman@mastodon.world",
+                "display_name": "Herman  \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddfe\ud83c\uddea",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-04T00:00:00.000Z",
+                "note": "<p>Curious and interested in science and politics. Loving facts and informed opinions. Enjoying photography and good food.</p>",
+                "url": "https://mastodon.world/@Herman",
+                "uri": "https://mastodon.world/users/Herman",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/285/609/983/517/415/original/f6b5f8c1d957d611.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/285/609/983/517/415/original/f6b5f8c1d957d611.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/285/609/983/517/415/original/af4630725208b939.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/285/609/983/517/415/original/af4630725208b939.jpeg",
+                "followers_count": 784,
+                "following_count": 1515,
+                "statuses_count": 1798,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Twitter",
+                        "value": "Not anymore.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "exxon",
+                    "url": "https://mastodon.social/tags/exxon"
+                },
+                {
+                    "name": "shell",
+                    "url": "https://mastodon.social/tags/shell"
+                },
+                {
+                    "name": "bigoil",
+                    "url": "https://mastodon.social/tags/bigoil"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112911051091585694",
+            "created_at": "2024-08-05T19:25:10.000Z",
+            "in_reply_to_id": "112909425714977004",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://urbanists.social/users/tmstreet/statuses/112911051044565504",
+            "url": "https://urbanists.social/@tmstreet/112911051044565504",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Maybe EVs are not the end all and be all with respect to climate but it is nice to not be using oil.  What are we waiting for?</p>",
+            "reblog": null,
+            "account": {
+                "id": "109382093344816730",
+                "username": "tmstreet",
+                "acct": "tmstreet@urbanists.social",
+                "display_name": "climate voter/eco leftist",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-21T00:00:00.000Z",
+                "note": "<p>biking,hiking, walking, car free cities, former TAB member, Estes Park,Co., climate, ebikes, planet lover, urbanism,solar, wind,<a href=\"https://urbanists.social/tags/thewaroncars\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>thewaroncars</span></a> <a href=\"https://urbanists.social/tags/keepitintheground\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>keepitintheground</span></a> <a href=\"https://urbanists.social/tags/fuckelon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fuckelon</span></a> <a href=\"https://urbanists.social/tags/bikewhenucan\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bikewhenucan</span></a> <a href=\"https://urbanists.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> <a href=\"https://urbanists.social/tags/fuckfossilfuels\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fuckfossilfuels</span></a> <a href=\"https://urbanists.social/tags/wehaveenough\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wehaveenough</span></a></p>",
+                "url": "https://urbanists.social/@tmstreet",
+                "uri": "https://urbanists.social/users/tmstreet",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/382/093/344/816/730/original/32e718dae41b0313.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/382/093/344/816/730/original/32e718dae41b0313.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/382/093/344/816/730/original/13d5c212d504148b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/382/093/344/816/730/original/13d5c212d504148b.jpg",
+                "followers_count": 375,
+                "following_count": 342,
+                "statuses_count": 5561,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Economy",
+                        "value": "<a href=\"https://urbanists.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Environment",
+                        "value": "<a href=\"https://urbanists.social/tags/weneeddegrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>weneeddegrowth</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112911098843360287",
+            "created_at": "2024-08-05T19:35:54.000Z",
+            "in_reply_to_id": "112911051091585694",
+            "in_reply_to_account_id": "109382093344816730",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/breadandcircuses/statuses/112911093262190268",
+            "url": "https://climatejustice.social/@breadandcircuses/112911093262190268",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://urbanists.social/@tmstreet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tmstreet</span></a></span>  Fossil fuels are still required in the making of EVs (all that plastic), and in many cases fossil fuels also provide the electricity to run them. </p><p>You're right, of course, that EVs are a marginal improvement over ICE cars, but even better would be more active transport, more public transport, and many *fewer* cars.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109298515581226227",
+                "username": "breadandcircuses",
+                "acct": "breadandcircuses@climatejustice.social",
+                "display_name": "Bread and Circuses",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-06T00:00:00.000Z",
+                "note": "<p>\ud83c\udf0f Born at 312 PPM</p><p>Retired NGO executive doing my best to stay informed and raise awareness about environmental crises, climate breakdown, and the rapacious, murderous impact of greedy capitalists and the politicians they own.</p><p>Why the name?  Back in the day, empires placated their citizens with \"bread and circuses.\" Now we get fast food and apps. But it's all basically the same \u2014 distraction from what's REALLY happening.</p>",
+                "url": "https://climatejustice.social/@breadandcircuses",
+                "uri": "https://climatejustice.social/users/breadandcircuses",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/298/515/581/226/227/original/681f99a5d35fedf3.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/298/515/581/226/227/original/681f99a5d35fedf3.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/298/515/581/226/227/original/1aeb7143cc06b930.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/298/515/581/226/227/original/1aeb7143cc06b930.jpg",
+                "followers_count": 9545,
+                "following_count": 742,
+                "statuses_count": 4421,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "See my Toots",
+                        "value": "<a href=\"https://justmytoots.com/@breadandcircuses@climatejustice.social\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justmytoots.com/@breadandcircu</span><span class=\"invisible\">ses@climatejustice.social</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Favorite saying",
+                        "value": "\"Be kind to everyone you meet, for they are fighting a great battle.\u201d",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109382093344816730",
+                    "username": "tmstreet",
+                    "url": "https://urbanists.social/@tmstreet",
+                    "acct": "tmstreet@urbanists.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112911103040515223",
+            "created_at": "2024-08-05T19:38:23.000Z",
+            "in_reply_to_id": "112911098843360287",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://urbanists.social/users/tmstreet/statuses/112911102993797404",
+            "url": "https://urbanists.social/@tmstreet/112911102993797404",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Yes, I agree but I think it would help to  do something to use less oil.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109382093344816730",
+                "username": "tmstreet",
+                "acct": "tmstreet@urbanists.social",
+                "display_name": "climate voter/eco leftist",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-21T00:00:00.000Z",
+                "note": "<p>biking,hiking, walking, car free cities, former TAB member, Estes Park,Co., climate, ebikes, planet lover, urbanism,solar, wind,<a href=\"https://urbanists.social/tags/thewaroncars\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>thewaroncars</span></a> <a href=\"https://urbanists.social/tags/keepitintheground\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>keepitintheground</span></a> <a href=\"https://urbanists.social/tags/fuckelon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fuckelon</span></a> <a href=\"https://urbanists.social/tags/bikewhenucan\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bikewhenucan</span></a> <a href=\"https://urbanists.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> <a href=\"https://urbanists.social/tags/fuckfossilfuels\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fuckfossilfuels</span></a> <a href=\"https://urbanists.social/tags/wehaveenough\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wehaveenough</span></a></p>",
+                "url": "https://urbanists.social/@tmstreet",
+                "uri": "https://urbanists.social/users/tmstreet",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/382/093/344/816/730/original/32e718dae41b0313.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/382/093/344/816/730/original/32e718dae41b0313.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/382/093/344/816/730/original/13d5c212d504148b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/382/093/344/816/730/original/13d5c212d504148b.jpg",
+                "followers_count": 375,
+                "following_count": 342,
+                "statuses_count": 5561,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Economy",
+                        "value": "<a href=\"https://urbanists.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Environment",
+                        "value": "<a href=\"https://urbanists.social/tags/weneeddegrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>weneeddegrowth</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112911112377807400",
+            "created_at": "2024-08-05T19:40:45.000Z",
+            "in_reply_to_id": "112911098843360287",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://urbanists.social/users/tmstreet/statuses/112911112310401731",
+            "url": "https://urbanists.social/@tmstreet/112911112310401731",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-08-05T19:48:59.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> All the things you mention are better and, for that matter, I don't use a car within town at all.  It is easy to get around here without a car but I am one of the few people who do that.  I also rarely do any long distance travel by car.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109382093344816730",
+                "username": "tmstreet",
+                "acct": "tmstreet@urbanists.social",
+                "display_name": "climate voter/eco leftist",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-21T00:00:00.000Z",
+                "note": "<p>biking,hiking, walking, car free cities, former TAB member, Estes Park,Co., climate, ebikes, planet lover, urbanism,solar, wind,<a href=\"https://urbanists.social/tags/thewaroncars\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>thewaroncars</span></a> <a href=\"https://urbanists.social/tags/keepitintheground\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>keepitintheground</span></a> <a href=\"https://urbanists.social/tags/fuckelon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fuckelon</span></a> <a href=\"https://urbanists.social/tags/bikewhenucan\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bikewhenucan</span></a> <a href=\"https://urbanists.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> <a href=\"https://urbanists.social/tags/fuckfossilfuels\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fuckfossilfuels</span></a> <a href=\"https://urbanists.social/tags/wehaveenough\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wehaveenough</span></a></p>",
+                "url": "https://urbanists.social/@tmstreet",
+                "uri": "https://urbanists.social/users/tmstreet",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/382/093/344/816/730/original/32e718dae41b0313.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/382/093/344/816/730/original/32e718dae41b0313.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/382/093/344/816/730/original/13d5c212d504148b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/382/093/344/816/730/original/13d5c212d504148b.jpg",
+                "followers_count": 375,
+                "following_count": 342,
+                "statuses_count": 5561,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Economy",
+                        "value": "<a href=\"https://urbanists.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Environment",
+                        "value": "<a href=\"https://urbanists.social/tags/weneeddegrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>weneeddegrowth</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112911093241880578",
+            "created_at": "2024-08-05T19:35:53.000Z",
+            "in_reply_to_id": "112909425714977004",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.nl/users/osiris_0x7A4/statuses/112911093195349304",
+            "url": "https://mastodon.nl/@osiris_0x7A4/112911093195349304",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> <a href=\"https://mastodon.nl/tags/Extinction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Extinction</span></a> of our species is inevitable. <a href=\"https://mastodon.nl/tags/extinctionrebellion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>extinctionrebellion</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109308651275304635",
+                "username": "osiris_0x7A4",
+                "acct": "osiris_0x7A4@mastodon.nl",
+                "display_name": "Atreides",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-08T00:00:00.000Z",
+                "note": "<p>Katten (Main Coon, Heilige Birman en Europees ras), ICTer, vakfotografie, chemisch analist, wetenschappelijke interesse, mythen &amp; sagen, Sci-Fi, natuur &amp; milieu en pensionato (\ud83c\uddee\ud83c\uddf9)</p>",
+                "url": "https://mastodon.nl/@osiris_0x7A4",
+                "uri": "https://mastodon.nl/users/osiris_0x7A4",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/308/651/275/304/635/original/5a2a854758e5f66e.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/308/651/275/304/635/original/5a2a854758e5f66e.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/308/651/275/304/635/original/d50cffbe83bb6483.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/308/651/275/304/635/original/d50cffbe83bb6483.png",
+                "followers_count": 158,
+                "following_count": 437,
+                "statuses_count": 7616,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "extinctionrebellion",
+                    "url": "https://mastodon.social/tags/extinctionrebellion"
+                },
+                {
+                    "name": "extinction",
+                    "url": "https://mastodon.social/tags/extinction"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112911235978111135",
+            "created_at": "2024-08-05T20:12:10.000Z",
+            "in_reply_to_id": "112909425714977004",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.nz/users/joncounts/statuses/112911235871320627",
+            "url": "https://mastodon.nz/@joncounts/112911235871320627",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Ugh. I\u2019m looking at Exxon\u2019s official announcement on their website of their record oil production. They\u2019re careful to add that they \u201cExpanded the company's value proposition by progressing new businesses including furthering carbon capture and storage (CCS) leadership\u201d. </p><p>That\u2019s greenwashing, I know, but at least it\u2019s a glimmer of recognition of the harm they\u2019re causing by producing 4.358 million barrels of oil equivalent per day.</p><p><a href=\"https://corporate.exxonmobil.com/news/news-releases/2024/0802_exxonmobil-announces-second-quarter-2024-results\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">corporate.exxonmobil.com/news/</span><span class=\"invisible\">news-releases/2024/0802_exxonmobil-announces-second-quarter-2024-results</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109250380022672647",
+                "username": "joncounts",
+                "acct": "joncounts@mastodon.nz",
+                "display_name": "Jon Sullivan",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>Kia ora! I'm a <a href=\"https://mastodon.nz/tags/nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nature</span></a> nut, addict of <a href=\"https://mastodon.nz/tags/iNaturalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalist</span></a> NZ \u2014 M\u0101taki Taiao, and an <a href=\"https://mastodon.nz/tags/ecologist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecologist</span></a> at <a href=\"https://mastodon.nz/tags/LincolnUniversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LincolnUniversity</span></a> in <a href=\"https://mastodon.nz/tags/Aotearoa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Aotearoa</span></a>-<a href=\"https://mastodon.nz/tags/NewZealand\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NewZealand</span></a>.</p><p>I spend an inordinate amount of my time counting nature to watch what's changing (see <a href=\"https://wildcounts.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wildcounts.org/</span><span class=\"invisible\"></span></a>).</p><p><a href=\"https://mastodon.nz/tags/TwitterMigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TwitterMigration</span></a> <a href=\"https://mastodon.nz/tags/NZTwits\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NZTwits</span></a> <a href=\"https://mastodon.nz/tags/ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecology</span></a> <a href=\"https://mastodon.nz/tags/EcologicalMonitoring\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EcologicalMonitoring</span></a> <a href=\"https://mastodon.nz/tags/NaturalHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NaturalHistory</span></a> <a href=\"https://mastodon.nz/tags/iNaturalistNZ\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalistNZ</span></a> <a href=\"https://mastodon.nz/tags/iNaturalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalist</span></a> <a href=\"https://mastodon.nz/tags/wildcounts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wildcounts</span></a> <a href=\"https://mastodon.nz/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://mastodon.nz/tags/Biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biodiversity</span></a></p><p>Born when there was 326 ppm carbon dioxide in the atmosphere.</p>",
+                "url": "https://mastodon.nz/@joncounts",
+                "uri": "https://mastodon.nz/users/joncounts",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/250/380/022/672/647/original/cf117c8b6c4c19ce.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/250/380/022/672/647/original/cf117c8b6c4c19ce.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/250/380/022/672/647/original/f693865110f568ff.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/250/380/022/672/647/original/f693865110f568ff.png",
+                "followers_count": 1323,
+                "following_count": 1637,
+                "statuses_count": 7400,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "WildCounts",
+                        "value": "<a href=\"https://wildcounts.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wildcounts.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "iNaturalist",
+                        "value": "<a href=\"https://inaturalist.nz/people/jon_sullivan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">inaturalist.nz/people/jon_sull</span><span class=\"invisible\">ivan</span></a>",
+                        "verified_at": "2024-08-24T18:41:22.648+00:00"
+                    },
+                    {
+                        "name": "Flickr",
+                        "value": "<a href=\"https://www.flickr.com/people/mollivan_jon/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">flickr.com/people/mollivan_jon</span><span class=\"invisible\">/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://corporate.exxonmobil.com/news/news-releases/2024/0802_exxonmobil-announces-second-quarter-2024-results",
+                "title": "ExxonMobil announces second-quarter 2024 results | ExxonMobil",
+                "description": "SPRING, Texas \u2013 August 2, 2024 \u2013 Exxon Mobil Corporation today announced second-quarter 2024 earnings of $9.2 billion, or $2.14 per share assuming dilution. Cash flow from operating activities was $10.6 billion and cash flow from operations excluding working capital movements was $15.2 billion. Shareholder distributions of $9.5 billion included $4.3 billion of dividends and $5.2 billion of share repurchases, consistent with the company's announced plans.",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "ExxonMobil",
+                "provider_url": "",
+                "html": "",
+                "width": 663,
+                "height": 347,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/106/954/612/original/3717b46b73e8ae1a.jpeg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UVGIl*s7jDxtKnaJM{WV5EWYjEt7s8S5s,a$",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112912532447948893",
+            "created_at": "2024-08-06T01:41:50.000Z",
+            "in_reply_to_id": "112909425714977004",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112912532128063136",
+            "url": "https://mastodon.au/@largess/112912532128063136",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-08-06T01:47:09.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span><br>I am reminded of a wonderful song by Bruce Cockburn, singing about deforestation, species extinction, Climate change etc 30 years ago.</p><p>We don't listen to the scientists, or  musicians, or our inner selves.</p><p><a href=\"https://www.youtube.com/watch?v=ErS9HCh8GfE\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=ErS9HCh8Gf</span><span class=\"invisible\">E</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.youtube.com/watch?v=ErS9HCh8GfE",
+                "title": "Bruce Cockburn - If A Tree Falls",
+                "description": "",
+                "language": null,
+                "type": "video",
+                "author_name": "BruceCockburnVEVO",
+                "author_url": "https://www.youtube.com/@BruceCockburnVEVO",
+                "provider_name": "YouTube",
+                "provider_url": "https://www.youtube.com/",
+                "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/ErS9HCh8GfE?feature=oembed\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms\"></iframe>",
+                "width": 200,
+                "height": 113,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/049/529/618/original/ddca63c69b567c88.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "U88p+MI90_%5?GD*Eeo40xtR^RW94;-:-ANZ",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "BruceCockburnVEVO",
+                        "url": "https://www.youtube.com/@BruceCockburnVEVO",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ]
+}

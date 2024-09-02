@@ -1,0 +1,447 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112850200623391309",
+            "created_at": "2024-07-26T01:30:06.978Z",
+            "in_reply_to_id": "112842774217468778",
+            "in_reply_to_account_id": "109704410953549416",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/caterinevauban/statuses/112850200623391309",
+            "url": "https://mastodon.social/@caterinevauban/112850200623391309",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodonapp.uk/@artistsgarden\" class=\"u-url mention\">@<span>artistsgarden</span></a></span> Agreed. Although, a manicured <a href=\"https://mastodon.social/tags/lawn\" class=\"mention hashtag\" rel=\"tag\">#<span>lawn</span></a> still keeps <a href=\"https://mastodon.social/tags/temperatures\" class=\"mention hashtag\" rel=\"tag\">#<span>temperatures</span></a> lower than pavement does and also harbours bugs, worms, <a href=\"https://mastodon.social/tags/spiders\" class=\"mention hashtag\" rel=\"tag\">#<span>spiders</span></a>, etc. Many if not most <a href=\"https://mastodon.social/tags/rental\" class=\"mention hashtag\" rel=\"tag\">#<span>rental</span></a> <a href=\"https://mastodon.social/tags/tenants\" class=\"mention hashtag\" rel=\"tag\">#<span>tenants</span></a> whose <a href=\"https://mastodon.social/tags/properties\" class=\"mention hashtag\" rel=\"tag\">#<span>properties</span></a> have <a href=\"https://mastodon.social/tags/lawns\" class=\"mention hashtag\" rel=\"tag\">#<span>lawns</span></a> are obligated to maintain those lawns in that mowed style.</p><p>Personally I let mine go as much as I can get away with but will sadly cut it today due to Monday&#39;s inspection.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for Android",
+                "website": "https://app.joinmastodon.org/android"
+            },
+            "account": {
+                "id": "112681833229314769",
+                "username": "caterinevauban",
+                "acct": "caterinevauban",
+                "display_name": "Caterine Vauban",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-06-26T00:00:00.000Z",
+                "note": "<p>The kind of vegan that you&#39;ll find at the second-hand store, radically accepting how shit she is at radical acceptance.</p>",
+                "url": "https://mastodon.social/@caterinevauban",
+                "uri": "https://mastodon.social/users/caterinevauban",
+                "avatar": "https://files.mastodon.social/accounts/avatars/112/681/833/229/314/769/original/f9d1bfc9465c68a8.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/112/681/833/229/314/769/original/f9d1bfc9465c68a8.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/112/681/833/229/314/769/original/db5a3414b4205df8.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/112/681/833/229/314/769/original/db5a3414b4205df8.jpg",
+                "followers_count": 95,
+                "following_count": 80,
+                "statuses_count": 930,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "When you're not around,",
+                        "value": "I slurp my tea.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109704410953549416",
+                    "username": "artistsgarden",
+                    "url": "https://mastodonapp.uk/@artistsgarden",
+                    "acct": "artistsgarden@mastodonapp.uk"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "lawn",
+                    "url": "https://mastodon.social/tags/lawn"
+                },
+                {
+                    "name": "temperatures",
+                    "url": "https://mastodon.social/tags/temperatures"
+                },
+                {
+                    "name": "spiders",
+                    "url": "https://mastodon.social/tags/spiders"
+                },
+                {
+                    "name": "rental",
+                    "url": "https://mastodon.social/tags/rental"
+                },
+                {
+                    "name": "tenants",
+                    "url": "https://mastodon.social/tags/tenants"
+                },
+                {
+                    "name": "properties",
+                    "url": "https://mastodon.social/tags/properties"
+                },
+                {
+                    "name": "lawns",
+                    "url": "https://mastodon.social/tags/lawns"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112852197179634588",
+            "created_at": "2024-07-26T09:57:51.000Z",
+            "in_reply_to_id": "112850200623391309",
+            "in_reply_to_account_id": "112681833229314769",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodonapp.uk/users/artistsgarden/statuses/112852197134886349",
+            "url": "https://mastodonapp.uk/@artistsgarden/112852197134886349",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@caterinevauban\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>caterinevauban</span></a></span> What inspection?</p>",
+            "reblog": null,
+            "account": {
+                "id": "109704410953549416",
+                "username": "artistsgarden",
+                "acct": "artistsgarden@mastodonapp.uk",
+                "display_name": "Artists Garden",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-08T00:00:00.000Z",
+                "note": "<p>Artist's private <a href=\"https://mastodonapp.uk/tags/garden\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>garden</span></a> inspired by the wabi sabi principles of embracing the natural, the imperfect and the impermanent. <br>Exile-dwelling <a href=\"https://mastodonapp.uk/tags/European\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>European</span></a>. <a href=\"https://mastodonapp.uk/tags/Photography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Photography</span></a> <a href=\"https://mastodonapp.uk/tags/artist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artist</span></a> and <a href=\"https://mastodonapp.uk/tags/gardener\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gardener</span></a>.</p>",
+                "url": "https://mastodonapp.uk/@artistsgarden",
+                "uri": "https://mastodonapp.uk/users/artistsgarden",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/704/410/953/549/416/original/fdfa8fed43a0fc94.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/704/410/953/549/416/original/fdfa8fed43a0fc94.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/704/410/953/549/416/original/ec750d41ce7215aa.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/704/410/953/549/416/original/ec750d41ce7215aa.jpg",
+                "followers_count": 355,
+                "following_count": 54,
+                "statuses_count": 585,
+                "last_status_at": "2024-07-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://wolfkettler.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wolfkettler.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Prints of my work",
+                        "value": "<a href=\"https://www.saatchiart.com/wolfkettler\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">saatchiart.com/wolfkettler</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Books",
+                        "value": "<a href=\"https://www.wolfkettler.com/books\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">wolfkettler.com/books</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112681833229314769",
+                    "username": "caterinevauban",
+                    "url": "https://mastodon.social/@caterinevauban",
+                    "acct": "caterinevauban"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112852512028379297",
+            "created_at": "2024-07-26T11:17:56.219Z",
+            "in_reply_to_id": "112852197179634588",
+            "in_reply_to_account_id": "109704410953549416",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/caterinevauban/statuses/112852512028379297",
+            "url": "https://mastodon.social/@caterinevauban/112852512028379297",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodonapp.uk/@artistsgarden\" class=\"u-url mention\">@<span>artistsgarden</span></a></span> In <a href=\"https://mastodon.social/tags/Australia\" class=\"mention hashtag\" rel=\"tag\">#<span>Australia</span></a> residential <a href=\"https://mastodon.social/tags/rental\" class=\"mention hashtag\" rel=\"tag\">#<span>rental</span></a> properties are inspected about four times a year. I haaate it. We all hate it. It&#39;s basically cramming for an exam to keep the roof over your head.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for Android",
+                "website": "https://app.joinmastodon.org/android"
+            },
+            "account": {
+                "id": "112681833229314769",
+                "username": "caterinevauban",
+                "acct": "caterinevauban",
+                "display_name": "Caterine Vauban",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-06-26T00:00:00.000Z",
+                "note": "<p>The kind of vegan that you&#39;ll find at the second-hand store, radically accepting how shit she is at radical acceptance.</p>",
+                "url": "https://mastodon.social/@caterinevauban",
+                "uri": "https://mastodon.social/users/caterinevauban",
+                "avatar": "https://files.mastodon.social/accounts/avatars/112/681/833/229/314/769/original/f9d1bfc9465c68a8.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/112/681/833/229/314/769/original/f9d1bfc9465c68a8.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/112/681/833/229/314/769/original/db5a3414b4205df8.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/112/681/833/229/314/769/original/db5a3414b4205df8.jpg",
+                "followers_count": 95,
+                "following_count": 80,
+                "statuses_count": 930,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "When you're not around,",
+                        "value": "I slurp my tea.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109704410953549416",
+                    "username": "artistsgarden",
+                    "url": "https://mastodonapp.uk/@artistsgarden",
+                    "acct": "artistsgarden@mastodonapp.uk"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "australia",
+                    "url": "https://mastodon.social/tags/australia"
+                },
+                {
+                    "name": "rental",
+                    "url": "https://mastodon.social/tags/rental"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112852770044528874",
+            "created_at": "2024-07-26T12:23:32.000Z",
+            "in_reply_to_id": "112852512028379297",
+            "in_reply_to_account_id": "112681833229314769",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodonapp.uk/users/artistsgarden/statuses/112852770009386827",
+            "url": "https://mastodonapp.uk/@artistsgarden/112852770009386827",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@caterinevauban\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>caterinevauban</span></a></span> By whom? By the landlord? They tell you how to live? This is shockingly terrible!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109704410953549416",
+                "username": "artistsgarden",
+                "acct": "artistsgarden@mastodonapp.uk",
+                "display_name": "Artists Garden",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-08T00:00:00.000Z",
+                "note": "<p>Artist's private <a href=\"https://mastodonapp.uk/tags/garden\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>garden</span></a> inspired by the wabi sabi principles of embracing the natural, the imperfect and the impermanent. <br>Exile-dwelling <a href=\"https://mastodonapp.uk/tags/European\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>European</span></a>. <a href=\"https://mastodonapp.uk/tags/Photography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Photography</span></a> <a href=\"https://mastodonapp.uk/tags/artist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artist</span></a> and <a href=\"https://mastodonapp.uk/tags/gardener\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gardener</span></a>.</p>",
+                "url": "https://mastodonapp.uk/@artistsgarden",
+                "uri": "https://mastodonapp.uk/users/artistsgarden",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/704/410/953/549/416/original/fdfa8fed43a0fc94.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/704/410/953/549/416/original/fdfa8fed43a0fc94.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/704/410/953/549/416/original/ec750d41ce7215aa.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/704/410/953/549/416/original/ec750d41ce7215aa.jpg",
+                "followers_count": 355,
+                "following_count": 54,
+                "statuses_count": 585,
+                "last_status_at": "2024-07-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://wolfkettler.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wolfkettler.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Prints of my work",
+                        "value": "<a href=\"https://www.saatchiart.com/wolfkettler\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">saatchiart.com/wolfkettler</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Books",
+                        "value": "<a href=\"https://www.wolfkettler.com/books\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">wolfkettler.com/books</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112681833229314769",
+                    "username": "caterinevauban",
+                    "url": "https://mastodon.social/@caterinevauban",
+                    "acct": "caterinevauban"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112852827323451026",
+            "created_at": "2024-07-26T12:38:06.000Z",
+            "in_reply_to_id": "112852770044528874",
+            "in_reply_to_account_id": "109704410953549416",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://aus.social/users/ozeng/statuses/112852827292744751",
+            "url": "https://aus.social/@ozeng/112852827292744751",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodonapp.uk/@artistsgarden\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>artistsgarden</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@caterinevauban\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>caterinevauban</span></a></span> yeah it\u2019s like your parents (or your parent\u2019s friends, the real estate agent) comes to look at your bedroom and says pick up all this mess and make your bed.</p><p>Except you\u2019re an adult and you pay to live there.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109329820950800938",
+                "username": "ozeng",
+                "acct": "ozeng@aus.social",
+                "display_name": "ozeng",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-09-29T00:00:00.000Z",
+                "note": "",
+                "url": "https://aus.social/@ozeng",
+                "uri": "https://aus.social/users/ozeng",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 16,
+                "following_count": 41,
+                "statuses_count": 475,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109704410953549416",
+                    "username": "artistsgarden",
+                    "url": "https://mastodonapp.uk/@artistsgarden",
+                    "acct": "artistsgarden@mastodonapp.uk"
+                },
+                {
+                    "id": "112681833229314769",
+                    "username": "caterinevauban",
+                    "url": "https://mastodon.social/@caterinevauban",
+                    "acct": "caterinevauban"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112850476585477475",
+            "created_at": "2024-07-26T02:40:15.000Z",
+            "in_reply_to_id": "112842774217468778",
+            "in_reply_to_account_id": "109704410953549416",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://theblower.au/users/anne_twain/statuses/112850476444577935",
+            "url": "https://theblower.au/@anne_twain/112850476444577935",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodonapp.uk/@artistsgarden\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>artistsgarden</span></a></span> Millions of Australians will be pleased they're  doing the right thing. \ud83d\ude04</p>",
+            "reblog": null,
+            "account": {
+                "id": "109367562908206061",
+                "username": "anne_twain",
+                "acct": "anne_twain@theblower.au",
+                "display_name": "ChookMother \ud83c\udde6\ud83c\uddfa\ud83e\udd98",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-19T00:00:00.000Z",
+                "note": "<p>Retired teacher and bookseller. Born 1952. She/her.  Living solo if you don't count 3 cats and 2 hens.</p><p>Interests: climate survival, climate politics, my electric car, pandemic response, cats, Australian politics, human rights, turning Australia into a republic, the Uluru Statement from the Heart, early offshore whaling in Australia and New Zealand, genealogy, colonial history, dressmaking and design, recycling and repurposing, Buy Nothing Group, gardening, chooks (chickens)... etc</p>",
+                "url": "https://theblower.au/@anne_twain",
+                "uri": "https://theblower.au/users/anne_twain",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/367/562/908/206/061/original/b5e729b9cc69019b.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/367/562/908/206/061/original/b5e729b9cc69019b.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/367/562/908/206/061/original/da0b4f57f3c9322b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/367/562/908/206/061/original/da0b4f57f3c9322b.jpg",
+                "followers_count": 634,
+                "following_count": 296,
+                "statuses_count": 10821,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109704410953549416",
+                    "username": "artistsgarden",
+                    "url": "https://mastodonapp.uk/@artistsgarden",
+                    "acct": "artistsgarden@mastodonapp.uk"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

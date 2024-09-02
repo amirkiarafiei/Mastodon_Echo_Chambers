@@ -1,0 +1,235 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112870360832220419",
+            "created_at": "2024-07-29T14:57:06.000Z",
+            "in_reply_to_id": "112870351240975618",
+            "in_reply_to_account_id": "110334997776586141",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://med-mastodon.com/users/TheNurseIsIn/statuses/112870360764051903",
+            "url": "https://med-mastodon.com/@TheNurseIsIn/112870360764051903",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://spore.social/@_noelamac_\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>_noelamac_</span></a></span> this issue cannot be ignored.  We all will eventually suffer.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109323383783015720",
+                "username": "TheNurseIsIn",
+                "acct": "TheNurseIsIn@med-mastodon.com",
+                "display_name": "TheNurseIsIn",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-11T00:00:00.000Z",
+                "note": "<p>Mom, wife, Cardiology MSN RN, cat lady, \u2615\ufe0f fanatic, \ud83d\udcda lover, atheist, liberal, smashing the patriarchy.  Flew the coop\ud83d\udc26and now I'm here\ud83d\udc18!</p><p>I am also a rabid homebody who loves to natter about the backyard with her husband, enjoying our flowers and garden harvests in the summer.  In the winter, I love the snowfall and hibernation. </p><p>Also:  the older I get, the less bullshit I'm willing to tolerate. </p><p>America is NOT the greatest country in the world.  I look forward to leaving it someday.</p>",
+                "url": "https://med-mastodon.com/@TheNurseIsIn",
+                "uri": "https://med-mastodon.com/users/TheNurseIsIn",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/323/383/783/015/720/original/83d598d5b24512d7.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/323/383/783/015/720/original/83d598d5b24512d7.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/323/383/783/015/720/original/3694fa0b4e7f068a.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/323/383/783/015/720/original/3694fa0b4e7f068a.jpeg",
+                "followers_count": 1498,
+                "following_count": 1480,
+                "statuses_count": 2908,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "pronouns",
+                        "value": "she/her/hers",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Currently reading",
+                        "value": "Sleeping Beauties by Stephen King",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Images",
+                        "value": "<a href=\"https://pixelfed.social/TheNurseIsIn\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.social/TheNurseIsIn</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Missouri, US",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110334997776586141",
+                    "username": "_noelamac_",
+                    "url": "https://spore.social/@_noelamac_",
+                    "acct": "_noelamac_@spore.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112876553050986973",
+            "created_at": "2024-07-30T17:11:51.000Z",
+            "in_reply_to_id": "112870360832220419",
+            "in_reply_to_account_id": "109323383783015720",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://spore.social/users/_noelamac_/statuses/112876552927832477",
+            "url": "https://spore.social/@_noelamac_/112876552927832477",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://med-mastodon.com/@TheNurseIsIn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>TheNurseIsIn</span></a></span> </p><p>But not at the same time or in the same way, frequency, intensity or even deadliness. </p><p>Unfortunately the effects of climate change are highly unbalanced between rich and poor, global north and global south, and between old and young.</p><p><a href=\"https://spore.social/tags/climatejustice\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatejustice</span></a> <a href=\"https://spore.social/tags/ClimateChange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateChange</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "110334997776586141",
+                "username": "_noelamac_",
+                "acct": "_noelamac_@spore.social",
+                "display_name": "_noelamac_",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-05-06T00:00:00.000Z",
+                "note": "<p>on constant change (hopefully for good)</p><p>\"The choices and actions implemented in this decade will have impacts now and for thousands of years\" - IPCC AR6 SyR</p><p><a href=\"https://ipcc.ch/report/ar6/syr/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ipcc.ch/report/ar6/syr/</span><span class=\"invisible\"></span></a></p><p> <a href=\"https://spore.social/tags/biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>biodiversity</span></a> <a href=\"https://spore.social/tags/Biodiversit%C3%A4t\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biodiversit\u00e4t</span></a> <a href=\"https://spore.social/tags/ClimateChange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateChange</span></a> <a href=\"https://spore.social/tags/overshoot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>overshoot</span></a> <a href=\"https://spore.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> <a href=\"https://spore.social/tags/nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nature</span></a> <a href=\"https://spore.social/tags/Natur\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Natur</span></a> <a href=\"https://spore.social/tags/energy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>energy</span></a> <a href=\"https://spore.social/tags/Energie\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Energie</span></a> <a href=\"https://spore.social/tags/Klimakatastrophe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Klimakatastrophe</span></a> <a href=\"https://spore.social/tags/climateaction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climateaction</span></a> <a href=\"https://spore.social/tags/climatecrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatecrisis</span></a> <a href=\"https://spore.social/tags/Klimakrise\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Klimakrise</span></a></p>",
+                "url": "https://spore.social/@_noelamac_",
+                "uri": "https://spore.social/users/_noelamac_",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/334/997/776/586/141/original/6fdd33a529ddb0cd.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/334/997/776/586/141/original/6fdd33a529ddb0cd.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/334/997/776/586/141/original/689489f297e1574b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/334/997/776/586/141/original/689489f297e1574b.jpg",
+                "followers_count": 233,
+                "following_count": 312,
+                "statuses_count": 4137,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109323383783015720",
+                    "username": "TheNurseIsIn",
+                    "url": "https://med-mastodon.com/@TheNurseIsIn",
+                    "acct": "TheNurseIsIn@med-mastodon.com"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "climatejustice",
+                    "url": "https://mastodon.social/tags/climatejustice"
+                },
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870387258604804",
+            "created_at": "2024-07-29T15:03:50.602Z",
+            "in_reply_to_id": "112870351240975618",
+            "in_reply_to_account_id": "110334997776586141",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://mastodon.social/users/PapyrophagaSc/statuses/112870387258604804",
+            "url": "https://mastodon.social/@PapyrophagaSc/112870387258604804",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://spore.social/@_noelamac_\" class=\"u-url mention\">@<span>_noelamac_</span></a></span> </p><p>\u201eHeat is the deadliest type of extreme weather, and the human-caused climate crisis is making heat waves more severe and prolonged. Add humidity into the mix, and conditions in some places are approaching the limits of human survivability \u2014 the point at which our bodies simply cannot adapt.\u201c</p><p><a href=\"https://mastodon.social/tags/Heat\" class=\"mention hashtag\" rel=\"tag\">#<span>Heat</span></a> <a href=\"https://mastodon.social/tags/ClimateCatastrophy\" class=\"mention hashtag\" rel=\"tag\">#<span>ClimateCatastrophy</span></a> <a href=\"https://mastodon.social/tags/ThereIsNoPlanetB\" class=\"mention hashtag\" rel=\"tag\">#<span>ThereIsNoPlanetB</span></a> <a href=\"https://mastodon.social/tags/FFF\" class=\"mention hashtag\" rel=\"tag\">#<span>FFF</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for iOS",
+                "website": "https://app.joinmastodon.org/ios"
+            },
+            "account": {
+                "id": "109248463692991460",
+                "username": "PapyrophagaSc",
+                "acct": "PapyrophagaSc",
+                "display_name": "PaperLouse",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>Artverwandt mit der Steinlaus knabbert lieber an Papers und B\u00fcchern insbes. zu Themen aus dem Gesundheitswesen, Medizin &amp; Co.\u2028\u201eThe good thing about science is that it&#39;s true whether or not you believe in it.&quot; Neil deGrasse Tyson\u2028\u2028\ud83d\udc89 &amp; \ud83d\ude37 \u2029<a href=\"https://mastodon.social/tags/NoPLURV\" class=\"mention hashtag\" rel=\"tag\">#<span>NoPLURV</span></a> <a href=\"https://mastodon.social/tags/Science\" class=\"mention hashtag\" rel=\"tag\">#<span>Science</span></a>\u2028<a href=\"https://mastodon.social/tags/CovidIsNotOver\" class=\"mention hashtag\" rel=\"tag\">#<span>CovidIsNotOver</span></a> <a href=\"https://mastodon.social/tags/CovidIsAirborne\" class=\"mention hashtag\" rel=\"tag\">#<span>CovidIsAirborne</span></a> <a href=\"https://mastodon.social/tags/WearAMask\" class=\"mention hashtag\" rel=\"tag\">#<span>WearAMask</span></a>\u2028<a href=\"https://mastodon.social/tags/MedizinBrennt\" class=\"mention hashtag\" rel=\"tag\">#<span>MedizinBrennt</span></a> <a href=\"https://mastodon.social/tags/PflegeBrennt\" class=\"mention hashtag\" rel=\"tag\">#<span>PflegeBrennt</span></a> <a href=\"https://mastodon.social/tags/Gesundheitskompetenz\" class=\"mention hashtag\" rel=\"tag\">#<span>Gesundheitskompetenz</span></a> <a href=\"https://mastodon.social/tags/PublicHealth\" class=\"mention hashtag\" rel=\"tag\">#<span>PublicHealth</span></a> <a href=\"https://mastodon.social/tags/ThereIsNoPlanetB\" class=\"mention hashtag\" rel=\"tag\">#<span>ThereIsNoPlanetB</span></a> <a href=\"https://mastodon.social/tags/Nature\" class=\"mention hashtag\" rel=\"tag\">#<span>Nature</span></a> <a href=\"https://mastodon.social/tags/NoAfd\" class=\"mention hashtag\" rel=\"tag\">#<span>NoAfd</span></a></p>",
+                "url": "https://mastodon.social/@PapyrophagaSc",
+                "uri": "https://mastodon.social/users/PapyrophagaSc",
+                "avatar": "https://files.mastodon.social/accounts/avatars/109/248/463/692/991/460/original/cbce23b180ea8201.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/109/248/463/692/991/460/original/cbce23b180ea8201.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 212,
+                "following_count": 597,
+                "statuses_count": 8434,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Pronouns",
+                        "value": "She/her",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110334997776586141",
+                    "username": "_noelamac_",
+                    "url": "https://spore.social/@_noelamac_",
+                    "acct": "_noelamac_@spore.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "heat",
+                    "url": "https://mastodon.social/tags/heat"
+                },
+                {
+                    "name": "climatecatastrophy",
+                    "url": "https://mastodon.social/tags/climatecatastrophy"
+                },
+                {
+                    "name": "thereisnoplanetb",
+                    "url": "https://mastodon.social/tags/thereisnoplanetb"
+                },
+                {
+                    "name": "fff",
+                    "url": "https://mastodon.social/tags/fff"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

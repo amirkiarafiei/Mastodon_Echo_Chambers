@@ -1,0 +1,555 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112864707605185004",
+            "created_at": "2024-07-28T14:59:24.000Z",
+            "in_reply_to_id": "112860248951225165",
+            "in_reply_to_account_id": "109368851680428219",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://newsie.social/users/toussaint/statuses/112864707492888398",
+            "url": "https://newsie.social/@toussaint/112864707492888398",
+            "replies_count": 2,
+            "reblogs_count": 10,
+            "favourites_count": 0,
+            "edited_at": "2024-07-28T15:00:17.000Z",
+            "content": "<p>Yellen said the world needs to spend $3T every year to fight climate change yesterday...</p><p>\"China invested an estimated&nbsp;6.3tn yuan&nbsp;($890bn) in clean-energy sectors in 2023...\"<br><a href=\"https://newsie.social/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a> <a href=\"https://newsie.social/tags/climatechange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatechange</span></a> <a href=\"https://newsie.social/tags/ClimateCrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCrisis</span></a> </p><p>Now all we need is EU to spend their trillion and the US to do the same to stop the hell that is coming for your children... <br><a href=\"https://www.carbonbrief.org/analysis-clean-energy-was-top-driver-of-chinas-economic-growth-in-2023/#:~:text=China%20invested%20an%20estimated%206.3,year%2Don%2Dyear%20increase\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">carbonbrief.org/analysis-clean</span><span class=\"invisible\">-energy-was-top-driver-of-chinas-economic-growth-in-2023/#:~:text=China%20invested%20an%20estimated%206.3,year%2Don%2Dyear%20increase</span></a>.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109368851680428219",
+                "username": "toussaint",
+                "acct": "toussaint@newsie.social",
+                "display_name": "toussaint",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>You should do nothing that, in the universal doing, renders it counter-praxis.<br>27+yrs teaching Leadership/Cost Control/HACCP in Food Industry<br><a href=\"https://newsie.social/tags/CapitalismIsKillingYOU\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CapitalismIsKillingYOU</span></a><br>Retired caregiver for sister w/ MS which they now believe is caused by Epstein-Barr, another airborne virus <a href=\"https://newsie.social/tags/MaskUp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MaskUp</span></a><br><a href=\"http://paypal.me/t0ussaint\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">paypal.me/t0ussaint</span><span class=\"invisible\"></span></a><br><a href=\"https://www.youtube.com/channel/UCs0c1UFwfvsfASA0XNEor6Q\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/channel/UCs0c1UFwf</span><span class=\"invisible\">vsfASA0XNEor6Q</span></a><br>@t0ussaint.bsky.social</p>",
+                "url": "https://newsie.social/@toussaint",
+                "uri": "https://newsie.social/users/toussaint",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/368/851/680/428/219/original/49a5aa3befed3a38.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/368/851/680/428/219/original/49a5aa3befed3a38.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/368/851/680/428/219/original/b8cff9a6be047e9f.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/368/851/680/428/219/original/b8cff9a6be047e9f.jpg",
+                "followers_count": 756,
+                "following_count": 299,
+                "statuses_count": 7572,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climatecrisis",
+                    "url": "https://mastodon.social/tags/climatecrisis"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.carbonbrief.org/analysis-clean-energy-was-top-driver-of-chinas-economic-growth-in-2023/#:~:text=China%20invested%20an%20estimated%206.3,year-on-year%20increase",
+                "title": "Analysis: Clean energy was top driver of China\u2019s economic growth in 2023 - Carbon Brief",
+                "description": "Solar power, along with manufacturing capacity for solar panels, EVs and batteries, were the main focus of China\u2019s clean-energy investments in 2023",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Carbon Brief",
+                "provider_url": "",
+                "html": "",
+                "width": 588,
+                "height": 392,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/085/909/895/original/ff165ab1bc4b0882.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UOE{qhtls,W=_NkCWBoz_3%Mt7WB%ht6Rkt6",
+                "published_at": "2024-01-25T00:01:00.000Z",
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112864801041794210",
+            "created_at": "2024-07-28T15:23:09.000Z",
+            "in_reply_to_id": "112864707605185004",
+            "in_reply_to_account_id": "109368851680428219",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://newsie.social/users/toussaint/statuses/112864800909626850",
+            "url": "https://newsie.social/@toussaint/112864800909626850",
+            "replies_count": 2,
+            "reblogs_count": 6,
+            "favourites_count": 0,
+            "edited_at": "2024-07-28T15:24:41.000Z",
+            "content": "<p>US home insurers suffer biggest loss of century in 2023, FT says <a href=\"http://reut.rs/3A4JXfe\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">reut.rs/3A4JXfe</span><span class=\"invisible\"></span></a><br><a href=\"https://newsie.social/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a> <a href=\"https://newsie.social/tags/climatechange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatechange</span></a> <a href=\"https://newsie.social/tags/ClimateCrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateCrisis</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109368851680428219",
+                "username": "toussaint",
+                "acct": "toussaint@newsie.social",
+                "display_name": "toussaint",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>You should do nothing that, in the universal doing, renders it counter-praxis.<br>27+yrs teaching Leadership/Cost Control/HACCP in Food Industry<br><a href=\"https://newsie.social/tags/CapitalismIsKillingYOU\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CapitalismIsKillingYOU</span></a><br>Retired caregiver for sister w/ MS which they now believe is caused by Epstein-Barr, another airborne virus <a href=\"https://newsie.social/tags/MaskUp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MaskUp</span></a><br><a href=\"http://paypal.me/t0ussaint\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">paypal.me/t0ussaint</span><span class=\"invisible\"></span></a><br><a href=\"https://www.youtube.com/channel/UCs0c1UFwfvsfASA0XNEor6Q\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/channel/UCs0c1UFwf</span><span class=\"invisible\">vsfASA0XNEor6Q</span></a><br>@t0ussaint.bsky.social</p>",
+                "url": "https://newsie.social/@toussaint",
+                "uri": "https://newsie.social/users/toussaint",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/368/851/680/428/219/original/49a5aa3befed3a38.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/368/851/680/428/219/original/49a5aa3befed3a38.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/368/851/680/428/219/original/b8cff9a6be047e9f.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/368/851/680/428/219/original/b8cff9a6be047e9f.jpg",
+                "followers_count": 756,
+                "following_count": 299,
+                "statuses_count": 7572,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [
+                {
+                    "id": "112864807029995763",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/864/807/029/995/763/original/de6203158ad992eb.jpg",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/864/807/029/995/763/small/de6203158ad992eb.jpg",
+                    "remote_url": "https://assets.newsie.social/media_attachments/files/112/864/805/731/609/616/original/5991a61dd128db3c.jpg",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "focus": {
+                            "x": -0.08,
+                            "y": 1.0
+                        },
+                        "original": {
+                            "width": 814,
+                            "height": 673,
+                            "size": "814x673",
+                            "aspect": 1.2095096582466567
+                        },
+                        "small": {
+                            "width": 527,
+                            "height": 436,
+                            "size": "527x436",
+                            "aspect": 1.2087155963302751
+                        }
+                    },
+                    "description": "US home insurers suffer biggest loss of century in 2023, FT says\n\nBy\u00a0Reuters\n\nJuly 28, 202410:02 AM CDTUpdated 20 min ago",
+                    "blurhash": "U46*m?%MV?og8^RikCj[8^kDaxj@xqWAs;j["
+                }
+            ],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climatecrisis",
+                    "url": "https://mastodon.social/tags/climatecrisis"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112867797754471823",
+            "created_at": "2024-07-29T04:05:16.000Z",
+            "in_reply_to_id": "112864801041794210",
+            "in_reply_to_account_id": "109368851680428219",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://newsie.social/users/toussaint/statuses/112867797676705981",
+            "url": "https://newsie.social/@toussaint/112867797676705981",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": "2024-07-29T04:11:45.000Z",
+            "content": "<p><a href=\"https://newsie.social/tags/InflationReductionAct\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>InflationReductionAct</span></a> was supposed to spend $78B/yr each year for 10yrs. i said when the bill was passed that it was weak cause there are no mandates for anything, just a lot of tax incentives we have to HOPE corpos take advantage of and move to green energy. Most are waiting for someone to make them change by law.</p><p>Yellen has finally publically confirmed that we need to spend far more than that, $3T/yr worldwide on <a href=\"https://newsie.social/tags/climatechange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatechange</span></a> </p><p><a href=\"https://newsie.social/tags/CapitalismIsKillingYou\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CapitalismIsKillingYou</span></a> <br>PDF: <a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwiA2bLxrMuHAxWt5MkDHR2DGGQQFnoECEIQAw&amp;url=https%3A%2F%2Fwww.tigta.gov%2Fsites%2Fdefault%2Ffiles%2Freports%2F2024-04%2F2024ier011fr.pdf&amp;usg=AOvVaw3xKcVHNwD3fjjPGKcEy7yZ&amp;opi=89978449\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">google.com/url?sa=t&amp;rct=j&amp;q=&amp;e</span><span class=\"invisible\">src=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwiA2bLxrMuHAxWt5MkDHR2DGGQQFnoECEIQAw&amp;url=https%3A%2F%2Fwww.tigta.gov%2Fsites%2Fdefault%2Ffiles%2Freports%2F2024-04%2F2024ier011fr.pdf&amp;usg=AOvVaw3xKcVHNwD3fjjPGKcEy7yZ&amp;opi=89978449</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109368851680428219",
+                "username": "toussaint",
+                "acct": "toussaint@newsie.social",
+                "display_name": "toussaint",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>You should do nothing that, in the universal doing, renders it counter-praxis.<br>27+yrs teaching Leadership/Cost Control/HACCP in Food Industry<br><a href=\"https://newsie.social/tags/CapitalismIsKillingYOU\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CapitalismIsKillingYOU</span></a><br>Retired caregiver for sister w/ MS which they now believe is caused by Epstein-Barr, another airborne virus <a href=\"https://newsie.social/tags/MaskUp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MaskUp</span></a><br><a href=\"http://paypal.me/t0ussaint\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">paypal.me/t0ussaint</span><span class=\"invisible\"></span></a><br><a href=\"https://www.youtube.com/channel/UCs0c1UFwfvsfASA0XNEor6Q\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/channel/UCs0c1UFwf</span><span class=\"invisible\">vsfASA0XNEor6Q</span></a><br>@t0ussaint.bsky.social</p>",
+                "url": "https://newsie.social/@toussaint",
+                "uri": "https://newsie.social/users/toussaint",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/368/851/680/428/219/original/49a5aa3befed3a38.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/368/851/680/428/219/original/49a5aa3befed3a38.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/368/851/680/428/219/original/b8cff9a6be047e9f.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/368/851/680/428/219/original/b8cff9a6be047e9f.jpg",
+                "followers_count": 756,
+                "following_count": 299,
+                "statuses_count": 7572,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [
+                {
+                    "id": "112867823258596003",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/867/823/258/596/003/original/97653cabe9381e42.jpg",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/867/823/258/596/003/small/97653cabe9381e42.jpg",
+                    "remote_url": "https://assets.newsie.social/media_attachments/files/112/867/812/461/053/206/original/8546b742c7828bf9.jpg",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "focus": {
+                            "x": -0.9,
+                            "y": 0.1
+                        },
+                        "original": {
+                            "width": 736,
+                            "height": 360,
+                            "size": "736x360",
+                            "aspect": 2.0444444444444443
+                        },
+                        "small": {
+                            "width": 686,
+                            "height": 336,
+                            "size": "686x336",
+                            "aspect": 2.0416666666666665
+                        }
+                    },
+                    "description": "How much Inflation Reduction Act money has been spent?\n\nThis report provides the cumulative and quarterly reporting on the IRS's use of IRA funding to implement its Strategic Operating Plan and is inclusive of all IRA expenditures through December 31, 2023. As of December 31, 2023, the IRS expended approximately $4.4 billion (5.6 percent) of its $78 billion in IRA funding.Apr 3, 2024\n\n\nQuarterly Snapshot: The IRS's Inflation Reduction Act Spending Through ...",
+                    "blurhash": "U04n[L~E9Y%3*3EHRjt7Qzw*xuR%E0o@NFn-"
+                }
+            ],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "inflationreductionact",
+                    "url": "https://mastodon.social/tags/inflationreductionact"
+                },
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "CapitalismIsKillingYou",
+                    "url": "https://mastodon.social/tags/CapitalismIsKillingYou"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112860253821721340",
+            "created_at": "2024-07-27T20:06:44.000Z",
+            "in_reply_to_id": "112860248951225165",
+            "in_reply_to_account_id": "109368851680428219",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://retro.social/users/freakazoid/statuses/112860253688869041",
+            "url": "https://retro.social/@freakazoid/112860253688869041",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://newsie.social/@toussaint\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>toussaint</span></a></span> \"far more\" is the understatement of the century when you're comparing $3T to $10B.</p>",
+            "reblog": null,
+            "account": {
+                "id": "358666",
+                "username": "freakazoid",
+                "acct": "freakazoid@retro.social",
+                "display_name": "Charles U. Farley",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2018-05-17T00:00:00.000Z",
+                "note": "<p>They/them. Queer, neurospicy GenX parent of two kids living in <a href=\"https://retro.social/tags/Pittsburgh\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pittsburgh</span></a> <a href=\"https://retro.social/tags/Pennsylvania\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pennsylvania</span></a> USA.</p><p>Boost = endorsement. Please have a profile and some posts and read my pinned posts before requesting to follow.</p><p><a href=\"https://retro.social/tags/anarchism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>anarchism</span></a> <a href=\"https://retro.social/tags/retrocomputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>retrocomputing</span></a> <a href=\"https://retro.social/tags/amateurradio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>amateurradio</span></a> <a href=\"https://retro.social/tags/space\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>space</span></a> <a href=\"https://retro.social/tags/electronics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>electronics</span></a> <a href=\"https://retro.social/tags/c64\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>c64</span></a> <a href=\"https://retro.social/tags/rc2014\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rc2014</span></a> <a href=\"https://retro.social/tags/zig\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>zig</span></a></p><p><a href=\"https://retro.social/tags/nobot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobot</span></a> (including any unsolicited bot interaction) <a href=\"https://retro.social/tags/noarchive\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>noarchive</span></a> <a href=\"https://retro.social/tags/noindex\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>noindex</span></a> <a href=\"https://retro.social/tags/noscrape\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>noscrape</span></a> <a href=\"https://retro.social/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobridge</span></a> <a href=\"https://retro.social/tags/noAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>noAI</span></a></p>",
+                "url": "https://retro.social/@freakazoid",
+                "uri": "https://retro.social/users/freakazoid",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/358/666/original/f26b523744815ec1.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/358/666/original/f26b523744815ec1.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/358/666/original/cf4d4c11a522c209.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/358/666/original/cf4d4c11a522c209.png",
+                "followers_count": 603,
+                "following_count": 609,
+                "statuses_count": 10798,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Avatar alt text",
+                        "value": "A pixel art front view of a tracked robot in gray on blue with black outlines. It shows the width of the robot as 1.0m. From the game \"Hacker II\".",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Header image alt text",
+                        "value": "A screenshot from Colossus: The Forbin Project (1970). It shows a ceiling-mounted multi-sided scrolling text display with two lines. The top line sys \"WARN\" and the second line says \"THERE IS ANOTHER SYSTEM\" scrolling across the two sides that are in view",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109368851680428219",
+                    "username": "toussaint",
+                    "url": "https://newsie.social/@toussaint",
+                    "acct": "toussaint@newsie.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112864754077472017",
+            "created_at": "2024-07-28T15:11:13.000Z",
+            "in_reply_to_id": "112864707605185004",
+            "in_reply_to_account_id": "109368851680428219",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://regenerate.social/users/B_Whitewind/statuses/112864753982666653",
+            "url": "https://regenerate.social/@B_Whitewind/112864753982666653",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://newsie.social/@toussaint\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>toussaint</span></a></span> Man you know this is what we spend on fossil fuel subsidies hmmm. Wonder where we could ever find that money \ud83e\udd14</p>",
+            "reblog": null,
+            "account": {
+                "id": "110809493391450645",
+                "username": "B_Whitewind",
+                "acct": "B_Whitewind@regenerate.social",
+                "display_name": "Bishop Whitewind",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-07-31T00:00:00.000Z",
+                "note": "<p>Author, horticulturalist, and seer.<br>I share personal insights from this account, and read the Tarot professionally.</p><p>Priest of Pan, the Goddess, and the Fey.<br><a href=\"https://regenerate.social/tags/Agroecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Agroecology</span></a> <a href=\"https://regenerate.social/tags/FoodForest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FoodForest</span></a> <a href=\"https://regenerate.social/tags/Permaculture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Permaculture</span></a> <a href=\"https://regenerate.social/tags/SolarPunk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SolarPunk</span></a> <a href=\"https://regenerate.social/tags/Witchcraft\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Witchcraft</span></a> <a href=\"https://regenerate.social/tags/Anarchist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Anarchist</span></a><br>I live off grid in a food forest.<br>CW: I am from Twitter, this account is like a dumpster falling down a flight of stairs so consider this your 18+ warning as well.<br>He/They</p>",
+                "url": "https://regenerate.social/@B_Whitewind",
+                "uri": "https://regenerate.social/users/B_Whitewind",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/809/493/391/450/645/original/e9afd1dcbb74254d.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/809/493/391/450/645/original/e9afd1dcbb74254d.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/809/493/391/450/645/original/8a8200d933144ba4.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/809/493/391/450/645/original/8a8200d933144ba4.jpg",
+                "followers_count": 623,
+                "following_count": 767,
+                "statuses_count": 15042,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "My book",
+                        "value": "<a href=\"https://t.co/fMpCEvzNBb\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">t.co/fMpCEvzNBb</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Patreon",
+                        "value": "<a href=\"https://www.patreon.com/posts/85559163\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">patreon.com/posts/85559163</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Ko-fi",
+                        "value": "<a href=\"https://ko-fi.com/b_whitewind\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/b_whitewind</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109368851680428219",
+                    "username": "toussaint",
+                    "url": "https://newsie.social/@toussaint",
+                    "acct": "toussaint@newsie.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112864869790250954",
+            "created_at": "2024-07-28T15:40:40.000Z",
+            "in_reply_to_id": "112864801041794210",
+            "in_reply_to_account_id": "109368851680428219",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.world/users/DEDGirl/statuses/112864869766776468",
+            "url": "https://mastodon.world/@DEDGirl/112864869766776468",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://newsie.social/@toussaint\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>toussaint</span></a></span> This is also contributing to American homelessness. Home insurers are refusing to cover more &amp; charging high prices, leading to low cost, affordable, &amp; subsidized housing to not be sustainable or viable for the property owners.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109366841555947654",
+                "username": "DEDGirl",
+                "acct": "DEDGirl@mastodon.world",
+                "display_name": "DEDGirl",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>Profile pic is my gramps.</p>",
+                "url": "https://mastodon.world/@DEDGirl",
+                "uri": "https://mastodon.world/users/DEDGirl",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/366/841/555/947/654/original/2257be9c543daf38.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/366/841/555/947/654/original/2257be9c543daf38.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/366/841/555/947/654/original/0518c37b59ab2166.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/366/841/555/947/654/original/0518c37b59ab2166.png",
+                "followers_count": 238,
+                "following_count": 329,
+                "statuses_count": 9481,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109368851680428219",
+                    "username": "toussaint",
+                    "url": "https://newsie.social/@toussaint",
+                    "acct": "toussaint@newsie.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112879127407662075",
+            "created_at": "2024-07-31T04:06:32.000Z",
+            "in_reply_to_id": "112867797754471823",
+            "in_reply_to_account_id": "109368851680428219",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112879127286582251",
+            "url": "https://mastodon.au/@largess/112879127286582251",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://newsie.social/@toussaint\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>toussaint</span></a></span><br>The widened lots of roads with the money, so there is that /s</p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109368851680428219",
+                    "username": "toussaint",
+                    "url": "https://newsie.social/@toussaint",
+                    "acct": "toussaint@newsie.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

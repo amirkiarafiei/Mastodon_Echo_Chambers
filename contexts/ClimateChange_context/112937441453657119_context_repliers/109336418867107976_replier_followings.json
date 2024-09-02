@@ -1,0 +1,405 @@
+[
+    {
+        "id": "108130371603477611",
+        "username": "sixtus",
+        "acct": "sixtus",
+        "display_name": "Mario Sixtus \ud83c\udded\ud83c\uddf0\u99ac\u516d",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-04-14T00:00:00.000Z",
+        "note": "<p>Filmemacher, Drehbuchautor</p>",
+        "url": "https://mastodon.social/@sixtus",
+        "uri": "https://mastodon.social/users/sixtus",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/130/371/603/477/611/original/59aa1280d96a8bd6.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/130/371/603/477/611/original/59aa1280d96a8bd6.png",
+        "header": "https://files.mastodon.social/accounts/headers/108/130/371/603/477/611/original/073263e83ef019e9.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/130/371/603/477/611/original/073263e83ef019e9.png",
+        "followers_count": 30602,
+        "following_count": 1533,
+        "statuses_count": 6126,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website/Blog",
+                "value": "<a href=\"http://sixtus.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">sixtus.net</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Spielfilm",
+                "value": "<a href=\"http://hyperland.de\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">hyperland.de</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Fotos",
+                "value": "<a href=\"http://sixtus.photo\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">sixtus.photo</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Bio",
+                "value": "<a href=\"https://sixtus.me\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">sixtus.me</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-07-03T22:36:48.138+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109208442152198181",
+        "username": "dangillmor",
+        "acct": "dangillmor",
+        "display_name": "Dan Gillmor",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-10-21T00:00:00.000Z",
+        "note": "<p>Bio and disclosures: dangillmor.com/about/ Boosts mean I think you should see this -- usually but not always an endorsement.</p><p>California, Nara, Arizona etc.  \u00b7  dangillmor.com</p>",
+        "url": "https://mastodon.social/@dangillmor",
+        "uri": "https://mastodon.social/users/dangillmor",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/208/442/152/198/181/original/a98930cc33876975.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/208/442/152/198/181/original/a98930cc33876975.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/208/442/152/198/181/original/5bc6a2cfa0c4164f.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/208/442/152/198/181/original/5bc6a2cfa0c4164f.jpg",
+        "followers_count": 36401,
+        "following_count": 951,
+        "statuses_count": 8599,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Personal site",
+                "value": "<a href=\"https://dangillmor.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dangillmor.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-03-28T23:34:51.149+00:00"
+            },
+            {
+                "name": "Journalists, please leave Twitter and join the fediverse. Here's how to get started:",
+                "value": "<a href=\"https://www.techdirt.com/2023/01/04/journalists-and-others-should-leave-twitter-heres-how-they-can-get-started/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">techdirt.com/2023/01/04/journa</span><span class=\"invisible\">lists-and-others-should-leave-twitter-heres-how-they-can-get-started/</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "\"Cornerstone of Democracy\" Newsletter",
+                "value": "<a href=\"https://cornerstone.ghost.io\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">cornerstone.ghost.io</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Contact me",
+                "value": "<a href=\"https://dangillmor.com/contact\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dangillmor.com/contact</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "37321",
+        "username": "schrotthaufen",
+        "acct": "schrotthaufen",
+        "display_name": "schrotthaufen",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-04-03T00:00:00.000Z",
+        "note": "<p>A paranoid is simply someone who knows all the facts -- Spider Jerusalem | Involuntary agent of chaos</p>",
+        "url": "https://mastodon.social/@schrotthaufen",
+        "uri": "https://mastodon.social/users/schrotthaufen",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/037/321/original/306589aceb49d1be.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/037/321/original/306589aceb49d1be.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/037/321/original/3cb04cdad144e3d5.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/037/321/original/3cb04cdad144e3d5.png",
+        "followers_count": 212,
+        "following_count": 294,
+        "statuses_count": 6582,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": true,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Twitter",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@schrotthaufen\" class=\"u-url mention\">@<span>schrotthaufen</span></a></span>",
+                "verified_at": null
+            },
+            {
+                "name": "Pronouns",
+                "value": "he/him (they is never wrong)",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "108227009952951715",
+        "username": "DieFurie",
+        "acct": "DieFurie",
+        "display_name": "Die Furie",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-05-01T00:00:00.000Z",
+        "note": "<p>H\u00f6mma:<br /><a href=\"https://mastodon.social/tags/noAfD\" class=\"mention hashtag\" rel=\"tag\">#<span>noAfD</span></a> <br />Allergie gegen Querdeppen, Trump, bekloppte Putinlover &amp; rechte Sackw\u00fcrste!<br /><a href=\"https://mastodon.social/tags/SlavaUkraini\" class=\"mention hashtag\" rel=\"tag\">#<span>SlavaUkraini</span></a>\ud83c\uddfa\ud83c\udde6<br />Schreibe gerne Reimereien, bekomme schnell Hals. Cartoonjunkie.<br />Offizielle Pressesprecherin von K\u00f6nig Markus S. im Bereich &quot;Blutwurst ist geil, Haxn gehn steil  - gegen diktatorisch-linksgr\u00fcn-versiffte Bevormundung vonne Ern\u00e4hrung her \ud83e\udd0d\ud83d\udc99&quot;.</p><p>Wissta Bescheid! \u270a\ufe0f</p>",
+        "url": "https://mastodon.social/@DieFurie",
+        "uri": "https://mastodon.social/users/DieFurie",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/227/009/952/951/715/original/33453e53ef78c26d.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/227/009/952/951/715/original/33453e53ef78c26d.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/108/227/009/952/951/715/original/fdc642deef07a765.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/227/009/952/951/715/original/fdc642deef07a765.jpg",
+        "followers_count": 3290,
+        "following_count": 673,
+        "statuses_count": 1933,
+        "last_status_at": "2024-08-27",
+        "hide_collections": true,
+        "noindex": true,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "109245415463182318",
+        "username": "endstationrechts",
+        "acct": "endstationrechts",
+        "display_name": "ENDSTATION RECHTS.",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p>Infoportal \u00fcber die extreme Rechte in Deutschland</p>",
+        "url": "https://mastodon.social/@endstationrechts",
+        "uri": "https://mastodon.social/users/endstationrechts",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/245/415/463/182/318/original/1e7d569486fa4245.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/245/415/463/182/318/original/1e7d569486fa4245.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/245/415/463/182/318/original/55d3fb24a6cd653a.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/245/415/463/182/318/original/55d3fb24a6cd653a.jpg",
+        "followers_count": 3997,
+        "following_count": 64,
+        "statuses_count": 880,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.endstation-rechts.de\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">endstation-rechts.de</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Instagram:",
+                "value": "<a href=\"https://www.instagram.com/endstation.rechts/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">instagram.com/endstation.recht</span><span class=\"invisible\">s/</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "108196926365234436",
+        "username": "Pwnallthethings",
+        "acct": "Pwnallthethings",
+        "display_name": "Pwnallthethings",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-04-26T00:00:00.000Z",
+        "note": "<p>Mostly <a href=\"https://mastodon.social/tags/Natsec\" class=\"mention hashtag\" rel=\"tag\">#<span>Natsec</span></a>, <a href=\"https://mastodon.social/tags/infosec\" class=\"mention hashtag\" rel=\"tag\">#<span>infosec</span></a>, and <a href=\"https://mastodon.social/tags/Ukraine\" class=\"mention hashtag\" rel=\"tag\">#<span>Ukraine</span></a>. Views are my own. </p><p>&quot;noted security wizard&quot; -- The Register. </p><p>Subscribe for more at <a href=\"https://www.pwnallthethings.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">pwnallthethings.com</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@Pwnallthethings",
+        "uri": "https://mastodon.social/users/Pwnallthethings",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/196/926/365/234/436/original/48b70534fa3e6c60.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/196/926/365/234/436/original/48b70534fa3e6c60.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/108/196/926/365/234/436/original/3f4c4fca1c16523d.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/196/926/365/234/436/original/3f4c4fca1c16523d.png",
+        "followers_count": 71327,
+        "following_count": 715,
+        "statuses_count": 1222,
+        "last_status_at": "2023-08-26",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Newsletter / blog",
+                "value": "<a href=\"https://www.pwnallthethings.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">pwnallthethings.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "410317",
+        "username": "9brandon",
+        "acct": "9brandon",
+        "display_name": "Brandon Keim",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-09T00:00:00.000Z",
+        "note": "<p>Journalist | Nature, animals, science &amp; environment | \ud83d\udcf0 NYT, National Geographic, The Atlantic etc. |\ud83d\udcd7 Meet the Neighbors <a href=\"https://wwnorton.com/books/9781324007081\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">wwnorton.com/books/97813240070</span><span class=\"invisible\">81</span></a></p>",
+        "url": "https://mastodon.social/@9brandon",
+        "uri": "https://mastodon.social/users/9brandon",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/410/317/original/61bd5ccb32a1022d.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/410/317/original/61bd5ccb32a1022d.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/410/317/original/b5cd2b7dd5b0b356.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/410/317/original/b5cd2b7dd5b0b356.jpg",
+        "followers_count": 1577,
+        "following_count": 511,
+        "statuses_count": 126,
+        "last_status_at": "2024-08-16",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Meet the Neighbors",
+                "value": "<a href=\"https://brandonkeim.net/books/meet-the-neighbors-preorder\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">brandonkeim.net/books/meet-the</span><span class=\"invisible\">-neighbors-preorder</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Newsletter",
+                "value": "<a href=\"https://brandonkeim.substack.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">brandonkeim.substack.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://www.instagram.com/9brandon/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/9brandon/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.brandonkeim.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">brandonkeim.net</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "108192796921306774",
+        "username": "mimikama",
+        "acct": "mimikama",
+        "display_name": "Mimikama \u24c2",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-04-25T00:00:00.000Z",
+        "note": "<p>Internationale Anlaufstelle und Verein zur Aufkl\u00e4rung \u00fcber  Internetbetrug, Falschmeldungen sowie Computersicherheit und zur  F\u00f6rderung von Medienkompetenz</p>",
+        "url": "https://mastodon.social/@mimikama",
+        "uri": "https://mastodon.social/users/mimikama",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/192/796/921/306/774/original/da149f757e1dc922.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/192/796/921/306/774/original/da149f757e1dc922.png",
+        "header": "https://files.mastodon.social/accounts/headers/108/192/796/921/306/774/original/ebb0648e75cd1bb6.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/192/796/921/306/774/original/ebb0648e75cd1bb6.png",
+        "followers_count": 10776,
+        "following_count": 515,
+        "statuses_count": 1750,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Faktenchecks",
+                "value": "<a href=\"https://www.mimikama.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">mimikama.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-22T07:03:07.484+00:00"
+            },
+            {
+                "name": "FAKE MELDEN",
+                "value": "<a href=\"https://www.mimikama.org/meldeformular/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">mimikama.org/meldeformular/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-24T14:38:46.531+00:00"
+            },
+            {
+                "name": "Unterst\u00fctzen",
+                "value": "<a href=\"https://www.mimikama.org/unterstuetze-uns-bitte/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mimikama.org/unterstuetze-uns-</span><span class=\"invisible\">bitte/</span></a>",
+                "verified_at": "2022-11-23T20:11:03.724+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109354071354809625",
+        "username": "cemas_io",
+        "acct": "cemas_io",
+        "display_name": "CeMAS",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-16T00:00:00.000Z",
+        "note": "<p>CeMAS b\u00fcndelt interdisziplin\u00e4re Expertise zu Verschw\u00f6rungs\u00adideologien, Antisemitismus, Rechtsextremismus &amp; Desinformation.</p>",
+        "url": "https://mastodon.social/@cemas_io",
+        "uri": "https://mastodon.social/users/cemas_io",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/354/071/354/809/625/original/7a4fc1597d0bc1be.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/354/071/354/809/625/original/7a4fc1597d0bc1be.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/354/071/354/809/625/original/f70cd8b4c3fd9b6e.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/354/071/354/809/625/original/f70cd8b4c3fd9b6e.png",
+        "followers_count": 4313,
+        "following_count": 28,
+        "statuses_count": 117,
+        "last_status_at": "2024-04-26",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://cemas.io\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">cemas.io</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-18T09:36:11.873+00:00"
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://www.instagram.com/cemas_io\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/cemas_io</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/cemas_io\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/cemas_io</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109244847047894222",
+        "username": "derpostillon",
+        "acct": "derpostillon",
+        "display_name": "Der Postillon \ud83d\udcef",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p>Ehrliche Nachrichten - unabh\u00e4ngig, schnell, seit 1845</p>",
+        "url": "https://mastodon.social/@derpostillon",
+        "uri": "https://mastodon.social/users/derpostillon",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/244/847/047/894/222/original/62e97f2ed68d047f.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/244/847/047/894/222/original/62e97f2ed68d047f.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/244/847/047/894/222/original/d728f1d9c756b2fc.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/244/847/047/894/222/original/d728f1d9c756b2fc.jpg",
+        "followers_count": 121580,
+        "following_count": 11,
+        "statuses_count": 3375,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    }
+]

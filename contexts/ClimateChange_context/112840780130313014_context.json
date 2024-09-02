@@ -1,0 +1,992 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112840895117850413",
+            "created_at": "2024-07-24T10:03:30.000Z",
+            "in_reply_to_id": "112840780130313014",
+            "in_reply_to_account_id": "108202686568504494",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/chad/statuses/112840894734985661",
+            "url": "https://mstdn.ca/@chad/112840894734985661",
+            "replies_count": 3,
+            "reblogs_count": 1,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p>NASA FIRMS showing how massive these fires are.</p>",
+            "reblog": null,
+            "account": {
+                "id": "108202686568504494",
+                "username": "chad",
+                "acct": "chad@mstdn.ca",
+                "display_name": "Chad :mstdn:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-27T00:00:00.000Z",
+                "note": "<p>NAIT alumnus, <a href=\"https://mstdn.ca/tags/yeg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>yeg</span></a> musician. Making health info healthier. 356 ppm. Settler on Treaty 6 land.<br>Instance operator of mstdn.ca.</p><p>My toots are my own and engagement may not indicate endorsement.\u2028 Yeah, toots. I said it. Tooooots.</p>",
+                "url": "https://mstdn.ca/@chad",
+                "uri": "https://mstdn.ca/users/chad",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "followers_count": 4812,
+                "following_count": 980,
+                "statuses_count": 5157,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "mstdn",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/original/b651d12fb348c8f8.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/static/b651d12fb348c8f8.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://chadohman.ca\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">chadohman.ca</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T06:40:53.988+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Edmonton, AB",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Buy me a \u2615",
+                        "value": "<a href=\"https://www.buymeacoffee.com/chadohman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">buymeacoffee.com/chadohman</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112840895051580656",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/840/895/051/580/656/original/152cae6d48e6b3ac.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/840/895/051/580/656/small/152cae6d48e6b3ac.png",
+                    "remote_url": "https://cdn.mastdn.ca/media_attachments/files/112/840/894/462/510/745/original/60b5264e395394d1.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 1597,
+                            "height": 1257,
+                            "size": "1597x1257",
+                            "aspect": 1.2704852824184567
+                        },
+                        "small": {
+                            "width": 541,
+                            "height": 426,
+                            "size": "541x426",
+                            "aspect": 1.2699530516431925
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "U58;9}s=AVS#0x%1-WxZTdNGvznjvgWBO?R%"
+                }
+            ],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112840931789493799",
+            "created_at": "2024-07-24T10:12:53.000Z",
+            "in_reply_to_id": "112840895117850413",
+            "in_reply_to_account_id": "108202686568504494",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/chad/statuses/112840931648172553",
+            "url": "https://mstdn.ca/@chad/112840931648172553",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p>here's how large the fire plume was at last light...</p>",
+            "reblog": null,
+            "account": {
+                "id": "108202686568504494",
+                "username": "chad",
+                "acct": "chad@mstdn.ca",
+                "display_name": "Chad :mstdn:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-27T00:00:00.000Z",
+                "note": "<p>NAIT alumnus, <a href=\"https://mstdn.ca/tags/yeg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>yeg</span></a> musician. Making health info healthier. 356 ppm. Settler on Treaty 6 land.<br>Instance operator of mstdn.ca.</p><p>My toots are my own and engagement may not indicate endorsement.\u2028 Yeah, toots. I said it. Tooooots.</p>",
+                "url": "https://mstdn.ca/@chad",
+                "uri": "https://mstdn.ca/users/chad",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "followers_count": 4812,
+                "following_count": 980,
+                "statuses_count": 5157,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "mstdn",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/original/b651d12fb348c8f8.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/static/b651d12fb348c8f8.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://chadohman.ca\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">chadohman.ca</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T06:40:53.988+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Edmonton, AB",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Buy me a \u2615",
+                        "value": "<a href=\"https://www.buymeacoffee.com/chadohman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">buymeacoffee.com/chadohman</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112840931728608100",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/840/931/728/608/100/original/8a2f0c138d6beb2b.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/840/931/728/608/100/small/8a2f0c138d6beb2b.png",
+                    "remote_url": "https://cdn.mastdn.ca/media_attachments/files/112/840/931/265/648/873/original/f00d4a990a3c1128.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 1744,
+                            "height": 940,
+                            "size": "1744x940",
+                            "aspect": 1.8553191489361702
+                        },
+                        "small": {
+                            "width": 653,
+                            "height": 352,
+                            "size": "653x352",
+                            "aspect": 1.8551136363636365
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "UHD9;g4T_34.%N4n-;IUIUWBxuofWBxat7ay"
+                }
+            ],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112840953840794722",
+            "created_at": "2024-07-24T10:18:29.000Z",
+            "in_reply_to_id": "112840931789493799",
+            "in_reply_to_account_id": "108202686568504494",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/chad/statuses/112840953647471257",
+            "url": "https://mstdn.ca/@chad/112840953647471257",
+            "replies_count": 0,
+            "reblogs_count": 2,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>That's a 265km plume...</p>",
+            "reblog": null,
+            "account": {
+                "id": "108202686568504494",
+                "username": "chad",
+                "acct": "chad@mstdn.ca",
+                "display_name": "Chad :mstdn:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-27T00:00:00.000Z",
+                "note": "<p>NAIT alumnus, <a href=\"https://mstdn.ca/tags/yeg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>yeg</span></a> musician. Making health info healthier. 356 ppm. Settler on Treaty 6 land.<br>Instance operator of mstdn.ca.</p><p>My toots are my own and engagement may not indicate endorsement.\u2028 Yeah, toots. I said it. Tooooots.</p>",
+                "url": "https://mstdn.ca/@chad",
+                "uri": "https://mstdn.ca/users/chad",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "followers_count": 4812,
+                "following_count": 980,
+                "statuses_count": 5157,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "mstdn",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/original/b651d12fb348c8f8.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/static/b651d12fb348c8f8.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://chadohman.ca\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">chadohman.ca</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T06:40:53.988+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Edmonton, AB",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Buy me a \u2615",
+                        "value": "<a href=\"https://www.buymeacoffee.com/chadohman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">buymeacoffee.com/chadohman</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112840953777852966",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/840/953/777/852/966/original/17c245dae45dcc29.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/840/953/777/852/966/small/17c245dae45dcc29.png",
+                    "remote_url": "https://cdn.mastdn.ca/media_attachments/files/112/840/953/545/697/359/original/16bccb13c6b12068.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 1422,
+                            "height": 679,
+                            "size": "1422x679",
+                            "aspect": 2.094256259204713
+                        },
+                        "small": {
+                            "width": 695,
+                            "height": 332,
+                            "size": "695x332",
+                            "aspect": 2.0933734939759034
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "UBCZne8_?b0K%N4-%MIU9FRQ-;xuD%t7%MWB"
+                }
+            ],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112840880402101020",
+            "created_at": "2024-07-24T09:59:51.000Z",
+            "in_reply_to_id": "112840780130313014",
+            "in_reply_to_account_id": "108202686568504494",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://aus.social/users/scottmatter/statuses/112840880364811665",
+            "url": "https://aus.social/@scottmatter/112840880364811665",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@chad\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chad</span></a></span> </p><p>Damn.</p><p>Hope they manage to protect the town. I know they\u2019ve been doing a lot, from prescribed burning to firebreaks, over the past 25 years or so. </p><p>But the last couple times I\u2019ve been there (2018, 2023) the amount of dead standing timber from pine beetle etc made me feel nervous.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109254590630057200",
+                "username": "scottmatter",
+                "acct": "scottmatter@aus.social",
+                "display_name": "Scott Matter",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-30T00:00:00.000Z",
+                "note": "<p>small axe working for sustained / systemic change (he / him). </p><p>Also Senior Lecturer, TD School at UTS.</p><p>Some areas of interest: \u2028<a href=\"https://aus.social/tags/anthropology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>anthropology</span></a>, <a href=\"https://aus.social/tags/anarchism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>anarchism</span></a> <a href=\"https://aus.social/tags/ethnography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethnography</span></a> <a href=\"https://aus.social/tags/strategicDesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>strategicDesign</span></a> <a href=\"https://aus.social/tags/serviceDesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>serviceDesign</span></a> <a href=\"https://aus.social/tags/foresight\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>foresight</span></a> <a href=\"https://aus.social/tags/futures\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>futures</span></a>  <a href=\"https://aus.social/tags/buddhism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>buddhism</span></a> <a href=\"https://aus.social/tags/hockey\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hockey</span></a> <a href=\"https://aus.social/tags/music\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>music</span></a> <a href=\"https://aus.social/tags/collectiveImprovisation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>collectiveImprovisation</span></a> <a href=\"https://aus.social/tags/speculativeEverything\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>speculativeEverything</span></a> <a href=\"https://aus.social/tags/JustTransition\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JustTransition</span></a> <a href=\"https://aus.social/tags/politicalEcology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politicalEcology</span></a> <a href=\"https://aus.social/tags/Australia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Australia</span></a> <a href=\"https://aus.social/tags/Canada\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Canada</span></a></p><p>[Banner image is a panoramic photo with snowshoe tracks on Maligne Lake, Jasper NP,  December 2018]</p>",
+                "url": "https://aus.social/@scottmatter",
+                "uri": "https://aus.social/users/scottmatter",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/254/590/630/057/200/original/dcdf3298aab04b2e.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/254/590/630/057/200/original/dcdf3298aab04b2e.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/254/590/630/057/200/original/03ab6e51d666acce.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/254/590/630/057/200/original/03ab6e51d666acce.jpeg",
+                "followers_count": 1069,
+                "following_count": 1247,
+                "statuses_count": 5935,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Intermittent blogging",
+                        "value": "<a href=\"https://www.scottmatter.org/blog/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">scottmatter.org/blog/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T22:23:34.015+00:00"
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Wangal country / Sydney",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108202686568504494",
+                    "username": "chad",
+                    "url": "https://mstdn.ca/@chad",
+                    "acct": "chad@mstdn.ca"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112840884381114492",
+            "created_at": "2024-07-24T10:00:50.000Z",
+            "in_reply_to_id": "112840880402101020",
+            "in_reply_to_account_id": "109254590630057200",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/chad/statuses/112840884273596955",
+            "url": "https://mstdn.ca/@chad/112840884273596955",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://aus.social/@scottmatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>scottmatter</span></a></span> it's tough. I know they're doing everything they can to protect life and property. It's now a mutual aid fire between Parks Canada and Alberta Wildfire.</p>",
+            "reblog": null,
+            "account": {
+                "id": "108202686568504494",
+                "username": "chad",
+                "acct": "chad@mstdn.ca",
+                "display_name": "Chad :mstdn:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-27T00:00:00.000Z",
+                "note": "<p>NAIT alumnus, <a href=\"https://mstdn.ca/tags/yeg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>yeg</span></a> musician. Making health info healthier. 356 ppm. Settler on Treaty 6 land.<br>Instance operator of mstdn.ca.</p><p>My toots are my own and engagement may not indicate endorsement.\u2028 Yeah, toots. I said it. Tooooots.</p>",
+                "url": "https://mstdn.ca/@chad",
+                "uri": "https://mstdn.ca/users/chad",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "followers_count": 4812,
+                "following_count": 980,
+                "statuses_count": 5157,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "mstdn",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/original/b651d12fb348c8f8.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/static/b651d12fb348c8f8.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://chadohman.ca\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">chadohman.ca</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T06:40:53.988+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Edmonton, AB",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Buy me a \u2615",
+                        "value": "<a href=\"https://www.buymeacoffee.com/chadohman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">buymeacoffee.com/chadohman</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109254590630057200",
+                    "username": "scottmatter",
+                    "url": "https://aus.social/@scottmatter",
+                    "acct": "scottmatter@aus.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112840906963543598",
+            "created_at": "2024-07-24T10:06:36.000Z",
+            "in_reply_to_id": "112840884381114492",
+            "in_reply_to_account_id": "108202686568504494",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://aus.social/users/scottmatter/statuses/112840906924474635",
+            "url": "https://aus.social/@scottmatter/112840906924474635",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@chad\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chad</span></a></span> </p><p>Such a special place for so many people. I know fire\u2019s part of the ecosystem (with a very complicated history of dispossession, fire suppression, and adaptive management), but it hurts to see a big one like this. </p><p>Fwiw, this amazing project is relevant to this situation: <a href=\"https://mountainlegacy.ca/about/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mountainlegacy.ca/about/</span><span class=\"invisible\"></span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109254590630057200",
+                "username": "scottmatter",
+                "acct": "scottmatter@aus.social",
+                "display_name": "Scott Matter",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-30T00:00:00.000Z",
+                "note": "<p>small axe working for sustained / systemic change (he / him). </p><p>Also Senior Lecturer, TD School at UTS.</p><p>Some areas of interest: \u2028<a href=\"https://aus.social/tags/anthropology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>anthropology</span></a>, <a href=\"https://aus.social/tags/anarchism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>anarchism</span></a> <a href=\"https://aus.social/tags/ethnography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethnography</span></a> <a href=\"https://aus.social/tags/strategicDesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>strategicDesign</span></a> <a href=\"https://aus.social/tags/serviceDesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>serviceDesign</span></a> <a href=\"https://aus.social/tags/foresight\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>foresight</span></a> <a href=\"https://aus.social/tags/futures\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>futures</span></a>  <a href=\"https://aus.social/tags/buddhism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>buddhism</span></a> <a href=\"https://aus.social/tags/hockey\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hockey</span></a> <a href=\"https://aus.social/tags/music\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>music</span></a> <a href=\"https://aus.social/tags/collectiveImprovisation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>collectiveImprovisation</span></a> <a href=\"https://aus.social/tags/speculativeEverything\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>speculativeEverything</span></a> <a href=\"https://aus.social/tags/JustTransition\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JustTransition</span></a> <a href=\"https://aus.social/tags/politicalEcology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politicalEcology</span></a> <a href=\"https://aus.social/tags/Australia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Australia</span></a> <a href=\"https://aus.social/tags/Canada\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Canada</span></a></p><p>[Banner image is a panoramic photo with snowshoe tracks on Maligne Lake, Jasper NP,  December 2018]</p>",
+                "url": "https://aus.social/@scottmatter",
+                "uri": "https://aus.social/users/scottmatter",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/254/590/630/057/200/original/dcdf3298aab04b2e.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/254/590/630/057/200/original/dcdf3298aab04b2e.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/254/590/630/057/200/original/03ab6e51d666acce.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/254/590/630/057/200/original/03ab6e51d666acce.jpeg",
+                "followers_count": 1069,
+                "following_count": 1247,
+                "statuses_count": 5935,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Intermittent blogging",
+                        "value": "<a href=\"https://www.scottmatter.org/blog/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">scottmatter.org/blog/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T22:23:34.015+00:00"
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Wangal country / Sydney",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108202686568504494",
+                    "username": "chad",
+                    "url": "https://mstdn.ca/@chad",
+                    "acct": "chad@mstdn.ca"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112840917969603826",
+            "created_at": "2024-07-24T10:09:22.000Z",
+            "in_reply_to_id": "112840906963543598",
+            "in_reply_to_account_id": "109254590630057200",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/chad/statuses/112840917841271468",
+            "url": "https://mstdn.ca/@chad/112840917841271468",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://aus.social/@scottmatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>scottmatter</span></a></span> it's a very special place. I would argue more special than Banff because so much of the town is carefully preserved with a keen council. It feels historic but also modern.</p><p>There's so much history there as a railway town and I hope the fire can be kept away.</p>",
+            "reblog": null,
+            "account": {
+                "id": "108202686568504494",
+                "username": "chad",
+                "acct": "chad@mstdn.ca",
+                "display_name": "Chad :mstdn:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-27T00:00:00.000Z",
+                "note": "<p>NAIT alumnus, <a href=\"https://mstdn.ca/tags/yeg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>yeg</span></a> musician. Making health info healthier. 356 ppm. Settler on Treaty 6 land.<br>Instance operator of mstdn.ca.</p><p>My toots are my own and engagement may not indicate endorsement.\u2028 Yeah, toots. I said it. Tooooots.</p>",
+                "url": "https://mstdn.ca/@chad",
+                "uri": "https://mstdn.ca/users/chad",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "followers_count": 4812,
+                "following_count": 980,
+                "statuses_count": 5157,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "mstdn",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/original/b651d12fb348c8f8.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/static/b651d12fb348c8f8.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://chadohman.ca\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">chadohman.ca</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T06:40:53.988+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Edmonton, AB",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Buy me a \u2615",
+                        "value": "<a href=\"https://www.buymeacoffee.com/chadohman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">buymeacoffee.com/chadohman</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109254590630057200",
+                    "username": "scottmatter",
+                    "url": "https://aus.social/@scottmatter",
+                    "acct": "scottmatter@aus.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112840929976635055",
+            "created_at": "2024-07-24T10:12:27.000Z",
+            "in_reply_to_id": "112840917969603826",
+            "in_reply_to_account_id": "108202686568504494",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://aus.social/users/scottmatter/statuses/112840929940532683",
+            "url": "https://aus.social/@scottmatter/112840929940532683",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@chad\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chad</span></a></span> </p><p>Definitely more a Jasper guy than Banff (though I did live in Banff for a summer). Between the actual town and park and some family and personal history, it\u2019s one of my favorite places on the planet.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109254590630057200",
+                "username": "scottmatter",
+                "acct": "scottmatter@aus.social",
+                "display_name": "Scott Matter",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-30T00:00:00.000Z",
+                "note": "<p>small axe working for sustained / systemic change (he / him). </p><p>Also Senior Lecturer, TD School at UTS.</p><p>Some areas of interest: \u2028<a href=\"https://aus.social/tags/anthropology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>anthropology</span></a>, <a href=\"https://aus.social/tags/anarchism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>anarchism</span></a> <a href=\"https://aus.social/tags/ethnography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethnography</span></a> <a href=\"https://aus.social/tags/strategicDesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>strategicDesign</span></a> <a href=\"https://aus.social/tags/serviceDesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>serviceDesign</span></a> <a href=\"https://aus.social/tags/foresight\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>foresight</span></a> <a href=\"https://aus.social/tags/futures\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>futures</span></a>  <a href=\"https://aus.social/tags/buddhism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>buddhism</span></a> <a href=\"https://aus.social/tags/hockey\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hockey</span></a> <a href=\"https://aus.social/tags/music\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>music</span></a> <a href=\"https://aus.social/tags/collectiveImprovisation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>collectiveImprovisation</span></a> <a href=\"https://aus.social/tags/speculativeEverything\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>speculativeEverything</span></a> <a href=\"https://aus.social/tags/JustTransition\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JustTransition</span></a> <a href=\"https://aus.social/tags/politicalEcology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politicalEcology</span></a> <a href=\"https://aus.social/tags/Australia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Australia</span></a> <a href=\"https://aus.social/tags/Canada\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Canada</span></a></p><p>[Banner image is a panoramic photo with snowshoe tracks on Maligne Lake, Jasper NP,  December 2018]</p>",
+                "url": "https://aus.social/@scottmatter",
+                "uri": "https://aus.social/users/scottmatter",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/254/590/630/057/200/original/dcdf3298aab04b2e.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/254/590/630/057/200/original/dcdf3298aab04b2e.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/254/590/630/057/200/original/03ab6e51d666acce.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/254/590/630/057/200/original/03ab6e51d666acce.jpeg",
+                "followers_count": 1069,
+                "following_count": 1247,
+                "statuses_count": 5935,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Intermittent blogging",
+                        "value": "<a href=\"https://www.scottmatter.org/blog/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">scottmatter.org/blog/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T22:23:34.015+00:00"
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Wangal country / Sydney",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108202686568504494",
+                    "username": "chad",
+                    "url": "https://mstdn.ca/@chad",
+                    "acct": "chad@mstdn.ca"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112841019373614781",
+            "created_at": "2024-07-24T10:35:09.000Z",
+            "in_reply_to_id": "112840929976635055",
+            "in_reply_to_account_id": "109254590630057200",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/chad/statuses/112841019218913950",
+            "url": "https://mstdn.ca/@chad/112841019218913950",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://aus.social/@scottmatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>scottmatter</span></a></span> You and me both.</p>",
+            "reblog": null,
+            "account": {
+                "id": "108202686568504494",
+                "username": "chad",
+                "acct": "chad@mstdn.ca",
+                "display_name": "Chad :mstdn:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-27T00:00:00.000Z",
+                "note": "<p>NAIT alumnus, <a href=\"https://mstdn.ca/tags/yeg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>yeg</span></a> musician. Making health info healthier. 356 ppm. Settler on Treaty 6 land.<br>Instance operator of mstdn.ca.</p><p>My toots are my own and engagement may not indicate endorsement.\u2028 Yeah, toots. I said it. Tooooots.</p>",
+                "url": "https://mstdn.ca/@chad",
+                "uri": "https://mstdn.ca/users/chad",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/202/686/568/504/494/original/041c58b4c4b29123.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/202/686/568/504/494/original/f98a24d1076cae47.jpg",
+                "followers_count": 4812,
+                "following_count": 980,
+                "statuses_count": 5157,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "mstdn",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/original/b651d12fb348c8f8.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/450/374/static/b651d12fb348c8f8.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://chadohman.ca\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">chadohman.ca</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T06:40:53.988+00:00"
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Edmonton, AB",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Buy me a \u2615",
+                        "value": "<a href=\"https://www.buymeacoffee.com/chadohman\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">buymeacoffee.com/chadohman</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109254590630057200",
+                    "username": "scottmatter",
+                    "url": "https://aus.social/@scottmatter",
+                    "acct": "scottmatter@aus.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112840923753727182",
+            "created_at": "2024-07-24T10:10:52.000Z",
+            "in_reply_to_id": "112840895117850413",
+            "in_reply_to_account_id": "108202686568504494",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://aus.social/users/scottmatter/statuses/112840923685287015",
+            "url": "https://aus.social/@scottmatter/112840923685287015",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@chad\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chad</span></a></span> </p><p>Yikes, getting up to Marmot already\u2026</p>",
+            "reblog": null,
+            "account": {
+                "id": "109254590630057200",
+                "username": "scottmatter",
+                "acct": "scottmatter@aus.social",
+                "display_name": "Scott Matter",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-30T00:00:00.000Z",
+                "note": "<p>small axe working for sustained / systemic change (he / him). </p><p>Also Senior Lecturer, TD School at UTS.</p><p>Some areas of interest: \u2028<a href=\"https://aus.social/tags/anthropology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>anthropology</span></a>, <a href=\"https://aus.social/tags/anarchism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>anarchism</span></a> <a href=\"https://aus.social/tags/ethnography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethnography</span></a> <a href=\"https://aus.social/tags/strategicDesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>strategicDesign</span></a> <a href=\"https://aus.social/tags/serviceDesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>serviceDesign</span></a> <a href=\"https://aus.social/tags/foresight\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>foresight</span></a> <a href=\"https://aus.social/tags/futures\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>futures</span></a>  <a href=\"https://aus.social/tags/buddhism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>buddhism</span></a> <a href=\"https://aus.social/tags/hockey\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hockey</span></a> <a href=\"https://aus.social/tags/music\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>music</span></a> <a href=\"https://aus.social/tags/collectiveImprovisation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>collectiveImprovisation</span></a> <a href=\"https://aus.social/tags/speculativeEverything\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>speculativeEverything</span></a> <a href=\"https://aus.social/tags/JustTransition\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JustTransition</span></a> <a href=\"https://aus.social/tags/politicalEcology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politicalEcology</span></a> <a href=\"https://aus.social/tags/Australia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Australia</span></a> <a href=\"https://aus.social/tags/Canada\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Canada</span></a></p><p>[Banner image is a panoramic photo with snowshoe tracks on Maligne Lake, Jasper NP,  December 2018]</p>",
+                "url": "https://aus.social/@scottmatter",
+                "uri": "https://aus.social/users/scottmatter",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/254/590/630/057/200/original/dcdf3298aab04b2e.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/254/590/630/057/200/original/dcdf3298aab04b2e.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/254/590/630/057/200/original/03ab6e51d666acce.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/254/590/630/057/200/original/03ab6e51d666acce.jpeg",
+                "followers_count": 1069,
+                "following_count": 1247,
+                "statuses_count": 5935,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Intermittent blogging",
+                        "value": "<a href=\"https://www.scottmatter.org/blog/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">scottmatter.org/blog/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T22:23:34.015+00:00"
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Wangal country / Sydney",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108202686568504494",
+                    "username": "chad",
+                    "url": "https://mstdn.ca/@chad",
+                    "acct": "chad@mstdn.ca"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112841787597183708",
+            "created_at": "2024-07-24T13:50:32.000Z",
+            "in_reply_to_id": "112840895117850413",
+            "in_reply_to_account_id": "108202686568504494",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/Chigaze/statuses/112841787448862546",
+            "url": "https://mstdn.ca/@Chigaze/112841787448862546",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@chad\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chad</span></a></span> Having spent my life heading out there and up to Marmot I was having nightmares last night about the fire reaching Marmot\u2026 \ud83d\ude2c</p>",
+            "reblog": null,
+            "account": {
+                "id": "109344135624541821",
+                "username": "Chigaze",
+                "acct": "Chigaze@mstdn.ca",
+                "display_name": "Paul Turnbull :CApride:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-12T00:00:00.000Z",
+                "note": "<p>Degree in Political Science, career in tech.<br>Inhabitant of YEG for most of 54 years and the neighbourhood of Westmount for over 20. Had a new house built during the pandemic on the site of our old one. Partner to the amazing <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@daintychainsaw\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daintychainsaw</span></a></span>.<br>30+ years in virtual communities from late 80\u2019s BBS\u2019s to current social media with stops in Usenet, MMO groups, Discord\u2026 </p><p>Gamer of all types from boardgames to computer games to console games. See \u202a<span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.games/@Igaze\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Igaze</span></a></span>\u202c for gaming posts.</p><p>Edmonton, Alberta</p>",
+                "url": "https://mstdn.ca/@Chigaze",
+                "uri": "https://mstdn.ca/users/Chigaze",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/344/135/624/541/821/original/12b7dc6e74970d2a.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/344/135/624/541/821/original/12b7dc6e74970d2a.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/344/135/624/541/821/original/2968525cc3f22d85.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/344/135/624/541/821/original/2968525cc3f22d85.png",
+                "followers_count": 774,
+                "following_count": 373,
+                "statuses_count": 15499,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "CApride",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/604/855/original/da9cbf8a6412e32b.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/604/855/static/da9cbf8a6412e32b.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Quote",
+                        "value": "\u201cEvil begins when you begin to treat people as things.\u201d \u2015 Terry Pratchett\n\n\"Nae king! Nae quin! Nae laird! Nae master! We willna' be fooled again!\" - Nac Mac Feegle",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Reading",
+                        "value": "Some Desperate Glory - Emily Tesh",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "He/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Career",
+                        "value": "Regular Human Database Administrator",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108202686568504494",
+                    "username": "chad",
+                    "url": "https://mstdn.ca/@chad",
+                    "acct": "chad@mstdn.ca"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112841735759274313",
+            "created_at": "2024-07-24T13:37:21.000Z",
+            "in_reply_to_id": "112840780130313014",
+            "in_reply_to_account_id": "108202686568504494",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/jfmezei/statuses/112841735641467979",
+            "url": "https://mstdn.ca/@jfmezei/112841735641467979",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@chad\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chad</span></a></span> I thought the Sentinel satellites were top of class for recent imagery but the images  I have seen so far of Jasper don\u2019t even come close to the images you have shown.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109363166640828362",
+                "username": "jfmezei",
+                "acct": "jfmezei@mstdn.ca",
+                "display_name": "Jean-Francois Mezei",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>Network/IT guy, started work on VAX computers.<br>Author of Petition to Governor in Council to overturn UBB decisions at CRTC.<br>was/is  jfmezei on Twitter.<br>From greater Montr\u00e9al, Qu\u00e9bec, Canada,  Earth area</p>",
+                "url": "https://mstdn.ca/@jfmezei",
+                "uri": "https://mstdn.ca/users/jfmezei",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/363/166/640/828/362/original/0e7aa0b137a589b4.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/363/166/640/828/362/original/0e7aa0b137a589b4.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/363/166/640/828/362/original/9a393e1a0b8b8931.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/363/166/640/828/362/original/9a393e1a0b8b8931.png",
+                "followers_count": 321,
+                "following_count": 80,
+                "statuses_count": 20538,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Web",
+                        "value": "<a href=\"http://www.vaxination.ca\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"\">vaxination.ca</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108202686568504494",
+                    "username": "chad",
+                    "url": "https://mstdn.ca/@chad",
+                    "acct": "chad@mstdn.ca"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

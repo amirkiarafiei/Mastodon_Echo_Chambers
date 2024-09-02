@@ -1,0 +1,197 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112914988232681060",
+            "created_at": "2024-08-06T12:06:24.000Z",
+            "in_reply_to_id": "112904142080998151",
+            "in_reply_to_account_id": "109247255215674808",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://fosstodon.org/users/AkaSci/statuses/112914988061250439",
+            "url": "https://fosstodon.org/@AkaSci/112914988061250439",
+            "replies_count": 0,
+            "reblogs_count": 8,
+            "favourites_count": 2,
+            "edited_at": "2024-08-06T12:27:10.000Z",
+            "content": "<p>Tropical storm Debby is currently churning inland near the coast of Georgia. Shortly it will exit to the Atlantic ocean, restrengthen in the warm coastal waters, bend northwards and make landfall again on the coast of South Carolina. It is expected to dump a ton of rain in the Carolinas, 12-20 inches worth, with higher local amounts.</p><p>It will then continue on its rain-dumping romp across VA, Washington D.C., NYC and Boston.</p><p><a href=\"https://www.nhc.noaa.gov/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">nhc.noaa.gov/</span><span class=\"invisible\"></span></a><br><a href=\"https://fosstodon.org/tags/Debby\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Debby</span></a> <a href=\"https://fosstodon.org/tags/ClimateChange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateChange</span></a><br>2/n</p>",
+            "reblog": null,
+            "account": {
+                "id": "109247255215674808",
+                "username": "AkaSci",
+                "acct": "AkaSci@fosstodon.org",
+                "display_name": "AkaSci \ud83d\udef0\ufe0f",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>SatCom Scientist<br>Writing occasionally about space missions, astronomy, planetary science, satellites and science in general.<br>He/Him<br><a href=\"https://fosstodon.org/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a> <a href=\"https://fosstodon.org/tags/space\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>space</span></a> <a href=\"https://fosstodon.org/tags/technology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>technology</span></a> <a href=\"https://fosstodon.org/tags/astronomy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>astronomy</span></a> <a href=\"https://fosstodon.org/tags/satellites\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>satellites</span></a> <a href=\"https://fosstodon.org/tags/Democracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Democracy</span></a></p>",
+                "url": "https://fosstodon.org/@AkaSci",
+                "uri": "https://fosstodon.org/users/AkaSci",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/247/255/215/674/808/original/8de6da34bebd534f.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/247/255/215/674/808/original/8de6da34bebd534f.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/247/255/215/674/808/original/200ed5d766282b42.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/247/255/215/674/808/original/200ed5d766282b42.jpg",
+                "followers_count": 4978,
+                "following_count": 401,
+                "statuses_count": 4920,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [
+                {
+                    "id": "112914988192553750",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/914/988/192/553/750/original/0726dfee96c3de3a.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/914/988/192/553/750/small/0726dfee96c3de3a.png",
+                    "remote_url": "https://cdn.fosstodon.org/media_attachments/files/112/914/962/948/288/320/original/627b42b2009b68a6.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "focus": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "original": {
+                            "width": 964,
+                            "height": 1426,
+                            "size": "964x1426",
+                            "aspect": 0.6760168302945302
+                        },
+                        "small": {
+                            "width": 395,
+                            "height": 584,
+                            "size": "395x584",
+                            "aspect": 0.6763698630136986
+                        }
+                    },
+                    "description": "1. Past and future track of TS Debby\n2. Graphic of rainfall estimates",
+                    "blurhash": "UUKe[h=f-aOm4dxoI+nmalW8ixSg-K$+xwSz"
+                }
+            ],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "debby",
+                    "url": "https://mastodon.social/tags/debby"
+                },
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.nhc.noaa.gov/",
+                "title": "National Hurricane Center",
+                "description": "",
+                "language": null,
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 0,
+                "height": 0,
+                "image": null,
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": null,
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112905579956927477",
+            "created_at": "2024-08-04T20:13:46.000Z",
+            "in_reply_to_id": "112904142080998151",
+            "in_reply_to_account_id": "109247255215674808",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112905579851438285",
+            "url": "https://mastodon.au/@largess/112905579851438285",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@AkaSci\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>AkaSci</span></a></span><br>Wy didn't Big Ron just pass legislation oitlawing talk of hurricanes to.solve the problems ?  /s</p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109247255215674808",
+                    "username": "AkaSci",
+                    "url": "https://fosstodon.org/@AkaSci",
+                    "acct": "AkaSci@fosstodon.org"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

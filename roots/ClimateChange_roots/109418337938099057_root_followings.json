@@ -1,0 +1,298 @@
+[
+    {
+        "id": "41055",
+        "username": "eff",
+        "acct": "eff",
+        "display_name": "Electronic Frontier Foundation",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-04-04T00:00:00.000Z",
+        "note": "<p>EFF&#39;s mastodon presence, please visit us at <a href=\"https://www.eff.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">eff.org</span><span class=\"invisible\"></span></a>. Do not message this account with confidential information or to seek legal assistance; for legal help email info@eff.org or visit <a href=\"https://www.eff.org/pages/legal-assistance\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">eff.org/pages/legal-assistance</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@eff",
+        "uri": "https://mastodon.social/users/eff",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/041/055/original/5882409472032e01.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/041/055/original/5882409472032e01.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/041/055/original/694e226056f5633d.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/041/055/original/694e226056f5633d.jpg",
+        "followers_count": 63480,
+        "following_count": 13,
+        "statuses_count": 18799,
+        "last_status_at": "2024-08-30",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.eff.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">eff.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-11-02T21:28:54.864+00:00"
+            }
+        ]
+    },
+    {
+        "id": "110295517839882221",
+        "username": "theweatherguy",
+        "acct": "theweatherguy",
+        "display_name": "theweatherguy",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-05-01T00:00:00.000Z",
+        "note": "<p>Long time Weather Forecaster for the Philadelphia Area.\u2029 <br />Primary Mastodon instance is:   <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@theweatherguy\" class=\"u-url mention\">@<span>theweatherguy</span></a></span></p><p>Old, previous mastodon instance on wxcloud.social: <span class=\"h-card\" translate=\"no\"><a href=\"https://wxcloud.social/@theweatherguy\" class=\"u-url mention\">@<span>theweatherguy</span></a></span></p><p>Website: <a href=\"https://theweatherguy.net/blog/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">theweatherguy.net/blog/</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@theweatherguy",
+        "uri": "https://mastodon.social/users/theweatherguy",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/295/517/839/882/221/original/bdbe548b546aa5b2.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/295/517/839/882/221/original/bdbe548b546aa5b2.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/295/517/839/882/221/original/29ce3e6654760b33.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/295/517/839/882/221/original/29ce3e6654760b33.jpg",
+        "followers_count": 181,
+        "following_count": 81,
+        "statuses_count": 737,
+        "last_status_at": "2024-08-30",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "website",
+                "value": "<a href=\"https://theweatherguy.net/blog\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">theweatherguy.net/blog</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-09-29T14:24:12.623+00:00"
+            }
+        ]
+    },
+    {
+        "id": "110266162634306901",
+        "username": "arstechnica",
+        "acct": "arstechnica",
+        "display_name": "Ars Technica",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-04-26T00:00:00.000Z",
+        "note": "<p>Original news, reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech.</p><p>Official Ars Technica account. \ud83d\udfe0</p>",
+        "url": "https://mastodon.social/@arstechnica",
+        "uri": "https://mastodon.social/users/arstechnica",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/266/162/634/306/901/original/83169ae835e6c5ac.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/266/162/634/306/901/original/83169ae835e6c5ac.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/266/162/634/306/901/original/356063731b2c5192.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/266/162/634/306/901/original/356063731b2c5192.jpg",
+        "followers_count": 161798,
+        "following_count": 6,
+        "statuses_count": 5641,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Ars Technica",
+                "value": "<a href=\"https://arstechnica.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">arstechnica.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-04-27T13:17:49.854+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109243139631965273",
+        "username": "jeffjarvis",
+        "acct": "jeffjarvis",
+        "display_name": "Jeff Jarvis",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p><a href=\"https://mastodon.social/tags/Journalism\" class=\"mention hashtag\" rel=\"tag\">#<span>Journalism</span></a> prof at CUNY&#39;s Newmark School. Author of THE GUTENBERG PARENTHESIS &amp; OBJECT LESSONS: MAGAZINE upcoming from Bloomsbury. Cohost of This Week in Google on the TWiT network.</p>",
+        "url": "https://mastodon.social/@jeffjarvis",
+        "uri": "https://mastodon.social/users/jeffjarvis",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/243/139/631/965/273/original/f9cf9411bc073721.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/243/139/631/965/273/original/f9cf9411bc073721.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/243/139/631/965/273/original/4feb216c1037723e.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/243/139/631/965/273/original/4feb216c1037723e.png",
+        "followers_count": 48289,
+        "following_count": 2164,
+        "statuses_count": 12150,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "My blog",
+                "value": "<a href=\"https://buzzmachine.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">buzzmachine.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-15T16:02:17.852+00:00"
+            },
+            {
+                "name": "My Medium",
+                "value": "<a href=\"https://jeffjarvis.medium.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">jeffjarvis.medium.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "My Book: Gutenberg Parenthesis",
+                "value": "<a href=\"https://gutenbergparenthesis.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gutenbergparenthesis.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "My school",
+                "value": "<a href=\"https://journalism.cuny.edu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">journalism.cuny.edu</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "559242",
+        "username": "openscience",
+        "acct": "openscience",
+        "display_name": "Open Science \u2705",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-10-08T00:00:00.000Z",
+        "note": "<p>Science must be opened \u2014 because science opens everything else! Sapere aude!</p><p>\u2014\u2014\u2014\u2014\u2014\u2013\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014<br />\u2000\u2000Boosts are most welcome \ud83d\udc4d<br />\u2014\u2014\u2014\u2014\u2014\u2013\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</p><p><a href=\"https://mastodon.social/tags/Science\" class=\"mention hashtag\" rel=\"tag\">#<span>Science</span></a> <a href=\"https://mastodon.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenScience</span></a> <a href=\"https://mastodon.social/tags/OpenAccess\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenAccess</span></a> <a href=\"https://mastodon.social/tags/OpenData\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenData</span></a> <a href=\"https://mastodon.social/tags/reproducibility\" class=\"mention hashtag\" rel=\"tag\">#<span>reproducibility</span></a> <a href=\"https://mastodon.social/tags/OpenSource\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenSource</span></a> <a href=\"https://mastodon.social/tags/foss\" class=\"mention hashtag\" rel=\"tag\">#<span>foss</span></a> <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"tag\">#<span>privacy</span></a> <a href=\"https://mastodon.social/tags/UnrestrictedFreeSpeech\" class=\"mention hashtag\" rel=\"tag\">#<span>UnrestrictedFreeSpeech</span></a></p>",
+        "url": "https://mastodon.social/@openscience",
+        "uri": "https://mastodon.social/users/openscience",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/559/242/original/5576a38a15989b0a.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/559/242/original/5576a38a15989b0a.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/559/242/original/d89666ea23604deb.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/559/242/original/d89666ea23604deb.png",
+        "followers_count": 32835,
+        "following_count": 14703,
+        "statuses_count": 408,
+        "last_status_at": "2024-08-22",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "information",
+                "value": "democratization",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/openscience\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/openscience</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-16T23:22:28.444+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109251088201008636",
+        "username": "Sheril",
+        "acct": "Sheril",
+        "display_name": "Sheril Kirshenbaum",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-29T00:00:00.000Z",
+        "note": "<p>Author. Scientist. Host of PBS Serving Up Science. \u201824-25 International Affairs Fellow in the U.S. Senate. Sustainability, Politics &amp; Science Communication. <a href=\"https://mastodon.social/tags/HistoryRemix\" class=\"mention hashtag\" rel=\"tag\">#<span>HistoryRemix</span></a> for stories of diverse trailblazers in science &amp; the arts. <a href=\"https://mastodon.social/tags/SharedPlanet\" class=\"mention hashtag\" rel=\"tag\">#<span>SharedPlanet</span></a> to explore biodiversity</p>",
+        "url": "https://mastodon.social/@Sheril",
+        "uri": "https://mastodon.social/users/Sheril",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/251/088/201/008/636/original/e8e7f344256a741f.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/251/088/201/008/636/original/e8e7f344256a741f.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/251/088/201/008/636/original/3a93b1c23ffad6c4.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/251/088/201/008/636/original/3a93b1c23ffad6c4.jpeg",
+        "followers_count": 61843,
+        "following_count": 208,
+        "statuses_count": 1321,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "109373774912342849",
+        "username": "wonderofscience",
+        "acct": "wonderofscience",
+        "display_name": "Wonder of Science",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-11-20T00:00:00.000Z",
+        "note": "<p>&quot;The most beautiful thing we can experience is the mysterious. It is the source of all true art and science&quot; - Albert Einstein</p>",
+        "url": "https://mastodon.social/@wonderofscience",
+        "uri": "https://mastodon.social/users/wonderofscience",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/373/774/912/342/849/original/db39d93cdd51ee03.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/373/774/912/342/849/original/db39d93cdd51ee03.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/373/774/912/342/849/original/57213f2e96ecfc46.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/373/774/912/342/849/original/57213f2e96ecfc46.jpg",
+        "followers_count": 40143,
+        "following_count": 13,
+        "statuses_count": 301,
+        "last_status_at": "2024-08-29",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Linktree",
+                "value": "<a href=\"https://linktr.ee/wonderofscience\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/wonderofscience</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109314497321462652",
+        "username": "Memelord2020",
+        "acct": "Memelord2020",
+        "display_name": "Memelord DM me \"bread\"",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-09T00:00:00.000Z",
+        "note": "<p>Switch ID: SW-7726-6079-6591\u2028&lt;a rel=&quot;me&quot; href=&quot;<a href=\"https://mastodon.social/@Memelord2020\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.social/@Memelord2020</span><span class=\"invisible\"></span></a>&quot;&gt;Mastodon&lt;/a&gt;</p>",
+        "url": "https://mastodon.social/@Memelord2020",
+        "uri": "https://mastodon.social/users/Memelord2020",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/314/497/321/462/652/original/2311f9d3cb7a15ed.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/314/497/321/462/652/original/2311f9d3cb7a15ed.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/314/497/321/462/652/original/f9752ef861c3d79f.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/314/497/321/462/652/original/f9752ef861c3d79f.jpg",
+        "followers_count": 929,
+        "following_count": 4985,
+        "statuses_count": 616,
+        "last_status_at": "2023-04-01",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/M3M310RD_2020\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/M3M310RD_2020</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "YouTube",
+                "value": "<a href=\"https://www.youtube.com/channel/UCUP4DRMMc7shuH_bNMaL2PQ\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/channel/UCUP4DRMMc</span><span class=\"invisible\">7shuH_bNMaL2PQ</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Mastodon",
+                "value": "<a href=\"https://mastodon.social/@Memelord2020\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.social/@Memelord2020</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-04-22T12:42:04.099+00:00"
+            }
+        ]
+    }
+]

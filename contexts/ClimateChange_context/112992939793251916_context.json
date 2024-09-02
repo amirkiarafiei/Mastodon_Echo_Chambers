@@ -1,0 +1,157 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112992947209206131",
+            "created_at": "2024-08-20T06:32:27.017Z",
+            "in_reply_to_id": "112992939793251916",
+            "in_reply_to_account_id": "109307111415425510",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/urlyman/statuses/112992947209206131",
+            "url": "https://mastodon.social/@urlyman/112992947209206131",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 3,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@statsguy\" class=\"u-url mention\">@<span>statsguy</span></a></span> this is, sadly, no surprise at all</p>",
+            "reblog": null,
+            "application": {
+                "name": "Ivory for iOS",
+                "website": "https://tapbots.com/"
+            },
+            "account": {
+                "id": "10546",
+                "username": "urlyman",
+                "acct": "urlyman",
+                "display_name": "Jonathan Schofield",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2016-11-13T00:00:00.000Z",
+                "note": "<p>Cycling, designing, <br />coding, over-thinking. <br />Bit sweary.</p><p>A JS who writes JS but prefers to write CSS.  </p><p>\u201cThe times are urgent. <br />Let\u2019s slow down.\u201d<br />\u2014Bayo Akomolafe</p>",
+                "url": "https://mastodon.social/@urlyman",
+                "uri": "https://mastodon.social/users/urlyman",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/010/546/original/edfceac1ad0b5272.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/010/546/original/edfceac1ad0b5272.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/000/010/546/original/9b1e9cc222a834b9.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/010/546/original/9b1e9cc222a834b9.jpg",
+                "followers_count": 808,
+                "following_count": 644,
+                "statuses_count": 11424,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Supporting a free, open-source carbon auditing standard",
+                        "value": "<a href=\"https://www.seethroughcarbon.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">seethroughcarbon.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "BSky (token presence)",
+                        "value": "<a href=\"https://bsky.app/profile/urlyman.bsky.social\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/urlyman.bsky.</span><span class=\"invisible\">social</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109307111415425510",
+                    "username": "statsguy",
+                    "url": "https://mas.to/@statsguy",
+                    "acct": "statsguy@mas.to"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112993353440768928",
+            "created_at": "2024-08-20T08:15:44.000Z",
+            "in_reply_to_id": "112992939793251916",
+            "in_reply_to_account_id": "109307111415425510",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.nu/users/Gurre/statuses/112993353394554287",
+            "url": "https://mastodon.nu/@Gurre/112993353394554287",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@statsguy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>statsguy</span></a></span> <br>But at least they gave a clear GO to the whole HS2 as originally proposed and for HS3 as well.</p><p>right? </p><p>:(</p>",
+            "reblog": null,
+            "account": {
+                "id": "109295237566158153",
+                "username": "Gurre",
+                "acct": "Gurre@mastodon.nu",
+                "display_name": "Gurre Vildsk\u00e4gg",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-06T00:00:00.000Z",
+                "note": "<p>One of the founders of the Yimby movement in Stockholm, Scandinavia, and the world! <br>Views expressed here are personal ones.</p><p>Day job: Database Engineer, primarily using PostgreSQL</p><p><a href=\"https://mastodon.nu/tags/yimby\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>yimby</span></a> <a href=\"https://mastodon.nu/tags/housing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>housing</span></a> <a href=\"https://mastodon.nu/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a> <a href=\"https://mastodon.nu/tags/urbanism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>urbanism</span></a> <a href=\"https://mastodon.nu/tags/transportation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transportation</span></a> <a href=\"https://mastodon.nu/tags/UrbSth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UrbSth</span></a> <a href=\"https://mastodon.nu/tags/08bygg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>08bygg</span></a> <a href=\"https://mastodon.nu/tags/WilliamsSyndrome\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WilliamsSyndrome</span></a></p>",
+                "url": "https://mastodon.nu/@Gurre",
+                "uri": "https://mastodon.nu/users/Gurre",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/295/237/566/158/153/original/368873839aac001d.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/295/237/566/158/153/original/368873839aac001d.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/295/237/566/158/153/original/7c8d0ee6750df001.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/295/237/566/158/153/original/7c8d0ee6750df001.jpeg",
+                "followers_count": 868,
+                "following_count": 767,
+                "statuses_count": 28409,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Location",
+                        "value": "Stockholm",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Yimby",
+                        "value": "very yes",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "BookWyrm",
+                        "value": "@gurre@bookwyrm.social",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109307111415425510",
+                    "username": "statsguy",
+                    "url": "https://mas.to/@statsguy",
+                    "acct": "statsguy@mas.to"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

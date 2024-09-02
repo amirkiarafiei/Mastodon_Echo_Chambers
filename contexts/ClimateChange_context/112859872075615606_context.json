@@ -1,0 +1,68 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112859878736612618",
+            "created_at": "2024-07-27T18:31:23.267Z",
+            "in_reply_to_id": "112859872075615606",
+            "in_reply_to_account_id": "562088",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.social/users/earthling42/statuses/112859878736612618",
+            "url": "https://mastodon.social/@earthling42/112859878736612618",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.wildeboer.net/@jwildeboer\" class=\"u-url mention\">@<span>jwildeboer</span></a></span> Yes... and when the ice is gone... \ud83d\ude36</p>",
+            "reblog": null,
+            "application": {
+                "name": "Tusky",
+                "website": "https://tusky.app"
+            },
+            "account": {
+                "id": "109244713972012769",
+                "username": "earthling42",
+                "acct": "earthling42",
+                "display_name": "Earthling",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p><a href=\"https://mastodon.social/tags/Games\" class=\"mention hashtag\" rel=\"tag\">#<span>Games</span></a><br /><a href=\"https://mastodon.social/tags/UX\" class=\"mention hashtag\" rel=\"tag\">#<span>UX</span></a><br /><a href=\"https://mastodon.social/tags/AgileManifesto\" class=\"mention hashtag\" rel=\"tag\">#<span>AgileManifesto</span></a></p><p>Music: <a href=\"https://mastodon.social/tags/Metal\" class=\"mention hashtag\" rel=\"tag\">#<span>Metal</span></a> &amp; almost anything but &quot;Volksmusik&quot;</p><p><a href=\"https://mastodon.social/tags/covid\" class=\"mention hashtag\" rel=\"tag\">#<span>covid</span></a> is no cold.<br /><a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> is not weather.<br /><a href=\"https://mastodon.social/tags/climatecrisis\" class=\"mention hashtag\" rel=\"tag\">#<span>climatecrisis</span></a> sucks.</p>",
+                "url": "https://mastodon.social/@earthling42",
+                "uri": "https://mastodon.social/users/earthling42",
+                "avatar": "https://files.mastodon.social/accounts/avatars/109/244/713/972/012/769/original/ef2aeeb1fd658c0d.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/109/244/713/972/012/769/original/ef2aeeb1fd658c0d.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/109/244/713/972/012/769/original/5754652eec85650f.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/109/244/713/972/012/769/original/5754652eec85650f.png",
+                "followers_count": 211,
+                "following_count": 601,
+                "statuses_count": 2924,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "562088",
+                    "username": "jwildeboer",
+                    "url": "https://social.wildeboer.net/@jwildeboer",
+                    "acct": "jwildeboer@social.wildeboer.net"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

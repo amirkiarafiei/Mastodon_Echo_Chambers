@@ -1,0 +1,1464 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112870134461287362",
+            "created_at": "2024-07-29T13:59:32.000Z",
+            "in_reply_to_id": "112870113547249650",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://nrw.social/users/timaeus/statuses/112870134435292900",
+            "url": "https://nrw.social/@timaeus/112870134435292900",
+            "replies_count": 3,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> Thanks for pointing this out! But: Even if something like that would come (I don\u2019t think so at all) it would never be enforced with sufficient strength on the global scale (that would be a necessary condition to work).</p>",
+            "reblog": null,
+            "account": {
+                "id": "109309348857771828",
+                "username": "timaeus",
+                "acct": "timaeus@nrw.social",
+                "display_name": "Johannes Timaeus",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p><a href=\"https://nrw.social/tags/Biologist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biologist</span></a>, <a href=\"https://nrw.social/tags/Biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biodiversity</span></a>, <a href=\"https://nrw.social/tags/Ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ecology</span></a>, <a href=\"https://nrw.social/tags/Agroecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Agroecology</span></a>, <a href=\"https://nrw.social/tags/Tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tech</span></a>, <a href=\"https://nrw.social/tags/Gardening\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Gardening</span></a>, <a href=\"https://nrw.social/tags/Chilis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Chilis</span></a>, <a href=\"https://nrw.social/tags/Mountainbiking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mountainbiking</span></a></p>",
+                "url": "https://nrw.social/@timaeus",
+                "uri": "https://nrw.social/users/timaeus",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/309/348/857/771/828/original/4d0f3d1361373a64.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/309/348/857/771/828/original/4d0f3d1361373a64.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/309/348/857/771/828/original/483c558c324c82c8.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/309/348/857/771/828/original/483c558c324c82c8.jpeg",
+                "followers_count": 266,
+                "following_count": 970,
+                "statuses_count": 454,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "German blog",
+                        "value": "<a href=\"https://bio-kultur.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bio-kultur.org</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-21T20:28:12.741+00:00"
+                    },
+                    {
+                        "name": "photography",
+                        "value": "<a href=\"https://pixelfed.de/JohannesTimaeus\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.de/JohannesTimaeus</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "science",
+                        "value": "<a href=\"https://www.researchgate.net/profile/Johannes-Timaeus\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">researchgate.net/profile/Johan</span><span class=\"invisible\">nes-Timaeus</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "English science blog",
+                        "value": "<a href=\"https://bioculture.hypotheses.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bioculture.hypotheses.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870162273656852",
+            "created_at": "2024-07-29T14:06:36.000Z",
+            "in_reply_to_id": "112870134461287362",
+            "in_reply_to_account_id": "109309348857771828",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://geekdom.social/users/FantasticalEconomics/statuses/112870162216714071",
+            "url": "https://geekdom.social/@FantasticalEconomics/112870162216714071",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://nrw.social/@timaeus\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timaeus</span></a></span> </p><p>I would say it would be challenging, for sure. But it could work.</p><p>My mentality is we need to change almost everything in our global system to prevent climate collapse. That a global tax couldn't work within our current system, isn't sufficient to say it won't work in future ones.</p><p>Our social systems will change and evolve over time, and we can't know what that will look like. I'm very much on favor of making progress where we can with a hope for better systems in the back of my mind.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109570315473720553",
+                "username": "FantasticalEconomics",
+                "acct": "FantasticalEconomics@geekdom.social",
+                "display_name": "Kyle Montanio",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-21T00:00:00.000Z",
+                "note": "<p>I'm an environmental economist who researches econ pedagogy to make learning economics marginally less dismal.</p><p>My pipe-dream is to write a fantasy novel/economics textbook, which is getting closer to reality every day.</p><p><a href=\"https://geekdom.social/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://geekdom.social/tags/TeachEcon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TeachEcon</span></a> <a href=\"https://geekdom.social/tags/sustainability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sustainability</span></a> <a href=\"https://geekdom.social/tags/DoughnutEconomics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DoughnutEconomics</span></a> <a href=\"https://geekdom.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> </p><p>Profile pic is me smiling in front of a whiteboard with economics gibberish -- cause econ makes me happy.</p><p>Background is my dog, Freya, who is derpily sticking her tongue out while passed out.</p>",
+                "url": "https://geekdom.social/@FantasticalEconomics",
+                "uri": "https://geekdom.social/users/FantasticalEconomics",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "followers_count": 1373,
+                "following_count": 1306,
+                "statuses_count": 9963,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "About me",
+                        "value": "Making econ marginally less dismal one post at a time. I teach economics at the UC Denver and am an all around nerd. My goal is to combine my passion for all things fantasy/sci-fi and love of economics to lower the cost of learning econ.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Fantastical Economics",
+                        "value": "You can find my first-ever short story that covers the circular economy and sustainability in a sci-fi setting here: <a href=\"https://edgeryders.eu/t/circular-reasoning/19717\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edgeryders.eu/t/circular-reaso</span><span class=\"invisible\">ning/19717</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109309348857771828",
+                    "username": "timaeus",
+                    "url": "https://nrw.social/@timaeus",
+                    "acct": "timaeus@nrw.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870200103274252",
+            "created_at": "2024-07-29T14:16:14.000Z",
+            "in_reply_to_id": "112870162273656852",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://nrw.social/users/timaeus/statuses/112870200070441919",
+            "url": "https://nrw.social/@timaeus/112870200070441919",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> I absolutely agree with you and like how you phrase it, saying that if it doesn\u2019t work now it might be working in the future. I just fear that the pressure required to facilitate such a system change can only come from some catastrophic events, like a collapse of the Atlantic circulation <a href=\"https://en.m.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.m.wikipedia.org/wiki/Atlant</span><span class=\"invisible\">ic_meridional_overturning_circulation</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109309348857771828",
+                "username": "timaeus",
+                "acct": "timaeus@nrw.social",
+                "display_name": "Johannes Timaeus",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p><a href=\"https://nrw.social/tags/Biologist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biologist</span></a>, <a href=\"https://nrw.social/tags/Biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biodiversity</span></a>, <a href=\"https://nrw.social/tags/Ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ecology</span></a>, <a href=\"https://nrw.social/tags/Agroecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Agroecology</span></a>, <a href=\"https://nrw.social/tags/Tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tech</span></a>, <a href=\"https://nrw.social/tags/Gardening\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Gardening</span></a>, <a href=\"https://nrw.social/tags/Chilis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Chilis</span></a>, <a href=\"https://nrw.social/tags/Mountainbiking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mountainbiking</span></a></p>",
+                "url": "https://nrw.social/@timaeus",
+                "uri": "https://nrw.social/users/timaeus",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/309/348/857/771/828/original/4d0f3d1361373a64.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/309/348/857/771/828/original/4d0f3d1361373a64.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/309/348/857/771/828/original/483c558c324c82c8.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/309/348/857/771/828/original/483c558c324c82c8.jpeg",
+                "followers_count": 266,
+                "following_count": 970,
+                "statuses_count": 454,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "German blog",
+                        "value": "<a href=\"https://bio-kultur.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bio-kultur.org</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-21T20:28:12.741+00:00"
+                    },
+                    {
+                        "name": "photography",
+                        "value": "<a href=\"https://pixelfed.de/JohannesTimaeus\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.de/JohannesTimaeus</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "science",
+                        "value": "<a href=\"https://www.researchgate.net/profile/Johannes-Timaeus\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">researchgate.net/profile/Johan</span><span class=\"invisible\">nes-Timaeus</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "English science blog",
+                        "value": "<a href=\"https://bioculture.hypotheses.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bioculture.hypotheses.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://en.m.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation",
+                "title": "Atlantic meridional overturning circulation - Wikipedia",
+                "description": "",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 540,
+                "height": 426,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/049/919/139/original/01894f0f30c59d4e.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UNHodz%19qIB9axa8_M{~WohIVNb00bESco1",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112870222645349397",
+            "created_at": "2024-07-29T14:21:57.000Z",
+            "in_reply_to_id": "112870200103274252",
+            "in_reply_to_account_id": "109309348857771828",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://geekdom.social/users/FantasticalEconomics/statuses/112870222581928200",
+            "url": "https://geekdom.social/@FantasticalEconomics/112870222581928200",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://nrw.social/@timaeus\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timaeus</span></a></span> </p><p>Unfortunately, I agree with you. I don't see us making meaningful changes until the costs are, catostrophically, slapping us in the face.</p><p>Still, I think there is much we can, and should, do to prepare ourselves for when that devastating opportunity arises. Discussing options (like this tax) and continuing to get the message out to folks about how bad it's likely to get are a start.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109570315473720553",
+                "username": "FantasticalEconomics",
+                "acct": "FantasticalEconomics@geekdom.social",
+                "display_name": "Kyle Montanio",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-21T00:00:00.000Z",
+                "note": "<p>I'm an environmental economist who researches econ pedagogy to make learning economics marginally less dismal.</p><p>My pipe-dream is to write a fantasy novel/economics textbook, which is getting closer to reality every day.</p><p><a href=\"https://geekdom.social/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://geekdom.social/tags/TeachEcon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TeachEcon</span></a> <a href=\"https://geekdom.social/tags/sustainability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sustainability</span></a> <a href=\"https://geekdom.social/tags/DoughnutEconomics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DoughnutEconomics</span></a> <a href=\"https://geekdom.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> </p><p>Profile pic is me smiling in front of a whiteboard with economics gibberish -- cause econ makes me happy.</p><p>Background is my dog, Freya, who is derpily sticking her tongue out while passed out.</p>",
+                "url": "https://geekdom.social/@FantasticalEconomics",
+                "uri": "https://geekdom.social/users/FantasticalEconomics",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "followers_count": 1373,
+                "following_count": 1306,
+                "statuses_count": 9963,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "About me",
+                        "value": "Making econ marginally less dismal one post at a time. I teach economics at the UC Denver and am an all around nerd. My goal is to combine my passion for all things fantasy/sci-fi and love of economics to lower the cost of learning econ.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Fantastical Economics",
+                        "value": "You can find my first-ever short story that covers the circular economy and sustainability in a sci-fi setting here: <a href=\"https://edgeryders.eu/t/circular-reasoning/19717\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edgeryders.eu/t/circular-reaso</span><span class=\"invisible\">ning/19717</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109309348857771828",
+                    "username": "timaeus",
+                    "url": "https://nrw.social/@timaeus",
+                    "acct": "timaeus@nrw.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870357231072894",
+            "created_at": "2024-07-29T14:56:11.000Z",
+            "in_reply_to_id": "112870222645349397",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://nrw.social/users/timaeus/statuses/112870357198887016",
+            "url": "https://nrw.social/@timaeus/112870357198887016",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> Agreed!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109309348857771828",
+                "username": "timaeus",
+                "acct": "timaeus@nrw.social",
+                "display_name": "Johannes Timaeus",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p><a href=\"https://nrw.social/tags/Biologist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biologist</span></a>, <a href=\"https://nrw.social/tags/Biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biodiversity</span></a>, <a href=\"https://nrw.social/tags/Ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ecology</span></a>, <a href=\"https://nrw.social/tags/Agroecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Agroecology</span></a>, <a href=\"https://nrw.social/tags/Tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tech</span></a>, <a href=\"https://nrw.social/tags/Gardening\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Gardening</span></a>, <a href=\"https://nrw.social/tags/Chilis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Chilis</span></a>, <a href=\"https://nrw.social/tags/Mountainbiking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mountainbiking</span></a></p>",
+                "url": "https://nrw.social/@timaeus",
+                "uri": "https://nrw.social/users/timaeus",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/309/348/857/771/828/original/4d0f3d1361373a64.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/309/348/857/771/828/original/4d0f3d1361373a64.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/309/348/857/771/828/original/483c558c324c82c8.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/309/348/857/771/828/original/483c558c324c82c8.jpeg",
+                "followers_count": 266,
+                "following_count": 970,
+                "statuses_count": 454,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "German blog",
+                        "value": "<a href=\"https://bio-kultur.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bio-kultur.org</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-21T20:28:12.741+00:00"
+                    },
+                    {
+                        "name": "photography",
+                        "value": "<a href=\"https://pixelfed.de/JohannesTimaeus\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.de/JohannesTimaeus</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "science",
+                        "value": "<a href=\"https://www.researchgate.net/profile/Johannes-Timaeus\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">researchgate.net/profile/Johan</span><span class=\"invisible\">nes-Timaeus</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "English science blog",
+                        "value": "<a href=\"https://bioculture.hypotheses.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bioculture.hypotheses.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870162868979209",
+            "created_at": "2024-07-29T14:06:46.000Z",
+            "in_reply_to_id": "112870134461287362",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://nrw.social/users/timaeus/statuses/112870162846020718",
+            "url": "https://nrw.social/@timaeus/112870162846020718",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span>  But I hope I am wrong</p>",
+            "reblog": null,
+            "account": {
+                "id": "109309348857771828",
+                "username": "timaeus",
+                "acct": "timaeus@nrw.social",
+                "display_name": "Johannes Timaeus",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p><a href=\"https://nrw.social/tags/Biologist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biologist</span></a>, <a href=\"https://nrw.social/tags/Biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biodiversity</span></a>, <a href=\"https://nrw.social/tags/Ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ecology</span></a>, <a href=\"https://nrw.social/tags/Agroecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Agroecology</span></a>, <a href=\"https://nrw.social/tags/Tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tech</span></a>, <a href=\"https://nrw.social/tags/Gardening\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Gardening</span></a>, <a href=\"https://nrw.social/tags/Chilis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Chilis</span></a>, <a href=\"https://nrw.social/tags/Mountainbiking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mountainbiking</span></a></p>",
+                "url": "https://nrw.social/@timaeus",
+                "uri": "https://nrw.social/users/timaeus",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/309/348/857/771/828/original/4d0f3d1361373a64.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/309/348/857/771/828/original/4d0f3d1361373a64.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/309/348/857/771/828/original/483c558c324c82c8.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/309/348/857/771/828/original/483c558c324c82c8.jpeg",
+                "followers_count": 266,
+                "following_count": 970,
+                "statuses_count": 454,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "German blog",
+                        "value": "<a href=\"https://bio-kultur.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bio-kultur.org</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-21T20:28:12.741+00:00"
+                    },
+                    {
+                        "name": "photography",
+                        "value": "<a href=\"https://pixelfed.de/JohannesTimaeus\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.de/JohannesTimaeus</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "science",
+                        "value": "<a href=\"https://www.researchgate.net/profile/Johannes-Timaeus\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">researchgate.net/profile/Johan</span><span class=\"invisible\">nes-Timaeus</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "English science blog",
+                        "value": "<a href=\"https://bioculture.hypotheses.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bioculture.hypotheses.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870367607494581",
+            "created_at": "2024-07-29T14:58:49.000Z",
+            "in_reply_to_id": "112870134461287362",
+            "in_reply_to_account_id": "109309348857771828",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.online/users/NatureMC/statuses/112870367518766325",
+            "url": "https://mastodon.online/@NatureMC/112870367518766325",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://nrw.social/@timaeus\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timaeus</span></a></span> No reason to resignate by doing nothing. As a EU citizen, you can sign the official petition for the parliament (if enough sign it, they are obliged to debate the law!) It's up to us to act! <a href=\"https://www.tax-the-rich.eu/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">tax-the-rich.eu/</span><span class=\"invisible\"></span></a>  <span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "108197711700082259",
+                "username": "NatureMC",
+                "acct": "NatureMC@mastodon.online",
+                "display_name": "Petra van Cronenburg",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-04-25T00:00:00.000Z",
+                "note": "<p>I am a <a href=\"https://mastodon.online/tags/journalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>journalist</span></a>, <a href=\"https://mastodon.online/tags/author\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>author</span></a> and <a href=\"https://mastodon.online/tags/paperartist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperartist</span></a>, working on a community <a href=\"https://mastodon.online/tags/reconnecting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reconnecting</span></a> you with <a href=\"https://mastodon.online/tags/nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nature</span></a>. <a href=\"https://mastodon.online/tags/NatureMatchCuts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NatureMatchCuts</span></a> is my <a href=\"https://mastodon.online/tags/podcast\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>podcast</span></a> for changing perspectives in the <a href=\"https://mastodon.online/tags/Anthropocene\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Anthropocene</span></a>. <a href=\"https://mastodon.online/tags/Nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nature</span></a> <a href=\"https://mastodon.online/tags/biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>biodiversity</span></a> <a href=\"https://mastodon.online/tags/ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecology</span></a> <a href=\"https://mastodon.online/tags/Europe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Europe</span></a> <a href=\"https://mastodon.online/tags/CulturalHeritage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CulturalHeritage</span></a> <a href=\"https://mastodon.online/tags/Art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Art</span></a> <a href=\"https://mastodon.online/tags/NatureWriting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NatureWriting</span></a>. Volunteering in a French <a href=\"https://mastodon.online/tags/heritagecenter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>heritagecenter</span></a> and <a href=\"https://mastodon.online/tags/museum\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>museum</span></a> in a <a href=\"https://mastodon.online/tags/BiosphereReserve\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BiosphereReserve</span></a>. <a href=\"https://mastodon.online/tags/Artist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Artist</span></a> with <a href=\"https://mastodon.online/tags/paperjewellery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperjewellery</span></a> <a href=\"https://mastodon.online/tags/collage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>collage</span></a> <a href=\"https://mastodon.online/tags/assemblage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>assemblage</span></a>, <a href=\"https://mastodon.online/tags/artjournals\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artjournals</span></a> + <a href=\"https://mastodon.online/tags/visiblemending\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>visiblemending</span></a>. Toots: English (mainly), German, French. NO CWs for nature! <a href=\"https://mastodon.online/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a> <a href=\"https://mastodon.online/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobridge</span></a> \ud83c\udf08</p>",
+                "url": "https://mastodon.online/@NatureMC",
+                "uri": "https://mastodon.online/users/NatureMC",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/197/711/700/082/259/original/a5ac06e70217832c.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/197/711/700/082/259/original/a5ac06e70217832c.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/197/711/700/082/259/original/86d9733cc7d9ef2b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/197/711/700/082/259/original/86d9733cc7d9ef2b.jpg",
+                "followers_count": 2997,
+                "following_count": 1438,
+                "statuses_count": 3971,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Podcast",
+                        "value": "<a href=\"https://naturematchcuts.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">naturematchcuts.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Support me on Steady",
+                        "value": "<a href=\"https://steadyhq.com/naturematchcuts\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">steadyhq.com/naturematchcuts</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "My website",
+                        "value": "<a href=\"https://www.cronenburg.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">cronenburg.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T06:06:53.616+00:00"
+                    },
+                    {
+                        "name": "Support me on Ko-Fi",
+                        "value": "<a href=\"https://ko-fi.com/naturematchcuts\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/naturematchcuts</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109309348857771828",
+                    "username": "timaeus",
+                    "url": "https://nrw.social/@timaeus",
+                    "acct": "timaeus@nrw.social"
+                },
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.tax-the-rich.eu/",
+                "title": "Tax The Rich",
+                "description": "Nous voulons un  imp\u00f4t europ\u00e9en sur les grandes fortunes  pour financer la transition climatique et sociale et aider les pays victimes des d\u00e9r\u00e8glements climatiques.",
+                "language": "fr",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Tax The Rich",
+                "provider_url": "",
+                "html": "",
+                "width": 640,
+                "height": 360,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/064/070/182/original/215c5efa25a1b3be.png",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UHAJUtrxN8O*+txAkEWavZs$oYnnG1jLnhwW",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112870140444851447",
+            "created_at": "2024-07-29T14:01:04.530Z",
+            "in_reply_to_id": "112870113547249650",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/mckra1g/statuses/112870140444851447",
+            "url": "https://mastodon.social/@mckra1g/112870140444851447",
+            "replies_count": 1,
+            "reblogs_count": 3,
+            "favourites_count": 7,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\">@<span>FantasticalEconomics</span></a></span> </p><p>\u201c\u2018Only about 100 families around the world would be affected by the proposed 2% levy,\u2019 she* added.\u201d</p><p>*Ana Toni, national secretary for climate change in the government of President Luiz In\u00e1cio Lula da Silva</p><p>ONE HUNDRED FAMILIES!? </p><p>\u203c\ufe0f\ud83e\udd2f\ud83e\udd2c\ud83d\udd25\u203c\ufe0f</p><p>Approximately 8 BILLION people are being held hostage by an infinitesimal number of humans\u2019 greed. Newsflash: the ants outnumber the grasshoppers. </p><p><a href=\"https://mastodon.social/tags/Climate\" class=\"mention hashtag\" rel=\"tag\">#<span>Climate</span></a> <a href=\"https://mastodon.social/tags/climateChange\" class=\"mention hashtag\" rel=\"tag\">#<span>climateChange</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "109240495129582918",
+                "username": "mckra1g",
+                "acct": "mckra1g",
+                "display_name": "Molly Cantrell-Kraig \u2705",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-27T00:00:00.000Z",
+                "note": "<p>Author, gardener, <a href=\"https://mastodon.social/tags/FaerieManager\" class=\"mention hashtag\" rel=\"tag\">#<span>FaerieManager</span></a>. Feat. CNN, Christian Science Monitor, BBC, Shriver Center. Happy For No Reason\u00ae Trainer. Work in progress. Website/books etc in ABOUT tab. Chicagoan. She/hers <a href=\"https://mastodon.social/tags/Fedified\" class=\"mention hashtag\" rel=\"tag\">#<span>Fedified</span></a></p>",
+                "url": "https://mastodon.social/@mckra1g",
+                "uri": "https://mastodon.social/users/mckra1g",
+                "avatar": "https://files.mastodon.social/accounts/avatars/109/240/495/129/582/918/original/3f56a71bbbd856c0.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/109/240/495/129/582/918/original/3f56a71bbbd856c0.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/109/240/495/129/582/918/original/8c588a905b86101f.jpeg",
+                "header_static": "https://files.mastodon.social/accounts/headers/109/240/495/129/582/918/original/8c588a905b86101f.jpeg",
+                "followers_count": 3158,
+                "following_count": 411,
+                "statuses_count": 6444,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "My website",
+                        "value": "<a href=\"https://mollycantrellkraig.co/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">mollycantrellkraig.co/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-18T21:02:48.163+00:00"
+                    },
+                    {
+                        "name": "My LinkTree",
+                        "value": "<a href=\"https://linktr.ee/mckra1g\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/mckra1g</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Newsletter (#3MR)",
+                        "value": "<a href=\"https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7036702800168325120\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">linkedin.com/build-relation/ne</span><span class=\"invisible\">wsletter-follow?entityUrn=7036702800168325120</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Coaching sessions",
+                        "value": "<a href=\"https://calendly.com/mckra1g/hfnr-resilience-reset?month=2022-11\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">calendly.com/mckra1g/hfnr-resi</span><span class=\"invisible\">lience-reset?month=2022-11</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870181948011188",
+            "created_at": "2024-07-29T14:11:31.000Z",
+            "in_reply_to_id": "112870140444851447",
+            "in_reply_to_account_id": "109240495129582918",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://geekdom.social/users/FantasticalEconomics/statuses/112870181565674764",
+            "url": "https://geekdom.social/@FantasticalEconomics/112870181565674764",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@mckra1g\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mckra1g</span></a></span> </p><p>Power is such an interesting concept. These 100 families have pretty much unlimited power, until they don't. </p><p>I'm not quite to the point of suggesting we ants rise up and overthrow the grasshoppers, but they do need to realize it's a credible threat for things to change, imo.</p><p>Regardless, we ants need to come together because united, we will be the ones with power. Which is why so much is spent on trying to divide us.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109570315473720553",
+                "username": "FantasticalEconomics",
+                "acct": "FantasticalEconomics@geekdom.social",
+                "display_name": "Kyle Montanio",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-21T00:00:00.000Z",
+                "note": "<p>I'm an environmental economist who researches econ pedagogy to make learning economics marginally less dismal.</p><p>My pipe-dream is to write a fantasy novel/economics textbook, which is getting closer to reality every day.</p><p><a href=\"https://geekdom.social/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://geekdom.social/tags/TeachEcon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TeachEcon</span></a> <a href=\"https://geekdom.social/tags/sustainability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sustainability</span></a> <a href=\"https://geekdom.social/tags/DoughnutEconomics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DoughnutEconomics</span></a> <a href=\"https://geekdom.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> </p><p>Profile pic is me smiling in front of a whiteboard with economics gibberish -- cause econ makes me happy.</p><p>Background is my dog, Freya, who is derpily sticking her tongue out while passed out.</p>",
+                "url": "https://geekdom.social/@FantasticalEconomics",
+                "uri": "https://geekdom.social/users/FantasticalEconomics",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "followers_count": 1373,
+                "following_count": 1306,
+                "statuses_count": 9963,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "About me",
+                        "value": "Making econ marginally less dismal one post at a time. I teach economics at the UC Denver and am an all around nerd. My goal is to combine my passion for all things fantasy/sci-fi and love of economics to lower the cost of learning econ.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Fantastical Economics",
+                        "value": "You can find my first-ever short story that covers the circular economy and sustainability in a sci-fi setting here: <a href=\"https://edgeryders.eu/t/circular-reasoning/19717\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edgeryders.eu/t/circular-reaso</span><span class=\"invisible\">ning/19717</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109240495129582918",
+                    "username": "mckra1g",
+                    "url": "https://mastodon.social/@mckra1g",
+                    "acct": "mckra1g"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870212806213119",
+            "created_at": "2024-07-29T14:19:28.000Z",
+            "in_reply_to_id": "112870113547249650",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.world/users/pedrobizbikedu/statuses/112870212779865793",
+            "url": "https://mastodon.world/@pedrobizbikedu/112870212779865793",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> It\u2019s a start.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109542116696396290",
+                "username": "pedrobizbikedu",
+                "acct": "pedrobizbikedu@mastodon.world",
+                "display_name": "P Regina",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-16T00:00:00.000Z",
+                "note": "<p>Biker, gardener, lifelong learner. \u2029Started right, moved left - still going. Grew up in the NW suburbs of Chicago, but have lived in the UK for the past 30 years. Decided at the age of eight that I'd never retire, which is just as well... <a href=\"https://mastodon.world/tags/HigherEducation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HigherEducation</span></a> <a href=\"https://mastodon.world/tags/Politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Politics</span></a> <a href=\"https://mastodon.world/tags/BusinessEducation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BusinessEducation</span></a> <a href=\"https://mastodon.world/tags/MediaLiteracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MediaLiteracy</span></a> <a href=\"https://mastodon.world/tags/Humanism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Humanism</span></a> <a href=\"https://mastodon.world/tags/Motorcycling\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Motorcycling</span></a> <a href=\"https://mastodon.world/tags/Roadcraft\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Roadcraft</span></a> <a href=\"https://mastodon.world/tags/Filmmaking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Filmmaking</span></a> <a href=\"https://mastodon.world/tags/ItalianFood\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ItalianFood</span></a> <a href=\"https://mastodon.world/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a></p>",
+                "url": "https://mastodon.world/@pedrobizbikedu",
+                "uri": "https://mastodon.world/users/pedrobizbikedu",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/542/116/696/396/290/original/7d9c347ac2325a45.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/542/116/696/396/290/original/7d9c347ac2325a45.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/542/116/696/396/290/original/6650f4f822c2a339.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/542/116/696/396/290/original/6650f4f822c2a339.jpg",
+                "followers_count": 52,
+                "following_count": 89,
+                "statuses_count": 2725,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870349382278671",
+            "created_at": "2024-07-29T14:54:11.000Z",
+            "in_reply_to_id": "112870113547249650",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.online/users/NatureMC/statuses/112870349294609482",
+            "url": "https://mastodon.online/@NatureMC/112870349294609482",
+            "replies_count": 2,
+            "reblogs_count": 2,
+            "favourites_count": 0,
+            "edited_at": "2024-07-29T14:54:56.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> And in the <a href=\"https://mastodon.online/tags/EU\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EU</span></a>, we have a <a href=\"https://mastodon.online/tags/petition\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>petition</span></a> that needs urgently more signings: <a href=\"https://www.tax-the-rich.eu/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">tax-the-rich.eu/</span><span class=\"invisible\"></span></a> If enough people sign it, the <a href=\"https://mastodon.online/tags/EuropeanParliament\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EuropeanParliament</span></a> has to debate a new law! This is an official petition for EU citizens with direct influence. <a href=\"https://mastodon.online/tags/taxTheRich\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>taxTheRich</span></a> <a href=\"https://mastodon.online/tags/TaxBillionaires\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TaxBillionaires</span></a> <a href=\"https://mastodon.online/tags/WealthTax\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WealthTax</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "108197711700082259",
+                "username": "NatureMC",
+                "acct": "NatureMC@mastodon.online",
+                "display_name": "Petra van Cronenburg",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-04-25T00:00:00.000Z",
+                "note": "<p>I am a <a href=\"https://mastodon.online/tags/journalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>journalist</span></a>, <a href=\"https://mastodon.online/tags/author\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>author</span></a> and <a href=\"https://mastodon.online/tags/paperartist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperartist</span></a>, working on a community <a href=\"https://mastodon.online/tags/reconnecting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reconnecting</span></a> you with <a href=\"https://mastodon.online/tags/nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nature</span></a>. <a href=\"https://mastodon.online/tags/NatureMatchCuts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NatureMatchCuts</span></a> is my <a href=\"https://mastodon.online/tags/podcast\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>podcast</span></a> for changing perspectives in the <a href=\"https://mastodon.online/tags/Anthropocene\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Anthropocene</span></a>. <a href=\"https://mastodon.online/tags/Nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nature</span></a> <a href=\"https://mastodon.online/tags/biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>biodiversity</span></a> <a href=\"https://mastodon.online/tags/ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecology</span></a> <a href=\"https://mastodon.online/tags/Europe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Europe</span></a> <a href=\"https://mastodon.online/tags/CulturalHeritage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CulturalHeritage</span></a> <a href=\"https://mastodon.online/tags/Art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Art</span></a> <a href=\"https://mastodon.online/tags/NatureWriting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NatureWriting</span></a>. Volunteering in a French <a href=\"https://mastodon.online/tags/heritagecenter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>heritagecenter</span></a> and <a href=\"https://mastodon.online/tags/museum\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>museum</span></a> in a <a href=\"https://mastodon.online/tags/BiosphereReserve\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BiosphereReserve</span></a>. <a href=\"https://mastodon.online/tags/Artist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Artist</span></a> with <a href=\"https://mastodon.online/tags/paperjewellery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperjewellery</span></a> <a href=\"https://mastodon.online/tags/collage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>collage</span></a> <a href=\"https://mastodon.online/tags/assemblage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>assemblage</span></a>, <a href=\"https://mastodon.online/tags/artjournals\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artjournals</span></a> + <a href=\"https://mastodon.online/tags/visiblemending\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>visiblemending</span></a>. Toots: English (mainly), German, French. NO CWs for nature! <a href=\"https://mastodon.online/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a> <a href=\"https://mastodon.online/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobridge</span></a> \ud83c\udf08</p>",
+                "url": "https://mastodon.online/@NatureMC",
+                "uri": "https://mastodon.online/users/NatureMC",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/197/711/700/082/259/original/a5ac06e70217832c.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/197/711/700/082/259/original/a5ac06e70217832c.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/197/711/700/082/259/original/86d9733cc7d9ef2b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/197/711/700/082/259/original/86d9733cc7d9ef2b.jpg",
+                "followers_count": 2997,
+                "following_count": 1438,
+                "statuses_count": 3971,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Podcast",
+                        "value": "<a href=\"https://naturematchcuts.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">naturematchcuts.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Support me on Steady",
+                        "value": "<a href=\"https://steadyhq.com/naturematchcuts\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">steadyhq.com/naturematchcuts</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "My website",
+                        "value": "<a href=\"https://www.cronenburg.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">cronenburg.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T06:06:53.616+00:00"
+                    },
+                    {
+                        "name": "Support me on Ko-Fi",
+                        "value": "<a href=\"https://ko-fi.com/naturematchcuts\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/naturematchcuts</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "wealthtax",
+                    "url": "https://mastodon.social/tags/wealthtax"
+                },
+                {
+                    "name": "eu",
+                    "url": "https://mastodon.social/tags/eu"
+                },
+                {
+                    "name": "petition",
+                    "url": "https://mastodon.social/tags/petition"
+                },
+                {
+                    "name": "europeanparliament",
+                    "url": "https://mastodon.social/tags/europeanparliament"
+                },
+                {
+                    "name": "taxtherich",
+                    "url": "https://mastodon.social/tags/taxtherich"
+                },
+                {
+                    "name": "TaxBillionaires",
+                    "url": "https://mastodon.social/tags/TaxBillionaires"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.tax-the-rich.eu/",
+                "title": "Tax The Rich",
+                "description": "Nous voulons un  imp\u00f4t europ\u00e9en sur les grandes fortunes  pour financer la transition climatique et sociale et aider les pays victimes des d\u00e9r\u00e8glements climatiques.",
+                "language": "fr",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Tax The Rich",
+                "provider_url": "",
+                "html": "",
+                "width": 640,
+                "height": 360,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/064/070/182/original/215c5efa25a1b3be.png",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UHAJUtrxN8O*+txAkEWavZs$oYnnG1jLnhwW",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112870373583752511",
+            "created_at": "2024-07-29T15:00:20.000Z",
+            "in_reply_to_id": "112870349382278671",
+            "in_reply_to_account_id": "108197711700082259",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://geekdom.social/users/FantasticalEconomics/statuses/112870373476847910",
+            "url": "https://geekdom.social/@FantasticalEconomics/112870373476847910",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@NatureMC\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>NatureMC</span></a></span> </p><p>That's huge. Momentum is building!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109570315473720553",
+                "username": "FantasticalEconomics",
+                "acct": "FantasticalEconomics@geekdom.social",
+                "display_name": "Kyle Montanio",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-21T00:00:00.000Z",
+                "note": "<p>I'm an environmental economist who researches econ pedagogy to make learning economics marginally less dismal.</p><p>My pipe-dream is to write a fantasy novel/economics textbook, which is getting closer to reality every day.</p><p><a href=\"https://geekdom.social/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://geekdom.social/tags/TeachEcon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TeachEcon</span></a> <a href=\"https://geekdom.social/tags/sustainability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sustainability</span></a> <a href=\"https://geekdom.social/tags/DoughnutEconomics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DoughnutEconomics</span></a> <a href=\"https://geekdom.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> </p><p>Profile pic is me smiling in front of a whiteboard with economics gibberish -- cause econ makes me happy.</p><p>Background is my dog, Freya, who is derpily sticking her tongue out while passed out.</p>",
+                "url": "https://geekdom.social/@FantasticalEconomics",
+                "uri": "https://geekdom.social/users/FantasticalEconomics",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "followers_count": 1373,
+                "following_count": 1306,
+                "statuses_count": 9963,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "About me",
+                        "value": "Making econ marginally less dismal one post at a time. I teach economics at the UC Denver and am an all around nerd. My goal is to combine my passion for all things fantasy/sci-fi and love of economics to lower the cost of learning econ.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Fantastical Economics",
+                        "value": "You can find my first-ever short story that covers the circular economy and sustainability in a sci-fi setting here: <a href=\"https://edgeryders.eu/t/circular-reasoning/19717\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edgeryders.eu/t/circular-reaso</span><span class=\"invisible\">ning/19717</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108197711700082259",
+                    "username": "NatureMC",
+                    "url": "https://mastodon.online/@NatureMC",
+                    "acct": "NatureMC@mastodon.online"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870399501119513",
+            "created_at": "2024-07-29T15:06:56.000Z",
+            "in_reply_to_id": "112870349382278671",
+            "in_reply_to_account_id": "108197711700082259",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://eupolicy.social/users/Veza85UE/statuses/112870399463147835",
+            "url": "https://eupolicy.social/@Veza85UE/112870399463147835",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@NatureMC\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>NatureMC</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> Which chamber of the European Parliament? *insert David&amp;Victoria Beckham meme*</p>",
+            "reblog": null,
+            "account": {
+                "id": "110644239713055529",
+                "username": "Veza85UE",
+                "acct": "Veza85UE@eupolicy.social",
+                "display_name": "Veza85UE",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-07-02T00:00:00.000Z",
+                "note": "<p>Europea<br><a href=\"https://eupolicy.social/tags/EUCO\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EUCO</span></a> skeptic radicalised by member statelets' governments.<br><a href=\"https://eupolicy.social/tags/WTFistheCouncil\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WTFistheCouncil</span></a></p>",
+                "url": "https://eupolicy.social/@Veza85UE",
+                "uri": "https://eupolicy.social/users/Veza85UE",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/644/239/713/055/529/original/32fb358261d3406c.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/644/239/713/055/529/original/32fb358261d3406c.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/644/239/713/055/529/original/2251e50b9cbd4841.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/644/239/713/055/529/original/2251e50b9cbd4841.jpg",
+                "followers_count": 106,
+                "following_count": 155,
+                "statuses_count": 5098,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108197711700082259",
+                    "username": "NatureMC",
+                    "url": "https://mastodon.online/@NatureMC",
+                    "acct": "NatureMC@mastodon.online"
+                },
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870419926773090",
+            "created_at": "2024-07-29T15:12:07.000Z",
+            "in_reply_to_id": "112870399501119513",
+            "in_reply_to_account_id": "110644239713055529",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.online/users/NatureMC/statuses/112870419807536917",
+            "url": "https://mastodon.online/@NatureMC/112870419807536917",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-07-29T15:12:53.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://eupolicy.social/@Veza85UE\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Veza85UE</span></a></span> If you are not a troll, I suppose that you are old enough to click the link and read the informations. It's all explained there. *Nanny meme*  <span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "108197711700082259",
+                "username": "NatureMC",
+                "acct": "NatureMC@mastodon.online",
+                "display_name": "Petra van Cronenburg",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-04-25T00:00:00.000Z",
+                "note": "<p>I am a <a href=\"https://mastodon.online/tags/journalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>journalist</span></a>, <a href=\"https://mastodon.online/tags/author\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>author</span></a> and <a href=\"https://mastodon.online/tags/paperartist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperartist</span></a>, working on a community <a href=\"https://mastodon.online/tags/reconnecting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reconnecting</span></a> you with <a href=\"https://mastodon.online/tags/nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nature</span></a>. <a href=\"https://mastodon.online/tags/NatureMatchCuts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NatureMatchCuts</span></a> is my <a href=\"https://mastodon.online/tags/podcast\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>podcast</span></a> for changing perspectives in the <a href=\"https://mastodon.online/tags/Anthropocene\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Anthropocene</span></a>. <a href=\"https://mastodon.online/tags/Nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nature</span></a> <a href=\"https://mastodon.online/tags/biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>biodiversity</span></a> <a href=\"https://mastodon.online/tags/ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecology</span></a> <a href=\"https://mastodon.online/tags/Europe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Europe</span></a> <a href=\"https://mastodon.online/tags/CulturalHeritage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CulturalHeritage</span></a> <a href=\"https://mastodon.online/tags/Art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Art</span></a> <a href=\"https://mastodon.online/tags/NatureWriting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NatureWriting</span></a>. Volunteering in a French <a href=\"https://mastodon.online/tags/heritagecenter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>heritagecenter</span></a> and <a href=\"https://mastodon.online/tags/museum\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>museum</span></a> in a <a href=\"https://mastodon.online/tags/BiosphereReserve\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BiosphereReserve</span></a>. <a href=\"https://mastodon.online/tags/Artist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Artist</span></a> with <a href=\"https://mastodon.online/tags/paperjewellery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>paperjewellery</span></a> <a href=\"https://mastodon.online/tags/collage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>collage</span></a> <a href=\"https://mastodon.online/tags/assemblage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>assemblage</span></a>, <a href=\"https://mastodon.online/tags/artjournals\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artjournals</span></a> + <a href=\"https://mastodon.online/tags/visiblemending\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>visiblemending</span></a>. Toots: English (mainly), German, French. NO CWs for nature! <a href=\"https://mastodon.online/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a> <a href=\"https://mastodon.online/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobridge</span></a> \ud83c\udf08</p>",
+                "url": "https://mastodon.online/@NatureMC",
+                "uri": "https://mastodon.online/users/NatureMC",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/197/711/700/082/259/original/a5ac06e70217832c.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/197/711/700/082/259/original/a5ac06e70217832c.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/197/711/700/082/259/original/86d9733cc7d9ef2b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/197/711/700/082/259/original/86d9733cc7d9ef2b.jpg",
+                "followers_count": 2997,
+                "following_count": 1438,
+                "statuses_count": 3971,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Podcast",
+                        "value": "<a href=\"https://naturematchcuts.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">naturematchcuts.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Support me on Steady",
+                        "value": "<a href=\"https://steadyhq.com/naturematchcuts\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">steadyhq.com/naturematchcuts</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "My website",
+                        "value": "<a href=\"https://www.cronenburg.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">cronenburg.net</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T06:06:53.616+00:00"
+                    },
+                    {
+                        "name": "Support me on Ko-Fi",
+                        "value": "<a href=\"https://ko-fi.com/naturematchcuts\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/naturematchcuts</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110644239713055529",
+                    "username": "Veza85UE",
+                    "url": "https://eupolicy.social/@Veza85UE",
+                    "acct": "Veza85UE@eupolicy.social"
+                },
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870440109531972",
+            "created_at": "2024-07-29T15:17:12.000Z",
+            "in_reply_to_id": "112870419926773090",
+            "in_reply_to_account_id": "108197711700082259",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://eupolicy.social/users/Veza85UE/statuses/112870439818280677",
+            "url": "https://eupolicy.social/@Veza85UE/112870439818280677",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@NatureMC\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>NatureMC</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> I look forward to taxing the rich via a vote in the EU Parliament, probably around the same time we'll abolish Daylight Savings Time. \ud83d\ude09</p>",
+            "reblog": null,
+            "account": {
+                "id": "110644239713055529",
+                "username": "Veza85UE",
+                "acct": "Veza85UE@eupolicy.social",
+                "display_name": "Veza85UE",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-07-02T00:00:00.000Z",
+                "note": "<p>Europea<br><a href=\"https://eupolicy.social/tags/EUCO\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EUCO</span></a> skeptic radicalised by member statelets' governments.<br><a href=\"https://eupolicy.social/tags/WTFistheCouncil\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WTFistheCouncil</span></a></p>",
+                "url": "https://eupolicy.social/@Veza85UE",
+                "uri": "https://eupolicy.social/users/Veza85UE",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/644/239/713/055/529/original/32fb358261d3406c.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/644/239/713/055/529/original/32fb358261d3406c.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/644/239/713/055/529/original/2251e50b9cbd4841.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/644/239/713/055/529/original/2251e50b9cbd4841.jpg",
+                "followers_count": 106,
+                "following_count": 155,
+                "statuses_count": 5098,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108197711700082259",
+                    "username": "NatureMC",
+                    "url": "https://mastodon.online/@NatureMC",
+                    "acct": "NatureMC@mastodon.online"
+                },
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870435004785158",
+            "created_at": "2024-07-29T15:15:58.000Z",
+            "in_reply_to_id": "112870113547249650",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://social.linux.pizza/users/leffe/statuses/112870434961937467",
+            "url": "https://social.linux.pizza/@leffe/112870434961937467",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span><br>Our awful government here in <a href=\"https://social.linux.pizza/tags/Sweden\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Sweden</span></a> has said that they do not support this proposal to tax the rich. Just like they did a 180\u00b0 on environmental policy right after the election.</p><p><a href=\"https://social.linux.pizza/tags/climatechange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatechange</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "1229234",
+                "username": "leffe",
+                "acct": "leffe@social.linux.pizza",
+                "display_name": "Leif Samuelsson",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2020-02-15T00:00:00.000Z",
+                "note": "<p>(What's so funny 'bout) Peace, Love, and Understanding</p><p>Former SV developer. 45 years exp with *nix, GUI, etc.  Unix 1979, Sun, Ubuntu. Emacs 1977,  Java Swing/FX until 2016. Now free from big tech, big oil, etc.</p><p><a href=\"https://social.linux.pizza/tags/EV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EV</span></a>  2014<br><a href=\"https://social.linux.pizza/tags/Humanism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Humanism</span></a> <a href=\"https://social.linux.pizza/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Science</span></a> <a href=\"https://social.linux.pizza/tags/antitheist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>antitheist</span></a> <a href=\"https://social.linux.pizza/tags/antisantaist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>antisantaist</span></a><br><a href=\"https://social.linux.pizza/tags/Pescetarian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pescetarian</span></a><br><a href=\"https://social.linux.pizza/tags/VoteGreen\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VoteGreen</span></a> not <a href=\"https://social.linux.pizza/tags/LethalHarris\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LethalHarris</span></a> (Cal) <br><a href=\"https://social.linux.pizza/tags/ProportionalRepresentation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ProportionalRepresentation</span></a> <a href=\"https://social.linux.pizza/tags/RankedChoiceVoting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RankedChoiceVoting</span></a><br><a href=\"https://social.linux.pizza/tags/FreedomOfSpeech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FreedomOfSpeech</span></a> <a href=\"https://social.linux.pizza/tags/FreedomFromSpeech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FreedomFromSpeech</span></a><br><a href=\"https://social.linux.pizza/tags/StandWithUkraine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StandWithUkraine</span></a> \ud83c\uddfa\ud83c\udde6  <a href=\"https://social.linux.pizza/tags/FreePalestine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FreePalestine</span></a> \ud83c\uddf5\ud83c\uddf8  <a href=\"https://social.linux.pizza/tags/ICJ\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ICJ</span></a> <a href=\"https://social.linux.pizza/tags/ICC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ICC</span></a><br><a href=\"https://social.linux.pizza/tags/OpenStandards\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStandards</span></a><br><a href=\"https://social.linux.pizza/tags/RadioParadise\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RadioParadise</span></a> <a href=\"https://social.linux.pizza/tags/MUBI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MUBI</span></a> <a href=\"https://social.linux.pizza/tags/Movies\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Movies</span></a></p>",
+                "url": "https://social.linux.pizza/@leffe",
+                "uri": "https://social.linux.pizza/users/leffe",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/001/229/234/original/6f09af75ebf7dbb0.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/001/229/234/original/6f09af75ebf7dbb0.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 80,
+                "following_count": 106,
+                "statuses_count": 2324,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Country",
+                        "value": "Sweden, USA",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Language",
+                        "value": "sv, en-US",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Current timezone",
+                        "value": "CET",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Degree",
+                        "value": "Civilingenj\u00f6r, medicinsk teknik, Link\u00f6ping (almost MSEE), 1981",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "sweden",
+                    "url": "https://mastodon.social/tags/sweden"
+                },
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112870640021808331",
+            "created_at": "2024-07-29T16:08:06.000Z",
+            "in_reply_to_id": "112870435004785158",
+            "in_reply_to_account_id": "1229234",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://geekdom.social/users/FantasticalEconomics/statuses/112870639947552953",
+            "url": "https://geekdom.social/@FantasticalEconomics/112870639947552953",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://social.linux.pizza/@leffe\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>leffe</span></a></span> </p><p>Bummer. Yeah it's very easy to backtrack on big goals like that. Got to keep pushing our governments for better in all the ways we can.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109570315473720553",
+                "username": "FantasticalEconomics",
+                "acct": "FantasticalEconomics@geekdom.social",
+                "display_name": "Kyle Montanio",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-21T00:00:00.000Z",
+                "note": "<p>I'm an environmental economist who researches econ pedagogy to make learning economics marginally less dismal.</p><p>My pipe-dream is to write a fantasy novel/economics textbook, which is getting closer to reality every day.</p><p><a href=\"https://geekdom.social/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://geekdom.social/tags/TeachEcon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TeachEcon</span></a> <a href=\"https://geekdom.social/tags/sustainability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sustainability</span></a> <a href=\"https://geekdom.social/tags/DoughnutEconomics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DoughnutEconomics</span></a> <a href=\"https://geekdom.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> </p><p>Profile pic is me smiling in front of a whiteboard with economics gibberish -- cause econ makes me happy.</p><p>Background is my dog, Freya, who is derpily sticking her tongue out while passed out.</p>",
+                "url": "https://geekdom.social/@FantasticalEconomics",
+                "uri": "https://geekdom.social/users/FantasticalEconomics",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "followers_count": 1373,
+                "following_count": 1306,
+                "statuses_count": 9963,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "About me",
+                        "value": "Making econ marginally less dismal one post at a time. I teach economics at the UC Denver and am an all around nerd. My goal is to combine my passion for all things fantasy/sci-fi and love of economics to lower the cost of learning econ.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Fantastical Economics",
+                        "value": "You can find my first-ever short story that covers the circular economy and sustainability in a sci-fi setting here: <a href=\"https://edgeryders.eu/t/circular-reasoning/19717\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edgeryders.eu/t/circular-reaso</span><span class=\"invisible\">ning/19717</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "1229234",
+                    "username": "leffe",
+                    "url": "https://social.linux.pizza/@leffe",
+                    "acct": "leffe@social.linux.pizza"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112872153734954857",
+            "created_at": "2024-07-29T22:32:46.000Z",
+            "in_reply_to_id": "112870113547249650",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://tech.lgbt/users/FalconMarkSix/statuses/112872152503753733",
+            "url": "https://tech.lgbt/@FalconMarkSix/112872152503753733",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> There are so many \"luxuries\" they need to tax more. I'd tax people who fly 3+ times a year because it's so excessive. Your travelling could be a video call.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110224636077640267",
+                "username": "FalconMarkSix",
+                "acct": "FalconMarkSix@tech.lgbt",
+                "display_name": "Mark A. \u23cf\ufe0f {FalconMarkSix}",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-04-18T00:00:00.000Z",
+                "note": "<p>Hiya, I'm Mark. \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83e\udd84<br>Can't wait to Toot and Boost! \ud83d\udc18<br>I (occasionally) boost a lot, you've been warned! \ud83d\udd04</p><p><a href=\"https://tech.lgbt/tags/Canadian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Canadian</span></a> <a href=\"https://tech.lgbt/tags/Filipino\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Filipino</span></a> <a href=\"https://tech.lgbt/tags/Gay\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Gay</span></a> <a href=\"https://tech.lgbt/tags/LGBTQ\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LGBTQ</span></a> <a href=\"https://tech.lgbt/tags/Anime\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Anime</span></a> <a href=\"https://tech.lgbt/tags/Baseball\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Baseball</span></a> <a href=\"https://tech.lgbt/tags/Blues\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Blues</span></a> <a href=\"https://tech.lgbt/tags/Gaming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Gaming</span></a> <a href=\"https://tech.lgbt/tags/KPop\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KPop</span></a> <a href=\"https://tech.lgbt/tags/Metal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Metal</span></a> <a href=\"https://tech.lgbt/tags/Metalcore\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Metalcore</span></a>\ud83e\udd18<a href=\"https://tech.lgbt/tags/Tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tech</span></a></p><p>EL OH EL</p><p>Pronouns are He/Him \ud83d\ude01</p><p>Profile Alt Text: Filipino guy with black hair, brown eyes, and brown skin. I have a goatee. A selfie of me wearing an old Firefighter helmet that's blue with a clear face shield. I'm also wearing a white Aeropostale shirt that has raised lettering in different fabric.</p><p>Header Alt Text: A person walking down an icy trail. There are trees on both sides. Above are high voltage power lines. It's evening. It's partly cloudy with some sun and sunshine peering through.</p><p>\ud83d\udcc7</p>",
+                "url": "https://tech.lgbt/@FalconMarkSix",
+                "uri": "https://tech.lgbt/users/FalconMarkSix",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/224/636/077/640/267/original/34d5a21e38c8acb2.webp",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/224/636/077/640/267/original/34d5a21e38c8acb2.webp",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/224/636/077/640/267/original/d1723778ce48d256.webp",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/224/636/077/640/267/original/d1723778ce48d256.webp",
+                "followers_count": 422,
+                "following_count": 612,
+                "statuses_count": 14170,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "PSN/Epic",
+                        "value": "UnknownGuy666",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Steam/Twitch",
+                        "value": "NightMayor (Mark A.)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Switch",
+                        "value": "7188-2009-4510",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Xbox",
+                        "value": "FalconMkSix",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "PokemonGo",
+                        "value": "3415 1354 3941",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Telegram/Signal",
+                        "value": "TummyGrumble/TummyGrumble.06",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Instagram",
+                        "value": "CanOfInternet",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Spotify",
+                        "value": "<a href=\"https://open.spotify.com/user/cy7mzbld45nw4370l95sq2885?si=4787783494af4e29\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">open.spotify.com/user/cy7mzbld</span><span class=\"invisible\">45nw4370l95sq2885?si=4787783494af4e29</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

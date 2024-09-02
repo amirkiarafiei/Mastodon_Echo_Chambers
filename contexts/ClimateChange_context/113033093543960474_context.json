@@ -1,0 +1,836 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "113033093578979607",
+            "created_at": "2024-08-27T08:42:12.007Z",
+            "in_reply_to_id": "113033093543960474",
+            "in_reply_to_account_id": "1185838",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/dhuyvetter/statuses/113033093578979607",
+            "url": "https://mastodon.social/@dhuyvetter/113033093578979607",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>&quot;But let\u2019s take this anniversary to entertain a horrifying doubt: What if the toolbox itself is inadequate? What if, on the contrary, all the tools only make a dire <a href=\"https://mastodon.social/tags/crisis\" class=\"mention hashtag\" rel=\"tag\">#<span>crisis</span></a> even worse? Because that\u2019s exactly what\u2019s happening: Two years and close to $300 billion later, what we\u2019re seeing is that increased renewable energy investment goes hand in hand with increased <a href=\"https://mastodon.social/tags/fossilFuel\" class=\"mention hashtag\" rel=\"tag\">#<span>fossilFuel</span></a> production.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Metatext",
+                "website": "https://metabolist.org/metatext"
+            },
+            "account": {
+                "id": "1185838",
+                "username": "dhuyvetter",
+                "acct": "dhuyvetter",
+                "display_name": "Dimitri Dhuyvetter",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-04-12T00:00:00.000Z",
+                "note": "<p>They/them web developer/cyber security analyst/project manager, back from sailing in a small yacht named Tropical Dawn. Free as in free speech. Bring back the commons. <br /><a href=\"https://en.pronouns.page/@dhuyvetter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">en.pronouns.page/@dhuyvetter</span><span class=\"invisible\"></span></a><br /><a href=\"https://mastodon.social/tags/sailing\" class=\"mention hashtag\" rel=\"tag\">#<span>sailing</span></a> <a href=\"https://mastodon.social/tags/writing\" class=\"mention hashtag\" rel=\"tag\">#<span>writing</span></a> <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"tag\">#<span>webdev</span></a> <a href=\"https://mastodon.social/tags/cybersecurity\" class=\"mention hashtag\" rel=\"tag\">#<span>cybersecurity</span></a> <a href=\"https://mastodon.social/tags/foss\" class=\"mention hashtag\" rel=\"tag\">#<span>foss</span></a> <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"tag\">#<span>privacy</span></a> <a href=\"https://mastodon.social/tags/anticapitalist\" class=\"mention hashtag\" rel=\"tag\">#<span>anticapitalist</span></a> <a href=\"https://mastodon.social/tags/crypto\" class=\"mention hashtag\" rel=\"tag\">#<span>crypto</span></a> <a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a></p>",
+                "url": "https://mastodon.social/@dhuyvetter",
+                "uri": "https://mastodon.social/users/dhuyvetter",
+                "avatar": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "header": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "followers_count": 142,
+                "following_count": 281,
+                "statuses_count": 5014,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dhuyvetter.eu</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2020-04-12T11:29:44.753+00:00"
+                    },
+                    {
+                        "name": "Shortlinks",
+                        "value": "<a href=\"https://dh.uy\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dh.uy</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-04T16:37:33.698+00:00"
+                    },
+                    {
+                        "name": "Gravatar",
+                        "value": "<a href=\"https://gravatar.com/dhuyvetternet\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gravatar.com/dhuyvetternet</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2023-10-31T15:30:33.159+00:00"
+                    },
+                    {
+                        "name": "PGP key",
+                        "value": "<a href=\"https://mail-api.proton.me/pks/lookup?op=get&amp;search=dimitri@dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mail-api.proton.me/pks/lookup?</span><span class=\"invisible\">op=get&amp;search=dimitri@dhuyvetter.eu</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "crisis",
+                    "url": "https://mastodon.social/tags/crisis"
+                },
+                {
+                    "name": "fossilfuel",
+                    "url": "https://mastodon.social/tags/fossilfuel"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113033093613158659",
+            "created_at": "2024-08-27T08:42:12.522Z",
+            "in_reply_to_id": "113033093578979607",
+            "in_reply_to_account_id": "1185838",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/dhuyvetter/statuses/113033093613158659",
+            "url": "https://mastodon.social/@dhuyvetter/113033093613158659",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>What\u2019s even more horrifying? Social movements around the world have been predicting this outcome for years or even decades, but they have been shut out of the mainstream conversation. In fact, nobody with any sizable platform is pointing out that the emperor has no clothes, that the entire international framework around climate change is designed to fail.&quot;</p>",
+            "reblog": null,
+            "application": {
+                "name": "Metatext",
+                "website": "https://metabolist.org/metatext"
+            },
+            "account": {
+                "id": "1185838",
+                "username": "dhuyvetter",
+                "acct": "dhuyvetter",
+                "display_name": "Dimitri Dhuyvetter",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-04-12T00:00:00.000Z",
+                "note": "<p>They/them web developer/cyber security analyst/project manager, back from sailing in a small yacht named Tropical Dawn. Free as in free speech. Bring back the commons. <br /><a href=\"https://en.pronouns.page/@dhuyvetter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">en.pronouns.page/@dhuyvetter</span><span class=\"invisible\"></span></a><br /><a href=\"https://mastodon.social/tags/sailing\" class=\"mention hashtag\" rel=\"tag\">#<span>sailing</span></a> <a href=\"https://mastodon.social/tags/writing\" class=\"mention hashtag\" rel=\"tag\">#<span>writing</span></a> <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"tag\">#<span>webdev</span></a> <a href=\"https://mastodon.social/tags/cybersecurity\" class=\"mention hashtag\" rel=\"tag\">#<span>cybersecurity</span></a> <a href=\"https://mastodon.social/tags/foss\" class=\"mention hashtag\" rel=\"tag\">#<span>foss</span></a> <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"tag\">#<span>privacy</span></a> <a href=\"https://mastodon.social/tags/anticapitalist\" class=\"mention hashtag\" rel=\"tag\">#<span>anticapitalist</span></a> <a href=\"https://mastodon.social/tags/crypto\" class=\"mention hashtag\" rel=\"tag\">#<span>crypto</span></a> <a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a></p>",
+                "url": "https://mastodon.social/@dhuyvetter",
+                "uri": "https://mastodon.social/users/dhuyvetter",
+                "avatar": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "header": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "followers_count": 142,
+                "following_count": 281,
+                "statuses_count": 5014,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dhuyvetter.eu</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2020-04-12T11:29:44.753+00:00"
+                    },
+                    {
+                        "name": "Shortlinks",
+                        "value": "<a href=\"https://dh.uy\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dh.uy</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-04T16:37:33.698+00:00"
+                    },
+                    {
+                        "name": "Gravatar",
+                        "value": "<a href=\"https://gravatar.com/dhuyvetternet\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gravatar.com/dhuyvetternet</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2023-10-31T15:30:33.159+00:00"
+                    },
+                    {
+                        "name": "PGP key",
+                        "value": "<a href=\"https://mail-api.proton.me/pks/lookup?op=get&amp;search=dimitri@dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mail-api.proton.me/pks/lookup?</span><span class=\"invisible\">op=get&amp;search=dimitri@dhuyvetter.eu</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113033093658634151",
+            "created_at": "2024-08-27T08:42:13.231Z",
+            "in_reply_to_id": "113033093613158659",
+            "in_reply_to_account_id": "1185838",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/dhuyvetter/statuses/113033093658634151",
+            "url": "https://mastodon.social/@dhuyvetter/113033093658634151",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>The problem is <a href=\"https://mastodon.social/tags/capitalism\" class=\"mention hashtag\" rel=\"tag\">#<span>capitalism</span></a> itself. </p><p>Capital exists on a continuum between liquid and fixed. Liquid capital is money in a bank account, stocks, assets like real estate that tend to appreciate and can be quickly sold. Fixed capital is the opposite. It is sunk money. If it was a wise investment, it\u2019s money that will make more money, but the initial investment cannot easily be moved into another form.  It\u2019s hard to imagine a more fixed form of capital than a $100 million coal excavator,</p>",
+            "reblog": null,
+            "application": {
+                "name": "Metatext",
+                "website": "https://metabolist.org/metatext"
+            },
+            "account": {
+                "id": "1185838",
+                "username": "dhuyvetter",
+                "acct": "dhuyvetter",
+                "display_name": "Dimitri Dhuyvetter",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-04-12T00:00:00.000Z",
+                "note": "<p>They/them web developer/cyber security analyst/project manager, back from sailing in a small yacht named Tropical Dawn. Free as in free speech. Bring back the commons. <br /><a href=\"https://en.pronouns.page/@dhuyvetter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">en.pronouns.page/@dhuyvetter</span><span class=\"invisible\"></span></a><br /><a href=\"https://mastodon.social/tags/sailing\" class=\"mention hashtag\" rel=\"tag\">#<span>sailing</span></a> <a href=\"https://mastodon.social/tags/writing\" class=\"mention hashtag\" rel=\"tag\">#<span>writing</span></a> <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"tag\">#<span>webdev</span></a> <a href=\"https://mastodon.social/tags/cybersecurity\" class=\"mention hashtag\" rel=\"tag\">#<span>cybersecurity</span></a> <a href=\"https://mastodon.social/tags/foss\" class=\"mention hashtag\" rel=\"tag\">#<span>foss</span></a> <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"tag\">#<span>privacy</span></a> <a href=\"https://mastodon.social/tags/anticapitalist\" class=\"mention hashtag\" rel=\"tag\">#<span>anticapitalist</span></a> <a href=\"https://mastodon.social/tags/crypto\" class=\"mention hashtag\" rel=\"tag\">#<span>crypto</span></a> <a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a></p>",
+                "url": "https://mastodon.social/@dhuyvetter",
+                "uri": "https://mastodon.social/users/dhuyvetter",
+                "avatar": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "header": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "followers_count": 142,
+                "following_count": 281,
+                "statuses_count": 5014,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dhuyvetter.eu</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2020-04-12T11:29:44.753+00:00"
+                    },
+                    {
+                        "name": "Shortlinks",
+                        "value": "<a href=\"https://dh.uy\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dh.uy</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-04T16:37:33.698+00:00"
+                    },
+                    {
+                        "name": "Gravatar",
+                        "value": "<a href=\"https://gravatar.com/dhuyvetternet\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gravatar.com/dhuyvetternet</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2023-10-31T15:30:33.159+00:00"
+                    },
+                    {
+                        "name": "PGP key",
+                        "value": "<a href=\"https://mail-api.proton.me/pks/lookup?op=get&amp;search=dimitri@dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mail-api.proton.me/pks/lookup?</span><span class=\"invisible\">op=get&amp;search=dimitri@dhuyvetter.eu</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "capitalism",
+                    "url": "https://mastodon.social/tags/capitalism"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113033093698210769",
+            "created_at": "2024-08-27T08:42:13.814Z",
+            "in_reply_to_id": "113033093658634151",
+            "in_reply_to_account_id": "1185838",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/dhuyvetter/statuses/113033093698210769",
+            "url": "https://mastodon.social/@dhuyvetter/113033093698210769",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>a $7.6 billion gas pipeline, a $9.4 billion maritime oil drilling operation, or a $6 billion petroleum refinery. If the company that owns those investments stops selling oil or gas, their huge investment is mostly just going to rust. They might even have to pay clean up fees if they can\u2019t pass the cost off to local communities. (Actually, a coal-fired energy plant can be repurposed\u2026 to burn other kinds of fossil fuels.)</p>",
+            "reblog": null,
+            "application": {
+                "name": "Metatext",
+                "website": "https://metabolist.org/metatext"
+            },
+            "account": {
+                "id": "1185838",
+                "username": "dhuyvetter",
+                "acct": "dhuyvetter",
+                "display_name": "Dimitri Dhuyvetter",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-04-12T00:00:00.000Z",
+                "note": "<p>They/them web developer/cyber security analyst/project manager, back from sailing in a small yacht named Tropical Dawn. Free as in free speech. Bring back the commons. <br /><a href=\"https://en.pronouns.page/@dhuyvetter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">en.pronouns.page/@dhuyvetter</span><span class=\"invisible\"></span></a><br /><a href=\"https://mastodon.social/tags/sailing\" class=\"mention hashtag\" rel=\"tag\">#<span>sailing</span></a> <a href=\"https://mastodon.social/tags/writing\" class=\"mention hashtag\" rel=\"tag\">#<span>writing</span></a> <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"tag\">#<span>webdev</span></a> <a href=\"https://mastodon.social/tags/cybersecurity\" class=\"mention hashtag\" rel=\"tag\">#<span>cybersecurity</span></a> <a href=\"https://mastodon.social/tags/foss\" class=\"mention hashtag\" rel=\"tag\">#<span>foss</span></a> <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"tag\">#<span>privacy</span></a> <a href=\"https://mastodon.social/tags/anticapitalist\" class=\"mention hashtag\" rel=\"tag\">#<span>anticapitalist</span></a> <a href=\"https://mastodon.social/tags/crypto\" class=\"mention hashtag\" rel=\"tag\">#<span>crypto</span></a> <a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a></p>",
+                "url": "https://mastodon.social/@dhuyvetter",
+                "uri": "https://mastodon.social/users/dhuyvetter",
+                "avatar": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "header": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "followers_count": 142,
+                "following_count": 281,
+                "statuses_count": 5014,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dhuyvetter.eu</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2020-04-12T11:29:44.753+00:00"
+                    },
+                    {
+                        "name": "Shortlinks",
+                        "value": "<a href=\"https://dh.uy\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dh.uy</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-04T16:37:33.698+00:00"
+                    },
+                    {
+                        "name": "Gravatar",
+                        "value": "<a href=\"https://gravatar.com/dhuyvetternet\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gravatar.com/dhuyvetternet</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2023-10-31T15:30:33.159+00:00"
+                    },
+                    {
+                        "name": "PGP key",
+                        "value": "<a href=\"https://mail-api.proton.me/pks/lookup?op=get&amp;search=dimitri@dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mail-api.proton.me/pks/lookup?</span><span class=\"invisible\">op=get&amp;search=dimitri@dhuyvetter.eu</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113033093750045697",
+            "created_at": "2024-08-27T08:42:14.613Z",
+            "in_reply_to_id": "113033093698210769",
+            "in_reply_to_account_id": "1185838",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/dhuyvetter/statuses/113033093750045697",
+            "url": "https://mastodon.social/@dhuyvetter/113033093750045697",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>Fossil fuel companies cannot and will not abandon their massive, fixed investments in <a href=\"https://mastodon.social/tags/fossilFuel\" class=\"mention hashtag\" rel=\"tag\">#<span>fossilFuel</span></a> infrastructure\u2009\u2014\u2009they will keep producing fossil fuels. As they face increasing competition from other energy sources like wind or solar, they are doing the only logical thing from a capitalist standpoint: doubling down on investment in fossil fuels, building ever more pipelines and power plants even as the world burns and the waters rise. And, as we\u2019ve seen,</p>",
+            "reblog": null,
+            "application": {
+                "name": "Metatext",
+                "website": "https://metabolist.org/metatext"
+            },
+            "account": {
+                "id": "1185838",
+                "username": "dhuyvetter",
+                "acct": "dhuyvetter",
+                "display_name": "Dimitri Dhuyvetter",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-04-12T00:00:00.000Z",
+                "note": "<p>They/them web developer/cyber security analyst/project manager, back from sailing in a small yacht named Tropical Dawn. Free as in free speech. Bring back the commons. <br /><a href=\"https://en.pronouns.page/@dhuyvetter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">en.pronouns.page/@dhuyvetter</span><span class=\"invisible\"></span></a><br /><a href=\"https://mastodon.social/tags/sailing\" class=\"mention hashtag\" rel=\"tag\">#<span>sailing</span></a> <a href=\"https://mastodon.social/tags/writing\" class=\"mention hashtag\" rel=\"tag\">#<span>writing</span></a> <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"tag\">#<span>webdev</span></a> <a href=\"https://mastodon.social/tags/cybersecurity\" class=\"mention hashtag\" rel=\"tag\">#<span>cybersecurity</span></a> <a href=\"https://mastodon.social/tags/foss\" class=\"mention hashtag\" rel=\"tag\">#<span>foss</span></a> <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"tag\">#<span>privacy</span></a> <a href=\"https://mastodon.social/tags/anticapitalist\" class=\"mention hashtag\" rel=\"tag\">#<span>anticapitalist</span></a> <a href=\"https://mastodon.social/tags/crypto\" class=\"mention hashtag\" rel=\"tag\">#<span>crypto</span></a> <a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a></p>",
+                "url": "https://mastodon.social/@dhuyvetter",
+                "uri": "https://mastodon.social/users/dhuyvetter",
+                "avatar": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "header": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "followers_count": 142,
+                "following_count": 281,
+                "statuses_count": 5014,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dhuyvetter.eu</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2020-04-12T11:29:44.753+00:00"
+                    },
+                    {
+                        "name": "Shortlinks",
+                        "value": "<a href=\"https://dh.uy\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dh.uy</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-04T16:37:33.698+00:00"
+                    },
+                    {
+                        "name": "Gravatar",
+                        "value": "<a href=\"https://gravatar.com/dhuyvetternet\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gravatar.com/dhuyvetternet</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2023-10-31T15:30:33.159+00:00"
+                    },
+                    {
+                        "name": "PGP key",
+                        "value": "<a href=\"https://mail-api.proton.me/pks/lookup?op=get&amp;search=dimitri@dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mail-api.proton.me/pks/lookup?</span><span class=\"invisible\">op=get&amp;search=dimitri@dhuyvetter.eu</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "fossilfuel",
+                    "url": "https://mastodon.social/tags/fossilfuel"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113033093779313341",
+            "created_at": "2024-08-27T08:42:15.063Z",
+            "in_reply_to_id": "113033093750045697",
+            "in_reply_to_account_id": "1185838",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/dhuyvetter/statuses/113033093779313341",
+            "url": "https://mastodon.social/@dhuyvetter/113033093779313341",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>this industry is so central to the global economy that governments cannot and will not make them stop.</p><p><a href=\"https://mastodon.social/tags/GreenEnergy\" class=\"mention hashtag\" rel=\"tag\">#<span>GreenEnergy</span></a> could eventually replace fossil fuels rather than spurring an increase in fossil fuels. The problem is, the timeline is completely untenable. Actually ending all extraction and use of fossil fuels\u2014something that should have happened yesterday\u2014does not figure into the plans of any major energy company or major state that I\u2019m aware of until well after 2060, if at all.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Metatext",
+                "website": "https://metabolist.org/metatext"
+            },
+            "account": {
+                "id": "1185838",
+                "username": "dhuyvetter",
+                "acct": "dhuyvetter",
+                "display_name": "Dimitri Dhuyvetter",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-04-12T00:00:00.000Z",
+                "note": "<p>They/them web developer/cyber security analyst/project manager, back from sailing in a small yacht named Tropical Dawn. Free as in free speech. Bring back the commons. <br /><a href=\"https://en.pronouns.page/@dhuyvetter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">en.pronouns.page/@dhuyvetter</span><span class=\"invisible\"></span></a><br /><a href=\"https://mastodon.social/tags/sailing\" class=\"mention hashtag\" rel=\"tag\">#<span>sailing</span></a> <a href=\"https://mastodon.social/tags/writing\" class=\"mention hashtag\" rel=\"tag\">#<span>writing</span></a> <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"tag\">#<span>webdev</span></a> <a href=\"https://mastodon.social/tags/cybersecurity\" class=\"mention hashtag\" rel=\"tag\">#<span>cybersecurity</span></a> <a href=\"https://mastodon.social/tags/foss\" class=\"mention hashtag\" rel=\"tag\">#<span>foss</span></a> <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"tag\">#<span>privacy</span></a> <a href=\"https://mastodon.social/tags/anticapitalist\" class=\"mention hashtag\" rel=\"tag\">#<span>anticapitalist</span></a> <a href=\"https://mastodon.social/tags/crypto\" class=\"mention hashtag\" rel=\"tag\">#<span>crypto</span></a> <a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a></p>",
+                "url": "https://mastodon.social/@dhuyvetter",
+                "uri": "https://mastodon.social/users/dhuyvetter",
+                "avatar": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "header": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "followers_count": 142,
+                "following_count": 281,
+                "statuses_count": 5014,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dhuyvetter.eu</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2020-04-12T11:29:44.753+00:00"
+                    },
+                    {
+                        "name": "Shortlinks",
+                        "value": "<a href=\"https://dh.uy\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dh.uy</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-04T16:37:33.698+00:00"
+                    },
+                    {
+                        "name": "Gravatar",
+                        "value": "<a href=\"https://gravatar.com/dhuyvetternet\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gravatar.com/dhuyvetternet</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2023-10-31T15:30:33.159+00:00"
+                    },
+                    {
+                        "name": "PGP key",
+                        "value": "<a href=\"https://mail-api.proton.me/pks/lookup?op=get&amp;search=dimitri@dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mail-api.proton.me/pks/lookup?</span><span class=\"invisible\">op=get&amp;search=dimitri@dhuyvetter.eu</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "greenenergy",
+                    "url": "https://mastodon.social/tags/greenenergy"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113033093805957323",
+            "created_at": "2024-08-27T08:42:15.468Z",
+            "in_reply_to_id": "113033093779313341",
+            "in_reply_to_account_id": "1185838",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/dhuyvetter/statuses/113033093805957323",
+            "url": "https://mastodon.social/@dhuyvetter/113033093805957323",
+            "replies_count": 2,
+            "reblogs_count": 1,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p>We simply don\u2019t have that long, and the <a href=\"https://mastodon.social/tags/greenGrowth\" class=\"mention hashtag\" rel=\"tag\">#<span>greenGrowth</span></a> advocates who try to sell us such a plan are prioritizing a desire to save <a href=\"https://mastodon.social/tags/capitalism\" class=\"mention hashtag\" rel=\"tag\">#<span>capitalism</span></a> over a desire to save life on this planet.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Metatext",
+                "website": "https://metabolist.org/metatext"
+            },
+            "account": {
+                "id": "1185838",
+                "username": "dhuyvetter",
+                "acct": "dhuyvetter",
+                "display_name": "Dimitri Dhuyvetter",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-04-12T00:00:00.000Z",
+                "note": "<p>They/them web developer/cyber security analyst/project manager, back from sailing in a small yacht named Tropical Dawn. Free as in free speech. Bring back the commons. <br /><a href=\"https://en.pronouns.page/@dhuyvetter\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">en.pronouns.page/@dhuyvetter</span><span class=\"invisible\"></span></a><br /><a href=\"https://mastodon.social/tags/sailing\" class=\"mention hashtag\" rel=\"tag\">#<span>sailing</span></a> <a href=\"https://mastodon.social/tags/writing\" class=\"mention hashtag\" rel=\"tag\">#<span>writing</span></a> <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"tag\">#<span>webdev</span></a> <a href=\"https://mastodon.social/tags/cybersecurity\" class=\"mention hashtag\" rel=\"tag\">#<span>cybersecurity</span></a> <a href=\"https://mastodon.social/tags/foss\" class=\"mention hashtag\" rel=\"tag\">#<span>foss</span></a> <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"tag\">#<span>privacy</span></a> <a href=\"https://mastodon.social/tags/anticapitalist\" class=\"mention hashtag\" rel=\"tag\">#<span>anticapitalist</span></a> <a href=\"https://mastodon.social/tags/crypto\" class=\"mention hashtag\" rel=\"tag\">#<span>crypto</span></a> <a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a></p>",
+                "url": "https://mastodon.social/@dhuyvetter",
+                "uri": "https://mastodon.social/users/dhuyvetter",
+                "avatar": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/001/185/838/original/b2bbe204e3432b91.png",
+                "header": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/001/185/838/original/17c4e447dfce2dcf.png",
+                "followers_count": 142,
+                "following_count": 281,
+                "statuses_count": 5014,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dhuyvetter.eu</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2020-04-12T11:29:44.753+00:00"
+                    },
+                    {
+                        "name": "Shortlinks",
+                        "value": "<a href=\"https://dh.uy\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dh.uy</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-12-04T16:37:33.698+00:00"
+                    },
+                    {
+                        "name": "Gravatar",
+                        "value": "<a href=\"https://gravatar.com/dhuyvetternet\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gravatar.com/dhuyvetternet</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2023-10-31T15:30:33.159+00:00"
+                    },
+                    {
+                        "name": "PGP key",
+                        "value": "<a href=\"https://mail-api.proton.me/pks/lookup?op=get&amp;search=dimitri@dhuyvetter.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mail-api.proton.me/pks/lookup?</span><span class=\"invisible\">op=get&amp;search=dimitri@dhuyvetter.eu</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "greengrowth",
+                    "url": "https://mastodon.social/tags/greengrowth"
+                },
+                {
+                    "name": "capitalism",
+                    "url": "https://mastodon.social/tags/capitalism"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113033871057978761",
+            "created_at": "2024-08-27T11:59:54.000Z",
+            "in_reply_to_id": "113033093805957323",
+            "in_reply_to_account_id": "1185838",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mathstodon.xyz/users/geonz/statuses/113033871030793901",
+            "url": "https://mathstodon.xyz/@geonz/113033871030793901",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dhuyvetter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dhuyvetter</span></a></span>  not buying it here but others are shopping at that strip mall of life...</p>",
+            "reblog": null,
+            "account": {
+                "id": "109382564820798703",
+                "username": "geonz",
+                "acct": "geonz@mathstodon.xyz",
+                "display_name": "cognitively accessible math",
+                "locked": true,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>I'm at Parkland College (for a few decades) helping folks navigate developmental courses/placements (but fighting the \"hey, 5% of these folks could pass college so we should just get rid of developmental teaching\" trends)  dreaming of structured paths for building understanding *and* fluency instead of \"I don't have time to teach you, here's a calculator.\"<br>   See <a href=\"https://docs.google.com/document/d/1jvTlNmNI7nC9xMrVp2cc3d5RjWnpho0exwA_t86eWbI/edit?usp=sharing\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.google.com/document/d/1jv</span><span class=\"invisible\">TlNmNI7nC9xMrVp2cc3d5RjWnpho0exwA_t86eWbI/edit?usp=sharing</span></a></p>",
+                "url": "https://mathstodon.xyz/@geonz",
+                "uri": "https://mathstodon.xyz/users/geonz",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/382/564/820/798/703/original/e8585b7b473423f6.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/382/564/820/798/703/original/e8585b7b473423f6.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/382/564/820/798/703/original/d39e7bf845ff554b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/382/564/820/798/703/original/d39e7bf845ff554b.jpg",
+                "followers_count": 375,
+                "following_count": 720,
+                "statuses_count": 5197,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Poster Session about Dev. Math",
+                        "value": "<a href=\"https://docs.google.com/document/d/1HvNK_xjAb532GPsBz6l9NHJB_tt5baqQllWuBzfFLQc/edit?usp=sharing\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.google.com/document/d/1Hv</span><span class=\"invisible\">NK_xjAb532GPsBz6l9NHJB_tt5baqQllWuBzfFLQc/edit?usp=sharing</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "1185838",
+                    "username": "dhuyvetter",
+                    "url": "https://mastodon.social/@dhuyvetter",
+                    "acct": "dhuyvetter"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113035264989618572",
+            "created_at": "2024-08-27T17:54:24.000Z",
+            "in_reply_to_id": "113033093805957323",
+            "in_reply_to_account_id": "1185838",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://dobbs.town/users/Spud_Coolzip/statuses/113035264971643279",
+            "url": "https://dobbs.town/@Spud_Coolzip/113035264971643279",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dhuyvetter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dhuyvetter</span></a></span> Renewables tend to augment rather than replace fossil fuels. It goes beyond the sunk capital you discuss, which I strongly agree with. The economy grows in proportion to the amount of energy consumed, plus the existing infrastructure requires constant energy inputs to remain intact. <a href=\"https://www.semanticscholar.org/reader/594d64f1b2569f4d809ab47b71f3cfce5aacb943\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">semanticscholar.org/reader/594</span><span class=\"invisible\">d64f1b2569f4d809ab47b71f3cfce5aacb943</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "685102",
+                "username": "Spud_Coolzip",
+                "acct": "Spud_Coolzip@dobbs.town",
+                "display_name": "Spud_Coolzip",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-01-12T00:00:00.000Z",
+                "note": "",
+                "url": "https://dobbs.town/@Spud_Coolzip",
+                "uri": "https://dobbs.town/users/Spud_Coolzip",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/685/102/original/ab367e108ba310f4.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/685/102/original/ab367e108ba310f4.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 60,
+                "following_count": 78,
+                "statuses_count": 1847,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "1185838",
+                    "username": "dhuyvetter",
+                    "url": "https://mastodon.social/@dhuyvetter",
+                    "acct": "dhuyvetter"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.semanticscholar.org/reader/594d64f1b2569f4d809ab47b71f3cfce5aacb943",
+                "title": "[PDF] Lotka's wheel and the long arm of history: how does the distant past determine today's global rate of energy consumption? | Semantic Scholar",
+                "description": "An academic search engine that utilizes artificial intelligence methods to provide highly relevant results and novel tools to filter them with ease.",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 662,
+                "height": 348,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/109/591/727/original/a93e91fb8e6c5fb3.png",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "U84{PgkE8^V@toogRORjItj]xuf6XBWCt6t7",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "113035276365738597",
+            "created_at": "2024-08-27T17:57:18.000Z",
+            "in_reply_to_id": "113035264989618572",
+            "in_reply_to_account_id": "1185838",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://dobbs.town/users/Spud_Coolzip/statuses/113035276340107068",
+            "url": "https://dobbs.town/@Spud_Coolzip/113035276340107068",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dhuyvetter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dhuyvetter</span></a></span> If you haven't read them already, I recommend searching for other papers by these authors. Garret and Keen also have several good videos posted on YouTube.</p>",
+            "reblog": null,
+            "account": {
+                "id": "685102",
+                "username": "Spud_Coolzip",
+                "acct": "Spud_Coolzip@dobbs.town",
+                "display_name": "Spud_Coolzip",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-01-12T00:00:00.000Z",
+                "note": "",
+                "url": "https://dobbs.town/@Spud_Coolzip",
+                "uri": "https://dobbs.town/users/Spud_Coolzip",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/685/102/original/ab367e108ba310f4.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/685/102/original/ab367e108ba310f4.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 60,
+                "following_count": 78,
+                "statuses_count": 1847,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "1185838",
+                    "username": "dhuyvetter",
+                    "url": "https://mastodon.social/@dhuyvetter",
+                    "acct": "dhuyvetter"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113033869872049843",
+            "created_at": "2024-08-27T11:59:36.000Z",
+            "in_reply_to_id": "113033093543960474",
+            "in_reply_to_account_id": "1185838",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodonapp.uk/users/leighms/statuses/113033869848919223",
+            "url": "https://mastodonapp.uk/@leighms/113033869848919223",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@dhuyvetter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dhuyvetter</span></a></span> <br>That is fairly gloomy reading.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109398887108517441",
+                "username": "leighms",
+                "acct": "leighms@mastodonapp.uk",
+                "display_name": "Leigh Silvester",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-16T00:00:00.000Z",
+                "note": "<p><a href=\"https://mastodonapp.uk/tags/scientist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scientist</span></a>, <a href=\"https://mastodonapp.uk/tags/gardener\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gardener</span></a>, <a href=\"https://mastodonapp.uk/tags/allotmenter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>allotmenter</span></a>, <a href=\"https://mastodonapp.uk/tags/fundraiser\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fundraiser</span></a> <a href=\"https://mastodonapp.uk/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a><br>Former forensic scientist with the Home Office.<br>Living near Nottingham in the UK.<br>.<br>Research profile: <a href=\"https://www.researchgate.net/profile/Leigh-Silvester\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">researchgate.net/profile/Leigh</span><span class=\"invisible\">-Silvester</span></a></p><p>Data Curator Sutton Bonington weather station UK<br>Server manager</p><p>All of my opinions are stolen from other people.</p><p>Currently involved with planning and fundraising to build a new community building/scout group HQ<br>Pronouns are he/him/old</p>",
+                "url": "https://mastodonapp.uk/@leighms",
+                "uri": "https://mastodonapp.uk/users/leighms",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/398/887/108/517/441/original/0eb2ac562c15fb09.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/398/887/108/517/441/original/0eb2ac562c15fb09.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/398/887/108/517/441/original/1203f4cf61bc9cbf.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/398/887/108/517/441/original/1203f4cf61bc9cbf.png",
+                "followers_count": 249,
+                "following_count": 310,
+                "statuses_count": 1768,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "1185838",
+                    "username": "dhuyvetter",
+                    "url": "https://mastodon.social/@dhuyvetter",
+                    "acct": "dhuyvetter"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

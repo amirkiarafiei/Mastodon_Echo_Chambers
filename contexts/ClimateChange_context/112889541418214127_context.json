@@ -1,0 +1,142 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112892745664769085",
+            "created_at": "2024-08-02T13:49:51.000Z",
+            "in_reply_to_id": "112889541418214127",
+            "in_reply_to_account_id": "109574039761339115",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://hachyderm.io/users/bitcodavid/statuses/112892745551948310",
+            "url": "https://hachyderm.io/@bitcodavid/112892745551948310",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "",
+            "reblog": null,
+            "account": {
+                "id": "110129807492588175",
+                "username": "bitcodavid",
+                "acct": "bitcodavid@hachyderm.io",
+                "display_name": "BitcoDavid #FuckTrump",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-04-02T00:00:00.000Z",
+                "note": "<p>Downloaded first file in 1981. It wasn't called the Internet back then. I have worked in digital and analog tech including automechanics since 1975. Primary focus was on music. I'm the world's most uncredited recording engineer/analog synthesist. Had large followings on FaceF*ck and Twitter, but jumped ship like a wet rat after I learned the truth. Looking forward to being a Mastodonian.</p><p>BTW. My name has nothing to do with Bitcoin.</p>",
+                "url": "https://hachyderm.io/@bitcodavid",
+                "uri": "https://hachyderm.io/users/bitcodavid",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/129/807/492/588/175/original/cb44cb45c980d4b1.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/129/807/492/588/175/original/cb44cb45c980d4b1.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/129/807/492/588/175/original/108df28a0c3dc193.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/129/807/492/588/175/original/108df28a0c3dc193.jpg",
+                "followers_count": 151,
+                "following_count": 320,
+                "statuses_count": 3657,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [
+                {
+                    "id": "112892745612894308",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/892/745/612/894/308/original/fc77feb50c22c801.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/892/745/612/894/308/small/fc77feb50c22c801.png",
+                    "remote_url": "https://media.hachyderm.io/media_attachments/files/112/892/709/779/014/543/original/23a8c5723b68f41b.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "focus": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "original": {
+                            "width": 639,
+                            "height": 611,
+                            "size": "639x611",
+                            "aspect": 1.0458265139116203
+                        },
+                        "small": {
+                            "width": 490,
+                            "height": 469,
+                            "size": "490x469",
+                            "aspect": 1.044776119402985
+                        }
+                    },
+                    "description": "Clayjonz has Trump at NABJ singing the song from \"The Jeffersons.\"",
+                    "blurhash": "UfN,;_IUxuX9_NIoafxb%MWYRioIs;xuRjNG"
+                }
+            ],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112892751360284606",
+            "created_at": "2024-08-02T13:51:19.000Z",
+            "in_reply_to_id": "112889541418214127",
+            "in_reply_to_account_id": "109574039761339115",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://hachyderm.io/users/bitcodavid/statuses/112892751327520230",
+            "url": "https://hachyderm.io/@bitcodavid/112892751327520230",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@Free_Press\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Free_Press</span></a></span> </p><p>At least he didn't call it a \"Democrat hoax\" while using a Sharpie to \"prove\" the storm will move over his house. </p><p>Thank Dog for small blessings.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110129807492588175",
+                "username": "bitcodavid",
+                "acct": "bitcodavid@hachyderm.io",
+                "display_name": "BitcoDavid #FuckTrump",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-04-02T00:00:00.000Z",
+                "note": "<p>Downloaded first file in 1981. It wasn't called the Internet back then. I have worked in digital and analog tech including automechanics since 1975. Primary focus was on music. I'm the world's most uncredited recording engineer/analog synthesist. Had large followings on FaceF*ck and Twitter, but jumped ship like a wet rat after I learned the truth. Looking forward to being a Mastodonian.</p><p>BTW. My name has nothing to do with Bitcoin.</p>",
+                "url": "https://hachyderm.io/@bitcodavid",
+                "uri": "https://hachyderm.io/users/bitcodavid",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/129/807/492/588/175/original/cb44cb45c980d4b1.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/129/807/492/588/175/original/cb44cb45c980d4b1.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/129/807/492/588/175/original/108df28a0c3dc193.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/129/807/492/588/175/original/108df28a0c3dc193.jpg",
+                "followers_count": 151,
+                "following_count": 320,
+                "statuses_count": 3657,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109574039761339115",
+                    "username": "Free_Press",
+                    "url": "https://mstdn.social/@Free_Press",
+                    "acct": "Free_Press@mstdn.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

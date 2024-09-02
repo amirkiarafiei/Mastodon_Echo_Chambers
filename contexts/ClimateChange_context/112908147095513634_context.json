@@ -1,0 +1,161 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112908168130629468",
+            "created_at": "2024-08-05T07:12:00.000Z",
+            "in_reply_to_id": "112908147095513634",
+            "in_reply_to_account_id": "9289",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "nl",
+            "uri": "https://mariameeting.masto.host/users/Amiek/statuses/112908168110235175",
+            "url": "https://mariameeting.masto.host/@Amiek/112908168110235175",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@touaregtweet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>touaregtweet</span></a></span> ik kwam met collega\u2019s (vrijwilligers pensionado leeftijd) in een discussie over veehouderij terecht. Ik was helemaal flabbergasted toen iemand serieus zei dat er hongersnood zou komen als we geen vlees zouden exporteren.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110813164442282733",
+                "username": "Amiek",
+                "acct": "Amiek@mariameeting.masto.host",
+                "display_name": "Amiek (Annemiek)",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-07-26T00:00:00.000Z",
+                "note": "<p>Ik twijfel dus ik ben.</p>",
+                "url": "https://mariameeting.masto.host/@Amiek",
+                "uri": "https://mariameeting.masto.host/users/Amiek",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/813/164/442/282/733/original/1310b440216aa3df.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/813/164/442/282/733/original/1310b440216aa3df.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/813/164/442/282/733/original/d51212ff3293a5f7.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/813/164/442/282/733/original/d51212ff3293a5f7.png",
+                "followers_count": 192,
+                "following_count": 252,
+                "statuses_count": 1631,
+                "last_status_at": "2024-08-25",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Mijn dynamisch trio",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@tbaers\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tbaers@toot.cat</span></a></span>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Margaretha Turnor",
+                        "value": "<a href=\"https://margaretha.kasteelamerongen.nl\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">margaretha.kasteelamerongen.nl</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Ik zelf",
+                        "value": "<a href=\"https://amiek.nl\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">amiek.nl</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Deftige Dames",
+                        "value": "<a href=\"https://deftigedames.nl\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">deftigedames.nl</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "9289",
+                    "username": "touaregtweet",
+                    "url": "https://mastodon.social/@touaregtweet",
+                    "acct": "touaregtweet"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112908177351822045",
+            "created_at": "2024-08-05T07:14:20.000Z",
+            "in_reply_to_id": "112908147095513634",
+            "in_reply_to_account_id": "9289",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "nl",
+            "uri": "https://mastodon.nl/users/jurjen_heeck/statuses/112908177284193536",
+            "url": "https://mastodon.nl/@jurjen_heeck/112908177284193536",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@touaregtweet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>touaregtweet</span></a></span> <a href=\"https://archive.vn/X4IJI\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">archive.vn/X4IJI</span><span class=\"invisible\"></span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109364058540721844",
+                "username": "jurjen_heeck",
+                "acct": "jurjen_heeck@mastodon.nl",
+                "display_name": "Jurjen Heeck \ud83c\udf4b",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>IT Security, Klimaat, Woordspelletjes, Camper.<br>Vrijwilliger op Safarischip <a href=\"https://deblauwebever.nl\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">deblauwebever.nl</span><span class=\"invisible\"></span></a><br>Haat touchscreens, en apps voor van alles en nog wat. <br><a href=\"https://mastodon.nl/tags/ikWILdersniet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ikWILdersniet</span></a> <br><a href=\"https://mastodon.nl/tags/NietMijnRegering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NietMijnRegering</span></a><br><a href=\"https://mastodon.nl/tags/Friszuurlinks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Friszuurlinks</span></a><br>If someone is nice to you but rude to the waiter it is not a nice person.</p><p>Also: <a href=\"https://xkcd.com/1357/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">xkcd.com/1357/</span><span class=\"invisible\"></span></a></p><p>Used to be active on mastodon.social, there since Nov. 2nd 2016, moved here Nov. 25th 2022.</p>",
+                "url": "https://mastodon.nl/@jurjen_heeck",
+                "uri": "https://mastodon.nl/users/jurjen_heeck",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/364/058/540/721/844/original/e339260caee85bc8.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/364/058/540/721/844/original/e339260caee85bc8.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/364/058/540/721/844/original/25351bea1b2fc35f.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/364/058/540/721/844/original/25351bea1b2fc35f.jpg",
+                "followers_count": 876,
+                "following_count": 949,
+                "statuses_count": 8668,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Personal website (Mainly in Dutch)",
+                        "value": "<a href=\"https://www.heeck.nl\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">heeck.nl</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T15:10:11.154+00:00"
+                    },
+                    {
+                        "name": "Languages",
+                        "value": "Dutch, English, German and a bit of Greek",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "Him/He",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Toots in",
+                        "value": "Nederlands &amp; English",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "9289",
+                    "username": "touaregtweet",
+                    "url": "https://mastodon.social/@touaregtweet",
+                    "acct": "touaregtweet"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

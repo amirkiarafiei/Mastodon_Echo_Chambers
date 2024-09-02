@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-28">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="relation" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="pos" type="double" />
+      <attribute id="1" title="neg" type="double" />
+      <attribute id="2" title="compound" type="double" />
+    </attributes>
+    <nodes>
+      <node id="108131017378560705" label="108131017378560705">
+        <attvalues>
+          <attvalue for="0" value="0.127" />
+          <attvalue for="1" value="0.073" />
+          <attvalue for="2" value="0.08" />
+        </attvalues>
+      </node>
+      <node id="109303988606874604" label="109303988606874604">
+        <attvalues>
+          <attvalue for="0" value="0.096" />
+          <attvalue for="1" value="0.034" />
+          <attvalue for="2" value="0.134" />
+        </attvalues>
+      </node>
+      <node id="109353240919639924" label="109353240919639924">
+        <attvalues>
+          <attvalue for="0" value="0.063" />
+          <attvalue for="1" value="0.127" />
+          <attvalue for="2" value="-0.279" />
+        </attvalues>
+      </node>
+      <node id="109481195084880013" label="109481195084880013">
+        <attvalues>
+          <attvalue for="0" value="0.029" />
+          <attvalue for="1" value="0.051" />
+          <attvalue for="2" value="-0.241" />
+        </attvalues>
+      </node>
+      <node id="109501762885551175" label="109501762885551175">
+        <attvalues>
+          <attvalue for="0" value="0.08" />
+          <attvalue for="1" value="0.082" />
+          <attvalue for="2" value="-0.014" />
+        </attvalues>
+      </node>
+      <node id="109872307124464426" label="109872307124464426">
+        <attvalues>
+          <attvalue for="0" value="0.188" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.655" />
+        </attvalues>
+      </node>
+      <node id="110371526325332840" label="110371526325332840">
+        <attvalues>
+          <attvalue for="0" value="0.132" />
+          <attvalue for="1" value="0.237" />
+          <attvalue for="2" value="0.092" />
+        </attvalues>
+      </node>
+      <node id="109243209118714384" label="109243209118714384">
+        <attvalues>
+          <attvalue for="0" value="0.087" />
+          <attvalue for="1" value="0.173" />
+          <attvalue for="2" value="-0.777" />
+        </attvalues>
+      </node>
+      <node id="110345233933563869" label="110345233933563869">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.219" />
+          <attvalue for="2" value="-0.807" />
+        </attvalues>
+      </node>
+      <node id="110961476055052176" label="110961476055052176">
+        <attvalues>
+          <attvalue for="0" value="0.086" />
+          <attvalue for="1" value="0.284" />
+          <attvalue for="2" value="-0.196" />
+        </attvalues>
+      </node>
+      <node id="111274387359533446" label="111274387359533446">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="108131017378560705" target="109303988606874604" id="0">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="108131017378560705" target="109353240919639924" id="1">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="108131017378560705" target="109481195084880013" id="2">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="108131017378560705" target="109501762885551175" id="3">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="108131017378560705" target="109872307124464426" id="4">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="108131017378560705" target="110371526325332840" id="5">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="109303988606874604" target="109243209118714384" id="6">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="109481195084880013" target="109872307124464426" id="7">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="109872307124464426" target="110345233933563869" id="8">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="109872307124464426" target="110961476055052176" id="9">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="109872307124464426" target="111274387359533446" id="10">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

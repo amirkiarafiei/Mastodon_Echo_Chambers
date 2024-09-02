@@ -1,0 +1,417 @@
+[
+    {
+        "id": "368853",
+        "username": "thelinuxEXP",
+        "acct": "thelinuxEXP",
+        "display_name": "Nick @ The Linux Experiment",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-06-03T00:00:00.000Z",
+        "note": "<p>YouTube content creator and Linux user living in Brest, Brittany. Might post gaming related stuff, especially if it runs on Linux, natively or not !\u2028\u2029<a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a> <a href=\"https://mastodon.social/tags/linux\" class=\"mention hashtag\" rel=\"tag\">#<span>linux</span></a> <a href=\"https://mastodon.social/tags/opensource\" class=\"mention hashtag\" rel=\"tag\">#<span>opensource</span></a> <a href=\"https://mastodon.social/tags/tech\" class=\"mention hashtag\" rel=\"tag\">#<span>tech</span></a> <a href=\"https://mastodon.social/tags/gaming\" class=\"mention hashtag\" rel=\"tag\">#<span>gaming</span></a></p>",
+        "url": "https://mastodon.social/@thelinuxEXP",
+        "uri": "https://mastodon.social/users/thelinuxEXP",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/368/853/original/af8ed1b8f4209619.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/368/853/original/af8ed1b8f4209619.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/368/853/original/cc4557239fd2e9e1.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/368/853/original/cc4557239fd2e9e1.jpg",
+        "followers_count": 25014,
+        "following_count": 332,
+        "statuses_count": 6555,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "YouTube Channel",
+                "value": "<a href=\"https://www.youtube.com/thelinuxexperiment\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/thelinuxexperiment</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "PeerTube",
+                "value": "<a href=\"https://tilvids.com/c/thelinuxexperiment_channel/videos\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tilvids.com/c/thelinuxexperime</span><span class=\"invisible\">nt_channel/videos</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Website",
+                "value": "<a href=\"https://thelinuxexp.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">thelinuxexp.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-16T19:12:53.239+00:00"
+            },
+            {
+                "name": "Pixelfed",
+                "value": "<a href=\"https://pixelfed.social/TLENick\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.social/TLENick</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-03-25T11:28:20.680+00:00"
+            }
+        ]
+    },
+    {
+        "id": "10947",
+        "username": "gamingonlinux",
+        "acct": "gamingonlinux",
+        "display_name": "Liam @ GamingOnLinux \ud83d\udc27\ud83c\udfae",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2016-11-21T00:00:00.000Z",
+        "note": "<p>News + Spicy Opinions. One person mostly. Content creator of many forms. Support on Patreon: <a href=\"http://patreon.com/liamdawe\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">patreon.com/liamdawe</span><span class=\"invisible\"></span></a> <a href=\"https://www.gamingonlinux.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">gamingonlinux.com</span><span class=\"invisible\"></span></a> (official account) <a href=\"https://mastodon.social/tags/Linux\" class=\"mention hashtag\" rel=\"tag\">#<span>Linux</span></a> <a href=\"https://mastodon.social/tags/LinuxGaming\" class=\"mention hashtag\" rel=\"tag\">#<span>LinuxGaming</span></a> </p><p>Proper Personal on <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ThePlant\" class=\"u-url mention\">@<span>ThePlant</span></a></span></p><p>This account will have a big mixture of content. If all you want is plain news, go to the website or use RSS. If you complain about what I post I will probably block you.</p><p>contact@gamingonlinux.com</p>",
+        "url": "https://mastodon.social/@gamingonlinux",
+        "uri": "https://mastodon.social/users/gamingonlinux",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/010/947/original/34a579358b5060ee.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/010/947/original/34a579358b5060ee.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/010/947/original/396dd56e0668f4c3.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/010/947/original/396dd56e0668f4c3.jpeg",
+        "followers_count": 63085,
+        "following_count": 246,
+        "statuses_count": 11965,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.gamingonlinux.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">gamingonlinux.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2018-10-09T13:57:31.783+00:00"
+            },
+            {
+                "name": "Threads",
+                "value": "<a href=\"https://threads.net/gaming0nlinux\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">threads.net/gaming0nlinux</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "106493575070050794",
+        "username": "noybeu",
+        "acct": "noybeu",
+        "display_name": "noyb.eu",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2021-06-29T00:00:00.000Z",
+        "note": "<p>noyb is a non-profit association committed to the legal enforcement of European data protection laws. So far, noyb has filed more than 900 cases against numerous intentional infringements - including companies such as Google, Apple, Facebook and Amazon. More than 5,200 supporting members fund our work.  <br /><a href=\"https://mastodon.social/tags/MyPrivacyIsNoneOfYourBusiness\" class=\"mention hashtag\" rel=\"tag\">#<span>MyPrivacyIsNoneOfYourBusiness</span></a></p>",
+        "url": "https://mastodon.social/@noybeu",
+        "uri": "https://mastodon.social/users/noybeu",
+        "avatar": "https://files.mastodon.social/accounts/avatars/106/493/575/070/050/794/original/1011f2bd8a6832c9.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/106/493/575/070/050/794/original/1011f2bd8a6832c9.png",
+        "header": "https://files.mastodon.social/accounts/headers/106/493/575/070/050/794/original/71aad47f84153592.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/106/493/575/070/050/794/original/71aad47f84153592.png",
+        "followers_count": 8951,
+        "following_count": 29,
+        "statuses_count": 595,
+        "last_status_at": "2024-08-22",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Find out more!",
+                "value": "<a href=\"https://noyb.eu/en\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">noyb.eu/en</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Contact us!",
+                "value": "<a href=\"https://noyb.eu/en/contact\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">noyb.eu/en/contact</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Support us!",
+                "value": "<a href=\"https://noyb.eu/en/support-us\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">noyb.eu/en/support-us</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109335576184054047",
+        "username": "GolansMom",
+        "acct": "GolansMom",
+        "display_name": "DannaLinnBarnett",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-13T00:00:00.000Z",
+        "note": "<p>Space enthusiast, sci-fi lover, engineer, mom, <a href=\"https://mastodon.social/tags/womeninstem\" class=\"mention hashtag\" rel=\"tag\">#<span>womeninstem</span></a>, stopping to smell the flowers</p>",
+        "url": "https://mastodon.social/@GolansMom",
+        "uri": "https://mastodon.social/users/GolansMom",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/335/576/184/054/047/original/2ff31a9276e19274.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/335/576/184/054/047/original/2ff31a9276e19274.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 65,
+        "following_count": 103,
+        "statuses_count": 396,
+        "last_status_at": "2024-06-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Twitter (while still available)",
+                "value": "@Golans_mom",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "108196326530908368",
+        "username": "absolutspacegrl",
+        "acct": "absolutspacegrl",
+        "display_name": "Holly \ud83d\ude80\u269c\ufe0f",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-04-26T00:00:00.000Z",
+        "note": "<p>NASA engineer on Fuel Cells for human lunar exploration &amp; alternative energy on Earth. New Orleans transplant in Houston.</p><p>Cajun qui parle un peu de fran\u00e7ais; \u00e7a va?</p><p>I\u2019ve managed to attract the ire of many of the chief twit\u2019s fanboys over the past decade plus; this place seems blissfully free of them \ud83d\ude0a</p><p>She/her; opinions are mine &amp; do not reflect my employer.</p><p>\u2764\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f</p><p><a href=\"https://mastodon.social/tags/nasa\" class=\"mention hashtag\" rel=\"tag\">#<span>nasa</span></a> <a href=\"https://mastodon.social/tags/space\" class=\"mention hashtag\" rel=\"tag\">#<span>space</span></a> <a href=\"https://mastodon.social/tags/science\" class=\"mention hashtag\" rel=\"tag\">#<span>science</span></a> <a href=\"https://mastodon.social/tags/engineering\" class=\"mention hashtag\" rel=\"tag\">#<span>engineering</span></a> <a href=\"https://mastodon.social/tags/WomenInSTEM\" class=\"mention hashtag\" rel=\"tag\">#<span>WomenInSTEM</span></a> <a href=\"https://mastodon.social/tags/StarWars\" class=\"mention hashtag\" rel=\"tag\">#<span>StarWars</span></a> <a href=\"https://mastodon.social/tags/StarTrek\" class=\"mention hashtag\" rel=\"tag\">#<span>StarTrek</span></a> <a href=\"https://mastodon.social/tags/nola\" class=\"mention hashtag\" rel=\"tag\">#<span>nola</span></a> <a href=\"https://mastodon.social/tags/louisiana\" class=\"mention hashtag\" rel=\"tag\">#<span>louisiana</span></a> <a href=\"https://mastodon.social/tags/catsofmastodon\" class=\"mention hashtag\" rel=\"tag\">#<span>catsofmastodon</span></a></p>",
+        "url": "https://mastodon.social/@absolutspacegrl",
+        "uri": "https://mastodon.social/users/absolutspacegrl",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/196/326/530/908/368/original/ae27ab63fc796e46.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/196/326/530/908/368/original/ae27ab63fc796e46.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/108/196/326/530/908/368/original/bb091436492aeecb.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/196/326/530/908/368/original/bb091436492aeecb.jpeg",
+        "followers_count": 3609,
+        "following_count": 399,
+        "statuses_count": 2193,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Location",
+                "value": "Houston, TX",
+                "verified_at": null
+            },
+            {
+                "name": "Profession",
+                "value": "Fuel Cell Engineer",
+                "verified_at": null
+            },
+            {
+                "name": "Formerly",
+                "value": "Artemis Systems Engineer",
+                "verified_at": null
+            },
+            {
+                "name": "Formerly",
+                "value": "Space Shuttle Flight Controller",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109688730253918026",
+        "username": "studioneat",
+        "acct": "studioneat",
+        "display_name": "Studio Neat",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-01-14T00:00:00.000Z",
+        "note": "<p>We design simple and delightful tools for people. <a href=\"https://www.studioneat.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">studioneat.com</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@studioneat",
+        "uri": "https://mastodon.social/users/studioneat",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/688/730/253/918/026/original/564f4a6642c2ecfb.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/688/730/253/918/026/original/564f4a6642c2ecfb.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/688/730/253/918/026/original/6f902485354fa1a2.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/688/730/253/918/026/original/6f902485354fa1a2.jpg",
+        "followers_count": 1154,
+        "following_count": 1,
+        "statuses_count": 177,
+        "last_status_at": "2024-08-22",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.studioneat.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">studioneat.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "1074531",
+        "username": "play0ad",
+        "acct": "play0ad",
+        "display_name": "0 A.D.  \u2705",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2020-01-04T00:00:00.000Z",
+        "note": "<p>0 A.D. is a free and open-source, historical Real Time Strategy game, focused on the period from 500 B.C. to 1 B.C., under development by Wildfire Games. It&#39;s cross-platform, playable on Windows, macOS, FreeBSD, Linux, and OpenBSD. Choose from 13 different civilizations, a multitude of maps, game modes, single player or multiplayer.</p>",
+        "url": "https://mastodon.social/@play0ad",
+        "uri": "https://mastodon.social/users/play0ad",
+        "avatar": "https://files.mastodon.social/accounts/avatars/001/074/531/original/b44a56304572cb09.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/001/074/531/original/b44a56304572cb09.png",
+        "header": "https://files.mastodon.social/accounts/headers/001/074/531/original/3b4e13bda23047d9.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/001/074/531/original/3b4e13bda23047d9.jpg",
+        "followers_count": 2637,
+        "following_count": 9,
+        "statuses_count": 267,
+        "last_status_at": "2024-08-01",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://play0ad.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">play0ad.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2020-06-30T18:11:07.889+00:00"
+            }
+        ]
+    },
+    {
+        "id": "108196926365234436",
+        "username": "Pwnallthethings",
+        "acct": "Pwnallthethings",
+        "display_name": "Pwnallthethings",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-04-26T00:00:00.000Z",
+        "note": "<p>Mostly <a href=\"https://mastodon.social/tags/Natsec\" class=\"mention hashtag\" rel=\"tag\">#<span>Natsec</span></a>, <a href=\"https://mastodon.social/tags/infosec\" class=\"mention hashtag\" rel=\"tag\">#<span>infosec</span></a>, and <a href=\"https://mastodon.social/tags/Ukraine\" class=\"mention hashtag\" rel=\"tag\">#<span>Ukraine</span></a>. Views are my own. </p><p>&quot;noted security wizard&quot; -- The Register. </p><p>Subscribe for more at <a href=\"https://www.pwnallthethings.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">pwnallthethings.com</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@Pwnallthethings",
+        "uri": "https://mastodon.social/users/Pwnallthethings",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/196/926/365/234/436/original/48b70534fa3e6c60.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/196/926/365/234/436/original/48b70534fa3e6c60.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/108/196/926/365/234/436/original/3f4c4fca1c16523d.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/196/926/365/234/436/original/3f4c4fca1c16523d.png",
+        "followers_count": 71327,
+        "following_count": 715,
+        "statuses_count": 1222,
+        "last_status_at": "2023-08-26",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Newsletter / blog",
+                "value": "<a href=\"https://www.pwnallthethings.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">pwnallthethings.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "38659",
+        "username": "nixCraft",
+        "acct": "nixCraft",
+        "display_name": "nixCraft \ud83d\udc27",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-04-03T00:00:00.000Z",
+        "note": "<p>Enjoy <a href=\"https://mastodon.social/tags/Linux\" class=\"mention hashtag\" rel=\"tag\">#<span>Linux</span></a>, <a href=\"https://mastodon.social/tags/macOS\" class=\"mention hashtag\" rel=\"tag\">#<span>macOS</span></a>, <a href=\"https://mastodon.social/tags/FreeBSD\" class=\"mention hashtag\" rel=\"tag\">#<span>FreeBSD</span></a> &amp; <a href=\"https://mastodon.social/tags/Unix\" class=\"mention hashtag\" rel=\"tag\">#<span>Unix</span></a> like systems? <a href=\"https://mastodon.social/tags/Opensource\" class=\"mention hashtag\" rel=\"tag\">#<span>Opensource</span></a> software &amp; <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"tag\">#<span>programming</span></a>? Enjoy <a href=\"https://mastodon.social/tags/Sysadmin\" class=\"mention hashtag\" rel=\"tag\">#<span>Sysadmin</span></a> &amp; <a href=\"https://mastodon.social/tags/DevOps\" class=\"mention hashtag\" rel=\"tag\">#<span>DevOps</span></a> work? Follow us to make the most of your geeky IT career. <a href=\"https://mastodon.social/tags/ActuallyHuman\" class=\"mention hashtag\" rel=\"tag\">#<span>ActuallyHuman</span></a> (e/human)</p>",
+        "url": "https://mastodon.social/@nixCraft",
+        "uri": "https://mastodon.social/users/nixCraft",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/038/659/original/b0de8058da52f2aa.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/038/659/original/b0de8058da52f2aa.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/038/659/original/6c4d08cfd6c28163.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/038/659/original/6c4d08cfd6c28163.png",
+        "followers_count": 71360,
+        "following_count": 104,
+        "statuses_count": 5531,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Linux blog",
+                "value": "<a href=\"https://www.cyberciti.biz\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">cyberciti.biz</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-21T11:10:53.864+00:00"
+            },
+            {
+                "name": "Q & A forum",
+                "value": "<a href=\"https://www.nixcraft.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">nixcraft.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-18T08:41:11.287+00:00"
+            },
+            {
+                "name": "Patreon members-only guides",
+                "value": "<a href=\"https://www.opensourceflare.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">opensourceflare.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-01-16T23:14:51.734+00:00"
+            },
+            {
+                "name": "nixCraft shop",
+                "value": "<a href=\"https://nixcraft-2.creator-spring.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">nixcraft-2.creator-spring.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "235237",
+        "username": "Chrishallbeck",
+        "acct": "Chrishallbeck",
+        "display_name": "Chris Hallbeck",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-11-13T00:00:00.000Z",
+        "note": "<p>Cartoonist. Animator.</p>",
+        "url": "https://mastodon.social/@Chrishallbeck",
+        "uri": "https://mastodon.social/users/Chrishallbeck",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/235/237/original/cf647c4ea79e821f.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/235/237/original/cf647c4ea79e821f.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/235/237/original/f247e514b1f8fbb8.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/235/237/original/f247e514b1f8fbb8.png",
+        "followers_count": 21219,
+        "following_count": 81,
+        "statuses_count": 2427,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://patreon.com/chrishallbeck\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/chrishallbeck</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "YouTube",
+                "value": "<a href=\"https://www.youtube.com/@ChrisHallbeck\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/@ChrisHallbeck</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://instagram.com/chrishallbeck\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/chrishallbeck</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Everywhere else",
+                "value": "<a href=\"https://hallbeck.com/links\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">hallbeck.com/links</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-10-25T22:55:38.909+00:00"
+            }
+        ]
+    }
+]

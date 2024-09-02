@@ -1,0 +1,62 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112855214386868228",
+            "created_at": "2024-07-26T22:45:10.000Z",
+            "in_reply_to_id": "112855070453429101",
+            "in_reply_to_account_id": "109309856285394596",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/softedge/statuses/112855214369643744",
+            "url": "https://mas.to/@softedge/112855214369643744",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@The14\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>The14</span></a></span> disagree, too late. if they continue to elect pro oil and gas production, and climate change denying governments what do they expect? did they think alberta would be exempt from the effects of their oil and gas business allied policies? that's a classic definition of insanity. the only real solution is reduce our carbon footprint and learn to be happy living simpler lives. there is no other reasonable solution. the corporations who got us into this mess will not get us out.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109299823902736050",
+                "username": "softedge",
+                "acct": "softedge@mas.to",
+                "display_name": "softedge",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-07T00:00:00.000Z",
+                "note": "<p>applied scientist - hydraulic solids transport specialist</p>",
+                "url": "https://mas.to/@softedge",
+                "uri": "https://mas.to/users/softedge",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/299/823/902/736/050/original/c410e7518e322090.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/299/823/902/736/050/original/c410e7518e322090.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/299/823/902/736/050/original/4f53fa5c7a7d691e.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/299/823/902/736/050/original/4f53fa5c7a7d691e.jpg",
+                "followers_count": 11,
+                "following_count": 1,
+                "statuses_count": 207,
+                "last_status_at": "2024-08-04",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109309856285394596",
+                    "username": "The14",
+                    "url": "https://mastodon.world/@The14",
+                    "acct": "The14@mastodon.world"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

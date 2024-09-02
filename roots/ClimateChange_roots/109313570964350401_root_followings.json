@@ -1,0 +1,51 @@
+[
+    {
+        "id": "110000089638610096",
+        "username": "fetzert",
+        "acct": "fetzert",
+        "display_name": "Thiemo Fetzer",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-03-10T00:00:00.000Z",
+        "note": "<p>Professor of Economics at Warwick University and at University of Bonn. Visiting Fellow LSE, Fellow at NIESR, CesIfo, CEPR. European Research Council Starting Grant Grantee.<br />Associate Editor at the Economic Journal. Human.</p>",
+        "url": "https://mastodon.social/@fetzert",
+        "uri": "https://mastodon.social/users/fetzert",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/000/089/638/610/096/original/d1adc9e151206424.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/000/089/638/610/096/original/d1adc9e151206424.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/000/089/638/610/096/original/7003cbe834b3fabb.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/000/089/638/610/096/original/7003cbe834b3fabb.png",
+        "followers_count": 2741,
+        "following_count": 94,
+        "statuses_count": 416,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "\ud83d\udc26",
+                "value": "<a href=\"https://twitter.com/fetzert\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/fetzert</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "\ud83c\udf93",
+                "value": "<a href=\"https://warwick.ac.uk/fac/soc/economics/staff/tfetzer/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">warwick.ac.uk/fac/soc/economic</span><span class=\"invisible\">s/staff/tfetzer/</span></a>",
+                "verified_at": "2023-07-08T11:10:27.985+00:00"
+            },
+            {
+                "name": "\ud83c\udf10",
+                "value": "<a href=\"https://www.trfetzer.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">trfetzer.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-07-08T11:08:54.815+00:00"
+            },
+            {
+                "name": "\u2718",
+                "value": "<a href=\"https://ideas.repec.org/f/pfe231.htm\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">ideas.repec.org/f/pfe231.htm</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

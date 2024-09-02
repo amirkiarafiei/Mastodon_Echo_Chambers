@@ -1,0 +1,85 @@
+[
+    {
+        "id": "106662767351580375",
+        "username": "KIT_Karlsruhe",
+        "acct": "KIT_Karlsruhe",
+        "display_name": "KIT Karlsruhe",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2021-07-29T00:00:00.000Z",
+        "note": "<p>Das Karlsruher Institut f\u00fcr Technologie (KIT) ist \u201eDie Forschungsuniversit\u00e4t in der Helmholtz-Gemeinschaft\u201c. Als eine der gr\u00f6\u00dften Wissenschaftseinrichtungen Europas verbindet die einzige deutsche Exzellenzuniversit\u00e4t mit nationaler Gro\u00dfforschung lange universit\u00e4re Tradition mit programmorientierter Spitzenforschung.</p>",
+        "url": "https://mastodon.social/@KIT_Karlsruhe",
+        "uri": "https://mastodon.social/users/KIT_Karlsruhe",
+        "avatar": "https://files.mastodon.social/accounts/avatars/106/662/767/351/580/375/original/ca16f764585a94b8.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/106/662/767/351/580/375/original/ca16f764585a94b8.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/106/662/767/351/580/375/original/88f781f6efd18330.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/106/662/767/351/580/375/original/88f781f6efd18330.jpg",
+        "followers_count": 2592,
+        "following_count": 78,
+        "statuses_count": 2087,
+        "last_status_at": "2024-08-30",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Impressum",
+                "value": "<a href=\"https://www.kit.edu/impressum.php\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">kit.edu/impressum.php</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-06-21T12:40:15.348+00:00"
+            },
+            {
+                "name": "Datenschutz",
+                "value": "<a href=\"https://www.kit.edu/datenschutz.php\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">kit.edu/datenschutz.php</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-06-21T12:40:15.455+00:00"
+            },
+            {
+                "name": "Homepage",
+                "value": "<a href=\"https://www.kit.edu/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">kit.edu/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "News",
+                "value": "<a href=\"https://www.kit.edu/kit/medien.php\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">kit.edu/kit/medien.php</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-06-21T12:40:15.650+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109259163902933965",
+        "username": "planet4589",
+        "acct": "planet4589",
+        "display_name": "planet4589 (Jonathan McDowell)",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-30T00:00:00.000Z",
+        "note": "<p>Astronomer at (but not speaking for) the Center for Astrophysics - Harvard and Smithsonian, working on Chandra, commenting on space launches.  Somerville, MA.  Orbital Police. All plots/images CC-BY</p>",
+        "url": "https://mastodon.social/@planet4589",
+        "uri": "https://mastodon.social/users/planet4589",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/259/163/902/933/965/original/2e609f2de9cdab86.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/259/163/902/933/965/original/2e609f2de9cdab86.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 6120,
+        "following_count": 695,
+        "statuses_count": 1379,
+        "last_status_at": "2024-05-17",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "https://planet4589.org/jcm/index.html",
+                "value": "<a href=\"https://planet4589.org/jcm/index.html\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">planet4589.org/jcm/index.html</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-10-31T05:22:09.868+00:00"
+            }
+        ]
+    }
+]

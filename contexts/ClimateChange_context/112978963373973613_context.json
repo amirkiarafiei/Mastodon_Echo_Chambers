@@ -1,0 +1,287 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112978988308584012",
+            "created_at": "2024-08-17T19:22:30.000Z",
+            "in_reply_to_id": "112978963373973613",
+            "in_reply_to_account_id": "111988306370222056",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://toot.community/users/seb321/statuses/112978988282569142",
+            "url": "https://toot.community/@seb321/112978988282569142",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@richpuchalsky\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>richpuchalsky</span></a></span> It\u2019s more like we\u2019re being told that it\u2019s bad for our health not to clean our teeth - while we are being hit in the face by hammers</p>",
+            "reblog": null,
+            "account": {
+                "id": "109293379334201226",
+                "username": "seb321",
+                "acct": "seb321@toot.community",
+                "display_name": "Seb",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-05T00:00:00.000Z",
+                "note": "<p>Never quite know what will grab my attention. I\u2019ve moved on from just agreeing that climate change will drastically affect the next generations and am actively looking at ways to build resilience and support each other. My generation has to hold its hands up and admit we failed to prevent this. Sorry kids. Going to spend my remaining time enjoying the best of humanity not the worst - art, cooperatives, writing, music, history, film (I should have just said arts), random stuff, etc. He/him</p>",
+                "url": "https://toot.community/@seb321",
+                "uri": "https://toot.community/users/seb321",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/293/379/334/201/226/original/a9fcbc75c552e493.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/293/379/334/201/226/original/a9fcbc75c552e493.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 201,
+                "following_count": 304,
+                "statuses_count": 4969,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111988306370222056",
+                    "username": "richpuchalsky",
+                    "url": "https://mastodon.social/@richpuchalsky",
+                    "acct": "richpuchalsky"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112979542733862291",
+            "created_at": "2024-08-17T21:43:30.000Z",
+            "in_reply_to_id": "112979004970976398",
+            "in_reply_to_account_id": "112608489447368929",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://kind.social/users/UnicycleSam/statuses/112979542706378736",
+            "url": "https://kind.social/@UnicycleSam/112979542706378736",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.io/@nutmeg\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nutmeg</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@richpuchalsky\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>richpuchalsky</span></a></span> please add me to your block list as well</p><p>Thanks</p>",
+            "reblog": null,
+            "account": {
+                "id": "112832358148328258",
+                "username": "UnicycleSam",
+                "acct": "UnicycleSam@kind.social",
+                "display_name": "UnicycleSam",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-07-22T00:00:00.000Z",
+                "note": "<p>Bicycle repairer <br>Accountant <br>He/Him<br>Bi boi<br>31</p>",
+                "url": "https://kind.social/@UnicycleSam",
+                "uri": "https://kind.social/users/UnicycleSam",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/832/358/148/328/258/original/1912e050db07b8f0.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/832/358/148/328/258/original/1912e050db07b8f0.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/832/358/148/328/258/original/78996f5b13c5c5b7.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/832/358/148/328/258/original/78996f5b13c5c5b7.jpg",
+                "followers_count": 230,
+                "following_count": 546,
+                "statuses_count": 138,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112608489447368929",
+                    "username": "nutmeg",
+                    "url": "https://toot.io/@nutmeg",
+                    "acct": "nutmeg@toot.io"
+                },
+                {
+                    "id": "111988306370222056",
+                    "username": "richpuchalsky",
+                    "url": "https://mastodon.social/@richpuchalsky",
+                    "acct": "richpuchalsky"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112983425355680670",
+            "created_at": "2024-08-18T14:10:53.000Z",
+            "in_reply_to_id": "112979004970976398",
+            "in_reply_to_account_id": "112608489447368929",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/RD4Anarchy/statuses/112983425267299245",
+            "url": "https://kolektiva.social/@RD4Anarchy/112983425267299245",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://toot.io/@nutmeg\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nutmeg</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@richpuchalsky\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>richpuchalsky</span></a></span> </p><p>&gt;&gt;...the same people vote for politicians that promise to not require them to change their life style.&lt;&lt;</p><p>My sibling in the void your profile picture (\"Mastodon for Harris Walz\") says you're also voting for them \ud83e\udd26\u200d\u2642\ufe0f </p><p>Also, just fyi you replied to an anarchist who is particularly adamant about not participating in the electoral scam at all \ud83e\udd37\u200d\u2642\ufe0f</p>",
+            "reblog": null,
+            "account": {
+                "id": "109270972915004484",
+                "username": "RD4Anarchy",
+                "acct": "RD4Anarchy@kolektiva.social",
+                "display_name": "RD",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-01T00:00:00.000Z",
+                "note": "<p>THC-infused, dada-inspired boomer, latecomer to anarchism, literally living the meme now in my mother's basement, with my partner and two cats.<br>No tankies, campists or ancaps tolerated.<br>he/him</p>",
+                "url": "https://kolektiva.social/@RD4Anarchy",
+                "uri": "https://kolektiva.social/users/RD4Anarchy",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/270/972/915/004/484/original/e0667aa2075f74e4.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/270/972/915/004/484/original/e0667aa2075f74e4.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/270/972/915/004/484/original/4d9c19e9d7b745ee.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/270/972/915/004/484/original/4d9c19e9d7b745ee.jpg",
+                "followers_count": 631,
+                "following_count": 256,
+                "statuses_count": 6988,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Recommended follow (for Anarchism)",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://kolektiva.social/@HeavenlyPossum\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>HeavenlyPossum</span></a></span>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Recommended follow (for Abolition)",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://kolektiva.social/@AdrianRiskin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>AdrianRiskin</span></a></span>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Recommended follow (for Climate Crisis)",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses@climatejustice.social</span></a></span>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Recommended follow (for Economics)",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.online/@blair_fix\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>blair_fix@mastodon.online</span></a></span>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112608489447368929",
+                    "username": "nutmeg",
+                    "url": "https://toot.io/@nutmeg",
+                    "acct": "nutmeg@toot.io"
+                },
+                {
+                    "id": "111988306370222056",
+                    "username": "richpuchalsky",
+                    "url": "https://mastodon.social/@richpuchalsky",
+                    "acct": "richpuchalsky"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112980417284577082",
+            "created_at": "2024-08-18T01:25:54.000Z",
+            "in_reply_to_id": "112978963373973613",
+            "in_reply_to_account_id": "111988306370222056",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112980417244943248",
+            "url": "https://mastodon.au/@largess/112980417244943248",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@richpuchalsky\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>richpuchalsky</span></a></span><br>&gt;We have wealthy people and their hired thugs hitting us in the face with hammers</p><p>----</p><p>Really ? Those holidaying in Thailand from Europe had the Ryan Air boss chasing them with a hammer to buy tickets  ?</p><p>Those not cycling to work  but driving are being chased by billionaires with hammers yeah ?</p><p>At the electoral booths they could have voted Green at the recent UK election on overwhelming numbers but voters chose more of the same...deliberately choosing  to cotinue destroying the planet with their enabling.  Billionaires with hammers forced their vote huh ?</p><p>Abrogating responsibity for our own repugnant actions is where the problem lies.   The enemy is looking back at us .... from the mirror.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111988306370222056",
+                    "username": "richpuchalsky",
+                    "url": "https://mastodon.social/@richpuchalsky",
+                    "acct": "richpuchalsky"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

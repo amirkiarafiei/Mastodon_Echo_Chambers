@@ -1,0 +1,378 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112872318875622551",
+            "created_at": "2024-07-29T23:14:52.000Z",
+            "in_reply_to_id": "112872165896376506",
+            "in_reply_to_account_id": "109309294327573360",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.world/users/Petprez/statuses/112872318086311471",
+            "url": "https://mastodon.world/@Petprez/112872318086311471",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.ie/@JimBliss\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>JimBliss</span></a></span> <br>That\u2019s sounds somewhat similar to Ecotopia, by Ernest Callenbach. Were you ever familiar with it?</p>",
+            "reblog": null,
+            "account": {
+                "id": "109299872372767687",
+                "username": "Petprez",
+                "acct": "Petprez@mastodon.world",
+                "display_name": "Pets Save the Day \ud83c\uddfa\ud83c\udde6",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-06T00:00:00.000Z",
+                "note": "<p>Data wonk, pet lover, caring human, progressive af</p><p>I post mostly phone pics and science stuff.<br>Some hashtags I follow:\u2028<br><a href=\"https://mastodon.world/tags/Astrodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Astrodon</span></a>\u2028<br><a href=\"https://mastodon.world/tags/AstroPhotography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AstroPhotography</span></a> \u2028<br><a href=\"https://mastodon.world/tags/AstroPhysics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AstroPhysics</span></a> \u2028<br><a href=\"https://mastodon.world/tags/BlackMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BlackMastodon</span></a>\u2028<br><a href=\"https://mastodon.world/tags/ClimateChange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateChange</span></a> \u2028<br><a href=\"https://mastodon.world/tags/ClimateJustice\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateJustice</span></a>\u2028<br><a href=\"https://mastodon.world/tags/CoralReef\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CoralReef</span></a>\u2028<br><a href=\"https://mastodon.world/tags/LandscapePhotography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LandscapePhotography</span></a>\u2028<br><a href=\"https://mastodon.world/tags/NaturePhotography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NaturePhotography</span></a>\u2028<br><a href=\"https://mastodon.world/tags/NASA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NASA</span></a>\u2028<br><a href=\"https://mastodon.world/tags/ESA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ESA</span></a></p>",
+                "url": "https://mastodon.world/@Petprez",
+                "uri": "https://mastodon.world/users/Petprez",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/299/872/372/767/687/original/16cc5739e584a4af.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/299/872/372/767/687/original/16cc5739e584a4af.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/299/872/372/767/687/original/9b7a21d0488fa737.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/299/872/372/767/687/original/9b7a21d0488fa737.jpeg",
+                "followers_count": 288,
+                "following_count": 1266,
+                "statuses_count": 554,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109309294327573360",
+                    "username": "JimBliss",
+                    "url": "https://mastodon.ie/@JimBliss",
+                    "acct": "JimBliss@mastodon.ie"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112872410631945539",
+            "created_at": "2024-07-29T23:38:24.000Z",
+            "in_reply_to_id": "112872318875622551",
+            "in_reply_to_account_id": "109299872372767687",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.ie/users/JimBliss/statuses/112872410612242185",
+            "url": "https://mastodon.ie/@JimBliss/112872410612242185",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@Petprez\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Petprez</span></a></span> I'm not familiar with it, but based on a quick Web search it definitely sounds like it might be up my street.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109309294327573360",
+                "username": "JimBliss",
+                "acct": "JimBliss@mastodon.ie",
+                "display_name": "Jim Bliss",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-08T00:00:00.000Z",
+                "note": "<p>Philosopher, psychoanalyst, former industrial engineer. Writes words and code. Very occasionally makes music. Was once @JimBliss23 on twitter but that's deleted now. GenX, gamer, and very left wing. He / Him.</p><p>On the outskirts of Dublin, Ireland. At the intersection between anarchism, socialism, and despair.</p><p>\"Everyone's lost but me.\"</p>",
+                "url": "https://mastodon.ie/@JimBliss",
+                "uri": "https://mastodon.ie/users/JimBliss",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/309/294/327/573/360/original/687f77239c7f049c.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/309/294/327/573/360/original/687f77239c7f049c.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/309/294/327/573/360/original/bdf7fe7852414ad6.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/309/294/327/573/360/original/bdf7fe7852414ad6.jpg",
+                "followers_count": 237,
+                "following_count": 291,
+                "statuses_count": 1349,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "READING / PLAYING",
+                        "value": "John Connolly / Fallout 4",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "LISTENING / WATCHING",
+                        "value": "Patti Smith / Castle",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "CROSS TO BEAR",
+                        "value": "Tottenham Hotspur",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "STEAM",
+                        "value": "<a href=\"https://steamcommunity.com/id/gruftyjim/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">steamcommunity.com/id/gruftyji</span><span class=\"invisible\">m/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109299872372767687",
+                    "username": "Petprez",
+                    "url": "https://mastodon.world/@Petprez",
+                    "acct": "Petprez@mastodon.world"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112872611860243423",
+            "created_at": "2024-07-30T00:29:35.000Z",
+            "in_reply_to_id": "112872410631945539",
+            "in_reply_to_account_id": "109309294327573360",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.world/users/Petprez/statuses/112872611840142496",
+            "url": "https://mastodon.world/@Petprez/112872611840142496",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.ie/@JimBliss\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>JimBliss</span></a></span> <br>Is your story published online?</p>",
+            "reblog": null,
+            "account": {
+                "id": "109299872372767687",
+                "username": "Petprez",
+                "acct": "Petprez@mastodon.world",
+                "display_name": "Pets Save the Day \ud83c\uddfa\ud83c\udde6",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-06T00:00:00.000Z",
+                "note": "<p>Data wonk, pet lover, caring human, progressive af</p><p>I post mostly phone pics and science stuff.<br>Some hashtags I follow:\u2028<br><a href=\"https://mastodon.world/tags/Astrodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Astrodon</span></a>\u2028<br><a href=\"https://mastodon.world/tags/AstroPhotography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AstroPhotography</span></a> \u2028<br><a href=\"https://mastodon.world/tags/AstroPhysics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AstroPhysics</span></a> \u2028<br><a href=\"https://mastodon.world/tags/BlackMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BlackMastodon</span></a>\u2028<br><a href=\"https://mastodon.world/tags/ClimateChange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateChange</span></a> \u2028<br><a href=\"https://mastodon.world/tags/ClimateJustice\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateJustice</span></a>\u2028<br><a href=\"https://mastodon.world/tags/CoralReef\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CoralReef</span></a>\u2028<br><a href=\"https://mastodon.world/tags/LandscapePhotography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LandscapePhotography</span></a>\u2028<br><a href=\"https://mastodon.world/tags/NaturePhotography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NaturePhotography</span></a>\u2028<br><a href=\"https://mastodon.world/tags/NASA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NASA</span></a>\u2028<br><a href=\"https://mastodon.world/tags/ESA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ESA</span></a></p>",
+                "url": "https://mastodon.world/@Petprez",
+                "uri": "https://mastodon.world/users/Petprez",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/299/872/372/767/687/original/16cc5739e584a4af.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/299/872/372/767/687/original/16cc5739e584a4af.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/299/872/372/767/687/original/9b7a21d0488fa737.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/299/872/372/767/687/original/9b7a21d0488fa737.jpeg",
+                "followers_count": 288,
+                "following_count": 1266,
+                "statuses_count": 554,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109309294327573360",
+                    "username": "JimBliss",
+                    "url": "https://mastodon.ie/@JimBliss",
+                    "acct": "JimBliss@mastodon.ie"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112874502568994790",
+            "created_at": "2024-07-30T08:30:24.000Z",
+            "in_reply_to_id": "112872611860243423",
+            "in_reply_to_account_id": "109299872372767687",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.ie/users/JimBliss/statuses/112874502541949043",
+            "url": "https://mastodon.ie/@JimBliss/112874502541949043",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@Petprez\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Petprez</span></a></span> It's not. I was active in the 'zine scene of the 80s and early 90s. I ran a few myself (\"Relics\", \"Postcards From Murmansk\", and \"Heads &amp; Tales\") and contributed to many more.</p><p>That particular story appeared in a 'zine called Future Legends which I sadly don't have a copy of anymore.</p><p>Most of those old 'zines never got archived online. Which is fine. There's nothing wrong with things being ephemeral.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109309294327573360",
+                "username": "JimBliss",
+                "acct": "JimBliss@mastodon.ie",
+                "display_name": "Jim Bliss",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-08T00:00:00.000Z",
+                "note": "<p>Philosopher, psychoanalyst, former industrial engineer. Writes words and code. Very occasionally makes music. Was once @JimBliss23 on twitter but that's deleted now. GenX, gamer, and very left wing. He / Him.</p><p>On the outskirts of Dublin, Ireland. At the intersection between anarchism, socialism, and despair.</p><p>\"Everyone's lost but me.\"</p>",
+                "url": "https://mastodon.ie/@JimBliss",
+                "uri": "https://mastodon.ie/users/JimBliss",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/309/294/327/573/360/original/687f77239c7f049c.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/309/294/327/573/360/original/687f77239c7f049c.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/309/294/327/573/360/original/bdf7fe7852414ad6.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/309/294/327/573/360/original/bdf7fe7852414ad6.jpg",
+                "followers_count": 237,
+                "following_count": 291,
+                "statuses_count": 1349,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "READING / PLAYING",
+                        "value": "John Connolly / Fallout 4",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "LISTENING / WATCHING",
+                        "value": "Patti Smith / Castle",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "CROSS TO BEAR",
+                        "value": "Tottenham Hotspur",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "STEAM",
+                        "value": "<a href=\"https://steamcommunity.com/id/gruftyjim/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">steamcommunity.com/id/gruftyji</span><span class=\"invisible\">m/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109299872372767687",
+                    "username": "Petprez",
+                    "url": "https://mastodon.world/@Petprez",
+                    "acct": "Petprez@mastodon.world"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112879912267315192",
+            "created_at": "2024-07-31T07:26:08.000Z",
+            "in_reply_to_id": "112872165896376506",
+            "in_reply_to_account_id": "109309294327573360",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112879912146120174",
+            "url": "https://mastodon.au/@largess/112879912146120174",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.ie/@JimBliss\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>JimBliss</span></a></span><br>Ted Kaczynski enters the chat</p><p><a href=\"https://dark-mountain.net/ted-kaczynski-and-why-he-matters/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dark-mountain.net/ted-kaczynsk</span><span class=\"invisible\">i-and-why-he-matters/</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109309294327573360",
+                    "username": "JimBliss",
+                    "url": "https://mastodon.ie/@JimBliss",
+                    "acct": "JimBliss@mastodon.ie"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://dark-mountain.net/ted-kaczynski-and-why-he-matters/",
+                "title": "Ted Kaczynski and Why He Matters - Dark Mountain",
+                "description": "The Unabomber Affair In early 1995, the New York Times received a communique from FC...",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Dark Mountain",
+                "provider_url": "",
+                "html": "",
+                "width": 602,
+                "height": 382,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/058/319/526/original/0f60a3ba932965e6.png",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "U8BMlEwtS~D*9ZkXIUt8~Wn#WF9Z9aR+xZxu",
+                "published_at": "2016-05-06T15:14:43.000Z",
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ]
+}

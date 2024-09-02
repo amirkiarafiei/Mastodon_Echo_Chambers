@@ -1,0 +1,83 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112821989869264032",
+            "created_at": "2024-07-21T01:55:41.000Z",
+            "in_reply_to_id": "112821979125140769",
+            "in_reply_to_account_id": "109394992099150885",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.nzoss.nz/users/strypey/statuses/112821989641311011",
+            "url": "https://mastodon.nzoss.nz/@strypey/112821989641311011",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://wandering.shop/@soonleenz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>soonleenz</span></a></span> <br>&gt; Pohutukawa flowering in July, they don't normally start until November...</p><p>I noticed daffodils starting to sprout the other day too. The plants seem to think it's spring already. What do they know that we don't? \ud83d\ude33</p>",
+            "reblog": null,
+            "account": {
+                "id": "365425",
+                "username": "strypey",
+                "acct": "strypey@mastodon.nzoss.nz",
+                "display_name": "Strypey",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2018-05-28T00:00:00.000Z",
+                "note": "<p>Free human being of this Earth. P\u0101keha in Aotearoa.</p><p>Be excellent to each other!</p><p>All my posts here are CC BY-SA 4.0 (or later).<br><a href=\"https://mastodon.nzoss.nz/tags/Vegan\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Vegan</span></a> <a href=\"https://mastodon.nzoss.nz/tags/Permaculture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Permaculture</span></a> <a href=\"https://mastodon.nzoss.nz/tags/Transition\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Transition</span></a> <a href=\"https://mastodon.nzoss.nz/tags/PeerProduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PeerProduction</span></a> <a href=\"https://mastodon.nzoss.nz/tags/PlatformCooperatives\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PlatformCooperatives</span></a> <a href=\"https://mastodon.nzoss.nz/tags/FreeCode\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FreeCode</span></a> <a href=\"https://mastodon.nzoss.nz/tags/CreativeCommons\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CreativeCommons</span></a> <a href=\"https://mastodon.nzoss.nz/tags/SciFi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SciFi</span></a> <a href=\"https://mastodon.nzoss.nz/tags/Comedy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Comedy</span></a> <a href=\"https://mastodon.nzoss.nz/tags/Juggling\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Juggling</span></a></p><p>Timezone: UTC+12</p>",
+                "url": "https://mastodon.nzoss.nz/@strypey",
+                "uri": "https://mastodon.nzoss.nz/users/strypey",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/365/425/original/4be2055d4d907e1c.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/365/425/original/4be2055d4d907e1c.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/365/425/original/1a6a566722570bab.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/365/425/original/1a6a566722570bab.jpg",
+                "followers_count": 2741,
+                "following_count": 2700,
+                "statuses_count": 33664,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"http://disintermedia.net.nz\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">disintermedia.net.nz</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Neurotype",
+                        "value": "ADHD, Autistic (AuDHD)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Languages",
+                        "value": "English, Te Reo M\u0101ori",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "ia (Te Reo M\u0101ori)",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109394992099150885",
+                    "username": "soonleenz",
+                    "url": "https://wandering.shop/@soonleenz",
+                    "acct": "soonleenz@wandering.shop"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

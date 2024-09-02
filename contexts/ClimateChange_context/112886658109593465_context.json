@@ -1,0 +1,158 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112886881566510544",
+            "created_at": "2024-08-01T12:58:33.747Z",
+            "in_reply_to_id": "112886658109593465",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ekknappenberger/statuses/112886881566510544",
+            "url": "https://mastodon.social/@ekknappenberger/112886881566510544",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span>  earth correcting the human biofilm that overgrew it... too bad we cant let the billionaires die of heat first</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "108198141650243809",
+                "username": "ekknappenberger",
+                "acct": "ekknappenberger",
+                "display_name": "\ud835\udd3ck \ud835\udccb\u2134\ud835\udcc3 \ud835\udd42\ud835\udd2b\u00e4\ud835\udd2d\ud835\udd2d\ud835\udd22\ud835\udd2b\ud835\udd1f\ud835\udd22\ud835\udd2fg",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-04-26T00:00:00.000Z",
+                "note": "<p>perpetual grad student \u2712\ufe0f <br />history \u270d\ud83c\udffc philosophy \ud83d\udcd9 theology \ud83d\udcd7<br />music\ud83c\udfba books \ud83d\udcda dogs \ud83d\udc15</p><p>West Virginia! &quot;Sic Semper Tyrannis!&quot;</p><p>4th Infantry, US Army \ud83e\ude96 \ud83c\uddfa\ud83c\uddf8  <br />OIF 05-07 \u2022 \ud83c\uddee\ud83c\uddf6 <br />slava ukraine \ud83c\uddfa\ud83c\udde6</p>",
+                "url": "https://mastodon.social/@ekknappenberger",
+                "uri": "https://mastodon.social/users/ekknappenberger",
+                "avatar": "https://files.mastodon.social/accounts/avatars/108/198/141/650/243/809/original/d734ca0f2909582d.jpeg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/108/198/141/650/243/809/original/d734ca0f2909582d.jpeg",
+                "header": "https://files.mastodon.social/accounts/headers/108/198/141/650/243/809/original/c2a9ca7603199ec3.jpeg",
+                "header_static": "https://files.mastodon.social/accounts/headers/108/198/141/650/243/809/original/c2a9ca7603199ec3.jpeg",
+                "followers_count": 217,
+                "following_count": 107,
+                "statuses_count": 2667,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "klikinauseehier",
+                        "value": "<a href=\"https://sites.google.com/site/evanmknappenbergerhomepage/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sites.google.com/site/evanmkna</span><span class=\"invisible\">ppenbergerhomepage/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "credentialed by training",
+                        "value": "heedless by nature",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "jack of all trades",
+                        "value": "master of arts, (eventually) doctor of letters",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "yeet not",
+                        "value": "that ye be not yeeted",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112887025230336861",
+            "created_at": "2024-08-01T13:35:05.883Z",
+            "in_reply_to_id": "112886658109593465",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/SmartFox/statuses/112887025230336861",
+            "url": "https://mastodon.social/@SmartFox/112887025230336861",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> without people capitalism will collapse.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for Android",
+                "website": "https://app.joinmastodon.org/android"
+            },
+            "account": {
+                "id": "111869453096587634",
+                "username": "SmartFox",
+                "acct": "SmartFox",
+                "display_name": "Smart Fox",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-02-03T00:00:00.000Z",
+                "note": "<p>Hi everyone,<br />i am a sysadmin who tries to create an animated series as a hobby Project (Not Just Stars). More information in the links (all self hosted)</p>",
+                "url": "https://mastodon.social/@SmartFox",
+                "uri": "https://mastodon.social/users/SmartFox",
+                "avatar": "https://files.mastodon.social/accounts/avatars/111/869/453/096/587/634/original/92fa56551f2ec49f.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/111/869/453/096/587/634/original/92fa56551f2ec49f.png",
+                "header": "https://files.mastodon.social/accounts/headers/111/869/453/096/587/634/original/00cc7efcc43dde0a.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/111/869/453/096/587/634/original/00cc7efcc43dde0a.png",
+                "followers_count": 2,
+                "following_count": 10,
+                "statuses_count": 180,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website (NJS)",
+                        "value": "<a href=\"https://blaeu.xyz/index.html\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">blaeu.xyz/index.html</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-24T21:22:03.162+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

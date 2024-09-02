@@ -1,0 +1,316 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112951727945423281",
+            "created_at": "2024-08-12T23:49:49.000Z",
+            "in_reply_to_id": "112951599928131953",
+            "in_reply_to_account_id": "110016098615223095",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://todon.eu/users/EndemicEarthling/statuses/112951727868978593",
+            "url": "https://todon.eu/@EndemicEarthling/112951727868978593",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://tech.lgbt/@CriticalCupcake\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>CriticalCupcake</span></a></span></p><p>Global policy priority to help stop/slow <a href=\"https://todon.eu/tags/ClimateDisruption\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ClimateDisruption</span></a>: vigorously pursue (actual) <a href=\"https://todon.eu/tags/democracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>democracy</span></a> at all relevant levels and contexts.</p><p>Requires: (a) dismantling/diminution/decentralising of all de facto hyper-concentrations of power (which in practice make actually democratic processes and outcomes impossible/severely compromised);<br>(b) empowering of the billions currently impoverished and subjected by those hyper-concentrations.</p><p>Illustrative step towards each of these:<br>(a) Maximum wealth limit: 100% tax on all wealth above a certain threshold, which starts in the billions and moves down over time, with the goal of lowering the number of orders of magnitude of wealth (and power) differential between the wealthiest and the poorest;<br>(b) reallocate these resources towards nurturing cooperative/worker-owned enterprises, i.e. democracy in the workplace, along with expanding access to education, housing, healthcare, healthy food/water/air/ecosystems (i.e. establishing minimum wealth/wellbeing standards) while simultaneously embracing a variety of reforms/expansions of/experiments in growing informed democratic agency.</p><p>Ok, I might have articulated slightly more than one policy...</p>",
+            "reblog": null,
+            "account": {
+                "id": "109385279417270100",
+                "username": "EndemicEarthling",
+                "acct": "EndemicEarthling@todon.eu",
+                "display_name": "EndemicEarthling",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-24T00:00:00.000Z",
+                "note": "<p>Recovering coloniser on stolen Gadigal land.<br>He/any ND DM PhD \u0399\u03a7\u0398\u03a5\u03a3</p><p>Ethics is about asking good questions, not just reaching a good answer. For centuries people have debated: \"is it ethical to steal bread if your family is starving?\". But there's a more pressing question: \"is it ethical to sell bread when people are starving?\"</p><p>\"Let no-one say the past is dead, the past is all about us and within.\" \u2013 Oodgeroo Noonuccal</p><p>\"There is dignity, grace, and humanity in changing your mind\" \u2014 Caitlyn Doughty</p><p>\u201cPeople have only as much liberty as they have the intelligence to want and the courage to take.\u201d  \u2015 Emma Goldman</p><p>\"You were born at just the right moment to help change everything.\" \u2014 Eric Holthaus</p>",
+                "url": "https://todon.eu/@EndemicEarthling",
+                "uri": "https://todon.eu/users/EndemicEarthling",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/385/279/417/270/100/original/9c14500dc7d6190b.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/385/279/417/270/100/original/9c14500dc7d6190b.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/385/279/417/270/100/original/813fa60c1ec542a1.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/385/279/417/270/100/original/813fa60c1ec542a1.jpg",
+                "followers_count": 439,
+                "following_count": 649,
+                "statuses_count": 1251,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Another world is inevitable",
+                        "value": "Which one is yet to be determined",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Future",
+                        "value": "Belongs to none and all",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Amazon",
+                        "value": "The wrong one is burning",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "This Message Brought To You By",
+                        "value": "The letters A, C, A and B",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110016098615223095",
+                    "username": "CriticalCupcake",
+                    "url": "https://tech.lgbt/@CriticalCupcake",
+                    "acct": "CriticalCupcake@tech.lgbt"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "ClimateDisruption",
+                    "url": "https://mastodon.social/tags/ClimateDisruption"
+                },
+                {
+                    "name": "democracy",
+                    "url": "https://mastodon.social/tags/democracy"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112953641137466697",
+            "created_at": "2024-08-13T07:56:20.000Z",
+            "in_reply_to_id": "112951727945423281",
+            "in_reply_to_account_id": "109385279417270100",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://tech.lgbt/users/CriticalCupcake/statuses/112953640879987352",
+            "url": "https://tech.lgbt/@CriticalCupcake/112953640879987352",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://todon.eu/@EndemicEarthling\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>EndemicEarthling</span></a></span> \ud83d\udd25 \ud83e\udd2d</p>",
+            "reblog": null,
+            "account": {
+                "id": "110016098615223095",
+                "username": "CriticalCupcake",
+                "acct": "CriticalCupcake@tech.lgbt",
+                "display_name": "Critical Cupcake",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-03-12T00:00:00.000Z",
+                "note": "<p>Science, Comedy, Left, LGBTQ+, Atheist, <a href=\"https://tech.lgbt/tags/Resistance\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Resistance</span></a><br>Cripple, ChronicPain, PolyBiPan, Queer,<br>Anti-Religious-Harm + Bigotry, <br>Everyone is an idiot sometimes, especially me ;)</p>",
+                "url": "https://tech.lgbt/@CriticalCupcake",
+                "uri": "https://tech.lgbt/users/CriticalCupcake",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/016/098/615/223/095/original/fd36d58c87b5a8cb.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/016/098/615/223/095/original/fd36d58c87b5a8cb.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/016/098/615/223/095/original/25dfceaa10869a3b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/016/098/615/223/095/original/25dfceaa10869a3b.jpg",
+                "followers_count": 3882,
+                "following_count": 4086,
+                "statuses_count": 4908,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Twitter",
+                        "value": "<a href=\"https://twitter.com/CriticalCupcake\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/CriticalCupcake</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "YouTube",
+                        "value": "<a href=\"https://www.youtube.com/CriticalCripple\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/CriticalCripple</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109385279417270100",
+                    "username": "EndemicEarthling",
+                    "url": "https://todon.eu/@EndemicEarthling",
+                    "acct": "EndemicEarthling@todon.eu"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112952486739326803",
+            "created_at": "2024-08-13T03:02:49.000Z",
+            "in_reply_to_id": "112951599928131953",
+            "in_reply_to_account_id": "110016098615223095",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.scot/users/electropict/statuses/112952486725841603",
+            "url": "https://mastodon.scot/@electropict/112952486725841603",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://tech.lgbt/@CriticalCupcake\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>CriticalCupcake</span></a></span> </p><p>Withdraw subsidies/tax breaks for fossil fuel and limestone extraction and introduce subsidies for real carbon sequestration so rich &amp; powerful people start defending that instead.</p><p>(Real here meaning, in accord with natural \u2013 i.e. already known effective \u2013 methods such as sinking reasonably stable carbon in ocean silt deposition areas.&nbsp; Probably not pumping CO\u2082 into old oil wells.)</p><p>Also more research into effective methods.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109693584792775196",
+                "username": "electropict",
+                "acct": "electropict@mastodon.scot",
+                "display_name": "Electropict",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-01-15T00:00:00.000Z",
+                "note": "<p>I rarely trust anything anyone else says about me so I doubt it\u2019s appropriate to ask anyone to trust anything I say about me.  If I\u2019m even real.  Perhaps I am the sum of my actions and written thoughts; you can read the latter here, but it\u2019s up to you to judge whether it\u02bcs of interest.</p><p>(But I\u2019m likely to post about electronic musical technology, and amongst other things, more politics than I\u2019d like, autism, disability, trans issues, and things little and large in the Hebrides, with pictures.)</p>",
+                "url": "https://mastodon.scot/@electropict",
+                "uri": "https://mastodon.scot/users/electropict",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/693/584/792/775/196/original/ce8ad5fe8d966b0f.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/693/584/792/775/196/original/ce8ad5fe8d966b0f.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/693/584/792/775/196/original/9bb46a1bed95942c.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/693/584/792/775/196/original/9bb46a1bed95942c.jpg",
+                "followers_count": 41,
+                "following_count": 57,
+                "statuses_count": 746,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://zasm.earth\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">zasm.earth</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-22T22:37:12.197+00:00"
+                    },
+                    {
+                        "name": "Pronouns part 1",
+                        "value": "Grammar is a tool not a religion; speak kindly of me and I\u2019ll speak kindly of thee.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns part 2",
+                        "value": "(But if you really want to be polite I\u2019ll take they/them/their/theirs.)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "On PeerTube",
+                        "value": "<a href=\"https://makertube.net/a/electropict\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">makertube.net/a/electropict</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110016098615223095",
+                    "username": "CriticalCupcake",
+                    "url": "https://tech.lgbt/@CriticalCupcake",
+                    "acct": "CriticalCupcake@tech.lgbt"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112952488473353946",
+            "created_at": "2024-08-13T03:03:15.000Z",
+            "in_reply_to_id": "112952486739326803",
+            "in_reply_to_account_id": "110016098615223095",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.scot/users/electropict/statuses/112952488460670006",
+            "url": "https://mastodon.scot/@electropict/112952488460670006",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://tech.lgbt/@CriticalCupcake\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>CriticalCupcake</span></a></span> </p><p>... It would be nice just to do away with rich &amp; powerful defenders of fossil carbon extraction but I\u2019m not holding my breath.  Probably harder.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109693584792775196",
+                "username": "electropict",
+                "acct": "electropict@mastodon.scot",
+                "display_name": "Electropict",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-01-15T00:00:00.000Z",
+                "note": "<p>I rarely trust anything anyone else says about me so I doubt it\u2019s appropriate to ask anyone to trust anything I say about me.  If I\u2019m even real.  Perhaps I am the sum of my actions and written thoughts; you can read the latter here, but it\u2019s up to you to judge whether it\u02bcs of interest.</p><p>(But I\u2019m likely to post about electronic musical technology, and amongst other things, more politics than I\u2019d like, autism, disability, trans issues, and things little and large in the Hebrides, with pictures.)</p>",
+                "url": "https://mastodon.scot/@electropict",
+                "uri": "https://mastodon.scot/users/electropict",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/693/584/792/775/196/original/ce8ad5fe8d966b0f.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/693/584/792/775/196/original/ce8ad5fe8d966b0f.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/693/584/792/775/196/original/9bb46a1bed95942c.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/693/584/792/775/196/original/9bb46a1bed95942c.jpg",
+                "followers_count": 41,
+                "following_count": 57,
+                "statuses_count": 746,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://zasm.earth\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">zasm.earth</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-22T22:37:12.197+00:00"
+                    },
+                    {
+                        "name": "Pronouns part 1",
+                        "value": "Grammar is a tool not a religion; speak kindly of me and I\u2019ll speak kindly of thee.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns part 2",
+                        "value": "(But if you really want to be polite I\u2019ll take they/them/their/theirs.)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "On PeerTube",
+                        "value": "<a href=\"https://makertube.net/a/electropict\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">makertube.net/a/electropict</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110016098615223095",
+                    "username": "CriticalCupcake",
+                    "url": "https://tech.lgbt/@CriticalCupcake",
+                    "acct": "CriticalCupcake@tech.lgbt"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

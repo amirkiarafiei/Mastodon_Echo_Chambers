@@ -1,0 +1,123 @@
+[
+    {
+        "id": "1",
+        "username": "Gargron",
+        "acct": "Gargron",
+        "display_name": "Eugen Rochko",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2016-03-16T00:00:00.000Z",
+        "note": "<p>Founder of <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Mastodon\" class=\"u-url mention\">@<span>Mastodon</span></a></span>. Film photography, prog metal, Dota 2. Likes all things analog.</p>",
+        "url": "https://mastodon.social/@Gargron",
+        "uri": "https://mastodon.social/users/Gargron",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/000/001/original/a0a49d80c3de5f75.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/000/001/original/a0a49d80c3de5f75.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/000/001/original/d13e4417706a5fec.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/000/001/original/d13e4417706a5fec.jpg",
+        "followers_count": 350436,
+        "following_count": 537,
+        "statuses_count": 77141,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://www.patreon.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">patreon.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/Gargron\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Gargron</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-07T23:24:40.347+00:00"
+            },
+            {
+                "name": "Portfolio",
+                "value": "<a href=\"https://eugenrochko.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">eugenrochko.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-07-06T01:06:10.801+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109245409174906070",
+        "username": "mackayim2022",
+        "acct": "mackayim2022",
+        "display_name": "Ian M. Mackay, PhD (he/him)",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p>virologist. husband. dad. reader. writer. fixer. bad typist. learner. in no order. facts referenced. opinions mine alone. not medical advice or endorsement. <br />I am <a href=\"https://www.threads.net/@mackayim.2024\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">threads.net/@mackayim.2024</span><span class=\"invisible\"></span></a> from Threads (follow to see cross-posts) <br />\ud83e\udda0\ud83e\udd27\ud83e\uddec\ud83d\udcd1\ud83e\udd7c\ud83e\udd9f\ud83e\uddc0</p>",
+        "url": "https://mastodon.social/@mackayim2022",
+        "uri": "https://mastodon.social/users/mackayim2022",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/245/409/174/906/070/original/f38a5deb52c76e26.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/245/409/174/906/070/original/f38a5deb52c76e26.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/245/409/174/906/070/original/79d47be2bcdecf2f.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/245/409/174/906/070/original/79d47be2bcdecf2f.jpg",
+        "followers_count": 5703,
+        "following_count": 2342,
+        "statuses_count": 2829,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Virology Down Under",
+                "value": "<a href=\"https://virologydownunder.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">virologydownunder.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-17T00:18:02.510+00:00"
+            },
+            {
+                "name": "ORCID",
+                "value": "<a href=\"https://orcid.org/0000-0003-3598-2350\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">orcid.org/0000-0003-3598-2350</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Figshare",
+                "value": "<a href=\"https://figshare.com/authors/Ian_M_Mackay/490154\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">figshare.com/authors/Ian_M_Mac</span><span class=\"invisible\">kay/490154</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/MackayIM\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/MackayIM</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109496809094587990",
+        "username": "florian_krammer",
+        "acct": "florian_krammer",
+        "display_name": "Florian Krammer",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-12-11T00:00:00.000Z",
+        "note": "<p>Viruses, viruses, viruses and vaccines.</p><p>V4=3x ancestral + 1x BA.5 bivalent</p><p>Professor at the Department of Microbiology<br />Icahn School of Medicine at Mount Sinai</p>",
+        "url": "https://mastodon.social/@florian_krammer",
+        "uri": "https://mastodon.social/users/florian_krammer",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/496/809/094/587/990/original/1871a72dc6abfc97.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/496/809/094/587/990/original/1871a72dc6abfc97.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/496/809/094/587/990/original/ac88884706ddc51d.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/496/809/094/587/990/original/ac88884706ddc51d.jpg",
+        "followers_count": 2239,
+        "following_count": 260,
+        "statuses_count": 34,
+        "last_status_at": "2022-12-25",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    }
+]

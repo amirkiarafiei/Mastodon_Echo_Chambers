@@ -1,0 +1,146 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112900523406366099",
+            "created_at": "2024-08-03T22:47:51.000Z",
+            "in_reply_to_id": "112900490481674437",
+            "in_reply_to_account_id": "109305145822115313",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/alexblock/statuses/112900523360577298",
+            "url": "https://mstdn.ca/@alexblock/112900523360577298",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@evedazzle\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>evedazzle</span></a></span> Also not a climatologist, but I suspect it is reasonable to conclude that as the oceans warm, they will be able to spawn and sustain hurricanes starting earlier in the year and support them later in the year. And rapid intensification is definitely going to occur. Look at what happened in Acapulco for how that works out.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109520765128291561",
+                "username": "alexblock",
+                "acct": "alexblock@mstdn.ca",
+                "display_name": "Alex Block",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-17T00:00:00.000Z",
+                "note": "<p>Resident of Manotick, Ontario. Dad, occasional sailor, self-employed in IT since 1994, amateur guitarist for self-amusement. Interested in climate change, politics, technology and science.</p>",
+                "url": "https://mstdn.ca/@alexblock",
+                "uri": "https://mstdn.ca/users/alexblock",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/520/765/128/291/561/original/17c5b061bea69c92.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/520/765/128/291/561/original/17c5b061bea69c92.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 98,
+                "following_count": 229,
+                "statuses_count": 1572,
+                "last_status_at": "2024-08-25",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Business affiliation",
+                        "value": "CEO, MarketAccess Communications",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Website",
+                        "value": "www.MarketAccess.ca",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109305145822115313",
+                    "username": "evedazzle",
+                    "url": "https://mas.to/@evedazzle",
+                    "acct": "evedazzle@mas.to"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112900600916751705",
+            "created_at": "2024-08-03T23:00:32.000Z",
+            "in_reply_to_id": "112900490481674437",
+            "in_reply_to_account_id": "109305145822115313",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://digipres.club/users/scissortail/statuses/112900573268571186",
+            "url": "https://digipres.club/@scissortail/112900573268571186",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@evedazzle\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>evedazzle</span></a></span> My understanding from the stuff I've read on tornadoes is that it's all of the above. The seasons will extend, with stronger storms more possible, and also lots of unpredictability, depending on the particulars of a given season/event. So abnormally calm weather is part of global warming as much as the extremes are.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109495207856468732",
+                "username": "scissortail",
+                "acct": "scissortail@digipres.club",
+                "display_name": "Sky",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-10T00:00:00.000Z",
+                "note": "<p>Backyard birder. Tea drinker. Puzzles and quiet games. Reads a lot. Grey ace queer. Agender.</p><p>Work stuff is the spreadsheet side of librarianship: acq, e-res, and ILS admin.  </p><p>Typos are a feature, not a bug. Green heart = emotional support. Posts self-destruct.</p><p>On the fedi since 2017. PV forever.</p><p>Avatar: yellow butterfly on purple flowers.<br>Header: scissortail flycatcher over a field of paintbrush flowers. Both taken by my 70+ mom, as will be a lot of the pics I share (with permission).</p>",
+                "url": "https://digipres.club/@scissortail",
+                "uri": "https://digipres.club/users/scissortail",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/495/207/856/468/732/original/59f70cc79b11d44d.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/495/207/856/468/732/original/59f70cc79b11d44d.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/495/207/856/468/732/original/00737fc817515a85.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/495/207/856/468/732/original/00737fc817515a85.png",
+                "followers_count": 240,
+                "following_count": 308,
+                "statuses_count": 850,
+                "last_status_at": "2024-08-26",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "pronouns",
+                        "value": "\u00feey (they)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "chronic",
+                        "value": "tremor, IBS, PTSD, migraine",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "on land of",
+                        "value": "Caddo and Wichita",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109305145822115313",
+                    "username": "evedazzle",
+                    "url": "https://mas.to/@evedazzle",
+                    "acct": "evedazzle@mas.to"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

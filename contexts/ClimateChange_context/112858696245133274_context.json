@@ -1,0 +1,209 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112860650778183960",
+            "created_at": "2024-07-27T21:47:43.000Z",
+            "in_reply_to_id": "112858696245133274",
+            "in_reply_to_account_id": "109372522317999603",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mapstodon.space/users/fionag11/statuses/112860650740240844",
+            "url": "https://mapstodon.space/@fionag11/112860650740240844",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@JEmphatically\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>JEmphatically</span></a></span> Ha, great analogy. Thoughts and prayers for Jasper. After cutting funding for firefighters.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109543630088860318",
+                "username": "fionag11",
+                "acct": "fionag11@mapstodon.space",
+                "display_name": "Fiona Gregory",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-12-20T00:00:00.000Z",
+                "note": "<p>Geospatial Data Analyst specializing in Earth Observation (Remote Sensing) at the Alberta Biodiversity Monitoring Institute</p>",
+                "url": "https://mapstodon.space/@fionag11",
+                "uri": "https://mapstodon.space/users/fionag11",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/543/630/088/860/318/original/60dbf5564216d95c.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/543/630/088/860/318/original/60dbf5564216d95c.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/543/630/088/860/318/original/539fbf9ff1fad074.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/543/630/088/860/318/original/539fbf9ff1fad074.jpg",
+                "followers_count": 221,
+                "following_count": 149,
+                "statuses_count": 893,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109372522317999603",
+                    "username": "JEmphatically",
+                    "url": "https://mstdn.ca/@JEmphatically",
+                    "acct": "JEmphatically@mstdn.ca"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112864334433733152",
+            "created_at": "2024-07-28T13:24:29.000Z",
+            "in_reply_to_id": "112858696245133274",
+            "in_reply_to_account_id": "109372522317999603",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://masto.deluma.biz/users/dogzilla/statuses/112864334299085304",
+            "url": "https://masto.deluma.biz/@dogzilla/112864334299085304",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@JEmphatically\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>JEmphatically</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@GhostOnTheHalfShell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>GhostOnTheHalfShell</span></a></span> How much carbon was dumped into the atmosphere by those that made Jasper a beloved vacation destination, I wonder?</p>",
+            "reblog": null,
+            "account": {
+                "id": "112211031111180906",
+                "username": "dogzilla",
+                "acct": "dogzilla@masto.deluma.biz",
+                "display_name": "dogzilla",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-04-04T00:00:00.000Z",
+                "note": "<p>GenX generalist. Things I admire and enjoy: the Bauhaus, Bossanova, American Psycho, American and French revolutions, Latin food, the Ramones, Stanley Kubrick, Einstein, Les Rita Mitsouko, Talking Heads, David Fincher, Apple Computer, Python, startups, AR/VR/XR/spatial computing, The Thick of It. Recovering from AdTech.</p>",
+                "url": "https://masto.deluma.biz/@dogzilla",
+                "uri": "https://masto.deluma.biz/users/dogzilla",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/211/031/111/180/906/original/93dfee037e72bd8d.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/211/031/111/180/906/original/93dfee037e72bd8d.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/211/031/111/180/906/original/bc538e91f60c54fa.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/211/031/111/180/906/original/bc538e91f60c54fa.jpeg",
+                "followers_count": 753,
+                "following_count": 1402,
+                "statuses_count": 13070,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109372522317999603",
+                    "username": "JEmphatically",
+                    "url": "https://mstdn.ca/@JEmphatically",
+                    "acct": "JEmphatically@mstdn.ca"
+                },
+                {
+                    "id": "109338569507713783",
+                    "username": "GhostOnTheHalfShell",
+                    "url": "https://masto.ai/@GhostOnTheHalfShell",
+                    "acct": "GhostOnTheHalfShell@masto.ai"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112864466359149329",
+            "created_at": "2024-07-28T13:58:01.000Z",
+            "in_reply_to_id": "112864334433733152",
+            "in_reply_to_account_id": "112211031111180906",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/JEmphatically/statuses/112864466148447011",
+            "url": "https://mstdn.ca/@JEmphatically/112864466148447011",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.deluma.biz/@dogzilla\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dogzilla</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@GhostOnTheHalfShell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>GhostOnTheHalfShell</span></a></span> Paying the price for that in a very real way.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109372522317999603",
+                "username": "JEmphatically",
+                "acct": "JEmphatically@mstdn.ca",
+                "display_name": "JEmphatically",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-19T00:00:00.000Z",
+                "note": "<p>She/her writer, photographer, cyclist, environmentalist. Former tar sands PR, recovering politico, part-time freelance journalist. </p><p>Profile pic is an AI representation of me, not very accurate but that's AI for you.</p><p>Header photo is of a robotic dragon belching out fire with a Hudsons Bay store sign reflection in background. </p><p>Born: 319.65 ppm</p><p><a href=\"https://about.me/jodymacpherson\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">about.me/jodymacpherson</span><span class=\"invisible\"></span></a></p><p>If you like what I'm doing here, you can <a href=\"https://www.buymeacoffee.com/jodymacpherson\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">buymeacoffee.com/jodymacpherso</span><span class=\"invisible\">n</span></a></p>",
+                "url": "https://mstdn.ca/@JEmphatically",
+                "uri": "https://mstdn.ca/users/JEmphatically",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/372/522/317/999/603/original/3d1e40b25478a454.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/372/522/317/999/603/original/3d1e40b25478a454.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/372/522/317/999/603/original/7f5c0ec47375163d.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/372/522/317/999/603/original/7f5c0ec47375163d.jpg",
+                "followers_count": 460,
+                "following_count": 375,
+                "statuses_count": 1430,
+                "last_status_at": "2024-08-25",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Settler - Scottish/Irish",
+                        "value": "Mohkinstsis, Treaty 7 <a href=\"https://mstdn.ca/tags/landback\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>landback</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Newsletter writing",
+                        "value": "<a href=\"https://jodymacpherson.substack.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">jodymacpherson.substack.com/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Featured freelance writing:",
+                        "value": "<a href=\"https://www.theenergymix.com/parks-canada-counters-smiths-teary-claim-on-jasper-wildfire-response/om/climate-summit-spotlights-disconnects-in-alberta-energy-policy/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theenergymix.com/parks-canada-</span><span class=\"invisible\">counters-smiths-teary-claim-on-jasper-wildfire-response/om/climate-summit-spotlights-disconnects-in-alberta-energy-policy/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Featured freelance writing:",
+                        "value": "<a href=\"https://www.antihate.ca/counter_protesters_push_back_against_covid_conspiracy_demonstrations_calgary_beltline_neighbourhood\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">antihate.ca/counter_protesters</span><span class=\"invisible\">_push_back_against_covid_conspiracy_demonstrations_calgary_beltline_neighbourhood</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112211031111180906",
+                    "username": "dogzilla",
+                    "url": "https://masto.deluma.biz/@dogzilla",
+                    "acct": "dogzilla@masto.deluma.biz"
+                },
+                {
+                    "id": "109338569507713783",
+                    "username": "GhostOnTheHalfShell",
+                    "url": "https://masto.ai/@GhostOnTheHalfShell",
+                    "acct": "GhostOnTheHalfShell@masto.ai"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

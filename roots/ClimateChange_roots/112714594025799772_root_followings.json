@@ -1,0 +1,74 @@
+[
+    {
+        "id": "112666811956792051",
+        "username": "disisdeguey",
+        "acct": "disisdeguey",
+        "display_name": "disisdeguey",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2024-06-23T00:00:00.000Z",
+        "note": "<p>From the river to the sea <br /><a href=\"https://mastodon.social/tags/FreePalestine\" class=\"mention hashtag\" rel=\"tag\">#<span>FreePalestine</span></a>\ud83c\uddf5\ud83c\uddf8<br />That&#39;s all and everything that matters now</p>",
+        "url": "https://mastodon.social/@disisdeguey",
+        "uri": "https://mastodon.social/users/disisdeguey",
+        "avatar": "https://files.mastodon.social/accounts/avatars/112/666/811/956/792/051/original/dac9a4421bb3cbb8.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/112/666/811/956/792/051/original/dac9a4421bb3cbb8.png",
+        "header": "https://files.mastodon.social/accounts/headers/112/666/811/956/792/051/original/52553fd63e0830ac.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/112/666/811/956/792/051/original/52553fd63e0830ac.png",
+        "followers_count": 21,
+        "following_count": 48,
+        "statuses_count": 142,
+        "last_status_at": "2024-08-30",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "109916572149510110",
+        "username": "BLKNewsNow",
+        "acct": "BLKNewsNow",
+        "display_name": "BLK News Now!",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-02-23T00:00:00.000Z",
+        "note": "<p>News blog covering stories important to Black America, the diaspora, and allies from all backgrounds.</p>",
+        "url": "https://mastodon.social/@BLKNewsNow",
+        "uri": "https://mastodon.social/users/BLKNewsNow",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/916/572/149/510/110/original/eac514d2db93c245.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/916/572/149/510/110/original/eac514d2db93c245.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/916/572/149/510/110/original/58f8b520a791d3a3.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/916/572/149/510/110/original/58f8b520a791d3a3.jpg",
+        "followers_count": 161,
+        "following_count": 0,
+        "statuses_count": 697,
+        "last_status_at": "2024-08-30",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "BLOG",
+                "value": "<a href=\"https://www.blknewsnow.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">blknewsnow.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-10-07T03:14:12.887+00:00"
+            },
+            {
+                "name": "YOUTUBE",
+                "value": "<a href=\"https://www.youtube.com/blknewsnow\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/blknewsnow</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "SPOTIFY",
+                "value": "<a href=\"https://podcasters.spotify.com/pod/show/blk-news-now\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">podcasters.spotify.com/pod/sho</span><span class=\"invisible\">w/blk-news-now</span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

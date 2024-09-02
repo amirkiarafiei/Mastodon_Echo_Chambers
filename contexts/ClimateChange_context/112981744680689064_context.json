@@ -1,0 +1,321 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112982041663915975",
+            "created_at": "2024-08-18T08:19:01.000Z",
+            "in_reply_to_id": "112981744680689064",
+            "in_reply_to_account_id": "109437405186038726",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://indieweb.social/users/MarkMifsud/statuses/112982041647703786",
+            "url": "https://indieweb.social/@MarkMifsud/112982041647703786",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": "2024-08-18T08:20:05.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@ombialik\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ombialik</span></a></span> </p><p>What is it about the Mediterranean that makes is a likely predictor?  Its mostly closed nature, its higher salinity or something else?</p><p>Or maybe it's the Summer vacation home for Chtulhu?</p>",
+            "reblog": null,
+            "account": {
+                "id": "108328911824875747",
+                "username": "MarkMifsud",
+                "acct": "MarkMifsud@indieweb.social",
+                "display_name": "Mark Mifsud",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-05-19T00:00:00.000Z",
+                "note": "<p>Historically a teacher by profession. I re-designed my life after a cancer diagnosis.</p><p>Earned a BSc. in Software Engineering, a Masters in Entrepreneurship &amp; now I develop/research/use AI.</p><p>All this makes me deeply interested in how human nature, society &amp; technology all affect each other.</p><p>I love teaching, learning, laughing &amp; solving problems elegantly.</p><p><a href=\"https://indieweb.social/tags/coding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>coding</span></a> <a href=\"https://indieweb.social/tags/psychology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>psychology</span></a> <a href=\"https://indieweb.social/tags/scepticism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scepticism</span></a> <a href=\"https://indieweb.social/tags/thinking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>thinking</span></a> <a href=\"https://indieweb.social/tags/criticalthinking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>criticalthinking</span></a> <a href=\"https://indieweb.social/tags/computerscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>computerscience</span></a> <a href=\"https://indieweb.social/tags/UIdesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UIdesign</span></a> <a href=\"https://indieweb.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> </p><p><a href=\"https://indieweb.social/tags/rasingchickens\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rasingchickens</span></a></p>",
+                "url": "https://indieweb.social/@MarkMifsud",
+                "uri": "https://indieweb.social/users/MarkMifsud",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/328/911/824/875/747/original/045802008ae152c2.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/328/911/824/875/747/original/045802008ae152c2.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/328/911/824/875/747/original/be0e8168d449b3f8.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/328/911/824/875/747/original/be0e8168d449b3f8.jpg",
+                "followers_count": 61,
+                "following_count": 46,
+                "statuses_count": 1580,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109437405186038726",
+                    "username": "ombialik",
+                    "url": "https://mastodon.world/@ombialik",
+                    "acct": "ombialik@mastodon.world"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112983600196905079",
+            "created_at": "2024-08-18T14:55:22.000Z",
+            "in_reply_to_id": "112982041663915975",
+            "in_reply_to_account_id": "108328911824875747",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.world/users/ombialik/statuses/112983600179579002",
+            "url": "https://mastodon.world/@ombialik/112983600179579002",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@MarkMifsud\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MarkMifsud</span></a></span> It's a combination of factors. The fact that it's closed is a major part of it, as well as the modes of nutrient supply and deep water generation.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109437405186038726",
+                "username": "ombialik",
+                "acct": "ombialik@mastodon.world",
+                "display_name": "Or M. Bialik",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-28T00:00:00.000Z",
+                "note": "<p>Geologist, climate change researchers, and too many other things | Posting about the writing experience, science, SFF and academia. Opinions are my own or of the characters in my head.</p>",
+                "url": "https://mastodon.world/@ombialik",
+                "uri": "https://mastodon.world/users/ombialik",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/437/405/186/038/726/original/a2aeb6bd1c791854.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/437/405/186/038/726/original/a2aeb6bd1c791854.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/437/405/186/038/726/original/8981e6a4deabfc9a.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/437/405/186/038/726/original/8981e6a4deabfc9a.png",
+                "followers_count": 142,
+                "following_count": 30,
+                "statuses_count": 406,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Twitter",
+                        "value": "<a href=\"https://twitter.com/BialikOr\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/BialikOr</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Website (Science!)",
+                        "value": "<a href=\"https://obialik.weebly.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">obialik.weebly.com/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Other Website (Writing)",
+                        "value": "<a href=\"https://ombialik.weebly.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ombialik.weebly.com/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "BlueSky",
+                        "value": "<a href=\"https://bsky.app/profile/obialik.bsky.social\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/obialik.bsky.</span><span class=\"invisible\">social</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108328911824875747",
+                    "username": "MarkMifsud",
+                    "url": "https://indieweb.social/@MarkMifsud",
+                    "acct": "MarkMifsud@indieweb.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112983050806718564",
+            "created_at": "2024-08-18T12:35:39.000Z",
+            "in_reply_to_id": "112981744680689064",
+            "in_reply_to_account_id": "109437405186038726",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://universeodon.com/users/Starbrother/statuses/112983050769375791",
+            "url": "https://universeodon.com/@Starbrother/112983050769375791",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.world/@ombialik\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ombialik</span></a></span> I have just read about the Mediterranean broke records for the second year running. Aye!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109535493712971081",
+                "username": "Starbrother",
+                "acct": "Starbrother@universeodon.com",
+                "display_name": "Chill Arrow",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-18T00:00:00.000Z",
+                "note": "<p><a href=\"https://universeodon.com/tags/Experiencer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Experiencer</span></a> I want to connect with others to spread the truth...that humans are not alone here. I've got a good sense of humor. I am extremely anti-racism and know women can do everything men can do, and probably, better. I'm into weather and plate tectonics. We are NOT the greatest thing out there. I am a critical thinker, always have been. Climate change is a fact we'll have to adapt for. This extreme change is coming. I am a heretic.</p><p>\"...WAKE THEM UP...\" \ud83c\udf0e \ud83d\udc7d \u267e\ufe0f</p>",
+                "url": "https://universeodon.com/@Starbrother",
+                "uri": "https://universeodon.com/users/Starbrother",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/535/493/712/971/081/original/ba7ff225df605742.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/535/493/712/971/081/original/ba7ff225df605742.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/535/493/712/971/081/original/1d5df55e8f91ebdc.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/535/493/712/971/081/original/1d5df55e8f91ebdc.jpg",
+                "followers_count": 147,
+                "following_count": 214,
+                "statuses_count": 6309,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "UFO",
+                        "value": "Photos and videos",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Experiencers",
+                        "value": "Alien experiences/Contact experiences",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Moral",
+                        "value": "You don't have to be religious",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Shaman",
+                        "value": "NDE",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109437405186038726",
+                    "username": "ombialik",
+                    "url": "https://mastodon.world/@ombialik",
+                    "acct": "ombialik@mastodon.world"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112983607978576084",
+            "created_at": "2024-08-18T14:57:21.000Z",
+            "in_reply_to_id": "112983050806718564",
+            "in_reply_to_account_id": "109535493712971081",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.world/users/ombialik/statuses/112983607951608068",
+            "url": "https://mastodon.world/@ombialik/112983607951608068",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://universeodon.com/@Starbrother\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Starbrother</span></a></span> It's sad, but at this point we just call that Summer. <br>Being a bit more serious, every year I go out there, I'm alarmed by how warm it's getting and how fast. We're starting to see some freaky things going on there: <a href=\"https://www.nature.com/articles/s41598-022-20446-7\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41598-022</span><span class=\"invisible\">-20446-7</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109437405186038726",
+                "username": "ombialik",
+                "acct": "ombialik@mastodon.world",
+                "display_name": "Or M. Bialik",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-28T00:00:00.000Z",
+                "note": "<p>Geologist, climate change researchers, and too many other things | Posting about the writing experience, science, SFF and academia. Opinions are my own or of the characters in my head.</p>",
+                "url": "https://mastodon.world/@ombialik",
+                "uri": "https://mastodon.world/users/ombialik",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/437/405/186/038/726/original/a2aeb6bd1c791854.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/437/405/186/038/726/original/a2aeb6bd1c791854.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/437/405/186/038/726/original/8981e6a4deabfc9a.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/437/405/186/038/726/original/8981e6a4deabfc9a.png",
+                "followers_count": 142,
+                "following_count": 30,
+                "statuses_count": 406,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Twitter",
+                        "value": "<a href=\"https://twitter.com/BialikOr\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/BialikOr</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Website (Science!)",
+                        "value": "<a href=\"https://obialik.weebly.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">obialik.weebly.com/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Other Website (Writing)",
+                        "value": "<a href=\"https://ombialik.weebly.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ombialik.weebly.com/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "BlueSky",
+                        "value": "<a href=\"https://bsky.app/profile/obialik.bsky.social\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/obialik.bsky.</span><span class=\"invisible\">social</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109535493712971081",
+                    "username": "Starbrother",
+                    "url": "https://universeodon.com/@Starbrother",
+                    "acct": "Starbrother@universeodon.com"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.nature.com/articles/s41598-022-20446-7",
+                "title": "Role of oceanic abiotic carbonate precipitation in future atmospheric CO2 regulation - Scientific Reports",
+                "description": "The oceans play a major role in the earth\u2019s climate by regulating atmospheric CO2. While oceanic primary productivity and organic carbon burial sequesters CO2 from the atmosphere, precipitation of CaCO3 in the sea returns CO2 to the atmosphere. Abiotic CaCO3 precipitation in the form of aragonite is potentially an important feedback mechanism for the global carbon cycle, but this process has not been fully quantified. In a sediment-trap study conducted in the southeastern Mediterranean Sea, one of the fastest warming and most oligotrophic regions in the ocean, we quantify for the first time the flux of inorganic aragonite in the water column. We show that this process is kinetically induced by the warming of surface water and prolonged stratification resulting in a high aragonite saturation state (\u03a9Ar\u2009\u2265\u20094). Based on these relations, we estimate that abiotic aragonite calcification may account for 15\u2009\u00b1\u20093% of the previously reported CO2 efflux from the sea surface to the atmosphere in the southeastern Mediterranean. Modelled predictions of sea surface temperature and \u03a9Ar suggest that this process may weaken in the future ocean, resulting in increased alkalinity and buffering capacity of atmospheric CO2.",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Nature",
+                "provider_url": "",
+                "html": "",
+                "width": 576,
+                "height": 399,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/050/716/214/original/863e0fdc12ca55ad.png",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UrPGvsSxjMoN4,X7akWFIpRks;ogtAjJous:",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+[
+    {
+        "id": "111142101316391770",
+        "username": "pdi",
+        "acct": "pdi",
+        "display_name": "Paul-Drude-Institut",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-09-28T00:00:00.000Z",
+        "note": "<p>The Paul-Drude-Institut f\u00fcr Festk\u00f6rperelektronik (PDI) is a research institute located in Berlin, Germany. We perform basic and applied research at the nexus of materials science, condensed matter physics, and device engineering. </p><p>The institute is part of the Forschungsverbund Berlin and a member of the Leibniz Association.</p>",
+        "url": "https://mastodon.social/@pdi",
+        "uri": "https://mastodon.social/users/pdi",
+        "avatar": "https://files.mastodon.social/accounts/avatars/111/142/101/316/391/770/original/26bf98a78068717f.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/111/142/101/316/391/770/original/26bf98a78068717f.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/111/142/101/316/391/770/original/c9b49cf0ac9d2f4f.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/111/142/101/316/391/770/original/c9b49cf0ac9d2f4f.png",
+        "followers_count": 9,
+        "following_count": 18,
+        "statuses_count": 51,
+        "last_status_at": "2024-08-30",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Web",
+                "value": "<a href=\"https://www.pdi-berlin.de\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">pdi-berlin.de</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109246794984203739",
+        "username": "riffreporter",
+        "acct": "riffreporter",
+        "display_name": "RiffReporter",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p>Blicke unter die Oberfl\u00e4che! Damit du mehr siehst als nur die Nachrichten des Tages.  Unabh\u00e4ngiger <a href=\"https://mastodon.social/tags/Journalismus\" class=\"mention hashtag\" rel=\"tag\">#<span>Journalismus</span></a> <a href=\"https://mastodon.social/tags/werbefrei\" class=\"mention hashtag\" rel=\"tag\">#<span>werbefrei</span></a>. <a href=\"https://mastodon.social/tags/Umwelt\" class=\"mention hashtag\" rel=\"tag\">#<span>Umwelt</span></a> | <a href=\"https://mastodon.social/tags/Wissen\" class=\"mention hashtag\" rel=\"tag\">#<span>Wissen</span></a> | <a href=\"https://mastodon.social/tags/Tech\" class=\"mention hashtag\" rel=\"tag\">#<span>Tech</span></a> | <a href=\"https://mastodon.social/tags/Klima\" class=\"mention hashtag\" rel=\"tag\">#<span>Klima</span></a> | <a href=\"https://mastodon.social/tags/International\" class=\"mention hashtag\" rel=\"tag\">#<span>International</span></a>. We love <a href=\"https://mastodon.social/tags/Longreads\" class=\"mention hashtag\" rel=\"tag\">#<span>Longreads</span></a>. 100+ Autorinnen &amp; Autoren, 1 <a href=\"https://mastodon.social/tags/Genossenschaft\" class=\"mention hashtag\" rel=\"tag\">#<span>Genossenschaft</span></a>. <a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a> <a href=\"https://mastodon.social/tags/RiffReporter\" class=\"mention hashtag\" rel=\"tag\">#<span>RiffReporter</span></a> <a href=\"https://mastodon.social/tags/newstodon\" class=\"mention hashtag\" rel=\"tag\">#<span>newstodon</span></a> Ihr findet uns auf <a href=\"https://www.riffreporter.de/de\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">riffreporter.de/de</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@riffreporter",
+        "uri": "https://mastodon.social/users/riffreporter",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/246/794/984/203/739/original/757b9f4bf4a0e13f.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/246/794/984/203/739/original/757b9f4bf4a0e13f.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/246/794/984/203/739/original/a023e620f5b5f32c.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/246/794/984/203/739/original/a023e620f5b5f32c.jpeg",
+        "followers_count": 11775,
+        "following_count": 1092,
+        "statuses_count": 3168,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Webseite",
+                "value": "<a href=\"https://www.riffreporter.de/de\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">riffreporter.de/de</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-04-04T11:18:50.084+00:00"
+            },
+            {
+                "name": "Verfikation",
+                "value": "<a href=\"https://www.verifiedjournalist.org/people/@riffreporter@mastodon.social\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">verifiedjournalist.org/people/</span><span class=\"invisible\">@riffreporter@mastodon.social</span></a>",
+                "verified_at": "2023-04-04T11:18:50.513+00:00"
+            },
+            {
+                "name": "\u00dcber uns",
+                "value": "<a href=\"https://www.riffreporter.de/de/ueber-riffreporter\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">riffreporter.de/de/ueber-riffr</span><span class=\"invisible\">eporter</span></a>",
+                "verified_at": "2023-07-31T06:33:38.788+00:00"
+            },
+            {
+                "name": "Zum Abo",
+                "value": "<a href=\"https://www.riffreporter.de/de/abo-bestellen\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">riffreporter.de/de/abo-bestell</span><span class=\"invisible\">en</span></a>",
+                "verified_at": "2023-07-31T06:33:38.862+00:00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,747 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112927591320543097",
+            "created_at": "2024-08-08T17:31:34.000Z",
+            "in_reply_to_id": "112927567000125273",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.social/users/janisf/statuses/112927591285097173",
+            "url": "https://mstdn.social/@janisf/112927591285097173",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> His record with 3M and PFOS cleanup is pretty impressive.  Centrist, granted.  It would cost more than 3M is worth to clean up the PFOS they've manufactured.  They're stopping, though, and have it in their, um,  business plan? to continue cleanup.</p><p>He's all about heading in the right direction sustainably, including the capital.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109266590201392465",
+                "username": "janisf",
+                "acct": "janisf@mstdn.social",
+                "display_name": "Janis",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-01T00:00:00.000Z",
+                "note": "<p>(she/her) <a href=\"https://mstdn.social/tags/M4A\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>M4A</span></a> <a href=\"https://mstdn.social/tags/H4A\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>H4A</span></a> <a href=\"https://mstdn.social/tags/CleanEnergy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CleanEnergy</span></a> <a href=\"https://mstdn.social/tags/ESG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ESG</span></a> <a href=\"https://mstdn.social/tags/EV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EV</span></a> <a href=\"https://mstdn.social/tags/GlassBlowing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GlassBlowing</span></a> <a href=\"https://mstdn.social/tags/Feminism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Feminism</span></a> <a href=\"https://mstdn.social/tags/Minnesota\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Minnesota</span></a> <a href=\"https://mstdn.social/tags/UChicago\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UChicago</span></a> (proud parent)  <a href=\"https://mstdn.social/tags/Pacisfism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pacisfism</span></a> <a href=\"https://mstdn.social/tags/VoteBlue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VoteBlue</span></a> <a href=\"https://mstdn.social/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyAutistic</span></a> <a href=\"https://mstdn.social/tags/LGBTQIA2S\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LGBTQIA2S</span></a>+ BA in music from a conservative college and the damage to prove it. (Yes, that means I code.)  Please help me advocate for disaffected voters.</p>",
+                "url": "https://mstdn.social/@janisf",
+                "uri": "https://mstdn.social/users/janisf",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/266/590/201/392/465/original/c9db78cea0dcebe2.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/266/590/201/392/465/original/c9db78cea0dcebe2.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/266/590/201/392/465/original/1c2c25f553cfcf23.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/266/590/201/392/465/original/1c2c25f553cfcf23.jpg",
+                "followers_count": 212,
+                "following_count": 293,
+                "statuses_count": 6886,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "profile pic",
+                        "value": "me blowing glass",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "header pic",
+                        "value": "1984 landslide election map, showing all states red except for Minnesota and D.C.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112927602312718007",
+            "created_at": "2024-08-08T17:34:21.000Z",
+            "in_reply_to_id": "112927591320543097",
+            "in_reply_to_account_id": "109266590201392465",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://geekdom.social/users/FantasticalEconomics/statuses/112927602232450286",
+            "url": "https://geekdom.social/@FantasticalEconomics/112927602232450286",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@janisf\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>janisf</span></a></span> </p><p>Agreed!</p><p>Heading in the right direction is all we can reasonably hope for. The \"right thing\" in terms of climate is currently viewed as beyond extreme and would have no hope if getting elected. </p><p>That's not to say we shouldn't keep pushing for more. We should. But we also need to be happy with the gains we can realistically make. And this seems like great progress to me!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109570315473720553",
+                "username": "FantasticalEconomics",
+                "acct": "FantasticalEconomics@geekdom.social",
+                "display_name": "Kyle Montanio",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-21T00:00:00.000Z",
+                "note": "<p>I'm an environmental economist who researches econ pedagogy to make learning economics marginally less dismal.</p><p>My pipe-dream is to write a fantasy novel/economics textbook, which is getting closer to reality every day.</p><p><a href=\"https://geekdom.social/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://geekdom.social/tags/TeachEcon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TeachEcon</span></a> <a href=\"https://geekdom.social/tags/sustainability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sustainability</span></a> <a href=\"https://geekdom.social/tags/DoughnutEconomics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DoughnutEconomics</span></a> <a href=\"https://geekdom.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> </p><p>Profile pic is me smiling in front of a whiteboard with economics gibberish -- cause econ makes me happy.</p><p>Background is my dog, Freya, who is derpily sticking her tongue out while passed out.</p>",
+                "url": "https://geekdom.social/@FantasticalEconomics",
+                "uri": "https://geekdom.social/users/FantasticalEconomics",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "followers_count": 1373,
+                "following_count": 1306,
+                "statuses_count": 9963,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "About me",
+                        "value": "Making econ marginally less dismal one post at a time. I teach economics at the UC Denver and am an all around nerd. My goal is to combine my passion for all things fantasy/sci-fi and love of economics to lower the cost of learning econ.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Fantastical Economics",
+                        "value": "You can find my first-ever short story that covers the circular economy and sustainability in a sci-fi setting here: <a href=\"https://edgeryders.eu/t/circular-reasoning/19717\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edgeryders.eu/t/circular-reaso</span><span class=\"invisible\">ning/19717</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109266590201392465",
+                    "username": "janisf",
+                    "url": "https://mstdn.social/@janisf",
+                    "acct": "janisf@mstdn.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112927605530524008",
+            "created_at": "2024-08-08T17:35:09.000Z",
+            "in_reply_to_id": "112927602312718007",
+            "in_reply_to_account_id": "109266590201392465",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://geekdom.social/users/FantasticalEconomics/statuses/112927605375444854",
+            "url": "https://geekdom.social/@FantasticalEconomics/112927605375444854",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@janisf\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>janisf</span></a></span> </p><p>Also, I didn't know his progress on PFAS and 3M. Again, more news and I like him better :)</p><p>Thanks for sharing it!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109570315473720553",
+                "username": "FantasticalEconomics",
+                "acct": "FantasticalEconomics@geekdom.social",
+                "display_name": "Kyle Montanio",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-21T00:00:00.000Z",
+                "note": "<p>I'm an environmental economist who researches econ pedagogy to make learning economics marginally less dismal.</p><p>My pipe-dream is to write a fantasy novel/economics textbook, which is getting closer to reality every day.</p><p><a href=\"https://geekdom.social/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://geekdom.social/tags/TeachEcon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TeachEcon</span></a> <a href=\"https://geekdom.social/tags/sustainability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sustainability</span></a> <a href=\"https://geekdom.social/tags/DoughnutEconomics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DoughnutEconomics</span></a> <a href=\"https://geekdom.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> </p><p>Profile pic is me smiling in front of a whiteboard with economics gibberish -- cause econ makes me happy.</p><p>Background is my dog, Freya, who is derpily sticking her tongue out while passed out.</p>",
+                "url": "https://geekdom.social/@FantasticalEconomics",
+                "uri": "https://geekdom.social/users/FantasticalEconomics",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "followers_count": 1373,
+                "following_count": 1306,
+                "statuses_count": 9963,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "About me",
+                        "value": "Making econ marginally less dismal one post at a time. I teach economics at the UC Denver and am an all around nerd. My goal is to combine my passion for all things fantasy/sci-fi and love of economics to lower the cost of learning econ.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Fantastical Economics",
+                        "value": "You can find my first-ever short story that covers the circular economy and sustainability in a sci-fi setting here: <a href=\"https://edgeryders.eu/t/circular-reasoning/19717\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edgeryders.eu/t/circular-reaso</span><span class=\"invisible\">ning/19717</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109266590201392465",
+                    "username": "janisf",
+                    "url": "https://mstdn.social/@janisf",
+                    "acct": "janisf@mstdn.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112927626592766267",
+            "created_at": "2024-08-08T17:40:32.000Z",
+            "in_reply_to_id": "112927605530524008",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.social/users/janisf/statuses/112927626557622727",
+            "url": "https://mstdn.social/@janisf/112927626557622727",
+            "replies_count": 0,
+            "reblogs_count": 2,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> I can't actually source that.  I just know a couple 3M employees, read about them, and put it together.  They still make a whole lot of plastic medical product, but their R&amp;D is focused on that as a problem, and they share progress openly, specifically with South Pacific manufacturers.</p><p>Could be better, could be worse.  Right direction.  I think Walz is fabulous.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109266590201392465",
+                "username": "janisf",
+                "acct": "janisf@mstdn.social",
+                "display_name": "Janis",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-01T00:00:00.000Z",
+                "note": "<p>(she/her) <a href=\"https://mstdn.social/tags/M4A\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>M4A</span></a> <a href=\"https://mstdn.social/tags/H4A\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>H4A</span></a> <a href=\"https://mstdn.social/tags/CleanEnergy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CleanEnergy</span></a> <a href=\"https://mstdn.social/tags/ESG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ESG</span></a> <a href=\"https://mstdn.social/tags/EV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EV</span></a> <a href=\"https://mstdn.social/tags/GlassBlowing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GlassBlowing</span></a> <a href=\"https://mstdn.social/tags/Feminism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Feminism</span></a> <a href=\"https://mstdn.social/tags/Minnesota\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Minnesota</span></a> <a href=\"https://mstdn.social/tags/UChicago\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UChicago</span></a> (proud parent)  <a href=\"https://mstdn.social/tags/Pacisfism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pacisfism</span></a> <a href=\"https://mstdn.social/tags/VoteBlue\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VoteBlue</span></a> <a href=\"https://mstdn.social/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyAutistic</span></a> <a href=\"https://mstdn.social/tags/LGBTQIA2S\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LGBTQIA2S</span></a>+ BA in music from a conservative college and the damage to prove it. (Yes, that means I code.)  Please help me advocate for disaffected voters.</p>",
+                "url": "https://mstdn.social/@janisf",
+                "uri": "https://mstdn.social/users/janisf",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/266/590/201/392/465/original/c9db78cea0dcebe2.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/266/590/201/392/465/original/c9db78cea0dcebe2.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/266/590/201/392/465/original/1c2c25f553cfcf23.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/266/590/201/392/465/original/1c2c25f553cfcf23.jpg",
+                "followers_count": 212,
+                "following_count": 293,
+                "statuses_count": 6886,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "profile pic",
+                        "value": "me blowing glass",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "header pic",
+                        "value": "1984 landslide election map, showing all states red except for Minnesota and D.C.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112927603390170221",
+            "created_at": "2024-08-08T17:34:39.048Z",
+            "in_reply_to_id": "112927567000125273",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://evil.social/notes/9wp4h13cbltmf29k",
+            "url": "https://evil.social/notes/9wp4h13cbltmf29k",
+            "replies_count": 2,
+            "reblogs_count": 15,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@FantasticalEconomics@geekdom.social</a><span> </span></p><blockquote><span>\u201cWe can't move too fast when it comes to addressing </span><a href=\"https://evil.social/tags/ClimateChange\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#ClimateChange</a><span>.\u201d</span></blockquote><span>That's the thing, you can </span><i><span>feel</span></i><span> that something's wrong with the climate \u2013 especially if you're old enough to remember 40 or so years ago's weather. Further, you can feel that its either accelerating or has reached some critical milestones that make it feel like it's accelerating. If you haven't burried your head in the sand, you know that </span><i><span>something</span></i><span> probably needs to be done post haste. That's not a liberal vs. conservative thing (particularly if you're comparing to the meaning of \"conservative\" I grew up with), that's a \"I'm concerned about my future and my children's future\" thing.</span><p></p>",
+            "reblog": null,
+            "account": {
+                "id": "110386373227098025",
+                "username": "ferricoxide",
+                "acct": "ferricoxide@evil.social",
+                "display_name": "",
+                "locked": true,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-05-17T00:00:00.000Z",
+                "note": "<p><span>Ex of Twitter (and many others before that) by way of </span><a href=\"https://mastodon.social/@ferricoxide\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span>mastodon.social</span></a><span> (same user ID across a lot of platforms). Moved here because I like the ability to format posts and, sometimes, I need more than 500 characters ...plus there had been rumblings about mastodon.social getting widely defederated.</span></p>",
+                "url": "https://evil.social/@ferricoxide",
+                "uri": "https://evil.social/users/9evrpru46h",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/386/373/227/098/025/original/2052f2c83c2ca579.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/386/373/227/098/025/original/2052f2c83c2ca579.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 25,
+                "following_count": 102,
+                "statuses_count": 17402,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Random Musings (longer-form)",
+                        "value": "<a href=\"https://acrankinesssingularity.blogspot.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://acrankinesssingularity.blogspot.com/</a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112927618945980124",
+            "created_at": "2024-08-08T17:38:34.000Z",
+            "in_reply_to_id": "112927603390170221",
+            "in_reply_to_account_id": "110386373227098025",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://geekdom.social/users/FantasticalEconomics/statuses/112927618810735141",
+            "url": "https://geekdom.social/@FantasticalEconomics/112927618810735141",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://evil.social/@ferricoxide\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ferricoxide</span></a></span> </p><p>Truth. I'm hoping the fever will break after this election and the Right will realign itself dramatically. A big one being their increasingly untenable denial of climate change. </p><p>I don't know if it's likely, but I hope it fervently.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109570315473720553",
+                "username": "FantasticalEconomics",
+                "acct": "FantasticalEconomics@geekdom.social",
+                "display_name": "Kyle Montanio",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-21T00:00:00.000Z",
+                "note": "<p>I'm an environmental economist who researches econ pedagogy to make learning economics marginally less dismal.</p><p>My pipe-dream is to write a fantasy novel/economics textbook, which is getting closer to reality every day.</p><p><a href=\"https://geekdom.social/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://geekdom.social/tags/TeachEcon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TeachEcon</span></a> <a href=\"https://geekdom.social/tags/sustainability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sustainability</span></a> <a href=\"https://geekdom.social/tags/DoughnutEconomics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DoughnutEconomics</span></a> <a href=\"https://geekdom.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> </p><p>Profile pic is me smiling in front of a whiteboard with economics gibberish -- cause econ makes me happy.</p><p>Background is my dog, Freya, who is derpily sticking her tongue out while passed out.</p>",
+                "url": "https://geekdom.social/@FantasticalEconomics",
+                "uri": "https://geekdom.social/users/FantasticalEconomics",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "followers_count": 1373,
+                "following_count": 1306,
+                "statuses_count": 9963,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "About me",
+                        "value": "Making econ marginally less dismal one post at a time. I teach economics at the UC Denver and am an all around nerd. My goal is to combine my passion for all things fantasy/sci-fi and love of economics to lower the cost of learning econ.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Fantastical Economics",
+                        "value": "You can find my first-ever short story that covers the circular economy and sustainability in a sci-fi setting here: <a href=\"https://edgeryders.eu/t/circular-reasoning/19717\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edgeryders.eu/t/circular-reaso</span><span class=\"invisible\">ning/19717</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110386373227098025",
+                    "username": "ferricoxide",
+                    "url": "https://evil.social/@ferricoxide",
+                    "acct": "ferricoxide@evil.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112927761306064699",
+            "created_at": "2024-08-08T18:14:48.000Z",
+            "in_reply_to_id": "112927603390170221",
+            "in_reply_to_account_id": "110386373227098025",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://universeodon.com/users/flyhigh/statuses/112927761257271633",
+            "url": "https://universeodon.com/@flyhigh/112927761257271633",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://evil.social/@ferricoxide\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ferricoxide</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> The first shock I got was last September when we had 4 days of 97+ temps. That was truly unnerving.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110123764321032097",
+                "username": "flyhigh",
+                "acct": "flyhigh@universeodon.com",
+                "display_name": "Esslar2",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-03-31T00:00:00.000Z",
+                "note": "<p>Just starting to see how little I really know.</p>",
+                "url": "https://universeodon.com/@flyhigh",
+                "uri": "https://universeodon.com/users/flyhigh",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/123/764/321/032/097/original/81b3c31683678388.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/123/764/321/032/097/original/81b3c31683678388.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 82,
+                "following_count": 190,
+                "statuses_count": 4267,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110386373227098025",
+                    "username": "ferricoxide",
+                    "url": "https://evil.social/@ferricoxide",
+                    "acct": "ferricoxide@evil.social"
+                },
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112927722270063965",
+            "created_at": "2024-08-08T18:04:52.000Z",
+            "in_reply_to_id": "112927567000125273",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.online/users/bhahne/statuses/112927722235262800",
+            "url": "https://mastodon.online/@bhahne/112927722235262800",
+            "replies_count": 1,
+            "reblogs_count": 2,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> Note however that Walz isn't all sunshine and roses on climate.</p><p><a href=\"https://www.eenews.net/articles/tim-walzs-energy-record-political-asset-or-liability/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">eenews.net/articles/tim-walzs-</span><span class=\"invisible\">energy-record-political-asset-or-liability/</span></a></p><p>\"...he did not always stand in the way of fossil fuels, including when his administration helped approve a contested oil pipeline.\"</p><p>\"Collin Rees, political director of Oil Change U.S., knocked Walz over the Line 3 project...</p><p>His lack of action to stop the Line 3 pipeline shows a troubling deference to fossil fuel interests,\u201d Rees said...\"</p><p><a href=\"https://mastodon.online/tags/Harris2024\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Harris2024</span></a> <a href=\"https://mastodon.online/tags/Timwalz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Timwalz</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109295441402031943",
+                "username": "bhahne",
+                "acct": "bhahne@mastodon.online",
+                "display_name": "bhahne",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-06T00:00:00.000Z",
+                "note": "<p>US / San Francisco Bay Area. He/him. Democracy defense info page: bonhoffer.tv/democracy   <br>Resources page to fight the use of transphobia in the 2024 US election: <a href=\"https://sites.google.com/site/bonhoffertv/transequality\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sites.google.com/site/bonhoffe</span><span class=\"invisible\">rtv/transequality</span></a></p>",
+                "url": "https://mastodon.online/@bhahne",
+                "uri": "https://mastodon.online/users/bhahne",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/295/441/402/031/943/original/3199a94bfcd552ac.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/295/441/402/031/943/original/3199a94bfcd552ac.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 79,
+                "following_count": 73,
+                "statuses_count": 355,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Web site",
+                        "value": "<a href=\"http://bonhoffer.tv/democracy\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">bonhoffer.tv/democracy</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Web site",
+                        "value": "<a href=\"https://sites.google.com/site/bonhoffertv/transequality\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sites.google.com/site/bonhoffe</span><span class=\"invisible\">rtv/transequality</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "harris2024",
+                    "url": "https://mastodon.social/tags/harris2024"
+                },
+                {
+                    "name": "timwalz",
+                    "url": "https://mastodon.social/tags/timwalz"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112927890903674715",
+            "created_at": "2024-08-08T18:47:45.000Z",
+            "in_reply_to_id": "112927722270063965",
+            "in_reply_to_account_id": "109295441402031943",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://geekdom.social/users/FantasticalEconomics/statuses/112927890832946729",
+            "url": "https://geekdom.social/@FantasticalEconomics/112927890832946729",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@bhahne\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bhahne</span></a></span> </p><p>Agreed that is troubling. Oil pipelines are an area Democrats have constantly let me down on. </p><p>That said, I'll take the overall win and keep pressuring for improvement.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109570315473720553",
+                "username": "FantasticalEconomics",
+                "acct": "FantasticalEconomics@geekdom.social",
+                "display_name": "Kyle Montanio",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-21T00:00:00.000Z",
+                "note": "<p>I'm an environmental economist who researches econ pedagogy to make learning economics marginally less dismal.</p><p>My pipe-dream is to write a fantasy novel/economics textbook, which is getting closer to reality every day.</p><p><a href=\"https://geekdom.social/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://geekdom.social/tags/TeachEcon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TeachEcon</span></a> <a href=\"https://geekdom.social/tags/sustainability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sustainability</span></a> <a href=\"https://geekdom.social/tags/DoughnutEconomics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DoughnutEconomics</span></a> <a href=\"https://geekdom.social/tags/degrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degrowth</span></a> </p><p>Profile pic is me smiling in front of a whiteboard with economics gibberish -- cause econ makes me happy.</p><p>Background is my dog, Freya, who is derpily sticking her tongue out while passed out.</p>",
+                "url": "https://geekdom.social/@FantasticalEconomics",
+                "uri": "https://geekdom.social/users/FantasticalEconomics",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/570/315/473/720/553/original/072c7aa1ed913a50.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/570/315/473/720/553/original/1ccfde4d0169c9ae.jpg",
+                "followers_count": 1373,
+                "following_count": 1306,
+                "statuses_count": 9963,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "About me",
+                        "value": "Making econ marginally less dismal one post at a time. I teach economics at the UC Denver and am an all around nerd. My goal is to combine my passion for all things fantasy/sci-fi and love of economics to lower the cost of learning econ.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Fantastical Economics",
+                        "value": "You can find my first-ever short story that covers the circular economy and sustainability in a sci-fi setting here: <a href=\"https://edgeryders.eu/t/circular-reasoning/19717\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edgeryders.eu/t/circular-reaso</span><span class=\"invisible\">ning/19717</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109295441402031943",
+                    "username": "bhahne",
+                    "url": "https://mastodon.online/@bhahne",
+                    "acct": "bhahne@mastodon.online"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112929038604277988",
+            "created_at": "2024-08-08T23:39:38.000Z",
+            "in_reply_to_id": "112927567000125273",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://norcal.social/users/Edgar/statuses/112929038579695973",
+            "url": "https://norcal.social/@Edgar/112929038579695973",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FantasticalEconomics</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@blogdiva\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>blogdiva</span></a></span> \u2026and the more I like the woman who chose him as a running mate</p>",
+            "reblog": null,
+            "account": {
+                "id": "109998471712196555",
+                "username": "Edgar",
+                "acct": "Edgar@norcal.social",
+                "display_name": "Edgar",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-03-10T00:00:00.000Z",
+                "note": "<p>I am passionate about science, medicine, public health, social justice, and livable cities. </p><p>My default state is optimism.</p>",
+                "url": "https://norcal.social/@Edgar",
+                "uri": "https://norcal.social/users/Edgar",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 16,
+                "following_count": 95,
+                "statuses_count": 557,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                },
+                {
+                    "id": "110641555278107926",
+                    "username": "blogdiva",
+                    "url": "https://mastodon.social/@blogdiva",
+                    "acct": "blogdiva"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112929102675846509",
+            "created_at": "2024-08-08T23:55:56.752Z",
+            "in_reply_to_id": "112927567000125273",
+            "in_reply_to_account_id": "109570315473720553",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/DRBLD2009/statuses/112929102675846509",
+            "url": "https://mastodon.social/@DRBLD2009/112929102675846509",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://geekdom.social/@FantasticalEconomics\" class=\"u-url mention\">@<span>FantasticalEconomics</span></a></span> Agreed.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for Android",
+                "website": "https://app.joinmastodon.org/android"
+            },
+            "account": {
+                "id": "111234213540246946",
+                "username": "DRBLD2009",
+                "acct": "DRBLD2009",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-10-14T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@DRBLD2009",
+                "uri": "https://mastodon.social/users/DRBLD2009",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 25,
+                "following_count": 69,
+                "statuses_count": 3039,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109570315473720553",
+                    "username": "FantasticalEconomics",
+                    "url": "https://geekdom.social/@FantasticalEconomics",
+                    "acct": "FantasticalEconomics@geekdom.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

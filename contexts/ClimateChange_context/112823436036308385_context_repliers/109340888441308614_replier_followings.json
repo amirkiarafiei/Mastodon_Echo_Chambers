@@ -1,0 +1,933 @@
+[
+    {
+        "id": "109503127887660535",
+        "username": "adamconover",
+        "acct": "adamconover",
+        "display_name": "Adam Conover",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-12-12T00:00:00.000Z",
+        "note": "<p>I&#39;m a comedian and television host. Created Adam Ruins Everything and The G Word on Netflix. Host of the podcast FACTUALLY!</p>",
+        "url": "https://mastodon.social/@adamconover",
+        "uri": "https://mastodon.social/users/adamconover",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/503/127/887/660/535/original/4e684c0d10061c76.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/503/127/887/660/535/original/4e684c0d10061c76.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 13111,
+        "following_count": 139,
+        "statuses_count": 237,
+        "last_status_at": "2024-08-26",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"Http://adamconover.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\"></span><span class=\"\">Http://adamconover.net</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "YouTube",
+                "value": "<a href=\"http://youtube.com/@theadamconover\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">youtube.com/@theadamconover</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Podcast",
+                "value": "<a href=\"https://link.chtbl.com/nD2_iAuV\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">link.chtbl.com/nD2_iAuV</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109362124788112578",
+        "username": "theconversationau",
+        "acct": "theconversationau",
+        "display_name": "The Conversation AU + NZ",
+        "locked": false,
+        "bot": true,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-18T00:00:00.000Z",
+        "note": "<p>Independent news from Australia and New Zealand&#39;s sharpest minds.</p>",
+        "url": "https://mastodon.social/@theconversationau",
+        "uri": "https://mastodon.social/users/theconversationau",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/362/124/788/112/578/original/07c873eabb5db9dc.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/362/124/788/112/578/original/07c873eabb5db9dc.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/362/124/788/112/578/original/4e38ed0439c4ca5b.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/362/124/788/112/578/original/4e38ed0439c4ca5b.png",
+        "followers_count": 6120,
+        "following_count": 285,
+        "statuses_count": 5524,
+        "last_status_at": "2024-06-19",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Read us here:",
+                "value": "<a href=\"https://theconversation.com/au\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">theconversation.com/au</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-03-28T05:45:51.569+00:00"
+            },
+            {
+                "name": "Sign up to our newsletter",
+                "value": "<a href=\"https://bit.ly/2YBhBpn\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/2YBhBpn</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-03-28T05:45:52.255+00:00"
+            },
+            {
+                "name": "Make a donation:",
+                "value": "<a href=\"https://donate.theconversation.com/au\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">donate.theconversation.com/au</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "16041",
+        "username": "dansup",
+        "acct": "dansup",
+        "display_name": "dansup",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2016-11-27T00:00:00.000Z",
+        "note": "<p>activitypub builder and aspiring astronaut</p><p>Building <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@pixelfed\" class=\"u-url mention\">@<span>pixelfed</span></a></span>, <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@fedidb\" class=\"u-url mention\">@<span>fedidb</span></a></span>, @supapp and other fedi services \ud83e\udd20</p><p>he/him \u00b7 canada \u00b7 \ud83c\udff3\ufe0f\u200d\ud83c\udf08</p>",
+        "url": "https://mastodon.social/@dansup",
+        "uri": "https://mastodon.social/users/dansup",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/016/041/original/39c77acd31cf70e5.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/016/041/original/39c77acd31cf70e5.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/016/041/original/176ba2e67370b446.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/016/041/original/176ba2e67370b446.jpg",
+        "followers_count": 19153,
+        "following_count": 117,
+        "statuses_count": 20139,
+        "last_status_at": "2024-08-28",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "pixelfed",
+                "value": "<a href=\"https://pixelfed.social/dansup\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.social/dansup</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2019-12-13T06:09:38.095+00:00"
+            },
+            {
+                "name": "github",
+                "value": "<a href=\"https://github.com/dansup\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/dansup</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-04T04:28:02.153+00:00"
+            },
+            {
+                "name": "patreon",
+                "value": "<a href=\"https://patreon.com/dansup\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/dansup</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "website",
+                "value": "<a href=\"https://dansup.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">dansup.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2020-01-26T05:26:13.117+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109278191964110096",
+        "username": "jensorensen",
+        "acct": "jensorensen",
+        "display_name": "Jen Sorensen",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-11-03T00:00:00.000Z",
+        "note": "<p>Cartoonist for Daily Kos, The Nation, In These Times and elsewhere, formerly seen on The Nib. Herblock Prize, Pulitzer finalist, RFK journalism award, 2023 Berryman Award from the National Press Foundation. She/her</p><p>I mostly post <a href=\"https://mastodon.social/tags/cartoons\" class=\"mention hashtag\" rel=\"tag\">#<span>cartoons</span></a> and <a href=\"https://mastodon.social/tags/comics\" class=\"mention hashtag\" rel=\"tag\">#<span>comics</span></a> but also enjoy <a href=\"https://mastodon.social/tags/biking\" class=\"mention hashtag\" rel=\"tag\">#<span>biking</span></a> <a href=\"https://mastodon.social/tags/birds\" class=\"mention hashtag\" rel=\"tag\">#<span>birds</span></a> <a href=\"https://mastodon.social/tags/terriers\" class=\"mention hashtag\" rel=\"tag\">#<span>terriers</span></a> <a href=\"https://mastodon.social/tags/punk\" class=\"mention hashtag\" rel=\"tag\">#<span>punk</span></a> <a href=\"https://mastodon.social/tags/friluftsliv\" class=\"mention hashtag\" rel=\"tag\">#<span>friluftsliv</span></a></p>",
+        "url": "https://mastodon.social/@jensorensen",
+        "uri": "https://mastodon.social/users/jensorensen",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/278/191/964/110/096/original/25b8af145328c6ec.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/278/191/964/110/096/original/25b8af145328c6ec.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/278/191/964/110/096/original/8c527225b6c78551.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/278/191/964/110/096/original/8c527225b6c78551.png",
+        "followers_count": 9832,
+        "following_count": 220,
+        "statuses_count": 407,
+        "last_status_at": "2024-08-11",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://jensorensen.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">jensorensen.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://patreon.com/jensorensen\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/jensorensen</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Newsletter",
+                "value": "<a href=\"https://jensorensen.com/subscribe\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">jensorensen.com/subscribe</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "504993",
+        "username": "oatmeal",
+        "acct": "oatmeal",
+        "display_name": "The Oatmeal",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-08-29T00:00:00.000Z",
+        "note": "<p>I make comics</p>",
+        "url": "https://mastodon.social/@oatmeal",
+        "uri": "https://mastodon.social/users/oatmeal",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/504/993/original/34d653c0d2aca4ff.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/504/993/original/34d653c0d2aca4ff.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/504/993/original/2baf79b4cfcabd94.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/504/993/original/2baf79b4cfcabd94.png",
+        "followers_count": 55094,
+        "following_count": 9,
+        "statuses_count": 54,
+        "last_status_at": "2024-04-23",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "110466288637586672",
+        "username": "Pepperbike",
+        "acct": "Pepperbike",
+        "display_name": "",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-06-01T00:00:00.000Z",
+        "note": "",
+        "url": "https://mastodon.social/@Pepperbike",
+        "uri": "https://mastodon.social/users/Pepperbike",
+        "avatar": "https://mastodon.social/avatars/original/missing.png",
+        "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 42,
+        "following_count": 12,
+        "statuses_count": 3488,
+        "last_status_at": "2024-08-27",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "929154",
+        "username": "lrvick",
+        "acct": "lrvick",
+        "display_name": "Lance R. Vick",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2019-10-06T00:00:00.000Z",
+        "note": "<p>FOSS || GTFO</p><p>* Security Engineer<br />* Cypherpunk<br />* Founder of #! and Distrust</p><p><a href=\"https://mastodon.social/tags/infosec\" class=\"mention hashtag\" rel=\"tag\">#<span>infosec</span></a> <a href=\"https://mastodon.social/tags/security\" class=\"mention hashtag\" rel=\"tag\">#<span>security</span></a> <a href=\"https://mastodon.social/tags/opensource\" class=\"mention hashtag\" rel=\"tag\">#<span>opensource</span></a> <a href=\"https://mastodon.social/tags/foss\" class=\"mention hashtag\" rel=\"tag\">#<span>foss</span></a> <a href=\"https://mastodon.social/tags/sysadmin\" class=\"mention hashtag\" rel=\"tag\">#<span>sysadmin</span></a> <a href=\"https://mastodon.social/tags/cryptoanarchy\" class=\"mention hashtag\" rel=\"tag\">#<span>cryptoanarchy</span></a> <a href=\"https://mastodon.social/tags/cypherpunk\" class=\"mention hashtag\" rel=\"tag\">#<span>cypherpunk</span></a> <a href=\"https://mastodon.social/tags/embedded\" class=\"mention hashtag\" rel=\"tag\">#<span>embedded</span></a> <a href=\"https://mastodon.social/tags/puzzles\" class=\"mention hashtag\" rel=\"tag\">#<span>puzzles</span></a> <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"tag\">#<span>privacy</span></a> <a href=\"https://mastodon.social/tags/locksport\" class=\"mention hashtag\" rel=\"tag\">#<span>locksport</span></a>  <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"tag\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/linux\" class=\"mention hashtag\" rel=\"tag\">#<span>linux</span></a> <a href=\"https://mastodon.social/tags/homelab\" class=\"mention hashtag\" rel=\"tag\">#<span>homelab</span></a></p>",
+        "url": "https://mastodon.social/@lrvick",
+        "uri": "https://mastodon.social/users/lrvick",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/929/154/original/873ba8b0fc348f96.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/929/154/original/873ba8b0fc348f96.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/929/154/original/a0b5ddb243ed52f3.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/929/154/original/a0b5ddb243ed52f3.jpeg",
+        "followers_count": 1568,
+        "following_count": 240,
+        "statuses_count": 757,
+        "last_status_at": "2024-08-26",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "OpenPGP",
+                "value": "openpgp4fpr:6B61ECD76088748C70590D55E90A401336C8AAA9",
+                "verified_at": null
+            },
+            {
+                "name": "Matrix",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@lrvick\" class=\"u-url mention\">@<span>lrvick</span></a></span>:matrix.org",
+                "verified_at": null
+            },
+            {
+                "name": "Resume",
+                "value": "<a href=\"https://lance.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">lance.dev</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Community",
+                "value": "<a href=\"https://hashbang.sh\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">hashbang.sh</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "110752047556790864",
+        "username": "MastodonEngineering",
+        "acct": "MastodonEngineering",
+        "display_name": "Mastodon Engineering",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-07-21T00:00:00.000Z",
+        "note": "<p>We&#39;re building open source, decentralized social media that gives people back control over their data and their reach.</p>",
+        "url": "https://mastodon.social/@MastodonEngineering",
+        "uri": "https://mastodon.social/users/MastodonEngineering",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/752/047/556/790/864/original/3b7cf7ce665a2a21.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/752/047/556/790/864/original/3b7cf7ce665a2a21.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/752/047/556/790/864/original/4101b90b2c9f9bf1.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/752/047/556/790/864/original/4101b90b2c9f9bf1.png",
+        "followers_count": 8867,
+        "following_count": 3,
+        "statuses_count": 40,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Homepage",
+                "value": "<a href=\"https://joinmastodon.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-07-21T12:51:03.255+00:00"
+            },
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://patreon.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "529901",
+        "username": "jxself",
+        "acct": "jxself",
+        "display_name": "Jason Self",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-09-16T00:00:00.000Z",
+        "note": "<p>Advocating for <a href=\"https://mastodon.social/tags/freesoftware\" class=\"mention hashtag\" rel=\"tag\">#<span>freesoftware</span></a> as an ethical imperative. Lover of <a href=\"https://mastodon.social/tags/cats\" class=\"mention hashtag\" rel=\"tag\">#<span>cats</span></a>. <a href=\"https://mastodon.social/tags/Interactivefiction\" class=\"mention hashtag\" rel=\"tag\">#<span>Interactivefiction</span></a> enthusiast and <a href=\"https://mastodon.social/tags/Startrek\" class=\"mention hashtag\" rel=\"tag\">#<span>Startrek</span></a> fan. <a href=\"https://mastodon.social/tags/Gay\" class=\"mention hashtag\" rel=\"tag\">#<span>Gay</span></a> and proud! <a href=\"https://mastodon.social/tags/Tech\" class=\"mention hashtag\" rel=\"tag\">#<span>Tech</span></a> enthusiast. Join me in the fight for a world where <a href=\"https://mastodon.social/tags/freesoftware\" class=\"mention hashtag\" rel=\"tag\">#<span>freesoftware</span></a> is the norm! \ud83c\udf0d\ud83d\udc08</p><p>Posts are CC-BY-SA either version 4.0 of the License, or (at your option) any later version. See <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">creativecommons.org/licenses/b</span><span class=\"invisible\">y-sa/4.0/</span></a></p><p><a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a> <a href=\"https://mastodon.social/tags/freeculture\" class=\"mention hashtag\" rel=\"tag\">#<span>freeculture</span></a> <a href=\"https://mastodon.social/tags/gnu\" class=\"mention hashtag\" rel=\"tag\">#<span>gnu</span></a> <a href=\"https://mastodon.social/tags/gnulinux\" class=\"mention hashtag\" rel=\"tag\">#<span>gnulinux</span></a></p>",
+        "url": "https://mastodon.social/@jxself",
+        "uri": "https://mastodon.social/users/jxself",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/529/901/original/166dc78921f6dc06.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/529/901/original/166dc78921f6dc06.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/529/901/original/920811d334f332d1.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/529/901/original/920811d334f332d1.png",
+        "followers_count": 969,
+        "following_count": 125,
+        "statuses_count": 3,
+        "last_status_at": "2024-08-18",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://jxself.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">jxself.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-01-12T23:29:25.382+00:00"
+            },
+            {
+                "name": "GPG",
+                "value": "F611 A908 FFA1 65C6 9958 4ED4 9D0D B31B 545A 3198",
+                "verified_at": null
+            },
+            {
+                "name": "Language",
+                "value": "English",
+                "verified_at": null
+            },
+            {
+                "name": "Pronouns",
+                "value": "He/Him/His",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109837592503131561",
+        "username": "timberwraith",
+        "acct": "timberwraith",
+        "display_name": "timberwraith",
+        "locked": true,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-02-10T00:00:00.000Z",
+        "note": "<p>I discuss the world&#39;s darkness in frank terms. Often, this is not a happy space.</p><p>I sometimes post links to longer essays at my Wordpress blog: <a href=\"https://hauntedtimber.wordpress.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">hauntedtimber.wordpress.com/</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc49  No warranty is provided for anything produced herein. Contents may be broken upon arrival, more often than not. Caveat emptor.</p><p>\ud83d\udc49  Reply guys/people encouraged to fuck off.</p><p>\ud83d\udc49   I regularly mute notifications for my threads. The Void hears your cries but I do not.</p><p>she/her \u2022 trans femme \u2022 bi<br />\u2744\ufe0f Minnesota \u2744\ufe0f</p>",
+        "url": "https://mastodon.social/@timberwraith",
+        "uri": "https://mastodon.social/users/timberwraith",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/837/592/503/131/561/original/0adc2f6df0dc1915.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/837/592/503/131/561/original/0adc2f6df0dc1915.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/837/592/503/131/561/original/1f32fdbec6c0fb2b.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/837/592/503/131/561/original/1f32fdbec6c0fb2b.jpg",
+        "followers_count": 849,
+        "following_count": 963,
+        "statuses_count": 31765,
+        "last_status_at": "2024-08-28",
+        "hide_collections": true,
+        "noindex": true,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "108171476762728555",
+        "username": "bryanculbertson",
+        "acct": "bryanculbertson",
+        "display_name": "Bryan Culbertson",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-04-21T00:00:00.000Z",
+        "note": "<p>Joyfully living the care-free walk/bike/transit life here in Oakland</p><p>searchable via tootfinder.ch</p>",
+        "url": "https://mastodon.social/@bryanculbertson",
+        "uri": "https://mastodon.social/users/bryanculbertson",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/171/476/762/728/555/original/32a2fa071eb9a129.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/171/476/762/728/555/original/32a2fa071eb9a129.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/108/171/476/762/728/555/original/5a058980ac99f364.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/171/476/762/728/555/original/5a058980ac99f364.jpeg",
+        "followers_count": 463,
+        "following_count": 499,
+        "statuses_count": 1609,
+        "last_status_at": "2024-08-25",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "pronouns",
+                "value": "he/him",
+                "verified_at": null
+            },
+            {
+                "name": "location",
+                "value": "oakland",
+                "verified_at": null
+            },
+            {
+                "name": "robots.txt",
+                "value": "User-agent: * Disallow: /",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "489516",
+        "username": "256",
+        "acct": "256",
+        "display_name": "never obsolete",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-24T00:00:00.000Z",
+        "note": "<p>images of old computers, operating systems, software and games (mostly 90s and 2000s)</p>",
+        "url": "https://mastodon.social/@256",
+        "uri": "https://mastodon.social/users/256",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/489/516/original/a6cf3bda7817ca4e.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/489/516/original/a6cf3bda7817ca4e.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/489/516/original/f37039a290e4d635.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/489/516/original/f37039a290e4d635.jpg",
+        "followers_count": 13334,
+        "following_count": 1,
+        "statuses_count": 1601,
+        "last_status_at": "2024-08-22",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "tumblr",
+                "value": "<a href=\"https://never-obsolete.tumblr.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">never-obsolete.tumblr.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2020-03-03T18:04:10.970+00:00"
+            },
+            {
+                "name": "cohost",
+                "value": "<a href=\"https://cohost.org/windows95\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">cohost.org/windows95</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "461170",
+        "username": "amyhoy",
+        "acct": "amyhoy",
+        "display_name": "Amy Hoy",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-08-18T00:00:00.000Z",
+        "note": "<p>juicy, electrified meatsack // &quot;refreshing, thought provoking, and useful&quot; \u2014 mike tannenbaum // &quot;probably the greatest living software QA&quot; \u2014 nick disabato</p>",
+        "url": "https://mastodon.social/@amyhoy",
+        "uri": "https://mastodon.social/users/amyhoy",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/461/170/original/d39bf190e56aed6c0c9b6dd75820682b.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/461/170/original/d39bf190e56aed6c0c9b6dd75820682b.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/000/461/170/original/5401ab10d7c9979e9ce38325b5969186.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/461/170/original/5401ab10d7c9979e9ce38325b5969186.jpeg",
+        "followers_count": 2803,
+        "following_count": 416,
+        "statuses_count": 1878,
+        "last_status_at": "2024-07-23",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "111423234790167853",
+        "username": "1sabelR",
+        "acct": "1sabelR",
+        "display_name": "Isabel Richards",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-11-17T00:00:00.000Z",
+        "note": "<p>\ud83e\uddd0Research Officer at the Australian National University\ud83e\uddd0\u2028\ud83d\udc69\u200d\ud83d\udd2cScience Communicator and Collaborator at ANU Popsicule\ud83d\udc69\u200d\ud83d\udd2c\u2028\ud83c\udf99\ufe0f@Sci_Burst Podcast Co-Host\ud83c\udf99\ufe0f\u2028\u2600\ufe0fSolarpunk\u2600\ufe0f\u2028\ud83e\udd16Cyberneticist\ud83e\udd16<br />\ud83c\udfaeGamer\ud83c\udfae\u2028\u2029Living on Ngunnawal and Ngambri country in Australia. She/her.\u2028\u2028<a href=\"https://linktr.ee/sci_burst\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/sci_burst</span><span class=\"invisible\"></span></a>\u2028\u2029<a href=\"https://mastodon.social/tags/sciencecommunication\" class=\"mention hashtag\" rel=\"tag\">#<span>sciencecommunication</span></a> <a href=\"https://mastodon.social/tags/scicomm\" class=\"mention hashtag\" rel=\"tag\">#<span>scicomm</span></a> <a href=\"https://mastodon.social/tags/popculture\" class=\"mention hashtag\" rel=\"tag\">#<span>popculture</span></a>  <a href=\"https://mastodon.social/tags/sciencepodcast\" class=\"mention hashtag\" rel=\"tag\">#<span>sciencepodcast</span></a> <a href=\"https://mastodon.social/tags/cybernetics\" class=\"mention hashtag\" rel=\"tag\">#<span>cybernetics</span></a> <a href=\"https://mastodon.social/tags/solarpunk\" class=\"mention hashtag\" rel=\"tag\">#<span>solarpunk</span></a></p>",
+        "url": "https://mastodon.social/@1sabelR",
+        "uri": "https://mastodon.social/users/1sabelR",
+        "avatar": "https://files.mastodon.social/accounts/avatars/111/423/234/790/167/853/original/f2e28d9eee60b3db.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/111/423/234/790/167/853/original/f2e28d9eee60b3db.png",
+        "header": "https://files.mastodon.social/accounts/headers/111/423/234/790/167/853/original/5f700f47d2bf86a3.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/111/423/234/790/167/853/original/5f700f47d2bf86a3.png",
+        "followers_count": 377,
+        "following_count": 77,
+        "statuses_count": 179,
+        "last_status_at": "2024-08-27",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "215060",
+        "username": "rgarner",
+        "acct": "rgarner",
+        "display_name": "Russell Garner",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-10-15T00:00:00.000Z",
+        "note": "<p><a href=\"https://mastodon.social/tags/Ruby\" class=\"mention hashtag\" rel=\"tag\">#<span>Ruby</span></a>, drums, <a href=\"https://mastodon.social/tags/synth\" class=\"mention hashtag\" rel=\"tag\">#<span>synth</span></a>, cats, unions, bicycles, ADHD, flippancy.</p><p>Not a hot-swappable labor spigot.</p>",
+        "url": "https://mastodon.social/@rgarner",
+        "uri": "https://mastodon.social/users/rgarner",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/215/060/original/533fab6ee07f42d1.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/215/060/original/533fab6ee07f42d1.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 596,
+        "following_count": 240,
+        "statuses_count": 9097,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "github",
+                "value": "<a href=\"https://github.com/rgarner\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rgarner</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-09-20T09:34:53.274+00:00"
+            },
+            {
+                "name": "founder",
+                "value": "<a href=\"https://jointogether.online\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">jointogether.online</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-11T07:53:05.945+00:00"
+            },
+            {
+                "name": "Location",
+                "value": "Leeds, UK",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "7749",
+        "username": "robin",
+        "acct": "robin",
+        "display_name": "Robin Berjon",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2016-11-02T00:00:00.000Z",
+        "note": "<p>Governance &amp; Standards at @protocollabs \u2014 Former NYT, W3C TAG, science.ai \u2014 Privacy, Web, Science, Politics, Philosophy. (he/him/Ishmael)</p>",
+        "url": "https://mastodon.social/@robin",
+        "uri": "https://mastodon.social/users/robin",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/007/749/original/ac2404e80c38dffe.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/007/749/original/ac2404e80c38dffe.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/007/749/original/7000b31938912367.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/007/749/original/7000b31938912367.jpg",
+        "followers_count": 3510,
+        "following_count": 471,
+        "statuses_count": 1785,
+        "last_status_at": "2024-08-23",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://berjon.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">berjon.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-30T17:35:59.811+00:00"
+            },
+            {
+                "name": "OpenCheck",
+                "value": "<a href=\"https://opencheck.is/wikidata/Q15710842\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">opencheck.is/wikidata/Q1571084</span><span class=\"invisible\">2</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/darobin/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/darobin/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-01T19:16:10.749+00:00"
+            },
+            {
+                "name": "Bluesky",
+                "value": "<a href=\"https://bsky.app/profile/robin.berjon.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/robin.berjon.</span><span class=\"invisible\">com</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "107570185268536670",
+        "username": "ruby_discussions",
+        "acct": "ruby_discussions",
+        "display_name": "Ruby Weekly",
+        "locked": false,
+        "bot": true,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-01-05T00:00:00.000Z",
+        "note": "<p>Articles, projects and tutorials about <a href=\"https://mastodon.social/tags/Ruby\" class=\"mention hashtag\" rel=\"tag\">#<span>Ruby</span></a>.</p><p>Weekly newsletter: <a href=\"https://discu.eu/weekly/ruby\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">discu.eu/weekly/ruby</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@ruby_discussions",
+        "uri": "https://mastodon.social/users/ruby_discussions",
+        "avatar": "https://files.mastodon.social/accounts/avatars/107/570/185/268/536/670/original/bdbdf37a67b3a9be.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/107/570/185/268/536/670/original/bdbdf37a67b3a9be.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 2331,
+        "following_count": 24,
+        "statuses_count": 3073,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Newsletter",
+                "value": "<a href=\"https://discu.eu/weekly/ruby\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">discu.eu/weekly/ruby</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-05-13T15:16:22.464+00:00"
+            },
+            {
+                "name": "Other bots",
+                "value": "<a href=\"https://discu.eu/social\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">discu.eu/social</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-05-13T15:16:22.521+00:00"
+            }
+        ]
+    },
+    {
+        "id": "35493",
+        "username": "tenderlove",
+        "acct": "tenderlove",
+        "display_name": "Aaron Patterson \u2705",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-04-03T00:00:00.000Z",
+        "note": "<p>Rails Core / Ruby Core.<br />PGP: 4CE9 1B75 A798 28E8 6B1A  A8BB 9531 70BC B4FF AFC6<br />Switch: SW-6099-0664-6989<br />He/Him<br />tfr</p>",
+        "url": "https://mastodon.social/@tenderlove",
+        "uri": "https://mastodon.social/users/tenderlove",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/035/493/original/ffb67332a4543e7f.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/035/493/original/ffb67332a4543e7f.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/035/493/original/1700740e145f4b1d.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/035/493/original/1700740e145f4b1d.jpg",
+        "followers_count": 5391,
+        "following_count": 293,
+        "statuses_count": 1400,
+        "last_status_at": "2024-08-18",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://tenderlovemaking.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tenderlovemaking.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-21T19:55:11.716+00:00"
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/tenderlove\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tenderlove</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-01T23:21:46.799+00:00"
+            }
+        ]
+    },
+    {
+        "id": "31115",
+        "username": "searls",
+        "acct": "searls",
+        "display_name": "Justin Searls",
+        "locked": false,
+        "bot": true,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-04-02T00:00:00.000Z",
+        "note": "<p>You might remember me from such dumpster fires as Twitter dot com. Total \ud83d\udc1e magnet. Co-founded <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@testdouble\" class=\"u-url mention\">@<span>testdouble</span></a></span>.</p><p>\u26a0\ufe0f This is an automated account that crossposts from <a href=\"https://justin.searls.co\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">justin.searls.co</span><span class=\"invisible\"></span></a> -- instead of replies and DMs, just email me: justin@searls.co</p>",
+        "url": "https://mastodon.social/@searls",
+        "uri": "https://mastodon.social/users/searls",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/031/115/original/4a780d80f6410e96.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/031/115/original/4a780d80f6410e96.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/031/115/original/b12cdbbccbaca8ed.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/031/115/original/b12cdbbccbaca8ed.jpg",
+        "followers_count": 3572,
+        "following_count": 385,
+        "statuses_count": 1649,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Location",
+                "value": "Orlando, FL",
+                "verified_at": null
+            },
+            {
+                "name": "Life",
+                "value": "<a href=\"https://justin.searls.co\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">justin.searls.co</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-23T01:59:54.143+00:00"
+            },
+            {
+                "name": "Work",
+                "value": "<a href=\"https://blog.testdouble.com/authors/justin-searls/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.testdouble.com/authors/ju</span><span class=\"invisible\">stin-searls/</span></a>",
+                "verified_at": "2022-11-23T01:59:53.846+00:00"
+            },
+            {
+                "name": "Code",
+                "value": "<a href=\"https://github.com/searls\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/searls</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-01T17:14:33.511+00:00"
+            }
+        ]
+    },
+    {
+        "id": "539848",
+        "username": "nateberkopec",
+        "acct": "nateberkopec",
+        "display_name": "nate berkopec",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-09-27T00:00:00.000Z",
+        "note": "<p>Author, The Complete Guide to Rails Performance. Co-maintainer of Puma. <a href=\"http://speedshop.co\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">speedshop.co</span><span class=\"invisible\"></span></a> (he/him)</p>",
+        "url": "https://mastodon.social/@nateberkopec",
+        "uri": "https://mastodon.social/users/nateberkopec",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/539/848/original/cbdea4b038bb1f54.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/539/848/original/cbdea4b038bb1f54.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/539/848/original/4d56737458246e2d.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/539/848/original/4d56737458246e2d.jpg",
+        "followers_count": 1245,
+        "following_count": 25,
+        "statuses_count": 2659,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "website",
+                "value": "<a href=\"https://www.speedshop.co\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">speedshop.co</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "blog",
+                "value": "<a href=\"https://www.nateberkopec.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">nateberkopec.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "pronouns",
+                "value": "he/him",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "34135",
+        "username": "urbanautomaton",
+        "acct": "urbanautomaton",
+        "display_name": "urbanautomaton",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-04-03T00:00:00.000Z",
+        "note": "",
+        "url": "https://mastodon.social/@urbanautomaton",
+        "uri": "https://mastodon.social/users/urbanautomaton",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/034/135/original/1c74175e9616244f.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/034/135/original/1c74175e9616244f.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 62,
+        "following_count": 38,
+        "statuses_count": 0,
+        "last_status_at": null,
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "422876",
+        "username": "sindresorhus",
+        "acct": "sindresorhus",
+        "display_name": "Sindre Sorhus",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-15T00:00:00.000Z",
+        "note": "<p>Full-time open-sourcerer &amp; indie Mac developer. Swift &amp; Node.js.</p>",
+        "url": "https://mastodon.social/@sindresorhus",
+        "uri": "https://mastodon.social/users/sindresorhus",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/422/876/original/544586ccf4aa530a.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/422/876/original/544586ccf4aa530a.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/422/876/original/ac8ea8ebc10def7c.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/422/876/original/ac8ea8ebc10def7c.jpg",
+        "followers_count": 6089,
+        "following_count": 209,
+        "statuses_count": 1373,
+        "last_status_at": "2024-08-23",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://sindresorhus.com/apps\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">sindresorhus.com/apps</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-02T03:43:44.479+00:00"
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/sindresorhus\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sindresorhus</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-02T03:29:02.981+00:00"
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/sindresorhus\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/sindresorhus</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Newsletter",
+                "value": "<a href=\"https://sindresorhus.substack.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">sindresorhus.substack.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "username": "Gargron",
+        "acct": "Gargron",
+        "display_name": "Eugen Rochko",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2016-03-16T00:00:00.000Z",
+        "note": "<p>Founder of <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Mastodon\" class=\"u-url mention\">@<span>Mastodon</span></a></span>. Film photography, prog metal, Dota 2. Likes all things analog.</p>",
+        "url": "https://mastodon.social/@Gargron",
+        "uri": "https://mastodon.social/users/Gargron",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/000/001/original/a0a49d80c3de5f75.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/000/001/original/a0a49d80c3de5f75.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/000/001/original/d13e4417706a5fec.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/000/001/original/d13e4417706a5fec.jpg",
+        "followers_count": 350294,
+        "following_count": 537,
+        "statuses_count": 77130,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://www.patreon.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">patreon.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/Gargron\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Gargron</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-07T23:24:40.347+00:00"
+            },
+            {
+                "name": "Portfolio",
+                "value": "<a href=\"https://eugenrochko.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">eugenrochko.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-07-06T01:06:10.801+00:00"
+            }
+        ]
+    }
+]

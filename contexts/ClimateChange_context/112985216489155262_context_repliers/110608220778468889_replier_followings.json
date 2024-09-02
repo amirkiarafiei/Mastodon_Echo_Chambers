@@ -1,0 +1,100 @@
+[
+    {
+        "id": "422464",
+        "username": "incanus",
+        "acct": "incanus",
+        "display_name": "Justin Miller",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-08-15T00:00:00.000Z",
+        "note": "<p>Maker, programmer, photographer, and traveler.</p><p>I build stuff, mostly <a href=\"https://mastodon.social/tags/software\" class=\"mention hashtag\" rel=\"tag\">#<span>software</span></a> and <a href=\"https://mastodon.social/tags/electronics\" class=\"mention hashtag\" rel=\"tag\">#<span>electronics</span></a>, and mostly <a href=\"https://mastodon.social/tags/opensource\" class=\"mention hashtag\" rel=\"tag\">#<span>opensource</span></a>. Early peep at <a href=\"https://mastodon.social/tags/Mapbox\" class=\"mention hashtag\" rel=\"tag\">#<span>Mapbox</span></a>. Co-founded a few other startups back when you had to convince people to use the internet. I hack <a href=\"https://mastodon.social/tags/VW\" class=\"mention hashtag\" rel=\"tag\">#<span>VW</span></a> vans. I really like coffee, pie, and cheese.</p><p>Current focus areas: <a href=\"https://mastodon.social/tags/embedded\" class=\"mention hashtag\" rel=\"tag\">#<span>embedded</span></a> scripting language design, <a href=\"https://mastodon.social/tags/baremetal\" class=\"mention hashtag\" rel=\"tag\">#<span>baremetal</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"tag\">#<span>programming</span></a>, computer education, <a href=\"https://mastodon.social/tags/retrocomputing\" class=\"mention hashtag\" rel=\"tag\">#<span>retrocomputing</span></a></p><p><a href=\"https://mastodon.social/tags/PDX\" class=\"mention hashtag\" rel=\"tag\">#<span>PDX</span></a></p>",
+        "url": "https://mastodon.social/@incanus",
+        "uri": "https://mastodon.social/users/incanus",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/422/464/original/0fea1cf7182d2d10.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/422/464/original/0fea1cf7182d2d10.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/422/464/original/681a0dfd0ebc0ce3.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/422/464/original/681a0dfd0ebc0ce3.jpeg",
+        "followers_count": 289,
+        "following_count": 201,
+        "statuses_count": 1753,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://justinmiller.io\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">justinmiller.io</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-09T22:31:26.260+00:00"
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/incanus\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/incanus</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-11-23T06:23:12.319+00:00"
+            },
+            {
+                "name": "Location",
+                "value": "Portland, Oregon, USA",
+                "verified_at": null
+            },
+            {
+                "name": "Pronouns",
+                "value": "he/him/his",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "423324",
+        "username": "mikemccaffrey",
+        "acct": "mikemccaffrey",
+        "display_name": "Mike McCaffrey",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-08-15T00:00:00.000Z",
+        "note": "<p>Well rounded web developer building accessible sites for nonprofits. Animal lover. Aspiring ally. (he/him)</p>",
+        "url": "https://mastodon.social/@mikemccaffrey",
+        "uri": "https://mastodon.social/users/mikemccaffrey",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/423/324/original/204c3025d5ba01e8.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/423/324/original/204c3025d5ba01e8.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/423/324/original/2ce3453cdaf42c86.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/423/324/original/2ce3453cdaf42c86.jpeg",
+        "followers_count": 294,
+        "following_count": 341,
+        "statuses_count": 1790,
+        "last_status_at": "2024-08-19",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Portland and Urbanism Toots",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://pdx.social/@mikemccaffrey\" class=\"u-url mention\">@<span>mikemccaffrey@pdx.social</span></a></span>",
+                "verified_at": null
+            },
+            {
+                "name": "Drupal and web dev toots",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://drupal.community/@mikemccaffrey\" class=\"u-url mention\">@<span>mikemccaffrey@drupal.community</span></a></span>",
+                "verified_at": null
+            },
+            {
+                "name": "Accessibility toots",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://a11y.social/@mikemccaffrey\" class=\"u-url mention\">@<span>mikemccaffrey@a11y.social</span></a></span>",
+                "verified_at": null
+            },
+            {
+                "name": "ADHD toots",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://neurodifferent.me/@mikemccaffrey\" class=\"u-url mention\">@<span>mikemccaffrey@neurodifferent.me</span></a></span>",
+                "verified_at": null
+            }
+        ]
+    }
+]

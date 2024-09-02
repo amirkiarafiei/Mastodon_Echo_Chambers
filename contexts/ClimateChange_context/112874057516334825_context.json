@@ -1,0 +1,327 @@
+{
+    "ancestors": [
+        {
+            "id": "112873415391081512",
+            "created_at": "2024-07-30T03:53:56.223Z",
+            "in_reply_to_id": null,
+            "in_reply_to_account_id": null,
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/JulianOliver/statuses/112873415391081512",
+            "url": "https://mastodon.social/@JulianOliver/112873415391081512",
+            "replies_count": 6,
+            "reblogs_count": 32,
+            "favourites_count": 19,
+            "edited_at": "2024-07-30T03:54:51.534Z",
+            "content": "<p>I&#39;ve ranted about the risks of over-investment in CCS (Carbon Capture and Storage) for years, the moral hazard it invites - especially as a license to pollute. Turns out oil companies have been playing the public all along, talking it up as a solution while quietly distancing themselves from it as a technology not near practically viable:</p><p><a href=\"https://www.vox.com/climate/363076/climate-change-solution-shell-exxon-mobil-carbon-capture\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">vox.com/climate/363076/climate</span><span class=\"invisible\">-change-solution-shell-exxon-mobil-carbon-capture</span></a> </p><p>(via <span class=\"h-card\" translate=\"no\"><a href=\"https://collapsible.systems/@Christina\" class=\"u-url mention\">@<span>Christina</span></a></span> )</p><p><a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://mastodon.social/tags/pollution\" class=\"mention hashtag\" rel=\"tag\">#<span>pollution</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "333560",
+                "username": "JulianOliver",
+                "acct": "JulianOliver",
+                "display_name": "Julian Oliver",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2018-04-19T00:00:00.000Z",
+                "note": "<p>Artist, engineer, activist.</p><p>I spend a lot of time helping defenders of human rights and the environment protect themselves with best-practice information and operations security. Alongside, I deploy secure infrastructure so they can safely organise.</p><p>Bows, arrows &amp; rainforest conservation when I can.</p><p>P\u0101keh\u0101, Tangata Tiriti, he/him, herbivore</p>",
+                "url": "https://mastodon.social/@JulianOliver",
+                "uri": "https://mastodon.social/users/JulianOliver",
+                "avatar": "https://files.mastodon.social/accounts/avatars/000/333/560/original/0462fae094fe464d.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/000/333/560/original/0462fae094fe464d.png",
+                "header": "https://files.mastodon.social/accounts/headers/000/333/560/original/32095529e1c0934c.jpeg",
+                "header_static": "https://files.mastodon.social/accounts/headers/000/333/560/original/32095529e1c0934c.jpeg",
+                "followers_count": 3391,
+                "following_count": 443,
+                "statuses_count": 1800,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Projects",
+                        "value": "<a href=\"https://julianoliver.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">julianoliver.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-28T10:26:05.762+00:00"
+                    },
+                    {
+                        "name": "Consulting",
+                        "value": "<a href=\"https://nikau.io\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">nikau.io</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-28T10:47:10.634+00:00"
+                    },
+                    {
+                        "name": "Resilience research",
+                        "value": "<a href=\"https://wiki.collapsible.systems/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">wiki.collapsible.systems/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Home",
+                        "value": "Aotearoa New Zealand",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110992726666426409",
+                    "username": "Christina",
+                    "url": "https://collapsible.systems/@Christina",
+                    "acct": "Christina@collapsible.systems"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "pollution",
+                    "url": "https://mastodon.social/tags/pollution"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.vox.com/climate/363076/climate-change-solution-shell-exxon-mobil-carbon-capture",
+                "title": "Oil companies sold the public on a fake climate solution \u2014 and swindled taxpayers out of billions",
+                "description": "Oil and gas companies know carbon capture and storage isn\u2019t a climate change solution, per documents, whistleblowers and public comments.",
+                "language": "en",
+                "type": "link",
+                "author_name": "Amy Westervelt",
+                "author_url": "https://www.vox.com/authors/amy-westervelt-2",
+                "provider_name": "Vox",
+                "provider_url": "",
+                "html": "",
+                "width": 666,
+                "height": 346,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/106/069/051/original/394845b6f047b73f.jpg",
+                "image_description": "A protestor from the Extinction Rebellion climate action group wears an Exxon Mobil mask.",
+                "embed_url": "",
+                "blurhash": "UHI4U-4,0L%PoFs=a$j;9X%4s;Imt9awWBb0",
+                "published_at": "2024-07-29T11:00:00.000Z",
+                "authors": [
+                    {
+                        "name": "Amy Westervelt",
+                        "url": "https://www.vox.com/authors/amy-westervelt-2",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ],
+    "descendants": [
+        {
+            "id": "112874953954677302",
+            "created_at": "2024-07-30T10:25:12.000Z",
+            "in_reply_to_id": "112874057516334825",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/JustinDerrick/statuses/112874953907582399",
+            "url": "https://mstdn.ca/@JustinDerrick/112874953907582399",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@JulianOliver\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>JulianOliver</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://collapsible.systems/@Christina\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Christina</span></a></span> Carbon taxes would alter the equation in favour of renewables, and tariffs on goods from countries that don\u2019t have an effective carbon tax regime would prevent projects from being shipped to \u201cfriendly\u201d jurisdictions. </p><p>That\u2019s why there\u2019s so much \u2018astroturfing\u2019 and lobbying against carbon taxes.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109398195072004331",
+                "username": "JustinDerrick",
+                "acct": "JustinDerrick@mstdn.ca",
+                "display_name": "Justin Derrick",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-22T00:00:00.000Z",
+                "note": "<p>Stereotypical IT Guy &amp; Proud Nerd, Friendly Funny Fuzzy Fierce Teddy Bear.<br>This is my personal account, opinions expressed are mine and mine alone.<br>Photo:  Ring In The Rock, Hastings Highlands</p>",
+                "url": "https://mstdn.ca/@JustinDerrick",
+                "uri": "https://mstdn.ca/users/JustinDerrick",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/398/195/072/004/331/original/41d68270111a78da.gif",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/398/195/072/004/331/static/41d68270111a78da.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/398/195/072/004/331/original/fab738b6605a2dc6.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/398/195/072/004/331/original/fab738b6605a2dc6.jpeg",
+                "followers_count": 378,
+                "following_count": 504,
+                "statuses_count": 4626,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "333560",
+                    "username": "JulianOliver",
+                    "url": "https://mastodon.social/@JulianOliver",
+                    "acct": "JulianOliver"
+                },
+                {
+                    "id": "110992726666426409",
+                    "username": "Christina",
+                    "url": "https://collapsible.systems/@Christina",
+                    "acct": "Christina@collapsible.systems"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112875219439474061",
+            "created_at": "2024-07-30T11:32:41.000Z",
+            "in_reply_to_id": "112874057516334825",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/neverbeaten/statuses/112875219278125483",
+            "url": "https://mas.to/@neverbeaten/112875219278125483",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@JulianOliver\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>JulianOliver</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://collapsible.systems/@Christina\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Christina</span></a></span> <br>Militaries buy a LOT of oil.<br>Standing armies consume the resources of our planet. We desperately need to demilitarize every country. If all the money spent on keeping armies operational was instead focused on transitioning the world to sustainability, we could get there in just a few years.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109655785048302757",
+                "username": "neverbeaten",
+                "acct": "neverbeaten@mas.to",
+                "display_name": "neverbeaten",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-01-08T00:00:00.000Z",
+                "note": "<p>Progressive democratic socialist. Bass player in original bands ranging from folk to trip-hop. Live sound engineer. Dabbling in recording, mixing, and mastering. I love nerding out about all sorts of technical and scientific things. Advocate and ally.</p>",
+                "url": "https://mas.to/@neverbeaten",
+                "uri": "https://mas.to/users/neverbeaten",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/655/785/048/302/757/original/08c9c495aae96a0f.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/655/785/048/302/757/original/08c9c495aae96a0f.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/655/785/048/302/757/original/5eec299c7b1ed835.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/655/785/048/302/757/original/5eec299c7b1ed835.jpeg",
+                "followers_count": 205,
+                "following_count": 181,
+                "statuses_count": 2148,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "333560",
+                    "username": "JulianOliver",
+                    "url": "https://mastodon.social/@JulianOliver",
+                    "acct": "JulianOliver"
+                },
+                {
+                    "id": "110992726666426409",
+                    "username": "Christina",
+                    "url": "https://collapsible.systems/@Christina",
+                    "acct": "Christina@collapsible.systems"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112875228502446340",
+            "created_at": "2024-07-30T11:35:00.000Z",
+            "in_reply_to_id": "112874057516334825",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/neverbeaten/statuses/112875228392327209",
+            "url": "https://mas.to/@neverbeaten/112875228392327209",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@JulianOliver\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>JulianOliver</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://collapsible.systems/@Christina\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Christina</span></a></span> <br>And for choices every single person can make themselves, flying and pleasure cruises consume the most oil. Choose to stop flying. Choose not to go on a cruise. By FAR those are the biggest impacts individuals can make.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109655785048302757",
+                "username": "neverbeaten",
+                "acct": "neverbeaten@mas.to",
+                "display_name": "neverbeaten",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-01-08T00:00:00.000Z",
+                "note": "<p>Progressive democratic socialist. Bass player in original bands ranging from folk to trip-hop. Live sound engineer. Dabbling in recording, mixing, and mastering. I love nerding out about all sorts of technical and scientific things. Advocate and ally.</p>",
+                "url": "https://mas.to/@neverbeaten",
+                "uri": "https://mas.to/users/neverbeaten",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/655/785/048/302/757/original/08c9c495aae96a0f.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/655/785/048/302/757/original/08c9c495aae96a0f.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/655/785/048/302/757/original/5eec299c7b1ed835.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/655/785/048/302/757/original/5eec299c7b1ed835.jpeg",
+                "followers_count": 205,
+                "following_count": 181,
+                "statuses_count": 2148,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "333560",
+                    "username": "JulianOliver",
+                    "url": "https://mastodon.social/@JulianOliver",
+                    "acct": "JulianOliver"
+                },
+                {
+                    "id": "110992726666426409",
+                    "username": "Christina",
+                    "url": "https://collapsible.systems/@Christina",
+                    "acct": "Christina@collapsible.systems"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112863643453943480",
+            "created_at": "2024-07-28T10:28:46.000Z",
+            "in_reply_to_id": "112863562902299230",
+            "in_reply_to_account_id": "732176",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://mastodon.cloud/users/mfeilner/statuses/112863643347459228",
+            "url": "https://mastodon.cloud/@mfeilner/112863643347459228",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>It Works. There is still hope.</p>",
+            "reblog": null,
+            "account": {
+                "id": "732176",
+                "username": "mfeilner",
+                "acct": "mfeilner@mastodon.cloud",
+                "display_name": "Markus Feilner :verified:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-03-01T00:00:00.000Z",
+                "note": "<p>\"Don't worry, climate change will take care of that...\"\u2013\"The blade of that hockey stick is coming roughly 100 years too early\"  <a href=\"https://mastodon.cloud/tags/climatecollapse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatecollapse</span></a></p><p>Senior Open Source Evangelist, Ambassador, Journalist, Management Coach, Keynote Speaker. Expert for: OSI Layer 8 to 11, Public Administration/Digitalization. Open Source/Linux since 1994. Founder and Owner of Feilner IT. </p><p>Open for new challenges to save the world.</p><p><a href=\"https://mastodon.cloud/tags/ownCloud\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ownCloud</span></a> <a href=\"https://mastodon.cloud/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a>-Magazin, <a href=\"https://mastodon.cloud/tags/grommunio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>grommunio</span></a>, <a href=\"https://mastodon.cloud/tags/Greenbone\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Greenbone</span></a>, <a href=\"https://mastodon.cloud/tags/HalloWelt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HalloWelt</span></a>! <a href=\"https://mastodon.cloud/tags/Auctores\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Auctores</span></a> <a href=\"https://mastodon.cloud/tags/openproject\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openproject</span></a></p>",
+                "url": "https://mastodon.cloud/@mfeilner",
+                "uri": "https://mastodon.cloud/users/mfeilner",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "followers_count": 916,
+                "following_count": 797,
+                "statuses_count": 9180,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "verified",
+                        "url": "https://files.mastodon.social/custom_emojis/images/000/033/828/original/58509e2aeb7db68f.png",
+                        "static_url": "https://files.mastodon.social/custom_emojis/images/000/033/828/static/58509e2aeb7db68f.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "The Past",
+                        "value": "Linux &amp; Opensource since 1994, founded FeilnerIT in 2000",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Journalist",
+                        "value": "Linux Magazin, opensource.com, SUSE, Heise IX, Golem, author of several books.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Stage",
+                        "value": "Keynotes, Coaching, Training, Management &amp; Leadership, Workshops, Presentations and Fun",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Future",
+                        "value": "8,9,10,11 \u2013 Humans in IT. Coaching and Explaining. Saving the World wih learnings from Open Source",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112863643391338644",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/863/643/391/338/644/original/0ced5ae2cbc1579f.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/863/643/391/338/644/small/0ced5ae2cbc1579f.png",
+                    "remote_url": "https://media.mastodon.cloud/media_attachments/files/112/863/642/709/075/957/original/ecd83714f9092c09.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 1062,
+                            "height": 791,
+                            "size": "1062x791",
+                            "aspect": 1.3426042983565107
+                        },
+                        "small": {
+                            "width": 556,
+                            "height": 414,
+                            "size": "556x414",
+                            "aspect": 1.3429951690821256
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "U56JHxQZR7pYQFyVpFR7a5yBR7Vt*FQ=V[pF"
+                }
+            ],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112950808204174146",
+            "created_at": "2024-08-12T19:55:56.000Z",
+            "in_reply_to_id": "112863562902299230",
+            "in_reply_to_account_id": "732176",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://mastodon.cloud/users/mfeilner/statuses/112950808159656218",
+            "url": "https://mastodon.cloud/@mfeilner/112950808159656218",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.steinernebruecke.de/@cliff1976\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cliff1976</span></a></span> That's what I was talking about on our bicycle tour on sunday.</p>",
+            "reblog": null,
+            "account": {
+                "id": "732176",
+                "username": "mfeilner",
+                "acct": "mfeilner@mastodon.cloud",
+                "display_name": "Markus Feilner :verified:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-03-01T00:00:00.000Z",
+                "note": "<p>\"Don't worry, climate change will take care of that...\"\u2013\"The blade of that hockey stick is coming roughly 100 years too early\"  <a href=\"https://mastodon.cloud/tags/climatecollapse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatecollapse</span></a></p><p>Senior Open Source Evangelist, Ambassador, Journalist, Management Coach, Keynote Speaker. Expert for: OSI Layer 8 to 11, Public Administration/Digitalization. Open Source/Linux since 1994. Founder and Owner of Feilner IT. </p><p>Open for new challenges to save the world.</p><p><a href=\"https://mastodon.cloud/tags/ownCloud\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ownCloud</span></a> <a href=\"https://mastodon.cloud/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a>-Magazin, <a href=\"https://mastodon.cloud/tags/grommunio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>grommunio</span></a>, <a href=\"https://mastodon.cloud/tags/Greenbone\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Greenbone</span></a>, <a href=\"https://mastodon.cloud/tags/HalloWelt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HalloWelt</span></a>! <a href=\"https://mastodon.cloud/tags/Auctores\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Auctores</span></a> <a href=\"https://mastodon.cloud/tags/openproject\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openproject</span></a></p>",
+                "url": "https://mastodon.cloud/@mfeilner",
+                "uri": "https://mastodon.cloud/users/mfeilner",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/732/176/original/0178079c9f9681de.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/732/176/original/ded30a691833df61.png",
+                "followers_count": 916,
+                "following_count": 797,
+                "statuses_count": 9180,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "verified",
+                        "url": "https://files.mastodon.social/custom_emojis/images/000/033/828/original/58509e2aeb7db68f.png",
+                        "static_url": "https://files.mastodon.social/custom_emojis/images/000/033/828/static/58509e2aeb7db68f.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "The Past",
+                        "value": "Linux &amp; Opensource since 1994, founded FeilnerIT in 2000",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Journalist",
+                        "value": "Linux Magazin, opensource.com, SUSE, Heise IX, Golem, author of several books.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Stage",
+                        "value": "Keynotes, Coaching, Training, Management &amp; Leadership, Workshops, Presentations and Fun",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "The Future",
+                        "value": "8,9,10,11 \u2013 Humans in IT. Coaching and Explaining. Saving the World wih learnings from Open Source",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "906091",
+                    "username": "cliff1976",
+                    "url": "https://mastodon.steinernebruecke.de/@cliff1976",
+                    "acct": "cliff1976@mastodon.steinernebruecke.de"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

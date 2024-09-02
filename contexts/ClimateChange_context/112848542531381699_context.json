@@ -1,0 +1,307 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112848570251443669",
+            "created_at": "2024-07-25T18:35:26.000Z",
+            "in_reply_to_id": "112848542531381699",
+            "in_reply_to_account_id": "109949448023989061",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://hachyderm.io/users/devlord/statuses/112848570078247054",
+            "url": "https://hachyderm.io/@devlord/112848570078247054",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://defcon.social/@corbden\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>corbden</span></a></span> view from my house. <a href=\"https://hachyderm.io/tags/ParkFire\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ParkFire</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109950506332269567",
+                "username": "devlord",
+                "acct": "devlord@hachyderm.io",
+                "display_name": "Aaron Lord :csharp:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-03-01T00:00:00.000Z",
+                "note": "<p><a href=\"https://hachyderm.io/tags/dotnet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dotnet</span></a> developer in Northern California \u2022 former worship leader now <a href=\"https://hachyderm.io/tags/Exvangelical\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Exvangelical</span></a> \u2022 player of <a href=\"https://hachyderm.io/tags/IrishTrad\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IrishTrad</span></a> <a href=\"https://hachyderm.io/tags/TradMusic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TradMusic</span></a> \ud83c\udfbb \u2022 <a href=\"https://hachyderm.io/tags/INTJ\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>INTJ</span></a> \u2022 he/him</p>",
+                "url": "https://hachyderm.io/@devlord",
+                "uri": "https://hachyderm.io/users/devlord",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/950/506/332/269/567/original/57e39d2ed3eff801.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/950/506/332/269/567/original/57e39d2ed3eff801.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/950/506/332/269/567/original/9751e53d9b7d77ae.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/950/506/332/269/567/original/9751e53d9b7d77ae.jpg",
+                "followers_count": 506,
+                "following_count": 615,
+                "statuses_count": 1445,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "csharp",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/442/463/original/b80afffd640b2b28.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/442/463/static/b80afffd640b2b28.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/lorddev\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/lorddev</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-21T07:42:04.613+00:00"
+                    },
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://www.devlord.io/blog/about/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">devlord.io/blog/about/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-21T07:42:05.308+00:00"
+                    },
+                    {
+                        "name": "Pixelfed",
+                        "value": "<a href=\"https://pixelfed.social/@devlord\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.social/@devlord</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-21T07:42:06.407+00:00"
+                    },
+                    {
+                        "name": "Web",
+                        "value": "<a href=\"https://www.devlord.io\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">devlord.io</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-21T07:42:06.944+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112848570180966262",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/848/570/180/966/262/original/28d92c9ec88b9aed.jpeg",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/848/570/180/966/262/small/28d92c9ec88b9aed.jpeg",
+                    "remote_url": "https://media.hachyderm.io/media_attachments/files/112/848/569/683/940/042/original/cc8f2702b166bce7.jpeg",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 4032,
+                            "height": 1135,
+                            "size": "4032x1135",
+                            "aspect": 3.5524229074889866
+                        },
+                        "small": {
+                            "width": 905,
+                            "height": 255,
+                            "size": "905x255",
+                            "aspect": 3.549019607843137
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "UeC@HwWFM|tSKBogxvWZ%OV?RjkCM{jYt7ad"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": "109949448023989061",
+                    "username": "corbden",
+                    "url": "https://defcon.social/@corbden",
+                    "acct": "corbden@defcon.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "parkfire",
+                    "url": "https://mastodon.social/tags/parkfire"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112848604405351957",
+            "created_at": "2024-07-25T18:44:09.000Z",
+            "in_reply_to_id": "112848570251443669",
+            "in_reply_to_account_id": "109950506332269567",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://defcon.social/users/corbden/statuses/112848604313574976",
+            "url": "https://defcon.social/@corbden/112848604313574976",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@devlord\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>devlord</span></a></span> Ouch. We've just got a dismal orange sky full of smoke from north and south.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109949448023989061",
+                "username": "corbden",
+                "acct": "corbden@defcon.social",
+                "display_name": "Mx. Luna Corbden",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-02-17T00:00:00.000Z",
+                "note": "<p>they/them</p><p>I write things. Known for my book for <a href=\"https://defcon.social/tags/exmormons\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>exmormons</span></a>, Recovering Agency. Some fiction. Many other interests. 4% puns, 7% dad jokes. Absent minded. Can\u2019t stop explaining the 90s zeitgeist.<br>Living rent-free in my own head.<br>I\u2019ll help you see through the illusion.</p><p>\u2665Author (aka Luna Lindsey)<br>\u2665Exmormon<br>\u2665Cult Researcher<br>\u2665Autist <br>\u2665Bi/Genderfluid<br>\u2665Survivor <br>\u2665End <a href=\"https://defcon.social/tags/AbuseCulture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AbuseCulture</span></a> </p><p><a href=\"https://defcon.social/tags/cults\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cults</span></a> <a href=\"https://defcon.social/tags/exmo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>exmo</span></a> <a href=\"https://defcon.social/tags/genderfluid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genderfluid</span></a> <a href=\"https://defcon.social/tags/ActuallyAutistic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActuallyAutistic</span></a> <a href=\"https://defcon.social/tags/writer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>writer</span></a> <a href=\"https://defcon.social/tags/culture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>culture</span></a> <a href=\"https://defcon.social/tags/ReligiousTraumaRecovery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ReligiousTraumaRecovery</span></a> <a href=\"https://defcon.social/tags/PTSD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PTSD</span></a> <a href=\"https://defcon.social/tags/GenX\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenX</span></a></p>",
+                "url": "https://defcon.social/@corbden",
+                "uri": "https://defcon.social/users/corbden",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/949/448/023/989/061/original/3e6abe1d66973e4d.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/949/448/023/989/061/original/3e6abe1d66973e4d.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/949/448/023/989/061/original/fb015e381feee097.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/949/448/023/989/061/original/fb015e381feee097.jpeg",
+                "followers_count": 1691,
+                "following_count": 1049,
+                "statuses_count": 39552,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Recovering Agency Blog",
+                        "value": "<a href=\"http://recoveringagency.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">recoveringagency.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Old Blog",
+                        "value": "<a href=\"http://corbden.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">corbden.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Geosituation",
+                        "value": "Rural Eastern Washington, USA",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "they/them",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Genders",
+                        "value": "nonbinary man, nonbinary woman",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109950506332269567",
+                    "username": "devlord",
+                    "url": "https://hachyderm.io/@devlord",
+                    "acct": "devlord@hachyderm.io"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112850060494107220",
+            "created_at": "2024-07-26T00:54:26.000Z",
+            "in_reply_to_id": "112848542531381699",
+            "in_reply_to_account_id": "109949448023989061",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112850060353587266",
+            "url": "https://mastodon.au/@largess/112850060353587266",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://defcon.social/@corbden\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>corbden</span></a></span><br>Car pollution helps with the cancer/s  does't seem to bother most people either.  This is for Australia but I imagine Canada is a little worse?</p><p><a href=\"https://www.abc.net.au/news/2023-02-24/air-pollution-modelling-university-of-melbourne-traffic/102015778\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">abc.net.au/news/2023-02-24/air</span><span class=\"invisible\">-pollution-modelling-university-of-melbourne-traffic/102015778</span></a></p><p>&gt;Traffic pollution likely causes more than 11,000 premature deaths in Australia a year, new modelling&nbsp;by climate researchers has revealed.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109949448023989061",
+                    "username": "corbden",
+                    "url": "https://defcon.social/@corbden",
+                    "acct": "corbden@defcon.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.abc.net.au/news/2023-02-24/air-pollution-modelling-university-of-melbourne-traffic/102015778",
+                "title": "Traffic pollution could be far more dangerous than previously thought, researchers say",
+                "description": "New modelling finds that pollution from traffic in Australia leads to a suspected 11,000 deaths per year \u2014 10 times more than the national road toll.",
+                "language": "en",
+                "type": "link",
+                "author_name": "Andi Yu",
+                "author_url": "",
+                "provider_name": "ABC News",
+                "provider_url": "",
+                "html": "",
+                "width": 640,
+                "height": 360,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/055/307/139/original/96ae324ab445efd8.jpeg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UIF~aL-;9FRjD%V@S4WV00D%-;xu-;%MRjt7",
+                "published_at": "2023-02-23T19:20:34.000Z",
+                "authors": [
+                    {
+                        "name": "Andi Yu",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ]
+}

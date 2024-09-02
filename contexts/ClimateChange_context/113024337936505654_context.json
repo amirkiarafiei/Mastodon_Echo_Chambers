@@ -1,0 +1,155 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "113024585699587014",
+            "created_at": "2024-08-25T20:38:31.000Z",
+            "in_reply_to_id": "113024337936505654",
+            "in_reply_to_account_id": "109338569507713783",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://beige.party/users/RaleighStraight/statuses/113024585669806907",
+            "url": "https://beige.party/@RaleighStraight/113024585669806907",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@GhostOnTheHalfShell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>GhostOnTheHalfShell</span></a></span> Those things are all over the US Midwest.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110483518570226754",
+                "username": "RaleighStraight",
+                "acct": "RaleighStraight@beige.party",
+                "display_name": "Raleigh Straight",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-06-03T00:00:00.000Z",
+                "note": "<p><a href=\"https://beige.party/tags/Software\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Software</span></a> <a href=\"https://beige.party/tags/developer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>developer</span></a>; <a href=\"https://beige.party/tags/drummer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>drummer</span></a>; <a href=\"https://beige.party/tags/lover\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lover</span></a> of my wife, <a href=\"https://beige.party/tags/music\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>music</span></a>, <a href=\"https://beige.party/tags/art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>art</span></a>, <a href=\"https://beige.party/tags/food\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>food</span></a>, <a href=\"https://beige.party/tags/architecture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>architecture</span></a>, <a href=\"https://beige.party/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>photography</span></a>, <a href=\"https://beige.party/tags/RolePlayingGames\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RolePlayingGames</span></a> and <a href=\"https://beige.party/tags/VideoGames\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VideoGames</span></a>, and <a href=\"https://beige.party/tags/calligraphy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>calligraphy</span></a>; <a href=\"https://beige.party/tags/people\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>people</span></a>, <a href=\"https://beige.party/tags/justice\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>justice</span></a>, and the Sermon on the Mount. I have too many hobbies, and I valiantly give them all a fraction of the attention they deserve. Living in the never-ending Twilight Zone episode that is <a href=\"https://beige.party/tags/Iowa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Iowa</span></a>, in the midwestern <a href=\"https://beige.party/tags/US\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>US</span></a>. Dersen Lowery on <a href=\"https://beige.party/tags/RPGNet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RPGNet</span></a>.</p>",
+                "url": "https://beige.party/@RaleighStraight",
+                "uri": "https://beige.party/users/RaleighStraight",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/483/518/570/226/754/original/8ea9a3c796f41219.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/483/518/570/226/754/original/8ea9a3c796f41219.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/483/518/570/226/754/original/bbea34cad908b1d8.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/483/518/570/226/754/original/bbea34cad908b1d8.jpeg",
+                "followers_count": 133,
+                "following_count": 170,
+                "statuses_count": 4089,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Pronouns",
+                        "value": "He/Him/His",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Wife",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://beige.party/@MeganCarnes\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MeganCarnes</span></a></span>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109338569507713783",
+                    "username": "GhostOnTheHalfShell",
+                    "url": "https://masto.ai/@GhostOnTheHalfShell",
+                    "acct": "GhostOnTheHalfShell@masto.ai"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113034382840095658",
+            "created_at": "2024-08-27T14:10:03.000Z",
+            "in_reply_to_id": "113024337936505654",
+            "in_reply_to_account_id": "109338569507713783",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://universeodon.com/users/Nazani/statuses/113034382788039406",
+            "url": "https://universeodon.com/@Nazani/113034382788039406",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@GhostOnTheHalfShell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>GhostOnTheHalfShell</span></a></span>   When European agencies crow about switching to biomass, remember they're burning the forests of our Southern states.<br><a href=\"https://www.volts.wtf/p/whats-the-deal-with-burning-wood\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">volts.wtf/p/whats-the-deal-wit</span><span class=\"invisible\">h-burning-wood</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109370831301987048",
+                "username": "Nazani",
+                "acct": "Nazani@universeodon.com",
+                "display_name": "Nazani",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-19T00:00:00.000Z",
+                "note": "<p>Old lady,  likes democracy, science, cats, dolls. Midatlantic</p>",
+                "url": "https://universeodon.com/@Nazani",
+                "uri": "https://universeodon.com/users/Nazani",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/370/831/301/987/048/original/915bb04488a7005a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/370/831/301/987/048/original/915bb04488a7005a.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/370/831/301/987/048/original/541181de29758f8f.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/370/831/301/987/048/original/541181de29758f8f.jpg",
+                "followers_count": 595,
+                "following_count": 956,
+                "statuses_count": 13719,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109338569507713783",
+                    "username": "GhostOnTheHalfShell",
+                    "url": "https://masto.ai/@GhostOnTheHalfShell",
+                    "acct": "GhostOnTheHalfShell@masto.ai"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.volts.wtf/p/whats-the-deal-with-burning-wood",
+                "title": "What's the deal with burning wood pellets for energy?",
+                "description": "An enormous amount of wood is harvested from forests in the southern US to be burned in Europe as \u201crenewable energy.\u201d Now the industry wants to open more wood-pellet facilities in the Pacific Northwest. Rita Frost of NRDC and Brenna Bell of 350 PDX explain why that\u2019s a bad idea and why wood pellets aren\u2019t as renewable as they look.",
+                "language": "en",
+                "type": "video",
+                "author_name": "David Roberts",
+                "author_url": "https://substack.com/@drvolts",
+                "provider_name": "Volts",
+                "provider_url": "",
+                "html": "<iframe src=\"https://www.volts.wtf/embed/podcast/whats-the-deal-with-burning-wood?autoplay=1\" width=\"1\" height=\"1\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" frameborder=\"0\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms\"></iframe>",
+                "width": 1,
+                "height": 1,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/105/548/352/original/8c1c05f340753e25.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UQEor6~UIo0fX#o{sWn*J7NaWBw^S0WBo3jI",
+                "published_at": "2024-07-24T16:01:25.000Z",
+                "authors": [
+                    {
+                        "name": "David Roberts",
+                        "url": "https://substack.com/@drvolts",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+[
+    {
+        "id": "77923",
+        "username": "sofakissen",
+        "acct": "sofakissen",
+        "display_name": "Daniel Ziegener",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-04-14T00:00:00.000Z",
+        "note": "<p>Journalist.</p>",
+        "url": "https://mastodon.social/@sofakissen",
+        "uri": "https://mastodon.social/users/sofakissen",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/077/923/original/1b8e24b968630f65.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/077/923/original/1b8e24b968630f65.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/077/923/original/447b1710d99ce258.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/077/923/original/447b1710d99ce258.jpeg",
+        "followers_count": 888,
+        "following_count": 695,
+        "statuses_count": 1273,
+        "last_status_at": "2024-08-18",
+        "hide_collections": false,
+        "noindex": true,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Ich mache unabh\u00e4ngigen Spielejournalismus",
+                "value": "<a href=\"https://www.superlevel.de\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">superlevel.de</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-21T12:36:41.761+00:00"
+            },
+            {
+                "name": "Ich bin Redakteur bei Golem.de",
+                "value": "<a href=\"https://www.golem.de/specials/autor-daniel-ziegener/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">golem.de/specials/autor-daniel</span><span class=\"invisible\">-ziegener/</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "708178",
+        "username": "clt_news",
+        "acct": "clt_news",
+        "display_name": "Chemnitzer Linux-Tage",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2019-02-09T00:00:00.000Z",
+        "note": "<p>Aktuelle News zu den Chemnitzer Linux-Tagen in wenigen Worten zusammengefasst. Die n\u00e4chsten Chemnitzer Linux-Tage finden am 16. &amp; 17. M\u00e4rz 2024 hier bei uns vor Ort in Chemnitz statt. <a href=\"https://mastodon.social/tags/CLT2024\" class=\"mention hashtag\" rel=\"tag\">#<span>CLT2024</span></a></p>",
+        "url": "https://mastodon.social/@clt_news",
+        "uri": "https://mastodon.social/users/clt_news",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/708/178/original/0424c505c7c104a7.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/708/178/original/0424c505c7c104a7.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/708/178/original/6de0b5ceba8c9753.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/708/178/original/6de0b5ceba8c9753.png",
+        "followers_count": 1530,
+        "following_count": 7,
+        "statuses_count": 478,
+        "last_status_at": "2024-03-17",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    }
+]

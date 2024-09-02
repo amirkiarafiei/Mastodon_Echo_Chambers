@@ -1,0 +1,90 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112955605257248129",
+            "created_at": "2024-08-13T16:15:53.000Z",
+            "in_reply_to_id": "112955306887729168",
+            "in_reply_to_account_id": "108283275705744051",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://kolektiva.social/users/Otis_Scops/statuses/112955605205199852",
+            "url": "https://kolektiva.social/@Otis_Scops/112955605205199852",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-08-13T16:17:27.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@primonatura\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>primonatura</span></a></span> <br>Video streaming is yet another thing when it comes to energy/climate impact. Especially when nowadays you can stream up to 4K films where often 480 or 720 is more than enough for the same enjoyment, but a fraction of the costs.</p><p><a href=\"https://kolektiva.social/tags/video\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>video</span></a> <a href=\"https://kolektiva.social/tags/internet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>internet</span></a> <a href=\"https://kolektiva.social/tags/Climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Climate</span></a>  <a href=\"https://kolektiva.social/tags/energy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>energy</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "112933354400769367",
+                "username": "Otis_Scops",
+                "acct": "Otis_Scops@kolektiva.social",
+                "display_name": "Otis Scops aka Crash Course",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-08-09T00:00:00.000Z",
+                "note": "<p>My old account name was:<br><span class=\"h-card\" translate=\"no\"><a href=\"https://todon.eu/@crash_course\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>crash_course</span></a></span></p><p>Researcher, author, information-junkie and iconoclast. Originally, my field of research was mainly technology, but over the years it has shifted to the areas of sociology, philosophy and real sustainability, especially in practice.</p><p>I'm the author of the book  \"Crash Course\" - On Your Future in the Anthropocene. It's a common sense approach to real sustainability, collapse, ecocentrism and resilience...</p><p><a href=\"https://kolektiva.social/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a><br><a href=\"https://kolektiva.social/tags/CrashCourse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CrashCourse</span></a> <a href=\"https://kolektiva.social/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a> <a href=\"https://kolektiva.social/tags/Cl\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Cl</span></a></p>",
+                "url": "https://kolektiva.social/@Otis_Scops",
+                "uri": "https://kolektiva.social/users/Otis_Scops",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/933/354/400/769/367/original/294916dd628e5bbe.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/933/354/400/769/367/original/294916dd628e5bbe.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/933/354/400/769/367/original/4df091a69dce3ae0.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/933/354/400/769/367/original/4df091a69dce3ae0.png",
+                "followers_count": 313,
+                "following_count": 83,
+                "statuses_count": 111,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Primairy website",
+                        "value": "<a href=\"https://crashcoursebook.eu\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">crashcoursebook.eu</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T18:30:54.445+00:00"
+                    },
+                    {
+                        "name": "email",
+                        "value": "otis-scops@protonmail.com",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108283275705744051",
+                    "username": "primonatura",
+                    "url": "https://mstdn.social/@primonatura",
+                    "acct": "primonatura@mstdn.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "video",
+                    "url": "https://mastodon.social/tags/video"
+                },
+                {
+                    "name": "internet",
+                    "url": "https://mastodon.social/tags/internet"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "energy",
+                    "url": "https://mastodon.social/tags/energy"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

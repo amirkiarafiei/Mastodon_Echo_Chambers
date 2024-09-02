@@ -1,0 +1,838 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112926575218065687",
+            "created_at": "2024-08-08T13:13:10.805Z",
+            "in_reply_to_id": "112926544334791525",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/rmblaber1956/statuses/112926575218065687",
+            "url": "https://mastodon.social/@rmblaber1956/112926575218065687",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> No matter how much stick I get for it, I will go on reiterating that you can&#39;t have economic degrowth without demographic (population) degrowth. We have a global capitalist economy - not some ideal ecosocialist one. It requires perpetual annual economic growth - &amp; perpetual annual population growth, because it needs more consumers, even when it doesn&#39;t need more workers!</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "111137654549708990",
+                "username": "rmblaber1956",
+                "acct": "rmblaber1956",
+                "display_name": "Richard Michael Blaber",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-09-27T00:00:00.000Z",
+                "note": "<p>I am a retired academic, with an MA &amp; PhD in Social Policy &amp; Administration from the Universities of York &amp; Kent respectively. I am disabled, &amp; am deeply concerned about human, gay and disability rights, the climate emergency and the biodiversity crisis. I am currently politically homeless. I like films, classical music, jazz, and reading.</p>",
+                "url": "https://mastodon.social/@rmblaber1956",
+                "uri": "https://mastodon.social/users/rmblaber1956",
+                "avatar": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "header": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "followers_count": 197,
+                "following_count": 168,
+                "statuses_count": 17135,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Title",
+                        "value": "Dr.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Gender",
+                        "value": "Male",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Sexual Orientation",
+                        "value": "Gay",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Age",
+                        "value": "67",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112926585082761173",
+            "created_at": "2024-08-08T13:15:41.338Z",
+            "in_reply_to_id": "112926575218065687",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/rmblaber1956/statuses/112926585082761173",
+            "url": "https://mastodon.social/@rmblaber1956/112926585082761173",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> It will eventually collapse - it HAS to do so, because it is unsustainable. But there is no guarantee that what replaces it will be a better system. It is far more likely to be worse!</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "111137654549708990",
+                "username": "rmblaber1956",
+                "acct": "rmblaber1956",
+                "display_name": "Richard Michael Blaber",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-09-27T00:00:00.000Z",
+                "note": "<p>I am a retired academic, with an MA &amp; PhD in Social Policy &amp; Administration from the Universities of York &amp; Kent respectively. I am disabled, &amp; am deeply concerned about human, gay and disability rights, the climate emergency and the biodiversity crisis. I am currently politically homeless. I like films, classical music, jazz, and reading.</p>",
+                "url": "https://mastodon.social/@rmblaber1956",
+                "uri": "https://mastodon.social/users/rmblaber1956",
+                "avatar": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "header": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "followers_count": 197,
+                "following_count": 168,
+                "statuses_count": 17135,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Title",
+                        "value": "Dr.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Gender",
+                        "value": "Male",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Sexual Orientation",
+                        "value": "Gay",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Age",
+                        "value": "67",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112927344579432258",
+            "created_at": "2024-08-08T16:28:42.000Z",
+            "in_reply_to_id": "112926575218065687",
+            "in_reply_to_account_id": "111137654549708990",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://social.vivaldi.net/users/zir4n/statuses/112927344092601399",
+            "url": "https://social.vivaldi.net/@zir4n/112927344092601399",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@rmblaber1956\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rmblaber1956</span></a></span> <br>If I follow your argument it says we can't have degrowth without ecosocialism and an end to capitalism, even though you're somehow jumping from that to the conclusion that it's a population problem.</p><p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "112639204268845045",
+                "username": "zir4n",
+                "acct": "zir4n@vivaldi.net",
+                "display_name": "Dz\u00eeRan",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-06-18T00:00:00.000Z",
+                "note": "<p><a href=\"https://en.wikipedia.org/wiki/Ziran\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">en.wikipedia.org/wiki/Ziran</span><span class=\"invisible\"></span></a><br><a href=\"https://forvo.com/search/%E8%87%AA%E7%84%B6/zh/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">forvo.com/search/%E8%87%AA%E7%</span><span class=\"invisible\">84%B6/zh/</span></a></p>",
+                "url": "https://social.vivaldi.net/@zir4n",
+                "uri": "https://social.vivaldi.net/users/zir4n",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/639/204/268/845/045/original/c0b21d9b7530643a.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/639/204/268/845/045/original/c0b21d9b7530643a.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/639/204/268/845/045/original/90925f3cc56563e1.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/639/204/268/845/045/original/90925f3cc56563e1.jpg",
+                "followers_count": 9,
+                "following_count": 16,
+                "statuses_count": 148,
+                "last_status_at": "2024-08-26",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111137654549708990",
+                    "username": "rmblaber1956",
+                    "url": "https://mastodon.social/@rmblaber1956",
+                    "acct": "rmblaber1956"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112931189387053805",
+            "created_at": "2024-08-09T08:46:37.449Z",
+            "in_reply_to_id": "112927344579432258",
+            "in_reply_to_account_id": "112639204268845045",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/rmblaber1956/statuses/112931189387053805",
+            "url": "https://mastodon.social/@rmblaber1956/112931189387053805",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://social.vivaldi.net/@zir4n\" class=\"u-url mention\">@<span>zir4n</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> No, you haven&#39;t followed my argument at all. Ten-spined sticklebacks manage their relationship with ecology so much better than humans. When their food supply is abundant, they have babies; when it isn&#39;t, they don&#39;t - but they like sex, so they all turn gay until equilibrium is restored, &amp; they can start having babies again. Does it not occur to you that climate change, biodiversity loss &amp; environmental degradation might have an impact on human food &amp; water supplies?</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "111137654549708990",
+                "username": "rmblaber1956",
+                "acct": "rmblaber1956",
+                "display_name": "Richard Michael Blaber",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-09-27T00:00:00.000Z",
+                "note": "<p>I am a retired academic, with an MA &amp; PhD in Social Policy &amp; Administration from the Universities of York &amp; Kent respectively. I am disabled, &amp; am deeply concerned about human, gay and disability rights, the climate emergency and the biodiversity crisis. I am currently politically homeless. I like films, classical music, jazz, and reading.</p>",
+                "url": "https://mastodon.social/@rmblaber1956",
+                "uri": "https://mastodon.social/users/rmblaber1956",
+                "avatar": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "header": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "followers_count": 197,
+                "following_count": 168,
+                "statuses_count": 17135,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Title",
+                        "value": "Dr.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Gender",
+                        "value": "Male",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Sexual Orientation",
+                        "value": "Gay",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Age",
+                        "value": "67",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112639204268845045",
+                    "username": "zir4n",
+                    "url": "https://social.vivaldi.net/@zir4n",
+                    "acct": "zir4n@vivaldi.net"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112926638082652478",
+            "created_at": "2024-08-08T13:29:09.000Z",
+            "in_reply_to_id": "112926544334791525",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "de",
+            "uri": "https://troet.cafe/users/grootinside/statuses/112926638048757972",
+            "url": "https://troet.cafe/@grootinside/112926638048757972",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> \ud83e\udd28\ud83e\udd14<br>Although i sadly find some truth in this:<br>Hope, as you call it, is only allowed to happen as long as it doesn't interfere or even slightly changes the current system(s). \ud83d\ude12</p>",
+            "reblog": null,
+            "account": {
+                "id": "110051627089348085",
+                "username": "grootinside",
+                "acct": "grootinside@troet.cafe",
+                "display_name": "Gondor",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-03-19T00:00:00.000Z",
+                "note": "<p>Based near Berlin, into eMobility, 3D printing, music, music, photography, humor, artists, travelling, Motorcycles, surviving humans as they destroy nature, definitely NOT enjoying being a part of \"the problem\".... Did i mention music?</p><p>Btw. using mostly english since this is the internet.</p>",
+                "url": "https://troet.cafe/@grootinside",
+                "uri": "https://troet.cafe/users/grootinside",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/051/627/089/348/085/original/eac41e5e1c3479b8.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/051/627/089/348/085/original/eac41e5e1c3479b8.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/051/627/089/348/085/original/aea22f2b57aa1e6b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/051/627/089/348/085/original/aea22f2b57aa1e6b.jpg",
+                "followers_count": 188,
+                "following_count": 265,
+                "statuses_count": 1069,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112927639468055227",
+            "created_at": "2024-08-08T17:43:49.973Z",
+            "in_reply_to_id": "112926544334791525",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/jamesgbradbury/statuses/112927639468055227",
+            "url": "https://mastodon.social/@jamesgbradbury/112927639468055227",
+            "replies_count": 1,
+            "reblogs_count": 4,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> This is good to see and the world needs examples.</p><p>Though I am sorry that <a href=\"https://mastodon.social/tags/europe\" class=\"mention hashtag\" rel=\"tag\">#<span>europe</span></a> and the <a href=\"https://mastodon.social/tags/uk\" class=\"mention hashtag\" rel=\"tag\">#<span>uk</span></a> still consider that imported <a href=\"https://mastodon.social/tags/biomass\" class=\"mention hashtag\" rel=\"tag\">#<span>biomass</span></a> is carbon neutral. We import a lot of it from North America. <a href=\"https://www.volts.wtf/p/whats-the-deal-with-burning-wood\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">volts.wtf/p/whats-the-deal-wit</span><span class=\"invisible\">h-burning-wood</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "107055864018725275",
+                "username": "jamesgbradbury",
+                "acct": "jamesgbradbury",
+                "display_name": "James Bradbury",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2021-10-06T00:00:00.000Z",
+                "note": "<p>UK-based. Geek, father, friend, python coder, comedian, town councillor. Born at 336ppm CO2. <br />Campaigning for action to mitigate and adapt to climate change.</p><p>My middle name is George.</p><p>I cycle for fun and transport. The photo was taken when I was younger, like all profile photos. Photo alt text is me as a child of maybe 4 or 5, wearing a flat cap and duffle coat.</p>",
+                "url": "https://mastodon.social/@jamesgbradbury",
+                "uri": "https://mastodon.social/users/jamesgbradbury",
+                "avatar": "https://files.mastodon.social/accounts/avatars/107/055/864/018/725/275/original/accb8b94363402a1.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/107/055/864/018/725/275/original/accb8b94363402a1.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/107/055/864/018/725/275/original/588a05bd198cbdb3.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/107/055/864/018/725/275/original/588a05bd198cbdb3.jpg",
+                "followers_count": 249,
+                "following_count": 324,
+                "statuses_count": 426,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://thinks.jamesbradbury.co.uk/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">thinks.jamesbradbury.co.uk/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-09T22:04:10.427+00:00"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "value": "<a href=\"https://www.linkedin.com/in/jamesbradbury/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">linkedin.com/in/jamesbradbury/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/JamesBradbury\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/JamesBradbury</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "europe",
+                    "url": "https://mastodon.social/tags/europe"
+                },
+                {
+                    "name": "uk",
+                    "url": "https://mastodon.social/tags/uk"
+                },
+                {
+                    "name": "biomass",
+                    "url": "https://mastodon.social/tags/biomass"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://www.volts.wtf/p/whats-the-deal-with-burning-wood",
+                "title": "What's the deal with burning wood pellets for energy?",
+                "description": "An enormous amount of wood is harvested from forests in the southern US to be burned in Europe as \u201crenewable energy.\u201d Now the industry wants to open more wood-pellet facilities in the Pacific Northwest. Rita Frost of NRDC and Brenna Bell of 350 PDX explain why that\u2019s a bad idea and why wood pellets aren\u2019t as renewable as they look.",
+                "language": "en",
+                "type": "video",
+                "author_name": "David Roberts",
+                "author_url": "https://substack.com/@drvolts",
+                "provider_name": "Volts",
+                "provider_url": "",
+                "html": "<iframe src=\"https://www.volts.wtf/embed/podcast/whats-the-deal-with-burning-wood?autoplay=1\" width=\"1\" height=\"1\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" frameborder=\"0\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms\"></iframe>",
+                "width": 1,
+                "height": 1,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/105/548/352/original/8c1c05f340753e25.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UQEor6~UIo0fX#o{sWn*J7NaWBw^S0WBo3jI",
+                "published_at": "2024-07-24T16:01:25.000Z",
+                "authors": [
+                    {
+                        "name": "David Roberts",
+                        "url": "https://substack.com/@drvolts",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112937098479331370",
+            "created_at": "2024-08-10T09:49:23.031Z",
+            "in_reply_to_id": "112927639468055227",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.social/users/jamesgbradbury/statuses/112937098479331370",
+            "url": "https://mastodon.social/@jamesgbradbury/112937098479331370",
+            "replies_count": 0,
+            "reblogs_count": 2,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> if you&#39;d like the <a href=\"https://mastodon.social/tags/uk\" class=\"mention hashtag\" rel=\"tag\">#<span>uk</span></a> government to stop subsidising this, there is an easy to to write to them about this here: <a href=\"https://actionnetwork.org/letters/ed-miliband-say-no-to-new-tree-burning-subsidies?link_id=1&amp;can_id=70278228d3b8489cb945419eb52135ff&amp;source=email-please-write-to-ed-miliband-today&amp;email_referrer=email_2382904&amp;email_subject=please-write-to-ed-miliband-today\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">actionnetwork.org/letters/ed-m</span><span class=\"invisible\">iliband-say-no-to-new-tree-burning-subsidies?link_id=1&amp;can_id=70278228d3b8489cb945419eb52135ff&amp;source=email-please-write-to-ed-miliband-today&amp;email_referrer=email_2382904&amp;email_subject=please-write-to-ed-miliband-today</span></a></p>",
+            "reblog": null,
+            "application": {
+                "name": "Tusky",
+                "website": "https://tusky.app"
+            },
+            "account": {
+                "id": "107055864018725275",
+                "username": "jamesgbradbury",
+                "acct": "jamesgbradbury",
+                "display_name": "James Bradbury",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2021-10-06T00:00:00.000Z",
+                "note": "<p>UK-based. Geek, father, friend, python coder, comedian, town councillor. Born at 336ppm CO2. <br />Campaigning for action to mitigate and adapt to climate change.</p><p>My middle name is George.</p><p>I cycle for fun and transport. The photo was taken when I was younger, like all profile photos. Photo alt text is me as a child of maybe 4 or 5, wearing a flat cap and duffle coat.</p>",
+                "url": "https://mastodon.social/@jamesgbradbury",
+                "uri": "https://mastodon.social/users/jamesgbradbury",
+                "avatar": "https://files.mastodon.social/accounts/avatars/107/055/864/018/725/275/original/accb8b94363402a1.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/107/055/864/018/725/275/original/accb8b94363402a1.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/107/055/864/018/725/275/original/588a05bd198cbdb3.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/107/055/864/018/725/275/original/588a05bd198cbdb3.jpg",
+                "followers_count": 249,
+                "following_count": 324,
+                "statuses_count": 426,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://thinks.jamesbradbury.co.uk/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">thinks.jamesbradbury.co.uk/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2022-11-09T22:04:10.427+00:00"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "value": "<a href=\"https://www.linkedin.com/in/jamesbradbury/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">linkedin.com/in/jamesbradbury/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://github.com/JamesBradbury\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/JamesBradbury</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "uk",
+                    "url": "https://mastodon.social/tags/uk"
+                }
+            ],
+            "emojis": [],
+            "card": {
+                "url": "https://actionnetwork.org/letters/ed-miliband-say-no-to-new-tree-burning-subsidies?link_id=1&can_id=70278228d3b8489cb945419eb52135ff&source=email-please-write-to-ed-miliband-today&email_referrer=email_2382904&email_subject=please-write-to-ed-miliband-today",
+                "title": "Ed Miliband: Say No to New Tree Burning Subsidies",
+                "description": " With a new Government just elected it\u2019s vital that we ensure the new Secretary of State for the Department of Energy Security and Net Zero, Ed Miliband, is aware of the devastating impacts of the wood biomass industry, and stops any new subsidies for tree burning.   Earlier this year, the previous Government proposed and consulted on brand new subsidies to fund planet-wrecking tree burning at power stations like Drax in Yorkshire and Lynemouth in Northumberland. Ed Miliband has the power to stop these subsidies in its tracks, but we need your help to make him do it.   Please write to Ed Miliband today asking him to stop the new subsidies for burning trees in UK power stations. \u00a0  The climate impacts of new subsidies for burning trees would be catastrophic. Drax is the UK\u2019s single largest carbon emitter and the world\u2019s biggest tree burner. In 2023 alone, Drax emitted over 11 million tonnes of CO2 into the atmosphere. \u00a0  Drax is already receiving nearly \u00a32m per day from UK bill payers to burn trees whilst making record profits. According to the consultation, the cost of new subsidies to UK bill payers could be anything up to \u00a32.5 billion a year. This is money that will not be available to support a transition to genuinely renewable wind and solar power.   New subsidies would allow both power stations to keep burning trees and destroying forests at our expense for years to come, with no time limit for the funding mentioned in the Government consultation.  And new subsidies for burning wood won\u2019t do anything to lower our energy bills, or help to tackle the climate emergency with scientists around the world warning that burning wood for energy increases global warming for decades to centuries.    We say: no more. No more wasting our money on dirty tree burning. No more funding of an industry that is driving environmental injustice, wrecking ecosystems and ruining our chances at a liveable future by destroying the very forests we need to absorb carbon emissions.  For the sake of our planet, we need as many people as possible to speak out and tell Ed Miliband to stop new tree-burning subsidies. With a new Government, we have the chance to get these proposals entirely rejected. But we need your help to do this.   Will you write to Ed Miliband today to call on him to say no to new subsidies for burning trees in UK power stations? ",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 678,
+                "height": 339,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/103/892/645/original/ef7f2e1b80e038d7.png",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UDCiUXor-q?Ho,I;V~MzR=$gt7Ny-XWUR$xv",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112928159976837400",
+            "created_at": "2024-08-08T19:56:06.000Z",
+            "in_reply_to_id": "112926544334791525",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.dias.ie/users/Luke_Drury/statuses/112928159613055225",
+            "url": "https://mastodon.dias.ie/@Luke_Drury/112928159613055225",
+            "replies_count": 1,
+            "reblogs_count": 8,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> An example from today\u2019s Irish Times - Capitalism is killing the planet \u2013 but curtailing it is the discussion nobody wants to have</p><p><a href=\"https://www.irishtimes.com/environment/2024/08/08/capitalism-is-killing-the-planet-but-curtailing-it-is-the-discussion-nobody-wants-to-have/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">irishtimes.com/environment/202</span><span class=\"invisible\">4/08/08/capitalism-is-killing-the-planet-but-curtailing-it-is-the-discussion-nobody-wants-to-have/</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109303413236830785",
+                "username": "Luke_Drury",
+                "acct": "Luke_Drury@mastodon.dias.ie",
+                "display_name": "Luke Drury",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-07T00:00:00.000Z",
+                "note": "<p>Emeritus Professor of Astrophysics in DIAS, member and former president of the Royal Irish Academy, former VP of ALLEA.  Interested in open science and the future of scholarly communication. All views expressed here are personal. Languages are English, German and some French.</p>",
+                "url": "https://mastodon.dias.ie/@Luke_Drury",
+                "uri": "https://mastodon.dias.ie/users/Luke_Drury",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/303/413/236/830/785/original/847115c86099b2ad.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/303/413/236/830/785/original/847115c86099b2ad.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/303/413/236/830/785/original/9c39e91c651bc72f.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/303/413/236/830/785/original/9c39e91c651bc72f.jpeg",
+                "followers_count": 685,
+                "following_count": 632,
+                "statuses_count": 3966,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "ORCID",
+                        "value": "<a href=\"https://orcid.org/0000-0002-9257-2270\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">orcid.org/0000-0002-9257-2270</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "ALLEA",
+                        "value": "<a href=\"https://allea.org/luke-drury/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">allea.org/luke-drury/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "DIAS",
+                        "value": "<a href=\"https://www.dias.ie/2010/08/19/astrostaff-ld/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dias.ie/2010/08/19/astrostaff-</span><span class=\"invisible\">ld/</span></a>",
+                        "verified_at": "2024-08-23T23:21:57.172+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.irishtimes.com/environment/2024/08/08/capitalism-is-killing-the-planet-but-curtailing-it-is-the-discussion-nobody-wants-to-have/",
+                "title": "Capitalism is killing the planet \u2013 but curtailing it is the discussion nobody wants to have",
+                "description": "If life on our one and only planet is to be pulled back from the brink, the time for voluntary ecological measures from businesses has surely passed",
+                "language": null,
+                "type": "link",
+                "author_name": "P\u00e1draic Fogarty",
+                "author_url": "https://www.irishtimes.com/author/",
+                "provider_name": "The Irish Times",
+                "provider_url": "",
+                "html": "",
+                "width": 662,
+                "height": 348,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/107/284/254/original/bed8aed14e65c0e7.jpg",
+                "image_description": "That it has come to this was foretold, most notably in 1972 with the publication of the Limits to Growth, which was scorned at the time but whose model scenarios for societal collapse are worryingly on track. Photograph: Karim Sahib/AFP via Getty",
+                "embed_url": "",
+                "blurhash": "U3Cijj4o00-V^79aNbxtDlj]ELNYS_IUxsyA",
+                "published_at": "2024-08-08T05:00:02.657Z",
+                "authors": [
+                    {
+                        "name": "P\u00e1draic Fogarty",
+                        "url": "https://www.irishtimes.com/author/",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112928195355256257",
+            "created_at": "2024-08-08T20:03:37.000Z",
+            "in_reply_to_id": "112928159976837400",
+            "in_reply_to_account_id": "109303413236830785",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/breadandcircuses/statuses/112928189126800348",
+            "url": "https://climatejustice.social/@breadandcircuses/112928189126800348",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.dias.ie/@Luke_Drury\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Luke_Drury</span></a></span>  Thanks, Luke!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109298515581226227",
+                "username": "breadandcircuses",
+                "acct": "breadandcircuses@climatejustice.social",
+                "display_name": "Bread and Circuses",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-06T00:00:00.000Z",
+                "note": "<p>\ud83c\udf0f Born at 312 PPM</p><p>Retired NGO executive doing my best to stay informed and raise awareness about environmental crises, climate breakdown, and the rapacious, murderous impact of greedy capitalists and the politicians they own.</p><p>Why the name?  Back in the day, empires placated their citizens with \"bread and circuses.\" Now we get fast food and apps. But it's all basically the same \u2014 distraction from what's REALLY happening.</p>",
+                "url": "https://climatejustice.social/@breadandcircuses",
+                "uri": "https://climatejustice.social/users/breadandcircuses",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/298/515/581/226/227/original/681f99a5d35fedf3.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/298/515/581/226/227/original/681f99a5d35fedf3.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/298/515/581/226/227/original/1aeb7143cc06b930.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/298/515/581/226/227/original/1aeb7143cc06b930.jpg",
+                "followers_count": 9545,
+                "following_count": 742,
+                "statuses_count": 4421,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "See my Toots",
+                        "value": "<a href=\"https://justmytoots.com/@breadandcircuses@climatejustice.social\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justmytoots.com/@breadandcircu</span><span class=\"invisible\">ses@climatejustice.social</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Favorite saying",
+                        "value": "\"Be kind to everyone you meet, for they are fighting a great battle.\u201d",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109303413236830785",
+                    "username": "Luke_Drury",
+                    "url": "https://mastodon.dias.ie/@Luke_Drury",
+                    "acct": "Luke_Drury@mastodon.dias.ie"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112928793748365832",
+            "created_at": "2024-08-08T22:37:22.000Z",
+            "in_reply_to_id": "112928230708685876",
+            "in_reply_to_account_id": "109367171110758859",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://fosstodon.org/users/woo/statuses/112928793721389952",
+            "url": "https://fosstodon.org/@woo/112928793721389952",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.sdf.org/@punklawyer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>punklawyer</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> When I was a boy, I saw a picture of the Milky Way and thought it looked like the stars were going down a plug-hole. Sometimes, kids have better intuition than adults.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109320085141448445",
+                "username": "woo",
+                "acct": "woo@fosstodon.org",
+                "display_name": "Andy Wootton",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-10T00:00:00.000Z",
+                "note": "<p>Data physicist, information philosopher &amp; network culture theorist.<br>Writes in Obsidian, computes in Clojure, using emacs with Cider. Less is more. Small pieces, loosely joined, for emergent complexity.<br>Agile software development with models, functions, graphs &amp; flow. Not tech: @wootube@mastodonapp.uk</p>",
+                "url": "https://fosstodon.org/@woo",
+                "uri": "https://fosstodon.org/users/woo",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 119,
+                "following_count": 79,
+                "statuses_count": 2217,
+                "last_status_at": "2024-08-25",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109367171110758859",
+                    "username": "punklawyer",
+                    "url": "https://mastodon.sdf.org/@punklawyer",
+                    "acct": "punklawyer@mastodon.sdf.org"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

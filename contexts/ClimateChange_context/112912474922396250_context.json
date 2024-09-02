@@ -1,0 +1,93 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112912902226612153",
+            "created_at": "2024-08-06T03:15:57.000Z",
+            "in_reply_to_id": "112912474922396250",
+            "in_reply_to_account_id": "109395824810608989",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://federated.press/users/bmoreinis/statuses/112912902201979980",
+            "url": "https://federated.press/@bmoreinis/112912902201979980",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://newsie.social/@TheConversationClimate\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>TheConversationClimate</span></a></span> Yeah, there sure is: <a href=\"https://www.thegreatsimplification.com/episode/132-daniel-schmachtenberger\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thegreatsimplification.com/epi</span><span class=\"invisible\">sode/132-daniel-schmachtenberger</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109389824102915770",
+                "username": "bmoreinis",
+                "acct": "bmoreinis@federated.press",
+                "display_name": "Bram Moreinis",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-22T00:00:00.000Z",
+                "note": "<p>Media literacy schoolteacher, instructional designer and malamute fan.</p>",
+                "url": "https://federated.press/@bmoreinis",
+                "uri": "https://federated.press/users/bmoreinis",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/389/824/102/915/770/original/dd3eca01105817e2.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/389/824/102/915/770/original/dd3eca01105817e2.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/389/824/102/915/770/original/25ef8c2998509aca.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/389/824/102/915/770/original/25ef8c2998509aca.jpeg",
+                "followers_count": 77,
+                "following_count": 440,
+                "statuses_count": 345,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Project",
+                        "value": "<a href=\"Https://docs.fakenewsfitness.org\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\"></span><span class=\"ellipsis\">Https://docs.fakenewsfitness.o</span><span class=\"invisible\">rg</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109395824810608989",
+                    "username": "TheConversationClimate",
+                    "url": "https://newsie.social/@TheConversationClimate",
+                    "acct": "TheConversationClimate@newsie.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.thegreatsimplification.com/episode/132-daniel-schmachtenberger",
+                "title": "Daniel Schmachtenberger: \u201cSilicon Dreams and Carbon Nightmares: The Wide Boundary Impacts of AI\u201d | The Great Simplification",
+                "description": "Episode 132",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "The Great Simplification",
+                "provider_url": "",
+                "html": "",
+                "width": 480,
+                "height": 480,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/104/760/710/original/d076ae29bb0141fe.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UGBy:fxa0OE2ITf7t8ay9eRk?F%2-;fjRPj[",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ]
+}

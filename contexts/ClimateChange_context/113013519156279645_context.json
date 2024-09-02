@@ -1,0 +1,245 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "113019416078346371",
+            "created_at": "2024-08-24T22:43:49.000Z",
+            "in_reply_to_id": "113013519156279645",
+            "in_reply_to_account_id": "110736277394615438",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/johnjolley/statuses/113019416063057498",
+            "url": "https://mas.to/@johnjolley/113019416063057498",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@schizanon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>schizanon</span></a></span> my first burn, 16 years ago, was just before Obama won the 2008 election. The theme was \u201cAmerican Dream\u201d. Excited to be heading out there again for my sixth time, on the eve-ish of another monumental election!</p><p>Reporters suggesting \u201cBurning Man\u2019s days are numbered\u201d are not at all familiar with just how resourceful burners are. The man *will* burn, every year, for the foreseeable future (though it\u2019s possible a venue change may be in the cards eventually)</p>",
+            "reblog": null,
+            "account": {
+                "id": "109322842443109070",
+                "username": "johnjolley",
+                "acct": "johnjolley@mas.to",
+                "display_name": "John Jolley",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-10T00:00:00.000Z",
+                "note": "<p><a href=\"https://mas.to/tags/SanDiego\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SanDiego</span></a> Native </p><p>DJ/Musician/Pizza Delivery Driver</p><p>He/They! <a href=\"https://mas.to/tags/Queer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Queer</span></a>, Burner, <a href=\"https://mas.to/tags/Poly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Poly</span></a>, Artist, Weirdo, Nerd, <a href=\"https://mas.to/tags/ADHD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ADHD</span></a>, <a href=\"https://mas.to/tags/Millennial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Millennial</span></a>, <a href=\"https://mas.to/tags/Leftist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Leftist</span></a>, <a href=\"https://mas.to/tags/Newsjunky\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Newsjunky</span></a></p><p><a href=\"https://mas.to/tags/burningman\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>burningman</span></a> <a href=\"https://mas.to/tags/techno\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>techno</span></a> <a href=\"https://mas.to/tags/mst3k\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mst3k</span></a> <a href=\"https://mas.to/tags/media\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>media</span></a> <a href=\"https://mas.to/tags/uspol\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>uspol</span></a></p>",
+                "url": "https://mas.to/@johnjolley",
+                "uri": "https://mas.to/users/johnjolley",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/322/842/443/109/070/original/d68f105b7579fbca.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/322/842/443/109/070/original/d68f105b7579fbca.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/322/842/443/109/070/original/80e11ed9e5f6bbee.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/322/842/443/109/070/original/80e11ed9e5f6bbee.jpeg",
+                "followers_count": 89,
+                "following_count": 442,
+                "statuses_count": 761,
+                "last_status_at": "2024-08-24",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Mixcloud",
+                        "value": "<a href=\"https://www.mixcloud.com/johnjolley/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">mixcloud.com/johnjolley/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "YouTube",
+                        "value": "<a href=\"https://www.youtube.com/@wwjjdj\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/@wwjjdj</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Bandcamp",
+                        "value": "<a href=\"https://bandcamp.com/johnjolley\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bandcamp.com/johnjolley</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Last.fm",
+                        "value": "<a href=\"https://www.last.fm/user/Subnode\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">last.fm/user/Subnode</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110736277394615438",
+                    "username": "schizanon",
+                    "url": "https://mastodon.social/@schizanon",
+                    "acct": "schizanon"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113019422907324992",
+            "created_at": "2024-08-24T22:45:33.000Z",
+            "in_reply_to_id": "113013519156279645",
+            "in_reply_to_account_id": "110736277394615438",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/johnjolley/statuses/113019422888926056",
+            "url": "https://mas.to/@johnjolley/113019422888926056",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@schizanon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>schizanon</span></a></span> I do hope that the \u201cburnier-than-thou\u201d attitude diminishes. Not radically inclusive!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109322842443109070",
+                "username": "johnjolley",
+                "acct": "johnjolley@mas.to",
+                "display_name": "John Jolley",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-10T00:00:00.000Z",
+                "note": "<p><a href=\"https://mas.to/tags/SanDiego\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SanDiego</span></a> Native </p><p>DJ/Musician/Pizza Delivery Driver</p><p>He/They! <a href=\"https://mas.to/tags/Queer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Queer</span></a>, Burner, <a href=\"https://mas.to/tags/Poly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Poly</span></a>, Artist, Weirdo, Nerd, <a href=\"https://mas.to/tags/ADHD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ADHD</span></a>, <a href=\"https://mas.to/tags/Millennial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Millennial</span></a>, <a href=\"https://mas.to/tags/Leftist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Leftist</span></a>, <a href=\"https://mas.to/tags/Newsjunky\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Newsjunky</span></a></p><p><a href=\"https://mas.to/tags/burningman\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>burningman</span></a> <a href=\"https://mas.to/tags/techno\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>techno</span></a> <a href=\"https://mas.to/tags/mst3k\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mst3k</span></a> <a href=\"https://mas.to/tags/media\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>media</span></a> <a href=\"https://mas.to/tags/uspol\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>uspol</span></a></p>",
+                "url": "https://mas.to/@johnjolley",
+                "uri": "https://mas.to/users/johnjolley",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/322/842/443/109/070/original/d68f105b7579fbca.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/322/842/443/109/070/original/d68f105b7579fbca.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/322/842/443/109/070/original/80e11ed9e5f6bbee.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/322/842/443/109/070/original/80e11ed9e5f6bbee.jpeg",
+                "followers_count": 89,
+                "following_count": 442,
+                "statuses_count": 761,
+                "last_status_at": "2024-08-24",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Mixcloud",
+                        "value": "<a href=\"https://www.mixcloud.com/johnjolley/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">mixcloud.com/johnjolley/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "YouTube",
+                        "value": "<a href=\"https://www.youtube.com/@wwjjdj\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/@wwjjdj</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Bandcamp",
+                        "value": "<a href=\"https://bandcamp.com/johnjolley\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bandcamp.com/johnjolley</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Last.fm",
+                        "value": "<a href=\"https://www.last.fm/user/Subnode\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">last.fm/user/Subnode</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110736277394615438",
+                    "username": "schizanon",
+                    "url": "https://mastodon.social/@schizanon",
+                    "acct": "schizanon"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113020130141506867",
+            "created_at": "2024-08-25T01:45:25.647Z",
+            "in_reply_to_id": "113019422907324992",
+            "in_reply_to_account_id": "109322842443109070",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/schizanon/statuses/113020130141506867",
+            "url": "https://mastodon.social/@schizanon/113020130141506867",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@johnjolley\" class=\"u-url mention\">@<span>johnjolley</span></a></span> is this radically inclusive?</p><p>&gt; let&#39;s go back to the days of 50,000 people (or less!). Let the well-heeled bucket listers stay away.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110736277394615438",
+                "username": "schizanon",
+                "acct": "schizanon",
+                "display_name": "\ud83c\udf44\ud83c\udf08\ud83c\udfae\ud83d\udcbb\ud83d\udeb2\ud83e\udd53\ud83c\udf83\ud83d\udc80\ud83c\udff4\ud83d\udefb\ud83c\uddfa\ud83c\uddf8",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-07-18T00:00:00.000Z",
+                "note": "<p>Xennial, Chaotic-Neutral, INFP, kind not nice</p><p>Oregon &lt;- California &lt;- Arkansas</p><p>Web Developer HTML JavaScript CSS Web Components Custom Elements Progressive Web Apps PWAs Service Workers ShadowDOM ReactJS Lit GraphQL Playwright</p><p>Classic Cars Air-Cooled Volkswagens EVs Bicycles eBikes</p><p>Video Games Retro Gaming Emulation Anbernic Handhelds VR Sega</p><p>Serverless AWS ActivityPub Open Source Linux</p><p>Coffee Mushrooms Gardening Pumpkins</p>",
+                "url": "https://mastodon.social/@schizanon",
+                "uri": "https://mastodon.social/users/schizanon",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/736/277/394/615/438/original/40a973486c975cad.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/736/277/394/615/438/original/40a973486c975cad.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/110/736/277/394/615/438/original/2eb77eb9a01948a3.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/736/277/394/615/438/original/2eb77eb9a01948a3.jpg",
+                "followers_count": 828,
+                "following_count": 1178,
+                "statuses_count": 5644,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "bluesky",
+                        "value": "@schizanon@bsky.app",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "pixelfed",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://pixelfed.social/schizanon\" class=\"u-url mention\">@<span>schizanon@pixelfed.social</span></a></span>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "lemmy",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://beehaw.org/u/schizanon\" class=\"u-url mention\">@<span>schizanon@beehaw.org</span></a></span>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "bookwyrm",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://bookwyrm.social/user/schizanon\" class=\"u-url mention\">@<span>schizanon@bookwyrm.social</span></a></span>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109322842443109070",
+                    "username": "johnjolley",
+                    "url": "https://mas.to/@johnjolley",
+                    "acct": "johnjolley@mas.to"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

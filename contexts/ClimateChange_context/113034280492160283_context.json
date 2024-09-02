@@ -1,0 +1,167 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "113034329414504752",
+            "created_at": "2024-08-27T13:56:29.360Z",
+            "in_reply_to_id": "113034280492160283",
+            "in_reply_to_account_id": "110831577215861939",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/rmblaber1956/statuses/113034329414504752",
+            "url": "https://mastodon.social/@rmblaber1956/113034329414504752",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@vintin\" class=\"u-url mention\">@<span>vintin</span></a></span> Reduction in growth is woefully insufficient - what is needed is an absolute reduction in the size of the global economy, &amp; with it, that of the global population, with a far more equitable distribution of income &amp; wealth within the remaining population - not that I&#39;m at all sanguine the latter will happen.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "111137654549708990",
+                "username": "rmblaber1956",
+                "acct": "rmblaber1956",
+                "display_name": "Richard Michael Blaber",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-09-27T00:00:00.000Z",
+                "note": "<p>I am a retired academic, with an MA &amp; PhD in Social Policy &amp; Administration from the Universities of York &amp; Kent respectively. I am disabled, &amp; am deeply concerned about human, gay and disability rights, the climate emergency and the biodiversity crisis. I am currently politically homeless. I like films, classical music, jazz, and reading.</p>",
+                "url": "https://mastodon.social/@rmblaber1956",
+                "uri": "https://mastodon.social/users/rmblaber1956",
+                "avatar": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "header": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "followers_count": 197,
+                "following_count": 168,
+                "statuses_count": 17135,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Title",
+                        "value": "Dr.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Gender",
+                        "value": "Male",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Sexual Orientation",
+                        "value": "Gay",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Age",
+                        "value": "67",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110831577215861939",
+                    "username": "vintin",
+                    "url": "https://mastodon.social/@vintin",
+                    "acct": "vintin"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113034694241125801",
+            "created_at": "2024-08-27T15:29:15.000Z",
+            "in_reply_to_id": "113034280492160283",
+            "in_reply_to_account_id": "110831577215861939",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/cjpaloma/statuses/113034694213527313",
+            "url": "https://mas.to/@cjpaloma/113034694213527313",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-08-27T15:34:19.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@vintin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vintin</span></a></span></p><p>Good article!</p><p>\u201c...according to GDP growth, producing \u00a31m worth of teargas is considered exactly the same as producing \u00a31m worth of affordable housing or healthcare.\u201d</p><p>Degrowth is nuanced and targets excesses that are harmful, not general well being. </p><p>But those who are threatened by it will try to make it seem as ugly and as dystopian as possible.</p><p>AND they've got tons of resources and decades of experience in spinning reality and lying for their own profit</p>",
+            "reblog": null,
+            "account": {
+                "id": "111944521385306033",
+                "username": "cjpaloma",
+                "acct": "cjpaloma@mas.to",
+                "display_name": "CJ Paloma's Summer Soapbox",
+                "locked": true,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-02-16T00:00:00.000Z",
+                "note": "<p>Opinionated human.</p><p>Pro democracy, pro compassion, pro peace, anti social hierarchies based in false assumptions</p><p>putting pressure on people to do the right things (especially when lives are at stake) is just not traitorous</p><p>Profile pic: photo of a bunch of different animal tracks in mud</p>",
+                "url": "https://mas.to/@cjpaloma",
+                "uri": "https://mas.to/users/cjpaloma",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/944/521/385/306/033/original/2ca44ecbf19ba5f2.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/944/521/385/306/033/original/2ca44ecbf19ba5f2.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/111/944/521/385/306/033/original/a6ba3ce38d076225.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/111/944/521/385/306/033/original/a6ba3ce38d076225.jpg",
+                "followers_count": 362,
+                "following_count": 364,
+                "statuses_count": 2375,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Ideas about power and oppression",
+                        "value": "culturalPTSD.org",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "nom de something",
+                        "value": "CJPaloma.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Typos",
+                        "value": "Yes, often",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Hot takes",
+                        "value": "my header photo is of creatively shaped hot air balloons - it's meant to be symbolic of -well, all of us really",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110831577215861939",
+                    "username": "vintin",
+                    "url": "https://mastodon.social/@vintin",
+                    "acct": "vintin"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

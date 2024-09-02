@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-28">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="relation" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="pos" type="double" />
+      <attribute id="1" title="neg" type="double" />
+      <attribute id="2" title="compound" type="double" />
+    </attributes>
+    <nodes>
+      <node id="10546" label="10546">
+        <attvalues>
+          <attvalue for="0" value="0.0" />
+          <attvalue for="1" value="0.102" />
+          <attvalue for="2" value="-0.238" />
+        </attvalues>
+      </node>
+      <node id="109999119965425489" label="109999119965425489">
+        <attvalues>
+          <attvalue for="0" value="0.077" />
+          <attvalue for="1" value="0.155" />
+          <attvalue for="2" value="-0.212" />
+        </attvalues>
+      </node>
+      <node id="110203593150394504" label="110203593150394504">
+        <attvalues>
+          <attvalue for="0" value="0.047" />
+          <attvalue for="1" value="0.078" />
+          <attvalue for="2" value="-0.09" />
+        </attvalues>
+      </node>
+      <node id="111688622464473571" label="111688622464473571">
+        <attvalues>
+          <attvalue for="0" value="0.169" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.276" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="10546" target="109999119965425489" id="0">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="10546" target="110203593150394504" id="1">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="109999119965425489" target="110203593150394504" id="2">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+      <edge source="109999119965425489" target="111688622464473571" id="3">
+        <attvalues>
+          <attvalue for="3" value="following" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

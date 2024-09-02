@@ -1,0 +1,159 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "113015484331934704",
+            "created_at": "2024-08-24T06:03:55.000Z",
+            "in_reply_to_id": "113014862575218577",
+            "in_reply_to_account_id": "108554444486245752",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://twit.social/users/rlounsbury/statuses/113015484312718254",
+            "url": "https://twit.social/@rlounsbury/113015484312718254",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://one.darnell.one/@darnell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>darnell</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://threads.net/@whitehouse/\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>whitehouse</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@verge\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>verge</span></a></span> We can at least make fundamental changes to SCOTUS and prevent such lopsided majorities and put term limits on the bench.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109731177536426517",
+                "username": "rlounsbury",
+                "acct": "rlounsbury@twit.social",
+                "display_name": "Ryan Lounsbury",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-01-21T00:00:00.000Z",
+                "note": "<p>Technologist at heart, lover of science, rookie naturalist, environmentalist/conservationist. Newly found fascination of Linux, <a href=\"https://twit.social/tags/IndieWeb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndieWeb</span></a>, and other FOSS geekery. A tech professional working on Microsoft technologies (Server, Azure, M365, Windows) by day.</p>",
+                "url": "https://twit.social/@rlounsbury",
+                "uri": "https://twit.social/users/rlounsbury",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/731/177/536/426/517/original/f945b8cc8478f003.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/731/177/536/426/517/original/f945b8cc8478f003.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/731/177/536/426/517/original/f9ea411e935ddcdc.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/731/177/536/426/517/original/f9ea411e935ddcdc.png",
+                "followers_count": 40,
+                "following_count": 175,
+                "statuses_count": 3003,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "IndieWeb Site",
+                        "value": "<a href=\"https://micro.lounsbury.me\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">micro.lounsbury.me</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T22:25:40.476+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108554444486245752",
+                    "username": "darnell",
+                    "url": "https://one.darnell.one/@darnell",
+                    "acct": "darnell@one.darnell.one"
+                },
+                {
+                    "id": "112203098449439049",
+                    "username": "whitehouse",
+                    "url": "https://threads.net/@whitehouse/",
+                    "acct": "whitehouse@threads.net"
+                },
+                {
+                    "id": "267716",
+                    "username": "verge",
+                    "url": "https://mastodon.social/@verge",
+                    "acct": "verge"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113018215139426813",
+            "created_at": "2024-08-24T17:38:23.000Z",
+            "in_reply_to_id": "113014862575218577",
+            "in_reply_to_account_id": "108554444486245752",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://tech.lgbt/users/Lydie/statuses/113018215046042728",
+            "url": "https://tech.lgbt/@Lydie/113018215046042728",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://one.darnell.one/@darnell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>darnell</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@verge\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>verge</span></a></span> a Congress plus POTUS landslide could enable cleaning the Nazis out of the courts</p>",
+            "reblog": null,
+            "account": {
+                "id": "112643811555528415",
+                "username": "Lydie",
+                "acct": "Lydie@tech.lgbt",
+                "display_name": "Lydie",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-06-19T00:00:00.000Z",
+                "note": "<p>Hey there! I'm a total <a href=\"https://tech.lgbt/tags/80s\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>80s</span></a> and <a href=\"https://tech.lgbt/tags/90s\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>90s</span></a> <a href=\"https://tech.lgbt/tags/nerd\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nerd</span></a>.  Occupationally I'm a <a href=\"https://tech.lgbt/tags/solar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>solar</span></a> and <a href=\"https://tech.lgbt/tags/battery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>battery</span></a> storage professional, and by night I hack <a href=\"https://tech.lgbt/tags/retro\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>retro</span></a> tech. I'm a <a href=\"https://tech.lgbt/tags/foodie\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>foodie</span></a> at heart, I love to cook and unwind with <a href=\"https://tech.lgbt/tags/vinyl\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vinyl</span></a> records via vacuum <a href=\"https://tech.lgbt/tags/tubes\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tubes</span></a>. When I'm not tinkering, you can find me geeking out on <a href=\"https://tech.lgbt/tags/localAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>localAI</span></a>, <a href=\"https://tech.lgbt/tags/AMD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AMD</span></a>, and <a href=\"https://tech.lgbt/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a> software. I'm a <a href=\"https://tech.lgbt/tags/datahoarder\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datahoarder</span></a> with over 146TB \u2013 never trust a computer that you do not own. I'm happily married to <span class=\"h-card\" translate=\"no\"><a href=\"https://kind.social/@Kates\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Kates</span></a></span>.  I'm a huge fan of <a href=\"https://tech.lgbt/tags/THC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>THC</span></a>.  I'm a <a href=\"https://tech.lgbt/tags/nihilist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nihilist</span></a> <a href=\"https://tech.lgbt/tags/doomer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>doomer</span></a>. Billionaires should not exist.  \u270a</p>",
+                "url": "https://tech.lgbt/@Lydie",
+                "uri": "https://tech.lgbt/users/Lydie",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/643/811/555/528/415/original/a61cf9971eadc81e.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/643/811/555/528/415/original/a61cf9971eadc81e.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/643/811/555/528/415/original/ea221be49e543aa9.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/643/811/555/528/415/original/ea221be49e543aa9.jpg",
+                "followers_count": 138,
+                "following_count": 162,
+                "statuses_count": 761,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Pronouns",
+                        "value": "she/her",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Occupation",
+                        "value": "Renewable Energy Storage",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Maryland, USA",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108554444486245752",
+                    "username": "darnell",
+                    "url": "https://one.darnell.one/@darnell",
+                    "acct": "darnell@one.darnell.one"
+                },
+                {
+                    "id": "267716",
+                    "username": "verge",
+                    "url": "https://mastodon.social/@verge",
+                    "acct": "verge"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

@@ -1,0 +1,2937 @@
+{
+    "ancestors": [
+        {
+            "id": "112959852244171596",
+            "created_at": "2024-08-14T10:15:56.000Z",
+            "in_reply_to_id": null,
+            "in_reply_to_account_id": null,
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://metalhead.club/users/derthomas/statuses/112959852163495664",
+            "url": "https://metalhead.club/@derthomas/112959852163495664",
+            "replies_count": 98,
+            "reblogs_count": 284,
+            "favourites_count": 17,
+            "edited_at": null,
+            "content": "<p>Would you buy a Tesla?</p><p>\ud83d\udd04 boost appreciated! </p><p><a href=\"https://metalhead.club/tags/Tesla\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tesla</span></a> <a href=\"https://metalhead.club/tags/EMobility\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EMobility</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109313377094305464",
+                "username": "derthomas",
+                "acct": "derthomas@metalhead.club",
+                "display_name": "Thomas",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-09T00:00:00.000Z",
+                "note": "<p>A dude on a metal journey <a href=\"https://metalhead.club/tags/Metaljourney\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Metaljourney</span></a></p><p>Toots about cute animals and death metal.</p><p>Used to travel a lot, but then got an arrow in the knee.</p>",
+                "url": "https://metalhead.club/@derthomas",
+                "uri": "https://metalhead.club/users/derthomas",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/313/377/094/305/464/original/dcea24beee98f3d0.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/313/377/094/305/464/original/dcea24beee98f3d0.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/313/377/094/305/464/original/9f2d080488172d15.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/313/377/094/305/464/original/9f2d080488172d15.jpg",
+                "followers_count": 335,
+                "following_count": 175,
+                "statuses_count": 10741,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "last.fm",
+                        "value": "<a href=\"https://www.last.fm/user/tomsl\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">last.fm/user/tomsl</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Heavy playlist",
+                        "value": "<a href=\"https://music.youtube.com/playlist?list=PLxxhndMTmJ3PC2IwX---lPNBzdxGJXn-T&amp;feature=shared\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">music.youtube.com/playlist?lis</span><span class=\"invisible\">t=PLxxhndMTmJ3PC2IwX---lPNBzdxGJXn-T&amp;feature=shared</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Bandcamp",
+                        "value": "<a href=\"https://bandcamp.com/tmistelb\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bandcamp.com/tmistelb</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "GitHub",
+                        "value": "<a href=\"https://tmistelbauer.github.io\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tmistelbauer.github.io</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-22T20:47:45.139+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "emobility",
+                    "url": "https://mastodon.social/tags/emobility"
+                },
+                {
+                    "name": "tesla",
+                    "url": "https://mastodon.social/tags/tesla"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": {
+                "id": "970307",
+                "expires_at": "2024-08-15T10:15:56.000Z",
+                "expired": true,
+                "multiple": false,
+                "votes_count": 2906,
+                "voters_count": 2906,
+                "options": [
+                    {
+                        "title": "Yes",
+                        "votes_count": 67
+                    },
+                    {
+                        "title": "Yes, because of Elon Musk",
+                        "votes_count": 5
+                    },
+                    {
+                        "title": "No, because of Elon Musk",
+                        "votes_count": 1717
+                    },
+                    {
+                        "title": "No",
+                        "votes_count": 1117
+                    }
+                ],
+                "emojis": []
+            }
+        },
+        {
+            "id": "112960243757720049",
+            "created_at": "2024-08-14T11:55:31.000Z",
+            "in_reply_to_id": "112959852244171596",
+            "in_reply_to_account_id": "109313377094305464",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/farbel/statuses/112960243739958192",
+            "url": "https://mas.to/@farbel/112960243739958192",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": "2024-08-15T11:35:02.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>derthomas</span></a></span> If I buy an electric car (unlikely because I live on $1200 a month) it would be a BYD, now available here in Mexico but not the US thanks to the stupid Trump/Biden tariffs.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109287656158524880",
+                "username": "farbel",
+                "acct": "farbel@mas.to",
+                "display_name": "David Scott Moyer",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-04T00:00:00.000Z",
+                "note": "<p>Lapsed painter, occasional photographer, compulsive writer.</p>",
+                "url": "https://mas.to/@farbel",
+                "uri": "https://mas.to/users/farbel",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/287/656/158/524/880/original/d6640130e5171a31.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/287/656/158/524/880/original/d6640130e5171a31.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/287/656/158/524/880/original/b4f2f10975d8cef6.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/287/656/158/524/880/original/b4f2f10975d8cef6.jpg",
+                "followers_count": 516,
+                "following_count": 486,
+                "statuses_count": 5527,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Blog",
+                        "value": "davidscottmoyer.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Oaxaca, Mexico",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Identity",
+                        "value": "Ally",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112960450475314418",
+            "created_at": "2024-08-14T12:48:06.219Z",
+            "in_reply_to_id": "112960243757720049",
+            "in_reply_to_account_id": "109287656158524880",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/MugsysRapSheet/statuses/112960450475314418",
+            "url": "https://mastodon.social/@MugsysRapSheet/112960450475314418",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> <br />The tariffs on <a href=\"https://mastodon.social/tags/Chinese\" class=\"mention hashtag\" rel=\"tag\">#<span>Chinese</span></a> <a href=\"https://mastodon.social/tags/BYD\" class=\"mention hashtag\" rel=\"tag\">#<span>BYD</span></a> <a href=\"https://mastodon.social/tags/EV\" class=\"mention hashtag\" rel=\"tag\">#<span>EV</span></a>&#39;s are necessary b/c <a href=\"https://mastodon.social/tags/China\" class=\"mention hashtag\" rel=\"tag\">#<span>China</span></a> is engaging in &quot;dumping&quot;... the illegal practice of selling something for less that it costs to make it in order to drive the competition out of business.</p><p><a href=\"https://mastodon.social/tags/Mexico\" class=\"mention hashtag\" rel=\"tag\">#<span>Mexico</span></a> can survive that b/c they don&#39;t have their own Mexican Owned EV manufacturers.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110876541501642005",
+                "username": "MugsysRapSheet",
+                "acct": "MugsysRapSheet",
+                "display_name": "MugsysRapSheet \ud83d\udd29\ud83d\udc11\ud83d\udc18",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-08-12T00:00:00.000Z",
+                "note": "<p>Formerly <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> on Twitter. Historian. Setting the record straight when Conservatives try to rewrite history... with a touch of humor &amp; plenty of (unavoidable) sarcasm. \ud83d\ude1c</p>",
+                "url": "https://mastodon.social/@MugsysRapSheet",
+                "uri": "https://mastodon.social/users/MugsysRapSheet",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/original/b87a9a69ad6939ae.gif",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/static/b87a9a69ad6939ae.png",
+                "header": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "followers_count": 713,
+                "following_count": 632,
+                "statuses_count": 5197,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Proud Liberal",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Democrat",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Historian",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Progressive",
+                        "value": "",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "chinese",
+                    "url": "https://mastodon.social/tags/chinese"
+                },
+                {
+                    "name": "byd",
+                    "url": "https://mastodon.social/tags/byd"
+                },
+                {
+                    "name": "ev",
+                    "url": "https://mastodon.social/tags/ev"
+                },
+                {
+                    "name": "china",
+                    "url": "https://mastodon.social/tags/china"
+                },
+                {
+                    "name": "mexico",
+                    "url": "https://mastodon.social/tags/mexico"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112960556401246400",
+            "created_at": "2024-08-14T13:15:02.540Z",
+            "in_reply_to_id": "112960450475314418",
+            "in_reply_to_account_id": "110876541501642005",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112960556401246400",
+            "url": "https://mastodon.social/@ikanreed/112960556401246400",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> Nah, the Biden administration just says that to protect our shitty companies.</p><p>BYD cars are even cheaper in China than abroad and genuinely seem to bring company profits with each sale.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112960567351038973",
+            "created_at": "2024-08-14T13:17:49.592Z",
+            "in_reply_to_id": "112960556401246400",
+            "in_reply_to_account_id": "13966",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/MugsysRapSheet/statuses/112960567351038973",
+            "url": "https://mastodon.social/@MugsysRapSheet/112960567351038973",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 2,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> <br />We don&#39;t put tariffs on <a href=\"https://mastodon.social/tags/EV\" class=\"mention hashtag\" rel=\"tag\">#<span>EV</span></a>&#39;s from other countries, just <a href=\"https://mastodon.social/tags/China\" class=\"mention hashtag\" rel=\"tag\">#<span>China</span></a>.</p><p>KIA is a Korean car maker that assembles its cars in Mexico, yet there is no tariff on them.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110876541501642005",
+                "username": "MugsysRapSheet",
+                "acct": "MugsysRapSheet",
+                "display_name": "MugsysRapSheet \ud83d\udd29\ud83d\udc11\ud83d\udc18",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-08-12T00:00:00.000Z",
+                "note": "<p>Formerly <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> on Twitter. Historian. Setting the record straight when Conservatives try to rewrite history... with a touch of humor &amp; plenty of (unavoidable) sarcasm. \ud83d\ude1c</p>",
+                "url": "https://mastodon.social/@MugsysRapSheet",
+                "uri": "https://mastodon.social/users/MugsysRapSheet",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/original/b87a9a69ad6939ae.gif",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/static/b87a9a69ad6939ae.png",
+                "header": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "followers_count": 713,
+                "following_count": 632,
+                "statuses_count": 5197,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Proud Liberal",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Democrat",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Historian",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Progressive",
+                        "value": "",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "ev",
+                    "url": "https://mastodon.social/tags/ev"
+                },
+                {
+                    "name": "china",
+                    "url": "https://mastodon.social/tags/china"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112962382343621015",
+            "created_at": "2024-08-14T20:59:21.000Z",
+            "in_reply_to_id": "112960567351038973",
+            "in_reply_to_account_id": "110876541501642005",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mstdn.ca/users/smiteri/statuses/112962382186590421",
+            "url": "https://mstdn.ca/@smiteri/112962382186590421",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>derthomas</span></a></span> Mexico is part of NAFTA, one would hope there aren\u2019t US tariffs on products made there.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109378424746577587",
+                "username": "smiteri",
+                "acct": "smiteri@mstdn.ca",
+                "display_name": "Eric S. Smith",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-20T00:00:00.000Z",
+                "note": "<p>Well, this can\u2019t be more useless than my Google Buzz account.  Or can it?  Let\u2019s find out.</p>",
+                "url": "https://mstdn.ca/@smiteri",
+                "uri": "https://mstdn.ca/users/smiteri",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/378/424/746/577/587/original/c00b8862b4426bba.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/378/424/746/577/587/original/c00b8862b4426bba.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/378/424/746/577/587/original/9f0f4bd03a533e3b.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/378/424/746/577/587/original/9f0f4bd03a533e3b.jpeg",
+                "followers_count": 18,
+                "following_count": 39,
+                "statuses_count": 1901,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112962922851466247",
+            "created_at": "2024-08-14T23:16:51.000Z",
+            "in_reply_to_id": "112962382343621015",
+            "in_reply_to_account_id": "109378424746577587",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/farbel/statuses/112962922828524484",
+            "url": "https://mas.to/@farbel/112962922828524484",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-08-15T11:35:48.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>derthomas</span></a></span> Pretty sure BYD is not manufacturing here.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109287656158524880",
+                "username": "farbel",
+                "acct": "farbel@mas.to",
+                "display_name": "David Scott Moyer",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-04T00:00:00.000Z",
+                "note": "<p>Lapsed painter, occasional photographer, compulsive writer.</p>",
+                "url": "https://mas.to/@farbel",
+                "uri": "https://mas.to/users/farbel",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/287/656/158/524/880/original/d6640130e5171a31.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/287/656/158/524/880/original/d6640130e5171a31.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/287/656/158/524/880/original/b4f2f10975d8cef6.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/287/656/158/524/880/original/b4f2f10975d8cef6.jpg",
+                "followers_count": 516,
+                "following_count": 486,
+                "statuses_count": 5527,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Blog",
+                        "value": "davidscottmoyer.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Oaxaca, Mexico",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Identity",
+                        "value": "Ally",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112962956633934180",
+            "created_at": "2024-08-14T23:25:27.161Z",
+            "in_reply_to_id": "112962922851466247",
+            "in_reply_to_account_id": "109287656158524880",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112962956633934180",
+            "url": "https://mastodon.social/@ikanreed/112962956633934180",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> ultimately the problem is the overcapacity claims are baseless, and there&#39;s no data to support the charge of dumping.</p><p>China&#39;s export ratio on cars and solar panels and the other tariffed goods are LOWER than other nations.</p><p>Total EV industry subsidies in China are lower than in the US.</p><p>The scant actual material evidence cited by our economists mostly amount to &quot;the government has more control over who gets loans from banks&quot;</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112963310301632568",
+            "created_at": "2024-08-15T00:55:23.699Z",
+            "in_reply_to_id": "112962956633934180",
+            "in_reply_to_account_id": "13966",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/MugsysRapSheet/statuses/112963310301632568",
+            "url": "https://mastodon.social/@MugsysRapSheet/112963310301632568",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> <br />&quot;Dumping&quot; doesn&#39;t refer to a &quot;quantity&quot;.</p><p>It refers to the practice of selling something for less than it cost your competition to make it to drive them out of business.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110876541501642005",
+                "username": "MugsysRapSheet",
+                "acct": "MugsysRapSheet",
+                "display_name": "MugsysRapSheet \ud83d\udd29\ud83d\udc11\ud83d\udc18",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-08-12T00:00:00.000Z",
+                "note": "<p>Formerly <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> on Twitter. Historian. Setting the record straight when Conservatives try to rewrite history... with a touch of humor &amp; plenty of (unavoidable) sarcasm. \ud83d\ude1c</p>",
+                "url": "https://mastodon.social/@MugsysRapSheet",
+                "uri": "https://mastodon.social/users/MugsysRapSheet",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/original/b87a9a69ad6939ae.gif",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/static/b87a9a69ad6939ae.png",
+                "header": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "followers_count": 713,
+                "following_count": 632,
+                "statuses_count": 5197,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Proud Liberal",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Democrat",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Historian",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Progressive",
+                        "value": "",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112963535418384131",
+            "created_at": "2024-08-15T01:52:38.709Z",
+            "in_reply_to_id": "112963310301632568",
+            "in_reply_to_account_id": "110876541501642005",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112963535418384131",
+            "url": "https://mastodon.social/@ikanreed/112963535418384131",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> And there&#39;s no evidence to support that charge, either.  They charge substantially more abroad than in the domestic market.  If they were trying undercut and cut out in a anti-competitive way, that&#39;s exactly the opposite of what they&#39;d do.</p><p>Face it, china developed green industry, we didn&#39;t.  Biden wants to fix this by banning cheap cars.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112965922801288847",
+            "created_at": "2024-08-15T11:59:47.282Z",
+            "in_reply_to_id": "112963535418384131",
+            "in_reply_to_account_id": "13966",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/MugsysRapSheet/statuses/112965922801288847",
+            "url": "https://mastodon.social/@MugsysRapSheet/112965922801288847",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> <br />EVERY biz charges less domestically. No overseas shipping cost, worrying about Exchange Rates, or establishing local Support facilities. Plus, they pay their workers crap wages. And no competition b/c the gov&#39;t owns the company.</p><p>Just b/c <a href=\"https://mastodon.social/tags/China\" class=\"mention hashtag\" rel=\"tag\">#<span>China</span></a> charges their own population less doesn&#39;t mean they aren&#39;t under-pricing their <a href=\"https://mastodon.social/tags/EV\" class=\"mention hashtag\" rel=\"tag\">#<span>EV</span></a>&#39;s in other countries.</p><p>You&#39;re absolutely correct on how they invested heavily in Green Tech. They&#39;re trying to corner the market.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110876541501642005",
+                "username": "MugsysRapSheet",
+                "acct": "MugsysRapSheet",
+                "display_name": "MugsysRapSheet \ud83d\udd29\ud83d\udc11\ud83d\udc18",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-08-12T00:00:00.000Z",
+                "note": "<p>Formerly <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> on Twitter. Historian. Setting the record straight when Conservatives try to rewrite history... with a touch of humor &amp; plenty of (unavoidable) sarcasm. \ud83d\ude1c</p>",
+                "url": "https://mastodon.social/@MugsysRapSheet",
+                "uri": "https://mastodon.social/users/MugsysRapSheet",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/original/b87a9a69ad6939ae.gif",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/static/b87a9a69ad6939ae.png",
+                "header": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "followers_count": 713,
+                "following_count": 632,
+                "statuses_count": 5197,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Proud Liberal",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Democrat",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Historian",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Progressive",
+                        "value": "",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "china",
+                    "url": "https://mastodon.social/tags/china"
+                },
+                {
+                    "name": "ev",
+                    "url": "https://mastodon.social/tags/ev"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112965932258298187",
+            "created_at": "2024-08-15T12:02:09.000Z",
+            "in_reply_to_id": "112965922801288847",
+            "in_reply_to_account_id": "110876541501642005",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/farbel/statuses/112965932151561848",
+            "url": "https://mas.to/@farbel/112965932151561848",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>derthomas</span></a></span> BYD is a publicly traded company.  Warren Buffet has a large stake in it.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109287656158524880",
+                "username": "farbel",
+                "acct": "farbel@mas.to",
+                "display_name": "David Scott Moyer",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-04T00:00:00.000Z",
+                "note": "<p>Lapsed painter, occasional photographer, compulsive writer.</p>",
+                "url": "https://mas.to/@farbel",
+                "uri": "https://mas.to/users/farbel",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/287/656/158/524/880/original/d6640130e5171a31.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/287/656/158/524/880/original/d6640130e5171a31.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/287/656/158/524/880/original/b4f2f10975d8cef6.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/287/656/158/524/880/original/b4f2f10975d8cef6.jpg",
+                "followers_count": 516,
+                "following_count": 486,
+                "statuses_count": 5527,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Blog",
+                        "value": "davidscottmoyer.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Oaxaca, Mexico",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Identity",
+                        "value": "Ally",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112965939283827580",
+            "created_at": "2024-08-15T12:03:58.798Z",
+            "in_reply_to_id": "112965932258298187",
+            "in_reply_to_account_id": "109287656158524880",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/MugsysRapSheet/statuses/112965939283827580",
+            "url": "https://mastodon.social/@MugsysRapSheet/112965939283827580",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> <br />How does that change anything?</p><p>They still sell their cars for less than they cost to make. They lose money on every sale.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110876541501642005",
+                "username": "MugsysRapSheet",
+                "acct": "MugsysRapSheet",
+                "display_name": "MugsysRapSheet \ud83d\udd29\ud83d\udc11\ud83d\udc18",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-08-12T00:00:00.000Z",
+                "note": "<p>Formerly <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> on Twitter. Historian. Setting the record straight when Conservatives try to rewrite history... with a touch of humor &amp; plenty of (unavoidable) sarcasm. \ud83d\ude1c</p>",
+                "url": "https://mastodon.social/@MugsysRapSheet",
+                "uri": "https://mastodon.social/users/MugsysRapSheet",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/original/b87a9a69ad6939ae.gif",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/static/b87a9a69ad6939ae.png",
+                "header": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "followers_count": 713,
+                "following_count": 632,
+                "statuses_count": 5197,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Proud Liberal",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Democrat",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Historian",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Progressive",
+                        "value": "",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112965943522933110",
+            "created_at": "2024-08-15T12:05:01.000Z",
+            "in_reply_to_id": "112965939283827580",
+            "in_reply_to_account_id": "110876541501642005",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/farbel/statuses/112965943420670068",
+            "url": "https://mas.to/@farbel/112965943420670068",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>derthomas</span></a></span> You claimed that the Chinese government owned the company. Slow down. Get your facts right. You are somewhat correct in your assessments.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109287656158524880",
+                "username": "farbel",
+                "acct": "farbel@mas.to",
+                "display_name": "David Scott Moyer",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-04T00:00:00.000Z",
+                "note": "<p>Lapsed painter, occasional photographer, compulsive writer.</p>",
+                "url": "https://mas.to/@farbel",
+                "uri": "https://mas.to/users/farbel",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/287/656/158/524/880/original/d6640130e5171a31.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/287/656/158/524/880/original/d6640130e5171a31.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/287/656/158/524/880/original/b4f2f10975d8cef6.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/287/656/158/524/880/original/b4f2f10975d8cef6.jpg",
+                "followers_count": 516,
+                "following_count": 486,
+                "statuses_count": 5527,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Blog",
+                        "value": "davidscottmoyer.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Oaxaca, Mexico",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Identity",
+                        "value": "Ally",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112965949091622960",
+            "created_at": "2024-08-15T12:06:28.604Z",
+            "in_reply_to_id": "112965943522933110",
+            "in_reply_to_account_id": "109287656158524880",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/MugsysRapSheet/statuses/112965949091622960",
+            "url": "https://mastodon.social/@MugsysRapSheet/112965949091622960",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> <br />Even a gov&#39;t owned company can sell stock to raise funds. It doesn&#39;t make it a &quot;publicly&quot; owned company.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110876541501642005",
+                "username": "MugsysRapSheet",
+                "acct": "MugsysRapSheet",
+                "display_name": "MugsysRapSheet \ud83d\udd29\ud83d\udc11\ud83d\udc18",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-08-12T00:00:00.000Z",
+                "note": "<p>Formerly <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> on Twitter. Historian. Setting the record straight when Conservatives try to rewrite history... with a touch of humor &amp; plenty of (unavoidable) sarcasm. \ud83d\ude1c</p>",
+                "url": "https://mastodon.social/@MugsysRapSheet",
+                "uri": "https://mastodon.social/users/MugsysRapSheet",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/original/b87a9a69ad6939ae.gif",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/static/b87a9a69ad6939ae.png",
+                "header": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "followers_count": 713,
+                "following_count": 632,
+                "statuses_count": 5197,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Proud Liberal",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Democrat",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Historian",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Progressive",
+                        "value": "",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112965956455366638",
+            "created_at": "2024-08-15T12:08:18.000Z",
+            "in_reply_to_id": "112965949091622960",
+            "in_reply_to_account_id": "110876541501642005",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mas.to/users/farbel/statuses/112965956281340649",
+            "url": "https://mas.to/@farbel/112965956281340649",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>derthomas</span></a></span> BYD (BYD Company Limited) is a publicly-traded company with no Chinese government ownership. As of 2024, U.S. investors own over 60% of the company's public stock, including 9.9% owned by Warren Buffett's Berkshire Hathaway. BYD's stock is listed on the Hong Kong and Shenzhen Stock Exchanges.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109287656158524880",
+                "username": "farbel",
+                "acct": "farbel@mas.to",
+                "display_name": "David Scott Moyer",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-04T00:00:00.000Z",
+                "note": "<p>Lapsed painter, occasional photographer, compulsive writer.</p>",
+                "url": "https://mas.to/@farbel",
+                "uri": "https://mas.to/users/farbel",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/287/656/158/524/880/original/d6640130e5171a31.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/287/656/158/524/880/original/d6640130e5171a31.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/287/656/158/524/880/original/b4f2f10975d8cef6.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/287/656/158/524/880/original/b4f2f10975d8cef6.jpg",
+                "followers_count": 516,
+                "following_count": 486,
+                "statuses_count": 5527,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Blog",
+                        "value": "davidscottmoyer.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Oaxaca, Mexico",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Identity",
+                        "value": "Ally",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112965966026016529",
+            "created_at": "2024-08-15T12:10:47.014Z",
+            "in_reply_to_id": "112965956455366638",
+            "in_reply_to_account_id": "109287656158524880",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/MugsysRapSheet/statuses/112965966026016529",
+            "url": "https://mastodon.social/@MugsysRapSheet/112965966026016529",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> <br />If it&#39;s in <a href=\"https://mastodon.social/tags/China\" class=\"mention hashtag\" rel=\"tag\">#<span>China</span></a>, the gov&#39;t owns it. Period. They&#39;re a Communist gov&#39;t. That&#39;s how things work.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110876541501642005",
+                "username": "MugsysRapSheet",
+                "acct": "MugsysRapSheet",
+                "display_name": "MugsysRapSheet \ud83d\udd29\ud83d\udc11\ud83d\udc18",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-08-12T00:00:00.000Z",
+                "note": "<p>Formerly <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> on Twitter. Historian. Setting the record straight when Conservatives try to rewrite history... with a touch of humor &amp; plenty of (unavoidable) sarcasm. \ud83d\ude1c</p>",
+                "url": "https://mastodon.social/@MugsysRapSheet",
+                "uri": "https://mastodon.social/users/MugsysRapSheet",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/original/b87a9a69ad6939ae.gif",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/static/b87a9a69ad6939ae.png",
+                "header": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "followers_count": 713,
+                "following_count": 632,
+                "statuses_count": 5197,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Proud Liberal",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Democrat",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Historian",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Progressive",
+                        "value": "",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "china",
+                    "url": "https://mastodon.social/tags/china"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112966427448835080",
+            "created_at": "2024-08-15T14:08:07.593Z",
+            "in_reply_to_id": "112965966026016529",
+            "in_reply_to_account_id": "110876541501642005",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112966427448835080",
+            "url": "https://mastodon.social/@ikanreed/112966427448835080",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> yeah, that&#39;s what it comes down to, you assume China=communism=bad and basically have no evidencial grounds for the more specific positions you hold about them.</p><p>What leads to this kind of competitive advantage aren&#39;t any form of &quot;cheating&quot; but a side effect from development policy emphasizing productive industry over profitable industry.  Which admittedly IS a Marxist idea.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112967504386652740",
+            "created_at": "2024-08-15T18:42:00.392Z",
+            "in_reply_to_id": "112966427448835080",
+            "in_reply_to_account_id": "13966",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/MugsysRapSheet/statuses/112967504386652740",
+            "url": "https://mastodon.social/@MugsysRapSheet/112967504386652740",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> <br />I have asserted no conclusion as the whether &quot;Communism=bad&quot; or arguing against BYD b/c they&#39;re Chinese.</p><p>I only assert the FACT that EVERY Chinese business... even &quot;publicly traded&quot; ones... are still owned by the Chinese gov&#39;t and can therefore absorb selling products at a loss in order to manipulate the market.</p><p>They&#39;ve been doing this LONG before BYD started making EV&#39;s. The fact so few products are &quot;American Made&quot; today are due to this.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110876541501642005",
+                "username": "MugsysRapSheet",
+                "acct": "MugsysRapSheet",
+                "display_name": "MugsysRapSheet \ud83d\udd29\ud83d\udc11\ud83d\udc18",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-08-12T00:00:00.000Z",
+                "note": "<p>Formerly <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> on Twitter. Historian. Setting the record straight when Conservatives try to rewrite history... with a touch of humor &amp; plenty of (unavoidable) sarcasm. \ud83d\ude1c</p>",
+                "url": "https://mastodon.social/@MugsysRapSheet",
+                "uri": "https://mastodon.social/users/MugsysRapSheet",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/original/b87a9a69ad6939ae.gif",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/static/b87a9a69ad6939ae.png",
+                "header": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "followers_count": 713,
+                "following_count": 632,
+                "statuses_count": 5197,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Proud Liberal",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Democrat",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Historian",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Progressive",
+                        "value": "",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112968039098504439",
+            "created_at": "2024-08-15T20:57:59.438Z",
+            "in_reply_to_id": "112967504386652740",
+            "in_reply_to_account_id": "110876541501642005",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112968039098504439",
+            "url": "https://mastodon.social/@ikanreed/112968039098504439",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> I&#39;m trying not to be too confrontational here, but do you realize the absence of a mechanism of action in your proposed theory?</p><p>Do you see the (let&#39;s be honest, kinda weirdly racist) short circuit in your thinking? </p><p>How does the Chinese government achieve this result?  The reality I see is that they subsidized a little bit of industrial development but didn&#39;t spend nearly as much as we did making Elon musk the richest man on the planet.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ],
+    "descendants": [
+        {
+            "id": "112968916186680899",
+            "created_at": "2024-08-16T00:41:02.717Z",
+            "in_reply_to_id": "112968745255320155",
+            "in_reply_to_account_id": "110876541501642005",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112968916186680899",
+            "url": "https://mastodon.social/@ikanreed/112968916186680899",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> nah it&#39;s a long standing racist trope to suggest  normal things done by Asian people are somehow sneaky trickery when they&#39;re done well.  I sense it because you constantly seem to assume that given essentially zero evidence.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112971361397972876",
+            "created_at": "2024-08-16T11:02:54.136Z",
+            "in_reply_to_id": "112968916186680899",
+            "in_reply_to_account_id": "13966",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/MugsysRapSheet/statuses/112971361397972876",
+            "url": "https://mastodon.social/@MugsysRapSheet/112971361397972876",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> <br />You think there is &quot;zero evidence&quot; <a href=\"https://mastodon.social/tags/China\" class=\"mention hashtag\" rel=\"tag\">#<span>China</span></a> has a LONG history of &quot;dumping&quot; to drive its competition out of the market?</p><p>I suggest you check some of your clothing labels.</p><p>And you think there is &quot;zero evidence&quot; China continues to burn massive amounts of coal WHILE investing heavily in <a href=\"https://mastodon.social/tags/GreenTech\" class=\"mention hashtag\" rel=\"tag\">#<span>GreenTech</span></a>?</p><p>If SCOTLAND were engaging the same practices, I&#39;d be saying the same thing about *them*. This isn&#39;t &quot;racial&quot;.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110876541501642005",
+                "username": "MugsysRapSheet",
+                "acct": "MugsysRapSheet",
+                "display_name": "MugsysRapSheet \ud83d\udd29\ud83d\udc11\ud83d\udc18",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-08-12T00:00:00.000Z",
+                "note": "<p>Formerly <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> on Twitter. Historian. Setting the record straight when Conservatives try to rewrite history... with a touch of humor &amp; plenty of (unavoidable) sarcasm. \ud83d\ude1c</p>",
+                "url": "https://mastodon.social/@MugsysRapSheet",
+                "uri": "https://mastodon.social/users/MugsysRapSheet",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/original/b87a9a69ad6939ae.gif",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/876/541/501/642/005/static/b87a9a69ad6939ae.png",
+                "header": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/876/541/501/642/005/original/b3a20835bcc1a125.png",
+                "followers_count": 713,
+                "following_count": 632,
+                "statuses_count": 5197,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Proud Liberal",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Democrat",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Historian",
+                        "value": "",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Progressive",
+                        "value": "",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112971360400725076",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/media_attachments/files/112/971/360/400/725/076/original/5b440f0d52785a49.jpg",
+                    "preview_url": "https://files.mastodon.social/media_attachments/files/112/971/360/400/725/076/small/5b440f0d52785a49.jpg",
+                    "remote_url": null,
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 480,
+                            "height": 308,
+                            "size": "480x308",
+                            "aspect": 1.5584415584415585
+                        },
+                        "small": {
+                            "width": 480,
+                            "height": 308,
+                            "size": "480x308",
+                            "aspect": 1.5584415584415585
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "UPIXT-_2%2s-~V-;xtodtRogW=kCxaWWbbt7"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "china",
+                    "url": "https://mastodon.social/tags/china"
+                },
+                {
+                    "name": "greentech",
+                    "url": "https://mastodon.social/tags/greentech"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112969096327542839",
+            "created_at": "2024-08-16T01:26:43.000Z",
+            "in_reply_to_id": "112968745255320155",
+            "in_reply_to_account_id": "110876541501642005",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/Global_Repercussions/statuses/112969095775907372",
+            "url": "https://climatejustice.social/@Global_Repercussions/112969095775907372",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>derthomas</span></a></span> </p><p>So, they are behaving like politicians and business people from any other race or ethnic group?</p><p>Or, are you suggesting that <a href=\"https://climatejustice.social/tags/ethical\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethical</span></a> and <a href=\"https://climatejustice.social/tags/moral\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>moral</span></a> attitudes and behaviour are somehow <a href=\"https://climatejustice.social/tags/racially\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>racially</span></a> or <a href=\"https://climatejustice.social/tags/ethnically\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethnically</span></a> defined and pre-determined?</p><p>There appears to be some disturbingly race [ethnic group] based laws in <a href=\"https://climatejustice.social/tags/China\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>China</span></a> heavily preferencing Han Chinese and dispossessing and oppressing other <a href=\"https://climatejustice.social/tags/ethnic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethnic</span></a> groups. Almost like they have been <a href=\"https://climatejustice.social/tags/colonising\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>colonising</span></a> surrounding areas.</p><p>There are no doubt racisit <a href=\"https://climatejustice.social/tags/Chinese\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Chinese</span></a> [like there are racists in most ethnic groups], although you probably need to have control of the power of the state for that racism to be codified in law. Which is basically the definition of <a href=\"https://climatejustice.social/tags/racism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>racism</span></a> the institutionalised preferencing of one ethnic group at the detriment of other groups.</p><p>Doesn\u2019t mean all people from a certain ethnic group are <a href=\"https://climatejustice.social/tags/racist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>racist</span></a>. You can\u2019t choose your <a href=\"https://climatejustice.social/tags/family\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>family</span></a>, nor State enforced Educational mind-moulding.</p><p>How do you say \u201cEthno-Nationalism is a stupid idea in any language\u201d, in your language?</p>",
+            "reblog": null,
+            "account": {
+                "id": "112777670627763915",
+                "username": "Global_Repercussions",
+                "acct": "Global_Repercussions@climatejustice.social",
+                "display_name": "Global Repercussions",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-07-12T00:00:00.000Z",
+                "note": "<p>I don't want to change the world.<br>Just the atmosphere and the oceans.</p>",
+                "url": "https://climatejustice.social/@Global_Repercussions",
+                "uri": "https://climatejustice.social/users/Global_Repercussions",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "followers_count": 50,
+                "following_count": 22,
+                "statuses_count": 631,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "moral",
+                    "url": "https://mastodon.social/tags/moral"
+                },
+                {
+                    "name": "racially",
+                    "url": "https://mastodon.social/tags/racially"
+                },
+                {
+                    "name": "ethnically",
+                    "url": "https://mastodon.social/tags/ethnically"
+                },
+                {
+                    "name": "china",
+                    "url": "https://mastodon.social/tags/china"
+                },
+                {
+                    "name": "ethnic",
+                    "url": "https://mastodon.social/tags/ethnic"
+                },
+                {
+                    "name": "colonising",
+                    "url": "https://mastodon.social/tags/colonising"
+                },
+                {
+                    "name": "chinese",
+                    "url": "https://mastodon.social/tags/chinese"
+                },
+                {
+                    "name": "racism",
+                    "url": "https://mastodon.social/tags/racism"
+                },
+                {
+                    "name": "racist",
+                    "url": "https://mastodon.social/tags/racist"
+                },
+                {
+                    "name": "family",
+                    "url": "https://mastodon.social/tags/family"
+                },
+                {
+                    "name": "ethical",
+                    "url": "https://mastodon.social/tags/ethical"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112969139000532300",
+            "created_at": "2024-08-16T01:37:40.000Z",
+            "in_reply_to_id": "112969096327542839",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.sdf.org/users/Beachbum/statuses/112969138862972362",
+            "url": "https://mastodon.sdf.org/@Beachbum/112969138862972362",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ikanreed</span></a></span> <span class=\"h-card\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>farbel</span></a></span> <span class=\"h-card\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smiteri</span></a></span> <span class=\"h-card\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>derthomas</span></a></span> The Uyghurs</p>",
+            "reblog": null,
+            "account": {
+                "id": "109524642214014689",
+                "username": "Beachbum",
+                "acct": "Beachbum@mastodon.sdf.org",
+                "display_name": "Beachbum",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-16T00:00:00.000Z",
+                "note": "<p>I\u2019m in the USA. Land of the free home of the brave. \u2028A disruptive GOP is trying to create chaos in our democracy. They will fail. mastodon.social\u2028<a href=\"https://mastodon.sdf.org/tags/SlavaUkraini\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SlavaUkraini</span></a>\u2028<a href=\"https://mastodon.sdf.org/tags/ILovePresidentBiden\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ILovePresidentBiden</span></a>\u2028<a href=\"https://mastodon.sdf.org/tags/WeThePeople\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WeThePeople</span></a>\u2028<a href=\"https://mastodon.sdf.org/tags/EPluribusUnum\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EPluribusUnum</span></a>\u2028<a href=\"https://mastodon.sdf.org/tags/FreedomNotFreedumb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FreedomNotFreedumb</span></a> <a href=\"https://mastodon.sdf.org/tags/TwitterMigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TwitterMigration</span></a>\u2028She, her, they \u2028Dana8@GreenCompassGlobal.com</p>",
+                "url": "https://mastodon.sdf.org/@Beachbum",
+                "uri": "https://mastodon.sdf.org/users/Beachbum",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/524/642/214/014/689/original/2086288618bfa787.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/524/642/214/014/689/original/2086288618bfa787.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/524/642/214/014/689/original/37d4072fb81f1df7.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/524/642/214/014/689/original/37d4072fb81f1df7.png",
+                "followers_count": 460,
+                "following_count": 592,
+                "statuses_count": 30823,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112969332126030728",
+            "created_at": "2024-08-16T02:26:49.455Z",
+            "in_reply_to_id": "112969096327542839",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112969332126030728",
+            "url": "https://mastodon.social/@ikanreed/112969332126030728",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> </p><p>Jesus Christ.  &quot;There appears to be some disturbingly race [ethnic group] based laws in China&quot;</p><p>Here we go again with vague horseshit, you mentally rewrite through racist assumptions about the country that don&#39;t hold up to any scrutiny whatsoever.  None.</p><p>China has a few very specific laws pertaining to ethnicity </p><p>Character limit means I&#39;ll have to make this a thread.  1/</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112969343019520985",
+            "created_at": "2024-08-16T02:29:35.674Z",
+            "in_reply_to_id": "112969332126030728",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112969343019520985",
+            "url": "https://mastodon.social/@ikanreed/112969343019520985",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> </p><p>The laws that directly reference ethnicity aren&#39;t that many</p><p>1.  The preservation of ethnic autonomous regions.  The reason for this have to do with the ways regions such as tibet, xinjiang, and inner mongolia became part of china(through treaties).  These laws guarantee a degree of freedom from central government authority not granted to say Hunan or Beijing, with the specific intention of preserving ethnic tradition </p><p>2/</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112969354506195664",
+            "created_at": "2024-08-16T02:32:30.954Z",
+            "in_reply_to_id": "112969343019520985",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112969354506195664",
+            "url": "https://mastodon.social/@ikanreed/112969354506195664",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> </p><p>1(cont).  In particular there are laws limiting non-tibetan tourism and settling in Xizang to prevent colonization.  This law should be understood through lens of a specific concession won by the Tibetan people during the Qing Dynasty that the PRC decided to uphold when they &quot;held on to&quot; Tibet despite the parties within Tibet who wanted independence during the 60s.  Ironically it&#39;s easier for me, a white american to go there</p><p>3/</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112969362663365552",
+            "created_at": "2024-08-16T02:34:35.413Z",
+            "in_reply_to_id": "112969354506195664",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112969362663365552",
+            "url": "https://mastodon.social/@ikanreed/112969362663365552",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> </p><p>than someone born in yunnan or any of the neighboring regions.  It can be done, I know Chinese people who go, but it&#39;s basically like visiting a foreign country in terms of visa requirements(and non-tourist areas are off limits).</p><p>So finally</p><p>2.  There are laws guaranteeing ethnic groups minimum levels of representation in the national government.  China has hundreds of native ethnic minority groups, and each one is </p><p>4/</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112969378588872617",
+            "created_at": "2024-08-16T02:38:38.421Z",
+            "in_reply_to_id": "112969362663365552",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112969378588872617",
+            "url": "https://mastodon.social/@ikanreed/112969378588872617",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> </p><p>Guaranteed seats on the CPC, enough seats that they are all over-represented compared to their population.  This is widely considered a good thing because the 97% Han majority could easily threaten political dominance without it through normal party elections.  </p><p>Politics is a bit different in China, in that there isn&#39;t really a partisan element to factionalism in the national party.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112969389189087851",
+            "created_at": "2024-08-16T02:41:20.292Z",
+            "in_reply_to_id": "112969378588872617",
+            "in_reply_to_account_id": "112777670627763915",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ikanreed/statuses/112969389189087851",
+            "url": "https://mastodon.social/@ikanreed/112969389189087851",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@Global_Repercussions\" class=\"u-url mention\">@<span>Global_Repercussions</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\">@<span>derthomas</span></a></span> </p><p>3.  Unlike the US, China still practices affirmative action in university admission and distribution of government jobs.  I don&#39;t have a lot to say about this, it&#39;s a necessary corrective to systemic racism, even if it&#39;s not enough.</p><p>Now, how you twisted these 3 classes of policy into &quot;Han favoritism&quot; is what I&#39;d personally call &quot;intellectual dishonesty&quot;</p><p>They have racism problems, but legally entrenched favoritism isn&#39;t one.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "13966",
+                "username": "ikanreed",
+                "acct": "ikanreed",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-11-23T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@ikanreed",
+                "uri": "https://mastodon.social/users/ikanreed",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 30,
+                "following_count": 76,
+                "statuses_count": 918,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112777670627763915",
+                    "username": "Global_Repercussions",
+                    "url": "https://climatejustice.social/@Global_Repercussions",
+                    "acct": "Global_Repercussions@climatejustice.social"
+                },
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112970327870644576",
+            "created_at": "2024-08-16T06:39:48.000Z",
+            "in_reply_to_id": "112969389189087851",
+            "in_reply_to_account_id": "13966",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/Global_Repercussions/statuses/112970326894404819",
+            "url": "https://climatejustice.social/@Global_Repercussions/112970326894404819",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@ikanreed\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ikanreed</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MugsysRapSheet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MugsysRapSheet</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@farbel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>farbel</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.ca/@smiteri\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smiteri</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://metalhead.club/@derthomas\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>derthomas</span></a></span> </p><p>I am happy to be corrected and would defer to others with more detailed understanding. My view is limited by Western media and reporting.</p><p>I meant to raise some general points about racism, not make specific points about China.</p><p>It would be some relief to know that Government and social treatment of <a href=\"https://climatejustice.social/tags/Uyghurs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Uyghurs</span></a>, <a href=\"https://climatejustice.social/tags/Tibetans\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tibetans</span></a> and occupants of <a href=\"https://climatejustice.social/tags/hongkong\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hongkong</span></a>  are not driven or influenced by racism.</p>",
+            "reblog": null,
+            "account": {
+                "id": "112777670627763915",
+                "username": "Global_Repercussions",
+                "acct": "Global_Repercussions@climatejustice.social",
+                "display_name": "Global Repercussions",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-07-12T00:00:00.000Z",
+                "note": "<p>I don't want to change the world.<br>Just the atmosphere and the oceans.</p>",
+                "url": "https://climatejustice.social/@Global_Repercussions",
+                "uri": "https://climatejustice.social/users/Global_Repercussions",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/777/670/627/763/915/original/c8a158d97173e87a.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/777/670/627/763/915/original/cf4c6fb6ad68369e.png",
+                "followers_count": 50,
+                "following_count": 22,
+                "statuses_count": 631,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "13966",
+                    "username": "ikanreed",
+                    "url": "https://mastodon.social/@ikanreed",
+                    "acct": "ikanreed"
+                },
+                {
+                    "id": "110876541501642005",
+                    "username": "MugsysRapSheet",
+                    "url": "https://mastodon.social/@MugsysRapSheet",
+                    "acct": "MugsysRapSheet"
+                },
+                {
+                    "id": "109287656158524880",
+                    "username": "farbel",
+                    "url": "https://mas.to/@farbel",
+                    "acct": "farbel@mas.to"
+                },
+                {
+                    "id": "109378424746577587",
+                    "username": "smiteri",
+                    "url": "https://mstdn.ca/@smiteri",
+                    "acct": "smiteri@mstdn.ca"
+                },
+                {
+                    "id": "109313377094305464",
+                    "username": "derthomas",
+                    "url": "https://metalhead.club/@derthomas",
+                    "acct": "derthomas@metalhead.club"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "uyghurs",
+                    "url": "https://mastodon.social/tags/uyghurs"
+                },
+                {
+                    "name": "tibetans",
+                    "url": "https://mastodon.social/tags/tibetans"
+                },
+                {
+                    "name": "hongkong",
+                    "url": "https://mastodon.social/tags/hongkong"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

@@ -1,0 +1,1609 @@
+{
+    "ancestors": [
+        {
+            "id": "112872495413868925",
+            "created_at": "2024-07-29T23:59:56.000Z",
+            "in_reply_to_id": null,
+            "in_reply_to_account_id": null,
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://cloudisland.nz/users/isaacfreeman/statuses/112872495283980745",
+            "url": "https://cloudisland.nz/@isaacfreeman/112872495283980745",
+            "replies_count": 2,
+            "reblogs_count": 36,
+            "favourites_count": 6,
+            "edited_at": null,
+            "content": "<p>Air New Zealand lied about climate plans, then waited for a favourable political environment before owning up.</p><p><a href=\"https://www.rnz.co.nz/news/national/523578/air-new-zealand-pulls-the-plug-on-2030-climate-targets\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">rnz.co.nz/news/national/523578</span><span class=\"invisible\">/air-new-zealand-pulls-the-plug-on-2030-climate-targets</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "108214230548603183",
+                "username": "isaacfreeman",
+                "acct": "isaacfreeman@cloudisland.nz",
+                "display_name": "Isaac Freeman",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-04-29T00:00:00.000Z",
+                "note": "<p>Experienced <a href=\"https://cloudisland.nz/tags/Ruby\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ruby</span></a>/#Rails developer, currently looking for work. You could hire me!</p><p><a href=\"https://cloudisland.nz/tags/%C5%8Ctautahi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>\u014ctautahi</span></a>, <a href=\"https://cloudisland.nz/tags/Aotearoa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Aotearoa</span></a> / <a href=\"https://cloudisland.nz/tags/Christchurch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Christchurch</span></a>, <a href=\"https://cloudisland.nz/tags/NewZealand\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NewZealand</span></a>. </p><p>He/him.  <a href=\"https://cloudisland.nz/tags/NZGreens\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NZGreens</span></a>. Funtime Comics. <a href=\"https://cloudisland.nz/tags/Cyclist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Cyclist</span></a>. Middle-aged cis-het abled P\u0101keh\u0101 man.</p><p>One of my things at the moment is exploring the <a href=\"https://cloudisland.nz/tags/Obsidian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Obsidian</span></a> app, and working on my Kakano theme.</p>",
+                "url": "https://cloudisland.nz/@isaacfreeman",
+                "uri": "https://cloudisland.nz/users/isaacfreeman",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/214/230/548/603/183/original/5b9f5385133d9198.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/214/230/548/603/183/original/5b9f5385133d9198.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/214/230/548/603/183/original/841235aa375fd37b.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/214/230/548/603/183/original/841235aa375fd37b.jpeg",
+                "followers_count": 678,
+                "following_count": 679,
+                "statuses_count": 4742,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Country",
+                        "value": "Aotearoa/New Zealand",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://isaac.freeman.org.nz\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">isaac.freeman.org.nz</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T02:40:50.843+00:00"
+                    },
+                    {
+                        "name": "Politics",
+                        "value": "Green",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.rnz.co.nz/news/national/523578/air-new-zealand-pulls-the-plug-on-2030-climate-targets",
+                "title": "Air New Zealand pulls the plug on 2030 climate targets",
+                "description": "The airline says the new aircraft and alternative jet fuels are hard to get and are expensive, and it will work on a new target.",
+                "language": "en",
+                "type": "link",
+                "author_name": "RNZ News",
+                "author_url": "",
+                "provider_name": "RNZ",
+                "provider_url": "",
+                "html": "",
+                "width": 662,
+                "height": 348,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/106/140/111/original/a47c565a4eb84deb.png",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UZLNS$~W4nr=?ubvNbX8x^Rjr=%2xuWBRjbH",
+                "published_at": "2024-07-29T23:22:56.000Z",
+                "authors": [
+                    {
+                        "name": "RNZ News",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        }
+    ],
+    "descendants": [
+        {
+            "id": "112873098660794021",
+            "created_at": "2024-07-30T02:33:21.000Z",
+            "in_reply_to_id": "112873079180850640",
+            "in_reply_to_account_id": "109250380022672647",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.nzoss.nz/users/vik/statuses/112873098513069043",
+            "url": "https://mastodon.nzoss.nz/@vik/112873098513069043",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": "2024-07-30T02:33:45.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> It was getting too obvious that there just isn't enough suitable biomass to make meaningful amounts of jet fuel, and building the manufacturing infrastructure needed in itself by 2030 is a pure pipe dream. The answer is airships. Despite their limitations they're more practical than telling the world to just stop flying. <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "714377",
+                "username": "vik",
+                "acct": "vik@mastodon.nzoss.nz",
+                "display_name": "Incident Creator \u274e",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-02-19T00:00:00.000Z",
+                "note": "<p>Aged RepRap core developer, ex- firefighter, emergency medic, longhair coder, Incident Creator at the Masterton Fab Lab, and a Twitter refugee.</p><p>\"Si potest non bonum esse, cave.\"</p>",
+                "url": "https://mastodon.nzoss.nz/@vik",
+                "uri": "https://mastodon.nzoss.nz/users/vik",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/714/377/original/1657894298e032f7.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/714/377/original/1657894298e032f7.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 277,
+                "following_count": 65,
+                "statuses_count": 6639,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873388067040867",
+            "created_at": "2024-07-30T03:46:46.000Z",
+            "in_reply_to_id": "112873098660794021",
+            "in_reply_to_account_id": "714377",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.nzoss.nz/users/lightweight/statuses/112873387249146995",
+            "url": "https://mastodon.nzoss.nz/@lightweight/112873387249146995",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-07-30T03:49:41.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@vik\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vik</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> my big question (as someone who grew up within walking distance of Edison, NJ, where the Hindenburg departed so spectacularly) is how do airships deal with the wild weather our increasingly chaotic climate will bring?</p>",
+            "reblog": null,
+            "account": {
+                "id": "89934",
+                "username": "lightweight",
+                "acct": "lightweight@mastodon.nzoss.nz",
+                "display_name": "Dave Lane \ud83c\uddf3\ud83c\uddff",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2017-04-12T00:00:00.000Z",
+                "note": "<p>FOSS, OER, &amp; CC. Nerd on many levels   Democratising HigherEd by day, increasing digital, intellectual, &amp; physical autonomy, equity, &amp; agency always. </p><p>I build, read (mostly scifi), bake, percuss, sing, strum, ponder, advocate, &amp; use OxfordCommas.  </p><p>SelfHost w/ DockerCompose &amp; Linux DoughnutEconomics Degrowth Equity <br>AntiColonial Herpotology Biodiversity Cycling SwingDancing Ultimate DiscGolf. </p><p>In \u014ctautahi Christchurch, Aotearoa NZ <br><a href=\"https://mastodon.nzoss.nz/tags/searchable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>searchable</span></a></p>",
+                "url": "https://mastodon.nzoss.nz/@lightweight",
+                "uri": "https://mastodon.nzoss.nz/users/lightweight",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/089/934/original/39e1a53b1d35ebf9.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/089/934/original/39e1a53b1d35ebf9.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/089/934/original/ed9b9ad4c4707fa6.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/089/934/original/ed9b9ad4c4707fa6.jpg",
+                "followers_count": 3608,
+                "following_count": 1072,
+                "statuses_count": 26144,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://davelane.nz\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">davelane.nz</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T04:37:23.906+00:00"
+                    },
+                    {
+                        "name": "Tech blog",
+                        "value": "<a href=\"https://tech.oeru.org\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tech.oeru.org</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Origin story",
+                        "value": "<a href=\"https://davelane.nz/my-open-history\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">davelane.nz/my-open-history</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T04:37:25.638+00:00"
+                    },
+                    {
+                        "name": "Code",
+                        "value": "<a href=\"https://git.oeru.org/explore/projects\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">git.oeru.org/explore/projects</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "714377",
+                    "username": "vik",
+                    "url": "https://mastodon.nzoss.nz/@vik",
+                    "acct": "vik@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873418188626614",
+            "created_at": "2024-07-30T03:54:20.000Z",
+            "in_reply_to_id": "112873388067040867",
+            "in_reply_to_account_id": "89934",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.nzoss.nz/users/vik/statuses/112873416976795194",
+            "url": "https://mastodon.nzoss.nz/@vik/112873416976795194",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@lightweight\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>lightweight</span></a></span> They're not as tolerant of it as jets. But there are some things in their favour that help a bit: They don't need much in the way of sophisticated new infrastructure. They don't fly so high, avoiding the really high speed stuff, and the zone they do fly in is relatively well monitored and forecast. So ideal? No. But we're running out of options here, and *not* having rapid intercontinental transport has an impact on the carbon budget all of its own. <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "714377",
+                "username": "vik",
+                "acct": "vik@mastodon.nzoss.nz",
+                "display_name": "Incident Creator \u274e",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-02-19T00:00:00.000Z",
+                "note": "<p>Aged RepRap core developer, ex- firefighter, emergency medic, longhair coder, Incident Creator at the Masterton Fab Lab, and a Twitter refugee.</p><p>\"Si potest non bonum esse, cave.\"</p>",
+                "url": "https://mastodon.nzoss.nz/@vik",
+                "uri": "https://mastodon.nzoss.nz/users/vik",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/714/377/original/1657894298e032f7.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/714/377/original/1657894298e032f7.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 277,
+                "following_count": 65,
+                "statuses_count": 6639,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "89934",
+                    "username": "lightweight",
+                    "url": "https://mastodon.nzoss.nz/@lightweight",
+                    "acct": "lightweight@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873791007821419",
+            "created_at": "2024-07-30T05:29:26.000Z",
+            "in_reply_to_id": "112873763479144871",
+            "in_reply_to_account_id": "89934",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.nz/users/joncounts/statuses/112873790902372894",
+            "url": "https://mastodon.nz/@joncounts/112873790902372894",
+            "replies_count": 3,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-07-30T05:45:13.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@lightweight\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>lightweight</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@phlogiston\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>phlogiston</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@vik\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vik</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> Long Earth was wildly creative. I just finished the first book. I must carry on into the series.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109250380022672647",
+                "username": "joncounts",
+                "acct": "joncounts@mastodon.nz",
+                "display_name": "Jon Sullivan",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>Kia ora! I'm a <a href=\"https://mastodon.nz/tags/nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nature</span></a> nut, addict of <a href=\"https://mastodon.nz/tags/iNaturalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalist</span></a> NZ \u2014 M\u0101taki Taiao, and an <a href=\"https://mastodon.nz/tags/ecologist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecologist</span></a> at <a href=\"https://mastodon.nz/tags/LincolnUniversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LincolnUniversity</span></a> in <a href=\"https://mastodon.nz/tags/Aotearoa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Aotearoa</span></a>-<a href=\"https://mastodon.nz/tags/NewZealand\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NewZealand</span></a>.</p><p>I spend an inordinate amount of my time counting nature to watch what's changing (see <a href=\"https://wildcounts.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wildcounts.org/</span><span class=\"invisible\"></span></a>).</p><p><a href=\"https://mastodon.nz/tags/TwitterMigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TwitterMigration</span></a> <a href=\"https://mastodon.nz/tags/NZTwits\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NZTwits</span></a> <a href=\"https://mastodon.nz/tags/ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecology</span></a> <a href=\"https://mastodon.nz/tags/EcologicalMonitoring\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EcologicalMonitoring</span></a> <a href=\"https://mastodon.nz/tags/NaturalHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NaturalHistory</span></a> <a href=\"https://mastodon.nz/tags/iNaturalistNZ\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalistNZ</span></a> <a href=\"https://mastodon.nz/tags/iNaturalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalist</span></a> <a href=\"https://mastodon.nz/tags/wildcounts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wildcounts</span></a> <a href=\"https://mastodon.nz/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://mastodon.nz/tags/Biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biodiversity</span></a></p><p>Born when there was 326 ppm carbon dioxide in the atmosphere.</p>",
+                "url": "https://mastodon.nz/@joncounts",
+                "uri": "https://mastodon.nz/users/joncounts",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/250/380/022/672/647/original/cf117c8b6c4c19ce.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/250/380/022/672/647/original/cf117c8b6c4c19ce.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/250/380/022/672/647/original/f693865110f568ff.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/250/380/022/672/647/original/f693865110f568ff.png",
+                "followers_count": 1323,
+                "following_count": 1637,
+                "statuses_count": 7400,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "WildCounts",
+                        "value": "<a href=\"https://wildcounts.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wildcounts.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "iNaturalist",
+                        "value": "<a href=\"https://inaturalist.nz/people/jon_sullivan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">inaturalist.nz/people/jon_sull</span><span class=\"invisible\">ivan</span></a>",
+                        "verified_at": "2024-08-24T18:41:22.648+00:00"
+                    },
+                    {
+                        "name": "Flickr",
+                        "value": "<a href=\"https://www.flickr.com/people/mollivan_jon/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">flickr.com/people/mollivan_jon</span><span class=\"invisible\">/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "89934",
+                    "username": "lightweight",
+                    "url": "https://mastodon.nzoss.nz/@lightweight",
+                    "acct": "lightweight@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "109362005098126276",
+                    "username": "phlogiston",
+                    "url": "https://mastodon.nz/@phlogiston",
+                    "acct": "phlogiston@mastodon.nz"
+                },
+                {
+                    "id": "714377",
+                    "username": "vik",
+                    "url": "https://mastodon.nzoss.nz/@vik",
+                    "acct": "vik@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873826823099700",
+            "created_at": "2024-07-30T05:38:30.000Z",
+            "in_reply_to_id": "112873791007821419",
+            "in_reply_to_account_id": "109250380022672647",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.nzoss.nz/users/lightweight/statuses/112873826602614168",
+            "url": "https://mastodon.nzoss.nz/@lightweight/112873826602614168",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@phlogiston\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>phlogiston</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@vik\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vik</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> it was (\ud83d\ude29 ) superb. All of it.</p>",
+            "reblog": null,
+            "account": {
+                "id": "89934",
+                "username": "lightweight",
+                "acct": "lightweight@mastodon.nzoss.nz",
+                "display_name": "Dave Lane \ud83c\uddf3\ud83c\uddff",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2017-04-12T00:00:00.000Z",
+                "note": "<p>FOSS, OER, &amp; CC. Nerd on many levels   Democratising HigherEd by day, increasing digital, intellectual, &amp; physical autonomy, equity, &amp; agency always. </p><p>I build, read (mostly scifi), bake, percuss, sing, strum, ponder, advocate, &amp; use OxfordCommas.  </p><p>SelfHost w/ DockerCompose &amp; Linux DoughnutEconomics Degrowth Equity <br>AntiColonial Herpotology Biodiversity Cycling SwingDancing Ultimate DiscGolf. </p><p>In \u014ctautahi Christchurch, Aotearoa NZ <br><a href=\"https://mastodon.nzoss.nz/tags/searchable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>searchable</span></a></p>",
+                "url": "https://mastodon.nzoss.nz/@lightweight",
+                "uri": "https://mastodon.nzoss.nz/users/lightweight",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/089/934/original/39e1a53b1d35ebf9.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/089/934/original/39e1a53b1d35ebf9.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/089/934/original/ed9b9ad4c4707fa6.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/089/934/original/ed9b9ad4c4707fa6.jpg",
+                "followers_count": 3608,
+                "following_count": 1072,
+                "statuses_count": 26144,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Blog",
+                        "value": "<a href=\"https://davelane.nz\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">davelane.nz</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T04:37:23.906+00:00"
+                    },
+                    {
+                        "name": "Tech blog",
+                        "value": "<a href=\"https://tech.oeru.org\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tech.oeru.org</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Origin story",
+                        "value": "<a href=\"https://davelane.nz/my-open-history\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">davelane.nz/my-open-history</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T04:37:25.638+00:00"
+                    },
+                    {
+                        "name": "Code",
+                        "value": "<a href=\"https://git.oeru.org/explore/projects\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">git.oeru.org/explore/projects</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "109362005098126276",
+                    "username": "phlogiston",
+                    "url": "https://mastodon.nz/@phlogiston",
+                    "acct": "phlogiston@mastodon.nz"
+                },
+                {
+                    "id": "714377",
+                    "username": "vik",
+                    "url": "https://mastodon.nzoss.nz/@vik",
+                    "acct": "vik@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873832083700538",
+            "created_at": "2024-07-30T05:39:52.000Z",
+            "in_reply_to_id": "112873791007821419",
+            "in_reply_to_account_id": "109250380022672647",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.nzoss.nz/users/vik/statuses/112873831945836438",
+            "url": "https://mastodon.nzoss.nz/@vik/112873831945836438",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span><br>I'm on Long Mars, but sadly the upcoming Mexoco trip requires the packing of too much crap that has to be transported in the cabin, so no mass allocation for dead tree editions. As in 9.2kg of my 7kg allocation \ud83d\ude2c<br><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@lightweight\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>lightweight</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@phlogiston\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>phlogiston</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "714377",
+                "username": "vik",
+                "acct": "vik@mastodon.nzoss.nz",
+                "display_name": "Incident Creator \u274e",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-02-19T00:00:00.000Z",
+                "note": "<p>Aged RepRap core developer, ex- firefighter, emergency medic, longhair coder, Incident Creator at the Masterton Fab Lab, and a Twitter refugee.</p><p>\"Si potest non bonum esse, cave.\"</p>",
+                "url": "https://mastodon.nzoss.nz/@vik",
+                "uri": "https://mastodon.nzoss.nz/users/vik",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/714/377/original/1657894298e032f7.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/714/377/original/1657894298e032f7.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 277,
+                "following_count": 65,
+                "statuses_count": 6639,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "89934",
+                    "username": "lightweight",
+                    "url": "https://mastodon.nzoss.nz/@lightweight",
+                    "acct": "lightweight@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "109362005098126276",
+                    "username": "phlogiston",
+                    "url": "https://mastodon.nz/@phlogiston",
+                    "acct": "phlogiston@mastodon.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873849308503491",
+            "created_at": "2024-07-30T05:44:16.000Z",
+            "in_reply_to_id": "112873791007821419",
+            "in_reply_to_account_id": "109250380022672647",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://kind.social/users/rodbotic/statuses/112873849263615235",
+            "url": "https://kind.social/@rodbotic/112873849263615235",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@lightweight\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>lightweight</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@phlogiston\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>phlogiston</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@vik\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vik</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> great series</p>",
+            "reblog": null,
+            "account": {
+                "id": "110710119682082181",
+                "username": "rodbotic",
+                "acct": "rodbotic@kind.social",
+                "display_name": "Rodbotic",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-07-14T00:00:00.000Z",
+                "note": "<p>accelerating protons, crushing datasets. <br>into tech.  AI, Robotics, photography, VR, Gaming, programming. Nature Photography.</p><p>too many things too little time.</p><p> Vancouver, Canada</p>",
+                "url": "https://kind.social/@rodbotic",
+                "uri": "https://kind.social/users/rodbotic",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/710/119/682/082/181/original/f04e27b405c757f5.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/710/119/682/082/181/original/f04e27b405c757f5.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/710/119/682/082/181/original/d883f2f20eba3130.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/710/119/682/082/181/original/d883f2f20eba3130.jpg",
+                "followers_count": 315,
+                "following_count": 495,
+                "statuses_count": 2023,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Pronouns",
+                        "value": "He/Him",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "89934",
+                    "username": "lightweight",
+                    "url": "https://mastodon.nzoss.nz/@lightweight",
+                    "acct": "lightweight@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "109362005098126276",
+                    "username": "phlogiston",
+                    "url": "https://mastodon.nz/@phlogiston",
+                    "acct": "phlogiston@mastodon.nz"
+                },
+                {
+                    "id": "714377",
+                    "username": "vik",
+                    "url": "https://mastodon.nzoss.nz/@vik",
+                    "acct": "vik@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873708593181022",
+            "created_at": "2024-07-30T05:08:12.000Z",
+            "in_reply_to_id": "112873388067040867",
+            "in_reply_to_account_id": "89934",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.nzoss.nz/users/carl_klitscher/statuses/112873707424108470",
+            "url": "https://mastodon.nzoss.nz/@carl_klitscher/112873707424108470",
+            "replies_count": 2,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@lightweight\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>lightweight</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@vik\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vik</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> <br>They don't handle rapid temperature changes very well... There is a balancing act between temp/press/vol of the gas bags inside.</p><p>The Hindenburg just went 'bang' but the R101 suffered the unfortunate fate of the front of it not being as waterproof as the back when it ran into a rainstorm... The front bags cooled down quickly and lost lift that couldn't be corrected with what they had left so it just nosedived into the ground... And then went 'bang'</p>",
+            "reblog": null,
+            "account": {
+                "id": "1317980",
+                "username": "carl_klitscher",
+                "acct": "carl_klitscher@mastodon.nzoss.nz",
+                "display_name": "Carl",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-10-25T00:00:00.000Z",
+                "note": "<p>Generally useful. Can occasionally correctly reassemble an item that may or may not have been broken initially. Appreciates Open Source but can't code for toffee.</p>",
+                "url": "https://mastodon.nzoss.nz/@carl_klitscher",
+                "uri": "https://mastodon.nzoss.nz/users/carl_klitscher",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/001/317/980/original/643ff78e136f1f0a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/001/317/980/original/643ff78e136f1f0a.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 81,
+                "following_count": 88,
+                "statuses_count": 1852,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "89934",
+                    "username": "lightweight",
+                    "url": "https://mastodon.nzoss.nz/@lightweight",
+                    "acct": "lightweight@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "714377",
+                    "username": "vik",
+                    "url": "https://mastodon.nzoss.nz/@vik",
+                    "acct": "vik@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873757214781919",
+            "created_at": "2024-07-30T05:20:48.000Z",
+            "in_reply_to_id": "112873708593181022",
+            "in_reply_to_account_id": "89934",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.nzoss.nz/users/carl_klitscher/statuses/112873756960144208",
+            "url": "https://mastodon.nzoss.nz/@carl_klitscher/112873756960144208",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@lightweight\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>lightweight</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@vik\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vik</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> <br>Nothing insurmountable, as Vik points out, but not a world saviour either.</p><p>Just gets back to the fact that, as a species, we really just DGAF about a lot of these things.</p><p>Climate change? DGAF<br>Proprietary vs. Open Source? DGAF<br>Uber being little shits? DGAF<br>AirBnB destroying the rental market? DGAF<br>Bitcoin/AI wasting resource? DGAF<br>All the above being paid for by future debt? DGAF</p><p>We are the epitome of self centered little arseholes and we DGAF!</p>",
+            "reblog": null,
+            "account": {
+                "id": "1317980",
+                "username": "carl_klitscher",
+                "acct": "carl_klitscher@mastodon.nzoss.nz",
+                "display_name": "Carl",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-10-25T00:00:00.000Z",
+                "note": "<p>Generally useful. Can occasionally correctly reassemble an item that may or may not have been broken initially. Appreciates Open Source but can't code for toffee.</p>",
+                "url": "https://mastodon.nzoss.nz/@carl_klitscher",
+                "uri": "https://mastodon.nzoss.nz/users/carl_klitscher",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/001/317/980/original/643ff78e136f1f0a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/001/317/980/original/643ff78e136f1f0a.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 81,
+                "following_count": 88,
+                "statuses_count": 1852,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "89934",
+                    "username": "lightweight",
+                    "url": "https://mastodon.nzoss.nz/@lightweight",
+                    "acct": "lightweight@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "714377",
+                    "username": "vik",
+                    "url": "https://mastodon.nzoss.nz/@vik",
+                    "acct": "vik@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112874066610131612",
+            "created_at": "2024-07-30T06:39:30.000Z",
+            "in_reply_to_id": "112873757214781919",
+            "in_reply_to_account_id": "1317980",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://cloudisland.nz/users/isaacfreeman/statuses/112874066423157803",
+            "url": "https://cloudisland.nz/@isaacfreeman/112874066423157803",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@carl_klitscher\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>carl_klitscher</span></a></span> This is a collective action problem. We do all care a bit, but individually we can do practically nothing, so nothing gets done.</p><p>Representative government is a tool for solving this problem, which is why we need to defend it against the rich.</p>",
+            "reblog": null,
+            "account": {
+                "id": "108214230548603183",
+                "username": "isaacfreeman",
+                "acct": "isaacfreeman@cloudisland.nz",
+                "display_name": "Isaac Freeman",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-04-29T00:00:00.000Z",
+                "note": "<p>Experienced <a href=\"https://cloudisland.nz/tags/Ruby\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ruby</span></a>/#Rails developer, currently looking for work. You could hire me!</p><p><a href=\"https://cloudisland.nz/tags/%C5%8Ctautahi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>\u014ctautahi</span></a>, <a href=\"https://cloudisland.nz/tags/Aotearoa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Aotearoa</span></a> / <a href=\"https://cloudisland.nz/tags/Christchurch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Christchurch</span></a>, <a href=\"https://cloudisland.nz/tags/NewZealand\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NewZealand</span></a>. </p><p>He/him.  <a href=\"https://cloudisland.nz/tags/NZGreens\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NZGreens</span></a>. Funtime Comics. <a href=\"https://cloudisland.nz/tags/Cyclist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Cyclist</span></a>. Middle-aged cis-het abled P\u0101keh\u0101 man.</p><p>One of my things at the moment is exploring the <a href=\"https://cloudisland.nz/tags/Obsidian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Obsidian</span></a> app, and working on my Kakano theme.</p>",
+                "url": "https://cloudisland.nz/@isaacfreeman",
+                "uri": "https://cloudisland.nz/users/isaacfreeman",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/214/230/548/603/183/original/5b9f5385133d9198.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/214/230/548/603/183/original/5b9f5385133d9198.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/214/230/548/603/183/original/841235aa375fd37b.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/214/230/548/603/183/original/841235aa375fd37b.jpeg",
+                "followers_count": 678,
+                "following_count": 679,
+                "statuses_count": 4742,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Country",
+                        "value": "Aotearoa/New Zealand",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://isaac.freeman.org.nz\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">isaac.freeman.org.nz</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T02:40:50.843+00:00"
+                    },
+                    {
+                        "name": "Politics",
+                        "value": "Green",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "1317980",
+                    "username": "carl_klitscher",
+                    "url": "https://mastodon.nzoss.nz/@carl_klitscher",
+                    "acct": "carl_klitscher@mastodon.nzoss.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873810310096122",
+            "created_at": "2024-07-30T05:33:51.000Z",
+            "in_reply_to_id": "112873708593181022",
+            "in_reply_to_account_id": "1317980",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.nzoss.nz/users/vik/statuses/112873808314196552",
+            "url": "https://mastodon.nzoss.nz/@vik/112873808314196552",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@carl_klitscher\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>carl_klitscher</span></a></span><br>I have a slightly different backstory on the R101 inquiry results: The nose seems to be the culprit, splitting inn some way. This exposed the forward bags to the airstream causing them to fail. Differences in lift at the ends could be controlled by fore and aft ballast release, but this is subject to a limit :)<br><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@lightweight\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>lightweight</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "714377",
+                "username": "vik",
+                "acct": "vik@mastodon.nzoss.nz",
+                "display_name": "Incident Creator \u274e",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-02-19T00:00:00.000Z",
+                "note": "<p>Aged RepRap core developer, ex- firefighter, emergency medic, longhair coder, Incident Creator at the Masterton Fab Lab, and a Twitter refugee.</p><p>\"Si potest non bonum esse, cave.\"</p>",
+                "url": "https://mastodon.nzoss.nz/@vik",
+                "uri": "https://mastodon.nzoss.nz/users/vik",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/714/377/original/1657894298e032f7.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/714/377/original/1657894298e032f7.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 277,
+                "following_count": 65,
+                "statuses_count": 6639,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "1317980",
+                    "username": "carl_klitscher",
+                    "url": "https://mastodon.nzoss.nz/@carl_klitscher",
+                    "acct": "carl_klitscher@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "89934",
+                    "username": "lightweight",
+                    "url": "https://mastodon.nzoss.nz/@lightweight",
+                    "acct": "lightweight@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873882317191915",
+            "created_at": "2024-07-30T05:52:38.000Z",
+            "in_reply_to_id": "112873810310096122",
+            "in_reply_to_account_id": "714377",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.nzoss.nz/users/carl_klitscher/statuses/112873882155879930",
+            "url": "https://mastodon.nzoss.nz/@carl_klitscher/112873882155879930",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@vik\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vik</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nzoss.nz/@lightweight\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>lightweight</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> <br>I got my info from a 'Britains Greatest Machines' doco... <br>But yeah, essentially a problem at the front causing a significant lift differential that couldn't be corrected in time to prevent 'a loss of separation' (what the rest of us call a crash!)</p><p>Better technology, faster gas transfer capability, better ballast control, some automation etc. means I wouldn't be averse to flying in them today.</p><p>But, as you point out, at what cost?</p>",
+            "reblog": null,
+            "account": {
+                "id": "1317980",
+                "username": "carl_klitscher",
+                "acct": "carl_klitscher@mastodon.nzoss.nz",
+                "display_name": "Carl",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-10-25T00:00:00.000Z",
+                "note": "<p>Generally useful. Can occasionally correctly reassemble an item that may or may not have been broken initially. Appreciates Open Source but can't code for toffee.</p>",
+                "url": "https://mastodon.nzoss.nz/@carl_klitscher",
+                "uri": "https://mastodon.nzoss.nz/users/carl_klitscher",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/001/317/980/original/643ff78e136f1f0a.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/001/317/980/original/643ff78e136f1f0a.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 81,
+                "following_count": 88,
+                "statuses_count": 1852,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "714377",
+                    "username": "vik",
+                    "url": "https://mastodon.nzoss.nz/@vik",
+                    "acct": "vik@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "89934",
+                    "username": "lightweight",
+                    "url": "https://mastodon.nzoss.nz/@lightweight",
+                    "acct": "lightweight@mastodon.nzoss.nz"
+                },
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873131570160642",
+            "created_at": "2024-07-30T02:41:42.000Z",
+            "in_reply_to_id": "112873079180850640",
+            "in_reply_to_account_id": "108214230548603183",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.nz/users/joncounts/statuses/112873131349771082",
+            "url": "https://mastodon.nz/@joncounts/112873131349771082",
+            "replies_count": 1,
+            "reblogs_count": 3,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> I just looked up AirNZ's webpage on their 2030 climate targets on the Internet Archive Wayback Machine, from 27 June 2024.</p><p><a href=\"https://web.archive.org/web/20240627073949/https://flightnz0.airnewzealand.co.nz/2030-science-based-target?_ga=2.64439471.1662617320.1717476745-345030769.1706140467&amp;_gl=1*h2t0hv*_ga*MzQ1MDMwNzY5LjE3MDYxNDA0Njc.*_ga_7W0V730RP5*MTcxNzQ3Njc0NS4xMi4xLjE3MTc0NzcxMTguMC4wLjA\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">web.archive.org/web/2024062707</span><span class=\"invisible\">3949/https://flightnz0.airnewzealand.co.nz/2030-science-based-target?_ga=2.64439471.1662617320.1717476745-345030769.1706140467&amp;_gl=1*h2t0hv*_ga*MzQ1MDMwNzY5LjE3MDYxNDA0Njc.*_ga_7W0V730RP5*MTcxNzQ3Njc0NS4xMi4xLjE3MTc0NzcxMTguMC4wLjA</span></a></p><p>This is what they said last month about the Science Based Targets initiative they've just withdrawn from.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109250380022672647",
+                "username": "joncounts",
+                "acct": "joncounts@mastodon.nz",
+                "display_name": "Jon Sullivan",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>Kia ora! I'm a <a href=\"https://mastodon.nz/tags/nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nature</span></a> nut, addict of <a href=\"https://mastodon.nz/tags/iNaturalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalist</span></a> NZ \u2014 M\u0101taki Taiao, and an <a href=\"https://mastodon.nz/tags/ecologist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecologist</span></a> at <a href=\"https://mastodon.nz/tags/LincolnUniversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LincolnUniversity</span></a> in <a href=\"https://mastodon.nz/tags/Aotearoa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Aotearoa</span></a>-<a href=\"https://mastodon.nz/tags/NewZealand\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NewZealand</span></a>.</p><p>I spend an inordinate amount of my time counting nature to watch what's changing (see <a href=\"https://wildcounts.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wildcounts.org/</span><span class=\"invisible\"></span></a>).</p><p><a href=\"https://mastodon.nz/tags/TwitterMigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TwitterMigration</span></a> <a href=\"https://mastodon.nz/tags/NZTwits\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NZTwits</span></a> <a href=\"https://mastodon.nz/tags/ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecology</span></a> <a href=\"https://mastodon.nz/tags/EcologicalMonitoring\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EcologicalMonitoring</span></a> <a href=\"https://mastodon.nz/tags/NaturalHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NaturalHistory</span></a> <a href=\"https://mastodon.nz/tags/iNaturalistNZ\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalistNZ</span></a> <a href=\"https://mastodon.nz/tags/iNaturalist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iNaturalist</span></a> <a href=\"https://mastodon.nz/tags/wildcounts\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wildcounts</span></a> <a href=\"https://mastodon.nz/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://mastodon.nz/tags/Biodiversity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biodiversity</span></a></p><p>Born when there was 326 ppm carbon dioxide in the atmosphere.</p>",
+                "url": "https://mastodon.nz/@joncounts",
+                "uri": "https://mastodon.nz/users/joncounts",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/250/380/022/672/647/original/cf117c8b6c4c19ce.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/250/380/022/672/647/original/cf117c8b6c4c19ce.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/250/380/022/672/647/original/f693865110f568ff.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/250/380/022/672/647/original/f693865110f568ff.png",
+                "followers_count": 1323,
+                "following_count": 1637,
+                "statuses_count": 7400,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "WildCounts",
+                        "value": "<a href=\"https://wildcounts.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">wildcounts.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "iNaturalist",
+                        "value": "<a href=\"https://inaturalist.nz/people/jon_sullivan\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">inaturalist.nz/people/jon_sull</span><span class=\"invisible\">ivan</span></a>",
+                        "verified_at": "2024-08-24T18:41:22.648+00:00"
+                    },
+                    {
+                        "name": "Flickr",
+                        "value": "<a href=\"https://www.flickr.com/people/mollivan_jon/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">flickr.com/people/mollivan_jon</span><span class=\"invisible\">/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112873131417998153",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/873/131/417/998/153/original/29062a6d17911b35.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/873/131/417/998/153/small/29062a6d17911b35.png",
+                    "remote_url": "https://mastodon.nz/system/media_attachments/files/112/873/119/343/084/349/original/b824f4b00acf22be.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "focus": {
+                            "x": 0.0,
+                            "y": 0.54
+                        },
+                        "original": {
+                            "width": 1067,
+                            "height": 1190,
+                            "size": "1067x1190",
+                            "aspect": 0.8966386554621849
+                        },
+                        "small": {
+                            "width": 455,
+                            "height": 507,
+                            "size": "455x507",
+                            "aspect": 0.8974358974358975
+                        }
+                    },
+                    "description": "A screenshot from an Air New Zealand webpage on their now scrapped 2030 emissions targets, from the Internet Archive Wayback Machine, from 27 June 2024. \n\nHere's some of what it says (all the text doesn't fit into the Alt-text).\n\nWhy set a science-based target validated by the Science Based Targets initiative (SBTi)?\n\nScience-based targets validated by the SBTi show companies how much and how quickly they need to reduce their greenhouse gas (GHG) emissions to prevent the worst effects of climate change. \n\nGetting the target validated by the SBTi was a rigorous process whereby Air New Zealand\u2019s GHG emissions were reviewed in detail by the SBTi to ensure an accurate emissions baseline was identified and a science-based target was set.\n\nScience-based targets are targets aligned to the commitments made by world governments in 2015 through the Paris Agreement to limit global temperature rise to well-below 2\u00b0C above pre-industrial levels and pursue efforts to limit warming to 1.5\u00b0C. \n\nAir New Zealand will continue to engage with the SBTi on this methodology and will evaluate the 1.5\u00b0C pathway once it is released.  The globally recognised and consistent scientific approach to setting a science-based target allows progress on carbon reductions to be compared with other companies\u2019 decarbonisation efforts. Over 1,500 companies are leading the transition to a net zero economy by setting emissions reduction targets validated by the SBTi.",
+                    "blurhash": "U87-Qbof9Fjt~pj[jJj[~Xj[jZj[_2fks;j["
+                }
+            ],
+            "mentions": [
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://web.archive.org/web/20240627073949/https://flightnz0.airnewzealand.co.nz/2030-science-based-target?_ga=2.64439471.1662617320.1717476745-345030769.1706140467&_gl=1*h2t0hv*_ga*MzQ1MDMwNzY5LjE3MDYxNDA0Njc.*_ga_7W0V730RP5*MTcxNzQ3Njc0NS4xMi4xLjE3MTc0NzcxMTguMC4wLjA",
+                "title": "2030 Science Based Target",
+                "description": "Flight NZ0\u2122 is our most important journey yet. It\u2019s our commitment to net zero carbon emissions by 2050.",
+                "language": null,
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 0,
+                "height": 0,
+                "image": null,
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": null,
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112873223682817442",
+            "created_at": "2024-07-30T03:05:04.000Z",
+            "in_reply_to_id": "112873131570160642",
+            "in_reply_to_account_id": "109250380022672647",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.nz/users/phil_stevens/statuses/112873223231762493",
+            "url": "https://mastodon.nz/@phil_stevens/112873223231762493",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> I'm at a conference today where we just heard a talk about AirNZ's commitment to SAF and the questions were getting pointy.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109243264758872353",
+                "username": "phil_stevens",
+                "acct": "phil_stevens@mastodon.nz",
+                "display_name": "Phil Stevens",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-28T00:00:00.000Z",
+                "note": "<p>he/him<br>vi/vim<br>Vintage 319 ppm CO2</p><p>Musician since the beginning, oddball, techie-but-luddite, biochar entrepreneur/evangelist, MMT proponent, deep green, outspoken, cantankerous and slightly twisted.</p><p>Life goal: to see billionaires go extinct.</p><p>Tolerance is a social contract.</p>",
+                "url": "https://mastodon.nz/@phil_stevens",
+                "uri": "https://mastodon.nz/users/phil_stevens",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/243/264/758/872/353/original/fe41d4ee7940d5df.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/243/264/758/872/353/original/fe41d4ee7940d5df.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/243/264/758/872/353/original/705e0061655ced48.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/243/264/758/872/353/original/705e0061655ced48.jpg",
+                "followers_count": 902,
+                "following_count": 1278,
+                "statuses_count": 12153,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873207911877275",
+            "created_at": "2024-07-30T03:01:07.000Z",
+            "in_reply_to_id": "112873079180850640",
+            "in_reply_to_account_id": "109250380022672647",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://sunbeam.city/users/alpinefolk/statuses/112873207722241347",
+            "url": "https://sunbeam.city/@alpinefolk/112873207722241347",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> it\u2019s easy to remain committed to their 2050 net zero goal when the exec team will be retired living off the wealth they generated from exorbitant bonuses (assuming they\u2019re even still alive).</p>",
+            "reblog": null,
+            "account": {
+                "id": "109339858050870384",
+                "username": "alpinefolk",
+                "acct": "alpinefolk@sunbeam.city",
+                "display_name": "Al",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-13T00:00:00.000Z",
+                "note": "<p>He/Him</p><p>Catch up to the sun.</p><p>Runner and sailor living in Aotearoa. Interested in enjoying nature, <a href=\"https://sunbeam.city/tags/ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ecology</span></a>, <a href=\"https://sunbeam.city/tags/regeneration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>regeneration</span></a> and <a href=\"https://sunbeam.city/tags/permaculture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>permaculture</span></a>. <a href=\"https://sunbeam.city/tags/plantbased\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>plantbased</span></a> <a href=\"https://sunbeam.city/tags/vegan\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vegan</span></a>.</p>",
+                "url": "https://sunbeam.city/@alpinefolk",
+                "uri": "https://sunbeam.city/users/alpinefolk",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/339/858/050/870/384/original/cd952ab94f82e391.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/339/858/050/870/384/original/cd952ab94f82e391.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/339/858/050/870/384/original/9454b717f1d0d928.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/339/858/050/870/384/original/9454b717f1d0d928.jpg",
+                "followers_count": 348,
+                "following_count": 357,
+                "statuses_count": 1987,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873265215801862",
+            "created_at": "2024-07-30T03:15:39.000Z",
+            "in_reply_to_id": "112873079180850640",
+            "in_reply_to_account_id": "109250380022672647",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.nz/users/sidawson/statuses/112873264850099939",
+            "url": "https://mastodon.nz/@sidawson/112873264850099939",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> Might as well just write the future headline now, set it to release in 35 years: \"AIr NZ won't meet 2050 climate targets; remains committed to their 2100 net zero carbon emissions.\"</p><p>Lying scumbags.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109256119462294458",
+                "username": "sidawson",
+                "acct": "sidawson@mastodon.nz",
+                "display_name": "Si Dawson",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-30T00:00:00.000Z",
+                "note": "<p>Trying to understand the universe &amp; my place in it. I love my bike. And trees. And birds. And bees. Our furry little buddies. Bees are rad. Have spent a decent amount of my life either falling over (Aikido) or falling off things (climbing). I code a lot. No, a LOT. Also, I'm an energy healer (for lack of a better term).</p><p>Oh yeah. Black lives matter. Trans rights are human rights. Vaccines work. Nazis fuck off.</p><p><a href=\"https://mastodon.nz/tags/SpiritualGrowth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SpiritualGrowth</span></a> <a href=\"https://mastodon.nz/tags/Coding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Coding</span></a> <a href=\"https://mastodon.nz/tags/ADHD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ADHD</span></a> <a href=\"https://mastodon.nz/tags/NeuroDivergent\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeuroDivergent</span></a> <a href=\"https://mastodon.nz/tags/DadJokesForLyfe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DadJokesForLyfe</span></a></p><p>pic: some white dude</p>",
+                "url": "https://mastodon.nz/@sidawson",
+                "uri": "https://mastodon.nz/users/sidawson",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/256/119/462/294/458/original/9d97482b911d3418.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/256/119/462/294/458/original/9d97482b911d3418.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 633,
+                "following_count": 206,
+                "statuses_count": 2184,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "blog (life)",
+                        "value": "<a href=\"https://sidawson.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">sidawson.org</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T22:31:26.929+00:00"
+                    },
+                    {
+                        "name": "blog (tech)",
+                        "value": "<a href=\"https://sidawson.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">sidawson.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Aotearoa/NZ (not verified, lol)",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                },
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873379674825700",
+            "created_at": "2024-07-30T03:44:47.000Z",
+            "in_reply_to_id": "112873079180850640",
+            "in_reply_to_account_id": "109250380022672647",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://cloudisland.nz/users/isaacfreeman/statuses/112873379456310830",
+            "url": "https://cloudisland.nz/@isaacfreeman/112873379456310830",
+            "replies_count": 2,
+            "reblogs_count": 7,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> 2050 targets are always bullshit unless they are accompanied by 2025 targets, and all years in between.</p><p>2050 on its own means never.</p><p>Just like \u201cnet reductions\u201d by buying offsets means no reductions at all.</p>",
+            "reblog": null,
+            "account": {
+                "id": "108214230548603183",
+                "username": "isaacfreeman",
+                "acct": "isaacfreeman@cloudisland.nz",
+                "display_name": "Isaac Freeman",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-04-29T00:00:00.000Z",
+                "note": "<p>Experienced <a href=\"https://cloudisland.nz/tags/Ruby\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ruby</span></a>/#Rails developer, currently looking for work. You could hire me!</p><p><a href=\"https://cloudisland.nz/tags/%C5%8Ctautahi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>\u014ctautahi</span></a>, <a href=\"https://cloudisland.nz/tags/Aotearoa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Aotearoa</span></a> / <a href=\"https://cloudisland.nz/tags/Christchurch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Christchurch</span></a>, <a href=\"https://cloudisland.nz/tags/NewZealand\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NewZealand</span></a>. </p><p>He/him.  <a href=\"https://cloudisland.nz/tags/NZGreens\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NZGreens</span></a>. Funtime Comics. <a href=\"https://cloudisland.nz/tags/Cyclist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Cyclist</span></a>. Middle-aged cis-het abled P\u0101keh\u0101 man.</p><p>One of my things at the moment is exploring the <a href=\"https://cloudisland.nz/tags/Obsidian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Obsidian</span></a> app, and working on my Kakano theme.</p>",
+                "url": "https://cloudisland.nz/@isaacfreeman",
+                "uri": "https://cloudisland.nz/users/isaacfreeman",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/214/230/548/603/183/original/5b9f5385133d9198.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/214/230/548/603/183/original/5b9f5385133d9198.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/214/230/548/603/183/original/841235aa375fd37b.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/214/230/548/603/183/original/841235aa375fd37b.jpeg",
+                "followers_count": 678,
+                "following_count": 679,
+                "statuses_count": 4742,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Country",
+                        "value": "Aotearoa/New Zealand",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Website",
+                        "value": "<a href=\"https://isaac.freeman.org.nz\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">isaac.freeman.org.nz</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T02:40:50.843+00:00"
+                    },
+                    {
+                        "name": "Politics",
+                        "value": "Green",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873577965837286",
+            "created_at": "2024-07-30T04:35:16.000Z",
+            "in_reply_to_id": "112873379674825700",
+            "in_reply_to_account_id": "108214230548603183",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://floss.social/users/LovesTha/statuses/112873577923175567",
+            "url": "https://floss.social/@LovesTha/112873577923175567",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> How much of the CEO's income is tied to the 2050 goal?</p><p>That will tell you how much effort they are putting towards the 2050 goal.</p>",
+            "reblog": null,
+            "account": {
+                "id": "776880",
+                "username": "LovesTha",
+                "acct": "LovesTha@floss.social",
+                "display_name": "LovesTha\ud83e\udd67",
+                "locked": true,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-03-29T00:00:00.000Z",
+                "note": "<p>A melbournian with many interests:<br>* Christian (very liberal)<br>* Embedded Linux Engineer<br>* Magic The Gathering judge<br>* Mechanical keyboard enthusiast (mostly DIY, all very small, Colemak layout)<br>* Trying to get into woodworking</p><p>All too often I come off as argumentative, I'm working on it but definitely a work in progress. Also frequently more pedantic than I'm comfortable with.</p><p>Avatar from: <a href=\"https://www.extremelyfungible.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">extremelyfungible.com/</span><span class=\"invisible\"></span></a><br>Header from:<br><a href=\"https://showyourstripes.info/s/australasia/australia/melbourne\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">showyourstripes.info/s/austral</span><span class=\"invisible\">asia/australia/melbourne</span></a></p>",
+                "url": "https://floss.social/@LovesTha",
+                "uri": "https://floss.social/users/LovesTha",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/776/880/original/20ed31509fda17ab.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/776/880/original/20ed31509fda17ab.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/776/880/original/bcc482331038896b.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/776/880/original/bcc482331038896b.png",
+                "followers_count": 198,
+                "following_count": 334,
+                "statuses_count": 1601,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Pronouns",
+                        "value": "he/him",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Matrix",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://floss.social/@LovesTha\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>LovesTha</span></a></span>:perthchat.org",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Physical Greeting Preference",
+                        "value": "fistbump",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                },
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112873649799727985",
+            "created_at": "2024-07-30T04:53:32.000Z",
+            "in_reply_to_id": "112873379674825700",
+            "in_reply_to_account_id": "108214230548603183",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.nz/users/Scubyw/statuses/112873649751083517",
+            "url": "https://mastodon.nz/@Scubyw/112873649751083517",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-07-30T04:54:52.000Z",
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://cloudisland.nz/@isaacfreeman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>isaacfreeman</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.nz/@joncounts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joncounts</span></a></span> Polluters should be required to pay additional tax at least equivalent to the costs of buying overseas CCs. This extra tax should be put in a special fund for carbon emission reduction research and technology focused on NZ. Farmers should pay too. Fresh, healthy air is better for cows (and other livestock) too.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109426854887682299",
+                "username": "Scubyw",
+                "acct": "Scubyw@mastodon.nz",
+                "display_name": "Scubyw",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-18T00:00:00.000Z",
+                "note": "<p>Self-employed, volunteering in Kokako restauration project (pest control), exploring volcanic features and streams in the Kaimai Ranges .</p>",
+                "url": "https://mastodon.nz/@Scubyw",
+                "uri": "https://mastodon.nz/users/Scubyw",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/426/854/887/682/299/original/04edec1440c8eb1b.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/426/854/887/682/299/original/04edec1440c8eb1b.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/426/854/887/682/299/original/e13201969a645436.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/426/854/887/682/299/original/e13201969a645436.jpg",
+                "followers_count": 23,
+                "following_count": 35,
+                "statuses_count": 538,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108214230548603183",
+                    "username": "isaacfreeman",
+                    "url": "https://cloudisland.nz/@isaacfreeman",
+                    "acct": "isaacfreeman@cloudisland.nz"
+                },
+                {
+                    "id": "109250380022672647",
+                    "username": "joncounts",
+                    "url": "https://mastodon.nz/@joncounts",
+                    "acct": "joncounts@mastodon.nz"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

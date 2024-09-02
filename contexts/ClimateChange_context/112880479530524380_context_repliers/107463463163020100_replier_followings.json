@@ -1,0 +1,41 @@
+[
+    {
+        "id": "109875707301501070",
+        "username": "irrlicht",
+        "acct": "irrlicht",
+        "display_name": "marco",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-02-16T00:00:00.000Z",
+        "note": "<p>the killer in me is the killer in you my love</p>",
+        "url": "https://mastodon.social/@irrlicht",
+        "uri": "https://mastodon.social/users/irrlicht",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/875/707/301/501/070/original/aed3248c14e16488.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/875/707/301/501/070/original/aed3248c14e16488.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/875/707/301/501/070/original/91bb1aeab0b956ae.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/875/707/301/501/070/original/91bb1aeab0b956ae.png",
+        "followers_count": 36,
+        "following_count": 37,
+        "statuses_count": 187,
+        "last_status_at": "2024-06-15",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://www.unmus.de\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">unmus.de</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-04-26T21:06:19.236+00:00"
+            },
+            {
+                "name": "Ort",
+                "value": "Mannheim",
+                "verified_at": null
+            }
+        ]
+    }
+]

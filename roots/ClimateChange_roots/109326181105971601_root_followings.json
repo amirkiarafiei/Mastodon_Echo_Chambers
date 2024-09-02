@@ -1,0 +1,1800 @@
+[
+    {
+        "id": "108193834673661187",
+        "username": "retroist",
+        "acct": "retroist",
+        "display_name": "retroist",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-04-25T00:00:00.000Z",
+        "note": "<p>I host the Retroist Podcast and write the Retroist, which focuses on nostalgia.  I like slightly old stuff. I typo a loot. <a href=\"http://patreon.com/retroist\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">patreon.com/retroist</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@retroist",
+        "uri": "https://mastodon.social/users/retroist",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/193/834/673/661/187/original/db1fa0f8f93640cd.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/193/834/673/661/187/original/db1fa0f8f93640cd.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/108/193/834/673/661/187/original/68a3edc21ee96734.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/193/834/673/661/187/original/68a3edc21ee96734.jpg",
+        "followers_count": 1213,
+        "following_count": 235,
+        "statuses_count": 2058,
+        "last_status_at": "2024-08-19",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://retroist.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">retroist.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-14T23:37:28.412+00:00"
+            },
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://patreon.com/retroist\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/retroist</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/retroist\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/retroist</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "110004009392567682",
+        "username": "couchapp",
+        "acct": "couchapp",
+        "display_name": "Couch Reader",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-03-11T00:00:00.000Z",
+        "note": "<p>Alternative client for Pocket supporting iOS, iPadOS and macOS. Available for free in the App Store.</p><p>Build by \u202a<span class=\"h-card\" translate=\"no\"><a href=\"https://wien.rocks/@aj82\" class=\"u-url mention\">@<span>aj82</span></a></span>\u202c</p><p><a href=\"https://mastodon.social/tags/readlater\" class=\"mention hashtag\" rel=\"tag\">#<span>readlater</span></a> <a href=\"https://mastodon.social/tags/readitlater\" class=\"mention hashtag\" rel=\"tag\">#<span>readitlater</span></a> <a href=\"https://mastodon.social/tags/pocket\" class=\"mention hashtag\" rel=\"tag\">#<span>pocket</span></a> <a href=\"https://mastodon.social/tags/reader\" class=\"mention hashtag\" rel=\"tag\">#<span>reader</span></a> <a href=\"https://mastodon.social/tags/bookmarks\" class=\"mention hashtag\" rel=\"tag\">#<span>bookmarks</span></a> <a href=\"https://mastodon.social/tags/reading\" class=\"mention hashtag\" rel=\"tag\">#<span>reading</span></a></p>",
+        "url": "https://mastodon.social/@couchapp",
+        "uri": "https://mastodon.social/users/couchapp",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/004/009/392/567/682/original/2eeb8002cd6bc866.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/004/009/392/567/682/original/2eeb8002cd6bc866.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/004/009/392/567/682/original/ff42f1b573949884.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/004/009/392/567/682/original/ff42f1b573949884.png",
+        "followers_count": 81,
+        "following_count": 91,
+        "statuses_count": 55,
+        "last_status_at": "2024-08-02",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://couchreader.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">couchreader.app</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-03-13T15:59:40.182+00:00"
+            },
+            {
+                "name": "Get App",
+                "value": "<a href=\"https://apps.apple.com/app/apple-store/id963584693?pt=109510807&amp;ct=Mastodon&amp;mt=8\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">apps.apple.com/app/apple-store</span><span class=\"invisible\">/id963584693?pt=109510807&amp;ct=Mastodon&amp;mt=8</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "1161000",
+        "username": "newsblur",
+        "acct": "newsblur",
+        "display_name": "NewsBlur",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2020-04-02T00:00:00.000Z",
+        "note": "<p>A personal news reader bringing people together to talk about the world. A new sound of an old instrument.</p>",
+        "url": "https://mastodon.social/@newsblur",
+        "uri": "https://mastodon.social/users/newsblur",
+        "avatar": "https://files.mastodon.social/accounts/avatars/001/161/000/original/59f37ccb0aea66bc.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/001/161/000/original/59f37ccb0aea66bc.png",
+        "header": "https://files.mastodon.social/accounts/headers/001/161/000/original/a6dd3730a06fc83b.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/001/161/000/original/a6dd3730a06fc83b.jpeg",
+        "followers_count": 383,
+        "following_count": 0,
+        "statuses_count": 13,
+        "last_status_at": "2024-08-28",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "@newsblur on Twitter",
+                "value": "<a href=\"https://twitter.com/newsblur\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/newsblur</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "NewsBlur web",
+                "value": "<a href=\"https://newsblur.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">newsblur.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109514869210871564",
+        "username": "matthewcassinelli",
+        "acct": "matthewcassinelli",
+        "display_name": "Matthew Cassinelli",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-12-15T00:00:00.000Z",
+        "note": "<p>I teach Shortcuts and share tips about using technology better. Living in <a href=\"https://mastodon.social/tags/Portland\" class=\"mention hashtag\" rel=\"tag\">#<span>Portland</span></a>, OR.</p><p>Previously Apple, Workflow. Check out my Shortcuts Library \ud83e\udd16</p>",
+        "url": "https://mastodon.social/@matthewcassinelli",
+        "uri": "https://mastodon.social/users/matthewcassinelli",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/514/869/210/871/564/original/6fb286d72ce5ddd0.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/514/869/210/871/564/original/6fb286d72ce5ddd0.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/514/869/210/871/564/original/1b607d6356fe0a4f.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/514/869/210/871/564/original/1b607d6356fe0a4f.jpeg",
+        "followers_count": 4599,
+        "following_count": 1335,
+        "statuses_count": 4516,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Shortcuts Library",
+                "value": "<a href=\"https://matthewcassinelli.com/sirishortcuts\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">matthewcassinelli.com/sirishor</span><span class=\"invisible\">tcuts</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Membership",
+                "value": "<a href=\"https://matthewcassinelli.com/membership\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">matthewcassinelli.com/membersh</span><span class=\"invisible\">ip</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://matthewcassinelli.com/blog\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">matthewcassinelli.com/blog</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "YouTube",
+                "value": "<a href=\"https://youtube.com/matthewcassinelli\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">youtube.com/matthewcassinelli</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "146254",
+        "username": "charliemchapman",
+        "acct": "charliemchapman",
+        "display_name": "Charlie Chapman",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-05-22T00:00:00.000Z",
+        "note": "<p><a href=\"https://mastodon.social/tags/iOS\" class=\"mention hashtag\" rel=\"tag\">#<span>iOS</span></a> dev building <span class=\"h-card\" translate=\"no\"><a href=\"https://indieapps.space/@darknoise\" class=\"u-url mention\">@<span>darknoise</span></a></span>, and host of the <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Launched\" class=\"u-url mention\">@<span>Launched</span></a></span> podcast</p>",
+        "url": "https://mastodon.social/@charliemchapman",
+        "uri": "https://mastodon.social/users/charliemchapman",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/146/254/original/16fcdf184704e59b.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/146/254/original/16fcdf184704e59b.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/000/146/254/original/3aab4f98028c0dde.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/146/254/original/3aab4f98028c0dde.jpeg",
+        "followers_count": 3421,
+        "following_count": 536,
+        "statuses_count": 3267,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://charliemchapman.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">charliemchapman.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-18T04:19:41.126+00:00"
+            },
+            {
+                "name": "Launched FM",
+                "value": "<a href=\"https://launchedfm.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">launchedfm.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-18T20:44:56.329+00:00"
+            },
+            {
+                "name": "Dark Noise",
+                "value": "<a href=\"https://darknoise.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">darknoise.app</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-27T20:42:36.686+00:00"
+            },
+            {
+                "name": "Threads",
+                "value": "<a href=\"https://www.threads.net/@charliemchapman\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">threads.net/@charliemchapman</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-08-11T19:17:40.217+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109353744428166559",
+        "username": "caseyliss",
+        "acct": "caseyliss",
+        "display_name": "Casey Liss",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-16T00:00:00.000Z",
+        "note": "<p>\u201cYou\u2019re like a Dave Matthews sommelier.\u201d</p><p>A man of occasionally refined taste and usually coarse language.</p><p>Based in Richmond, Virginia, USA.</p>",
+        "url": "https://mastodon.social/@caseyliss",
+        "uri": "https://mastodon.social/users/caseyliss",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/353/744/428/166/559/original/2e92fa13657bbec9.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/353/744/428/166/559/original/2e92fa13657bbec9.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/353/744/428/166/559/original/ad00007218ea30e7.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/353/744/428/166/559/original/ad00007218ea30e7.jpg",
+        "followers_count": 21455,
+        "following_count": 94,
+        "statuses_count": 6212,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.caseyliss.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">caseyliss.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-16T13:39:36.422+00:00"
+            },
+            {
+                "name": "Callsheet: Like IMDB but not crappy",
+                "value": "<a href=\"https://apps.apple.com/app/id1672356376\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">apps.apple.com/app/id167235637</span><span class=\"invisible\">6</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Github",
+                "value": "<a href=\"https://github.com/cliss\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cliss</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-06T01:00:57.112+00:00"
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://instagram.com/caseyliss\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/caseyliss</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109463677839960406",
+        "username": "ChrisLawley",
+        "acct": "ChrisLawley",
+        "display_name": "Christopher Lawley",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-12-05T00:00:00.000Z",
+        "note": "<p>YouTuber, Photographer, Podcaster, and overall nerd. I cover the iPad, iPhone, apps, and more. <br />\u2709\ufe0f Business Contact: chris@theuntitled.site</p>",
+        "url": "https://mastodon.social/@ChrisLawley",
+        "uri": "https://mastodon.social/users/ChrisLawley",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/463/677/839/960/406/original/3300e919110487cb.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/463/677/839/960/406/original/3300e919110487cb.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/109/463/677/839/960/406/original/8bb7892314189bea.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/463/677/839/960/406/original/8bb7892314189bea.jpeg",
+        "followers_count": 3147,
+        "following_count": 218,
+        "statuses_count": 2315,
+        "last_status_at": "2024-08-29",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "YouTube",
+                "value": "<a href=\"https://youtube.com/@ChrisLawley\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">youtube.com/@ChrisLawley</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Comfort Zone Podcast",
+                "value": "<a href=\"https://www.macstories.net/comfort-zone\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">macstories.net/comfort-zone</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Everything Else I Do",
+                "value": "<a href=\"https://bento.me/chrislawley\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bento.me/chrislawley</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-08-29T00:09:48.751+00:00"
+            },
+            {
+                "name": "Website/Contact",
+                "value": "<a href=\"https://theuntitled.site\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">theuntitled.site</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-06-03T23:14:26.888+00:00"
+            }
+        ]
+    },
+    {
+        "id": "110266162634306901",
+        "username": "arstechnica",
+        "acct": "arstechnica",
+        "display_name": "Ars Technica",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-04-26T00:00:00.000Z",
+        "note": "<p>Original news, reviews, analysis of tech trends, and expert advice on the most fundamental aspects of tech.</p><p>Official Ars Technica account. \ud83d\udfe0</p>",
+        "url": "https://mastodon.social/@arstechnica",
+        "uri": "https://mastodon.social/users/arstechnica",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/266/162/634/306/901/original/83169ae835e6c5ac.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/266/162/634/306/901/original/83169ae835e6c5ac.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/266/162/634/306/901/original/356063731b2c5192.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/266/162/634/306/901/original/356063731b2c5192.jpg",
+        "followers_count": 161801,
+        "following_count": 6,
+        "statuses_count": 5642,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Ars Technica",
+                "value": "<a href=\"https://arstechnica.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">arstechnica.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-04-27T13:17:49.854+00:00"
+            }
+        ]
+    },
+    {
+        "id": "42049",
+        "username": "cheeaun",
+        "acct": "cheeaun",
+        "display_name": "Chee Aun \ud83e\udd14",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-04-04T00:00:00.000Z",
+        "note": "<p>Product-1st Front-end Engineer, based in Singapore. Currently on a career break since July &#39;22. Working on a Mastodon web client <a href=\"https://phanpy.social\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">phanpy.social</span><span class=\"invisible\"></span></a> <span class=\"h-card\" translate=\"no\"><a href=\"https://hachyderm.io/@phanpy\" class=\"u-url mention\">@<span>phanpy</span></a></span></p><p>Why follow me: I have interests in <a href=\"https://mastodon.social/tags/WebDev\" class=\"mention hashtag\" rel=\"tag\">#<span>WebDev</span></a>, <a href=\"https://mastodon.social/tags/design\" class=\"mention hashtag\" rel=\"tag\">#<span>design</span></a>, <a href=\"https://mastodon.social/tags/DataViz\" class=\"mention hashtag\" rel=\"tag\">#<span>DataViz</span></a>, <a href=\"https://mastodon.social/tags/Maps\" class=\"mention hashtag\" rel=\"tag\">#<span>Maps</span></a>, <a href=\"https://mastodon.social/tags/PublicTransport\" class=\"mention hashtag\" rel=\"tag\">#<span>PublicTransport</span></a>, <a href=\"https://mastodon.social/tags/stickers\" class=\"mention hashtag\" rel=\"tag\">#<span>stickers</span></a> &amp; <a href=\"https://mastodon.social/tags/anime\" class=\"mention hashtag\" rel=\"tag\">#<span>anime</span></a>. I usually post about my side projects, tech events, weird discoveries, and sometimes local news.</p><p><a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"tag\">#<span>fedi22</span></a> tfr <a href=\"https://mastodon.social/tags/tech\" class=\"mention hashtag\" rel=\"tag\">#<span>tech</span></a> <a href=\"https://mastodon.social/tags/JavaScript\" class=\"mention hashtag\" rel=\"tag\">#<span>JavaScript</span></a></p>",
+        "url": "https://mastodon.social/@cheeaun",
+        "uri": "https://mastodon.social/users/cheeaun",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/042/049/original/574ed7bfacb54cba.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/042/049/original/574ed7bfacb54cba.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/000/042/049/original/8f9b8bb3ee1a8063.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/042/049/original/8f9b8bb3ee1a8063.jpg",
+        "followers_count": 2302,
+        "following_count": 517,
+        "statuses_count": 3057,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [
+            {
+                "shortcode": "catjam",
+                "url": "https://files.mastodon.social/custom_emojis/images/000/224/097/original/d9c5e447581399a9.gif",
+                "static_url": "https://files.mastodon.social/custom_emojis/images/000/224/097/static/d9c5e447581399a9.png",
+                "visible_in_picker": true
+            }
+        ],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Projects",
+                "value": "<a href=\"https://cheeaun.com/projects\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">cheeaun.com/projects</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/cheeaun\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cheeaun</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-02T01:49:24.451+00:00"
+            },
+            {
+                "name": ":thinking_face: :catjam:",
+                "value": "\ud83e\udd14 \ud83d\udc31 [TEST :thinking_face: :catjam: ]",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "451886",
+        "username": "Joekw",
+        "acct": "Joekw",
+        "display_name": "joe kimberlin",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-17T00:00:00.000Z",
+        "note": "<p>software engineer<br /><span class=\"h-card\" translate=\"no\"><a href=\"https://indieapps.space/@gametrack\" class=\"u-url mention\">@<span>gametrack</span></a></span><br />comictrack<br /><span class=\"h-card\" translate=\"no\"><a href=\"https://reincubate.social/@camo\" class=\"u-url mention\">@<span>camo</span></a></span></p>",
+        "url": "https://mastodon.social/@Joekw",
+        "uri": "https://mastodon.social/users/Joekw",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/451/886/original/50dc09421f8b3f53.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/451/886/original/50dc09421f8b3f53.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/000/451/886/original/90b477af3e7f3be5.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/451/886/original/90b477af3e7f3be5.jpeg",
+        "followers_count": 519,
+        "following_count": 338,
+        "statuses_count": 1882,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "gametrack",
+                "value": "<a href=\"https://gametrack.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gametrack.app</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "comictrack",
+                "value": "<a href=\"https://comictrack.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">comictrack.app</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109966123352325705",
+        "username": "maxmelzer",
+        "acct": "maxmelzer",
+        "display_name": "Max Melzer",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-03-04T00:00:00.000Z",
+        "note": "<p>Swift developer by night, Java developer by day. The guy behind <a href=\"https://mastodon.social/tags/Flyleaf\" class=\"mention hashtag\" rel=\"tag\">#<span>Flyleaf</span></a>. I have a background in theology and am currently working on my painting skills.</p><p>English or German, he/him.</p>",
+        "url": "https://mastodon.social/@maxmelzer",
+        "uri": "https://mastodon.social/users/maxmelzer",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/966/123/352/325/705/original/aa2c3c7613a2d00f.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/966/123/352/325/705/original/aa2c3c7613a2d00f.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/966/123/352/325/705/original/79d14ec3904bf200.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/966/123/352/325/705/original/79d14ec3904bf200.jpeg",
+        "followers_count": 222,
+        "following_count": 309,
+        "statuses_count": 279,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Personal Website",
+                "value": "<a href=\"https://moehrenzahn.de/en/about\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">moehrenzahn.de/en/about</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-01-03T21:45:56.045+00:00"
+            },
+            {
+                "name": "Flyleaf Read Later App for iOS and macOS",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@flyleafapp\" class=\"u-url mention\">@<span>flyleafapp</span></a></span>",
+                "verified_at": null
+            },
+            {
+                "name": "Location",
+                "value": "Leipzig, Germany",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "235237",
+        "username": "Chrishallbeck",
+        "acct": "Chrishallbeck",
+        "display_name": "Chris Hallbeck",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-11-13T00:00:00.000Z",
+        "note": "<p>Cartoonist. Animator.</p>",
+        "url": "https://mastodon.social/@Chrishallbeck",
+        "uri": "https://mastodon.social/users/Chrishallbeck",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/235/237/original/cf647c4ea79e821f.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/235/237/original/cf647c4ea79e821f.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/235/237/original/f247e514b1f8fbb8.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/235/237/original/f247e514b1f8fbb8.png",
+        "followers_count": 21325,
+        "following_count": 81,
+        "statuses_count": 2431,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://patreon.com/chrishallbeck\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/chrishallbeck</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "YouTube",
+                "value": "<a href=\"https://www.youtube.com/@ChrisHallbeck\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/@ChrisHallbeck</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://instagram.com/chrishallbeck\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/chrishallbeck</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Everywhere else",
+                "value": "<a href=\"https://hallbeck.com/links\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">hallbeck.com/links</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-10-25T22:55:38.909+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109357202633319419",
+        "username": "steamdecklife",
+        "acct": "steamdecklife",
+        "display_name": "Steam Deck Life",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-17T00:00:00.000Z",
+        "note": "<p>Steam Deck Life has you covered for all the latest <a href=\"https://mastodon.social/tags/SteamDeck\" class=\"mention hashtag\" rel=\"tag\">#<span>SteamDeck</span></a> news, tips and tricks.</p>",
+        "url": "https://mastodon.social/@steamdecklife",
+        "uri": "https://mastodon.social/users/steamdecklife",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/357/202/633/319/419/original/10b9270718d015ed.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/357/202/633/319/419/original/10b9270718d015ed.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/357/202/633/319/419/original/36b65f311bfd2593.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/357/202/633/319/419/original/36b65f311bfd2593.png",
+        "followers_count": 425,
+        "following_count": 0,
+        "statuses_count": 82,
+        "last_status_at": "2023-08-08",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://steamdecklife.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">steamdecklife.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/SteamDeckLife\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/SteamDeckLife</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109373774912342849",
+        "username": "wonderofscience",
+        "acct": "wonderofscience",
+        "display_name": "Wonder of Science",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-11-20T00:00:00.000Z",
+        "note": "<p>&quot;The most beautiful thing we can experience is the mysterious. It is the source of all true art and science&quot; - Albert Einstein</p>",
+        "url": "https://mastodon.social/@wonderofscience",
+        "uri": "https://mastodon.social/users/wonderofscience",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/373/774/912/342/849/original/db39d93cdd51ee03.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/373/774/912/342/849/original/db39d93cdd51ee03.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/373/774/912/342/849/original/57213f2e96ecfc46.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/373/774/912/342/849/original/57213f2e96ecfc46.jpg",
+        "followers_count": 40143,
+        "following_count": 13,
+        "statuses_count": 301,
+        "last_status_at": "2024-08-29",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Linktree",
+                "value": "<a href=\"https://linktr.ee/wonderofscience\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/wonderofscience</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "110604945903765171",
+        "username": "Delphimages",
+        "acct": "Delphimages",
+        "display_name": "Delphimages Art",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-06-25T00:00:00.000Z",
+        "note": "<p>French professional photographer and digital artist, inspired by travel, bright colors, architecture, landscapes and cityscapes.<br />I have been published by the National Geographic, the French decoration TV show D&amp;Co, Bild Magazine and many others.</p><p>My work is available here <a href=\"https://delphimages.pixels.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">delphimages.pixels.com/</span><span class=\"invisible\"></span></a> as fine art prints in different styles and other products like puzzles, greeting cards, phone cases, mugs etc. </p><p>Thank you for visiting!</p>",
+        "url": "https://mastodon.social/@Delphimages",
+        "uri": "https://mastodon.social/users/Delphimages",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/604/945/903/765/171/original/c01cfc87e4348100.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/604/945/903/765/171/original/c01cfc87e4348100.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/110/604/945/903/765/171/original/64fd3bfdfc1cff22.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/604/945/903/765/171/original/64fd3bfdfc1cff22.jpg",
+        "followers_count": 536,
+        "following_count": 190,
+        "statuses_count": 932,
+        "last_status_at": "2023-11-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Art Collections",
+                "value": "<a href=\"https://delphimages.pixels.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">delphimages.pixels.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "About me",
+                "value": "<a href=\"https://www.delphimages.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">delphimages.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "110589096435209705",
+        "username": "lisamelton",
+        "acct": "lisamelton",
+        "display_name": "Lisa Melton",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-06-22T00:00:00.000Z",
+        "note": "<p>My name is Elizabeth but please call me Lisa.</p><p>I&#39;m probably best known as the person who started the <a href=\"https://mastodon.social/tags/Safari\" class=\"mention hashtag\" rel=\"tag\">#<span>Safari</span></a> and <a href=\"https://mastodon.social/tags/WebKit\" class=\"mention hashtag\" rel=\"tag\">#<span>WebKit</span></a> projects at <a href=\"https://mastodon.social/tags/Apple\" class=\"mention hashtag\" rel=\"tag\">#<span>Apple</span></a>. You may think you know my deadname but... you don&#39;t.</p><p>I&#39;ve drawn underground comics, pioneered using a Mac for newspaper graphics and developed software at Adobe and Netscape.</p><p>Now I write video <a href=\"https://mastodon.social/tags/transcoding\" class=\"mention hashtag\" rel=\"tag\">#<span>transcoding</span></a> scripts and sometimes podcast.</p><p>Follow me and I&#39;ll fill your timeline with boosts.</p>",
+        "url": "https://mastodon.social/@lisamelton",
+        "uri": "https://mastodon.social/users/lisamelton",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/589/096/435/209/705/original/b39f559726474fb1.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/589/096/435/209/705/original/b39f559726474fb1.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 32068,
+        "following_count": 7348,
+        "statuses_count": 60808,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Pronouns",
+                "value": "She / Her",
+                "verified_at": null
+            },
+            {
+                "name": "Website",
+                "value": "<a href=\"https://lisamelton.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">lisamelton.net</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-06-26T04:05:25.010+00:00"
+            },
+            {
+                "name": "Originally Joined",
+                "value": "Nov 03, 2022",
+                "verified_at": null
+            },
+            {
+                "name": "JustMyToots",
+                "value": "<a href=\"https://justmytoots.com/@lisamelton@mastodon.social\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justmytoots.com/@lisamelton@ma</span><span class=\"invisible\">stodon.social</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109259296548994894",
+        "username": "MissingThePt",
+        "acct": "MissingThePt",
+        "display_name": "Missing The Point",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-10-30T00:00:00.000Z",
+        "note": "<p>Ask not for whom the point is missed. It is missed for thee.</p>",
+        "url": "https://mastodon.social/@MissingThePt",
+        "uri": "https://mastodon.social/users/MissingThePt",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/259/296/548/994/894/original/3aa1c630a61f6845.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/259/296/548/994/894/original/3aa1c630a61f6845.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/109/259/296/548/994/894/original/d294f548c2ccedb2.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/259/296/548/994/894/original/d294f548c2ccedb2.jpeg",
+        "followers_count": 17097,
+        "following_count": 221,
+        "statuses_count": 5003,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "810572",
+        "username": "LemmyDev",
+        "acct": "LemmyDev",
+        "display_name": "Lemmy",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2019-05-14T00:00:00.000Z",
+        "note": "<p>Updates about the Lemmy Project</p><p>Account is not actively monitored, use Matrix for support: <a href=\"https://matrix.to/#/#lemmy-space:matrix.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">matrix.to/#/#lemmy-space:matri</span><span class=\"invisible\">x.org</span></a></p>",
+        "url": "https://mastodon.social/@LemmyDev",
+        "uri": "https://mastodon.social/users/LemmyDev",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/810/572/original/4128e91a4cc94401.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/810/572/original/4128e91a4cc94401.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 5057,
+        "following_count": 2542,
+        "statuses_count": 543,
+        "last_status_at": "2024-06-19",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Join Lemmy",
+                "value": "<a href=\"https://join-lemmy.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">join-lemmy.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Source Code",
+                "value": "<a href=\"https://github.com/LemmyNet\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LemmyNet</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "268908",
+        "username": "edwellbrook",
+        "acct": "edwellbrook",
+        "display_name": "Ed",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-12-31T00:00:00.000Z",
+        "note": "<p>mac + ios designer / developer person \ud83d\ude46\u200d\u2642\ufe0f</p><p>building doppler and other things.</p><p>i don&#39;t offer customer support over mastodon. please email me instead.</p>",
+        "url": "https://mastodon.social/@edwellbrook",
+        "uri": "https://mastodon.social/users/edwellbrook",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/268/908/original/7df8e27a1a8c0a8e.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/268/908/original/7df8e27a1a8c0a8e.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 936,
+        "following_count": 353,
+        "statuses_count": 1313,
+        "last_status_at": "2024-08-23",
+        "hide_collections": false,
+        "noindex": true,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Location",
+                "value": "London, UK",
+                "verified_at": null
+            },
+            {
+                "name": "Website",
+                "value": "<a href=\"https://edwellbrook.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">edwellbrook.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-27T00:03:34.691+00:00"
+            },
+            {
+                "name": "Doppler",
+                "value": "<a href=\"https://brushedtype.co/doppler\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">brushedtype.co/doppler</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Pronouns",
+                "value": "he/him",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "540980",
+        "username": "pragmaticcode",
+        "acct": "pragmaticcode",
+        "display_name": "Pragmatic Code",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-09-29T00:00:00.000Z",
+        "note": "<p>We make Mac &amp; iOS applications. <a href=\"https://pragmaticcode.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">pragmaticcode.com</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@pragmaticcode",
+        "uri": "https://mastodon.social/users/pragmaticcode",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/540/980/original/6d5b50f8ee7dddf2.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/540/980/original/6d5b50f8ee7dddf2.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/540/980/original/6883580b6ef730bc.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/540/980/original/6883580b6ef730bc.jpg",
+        "followers_count": 199,
+        "following_count": 1,
+        "statuses_count": 42,
+        "last_status_at": "2024-06-19",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "website",
+                "value": "<a href=\"https://pragmaticcode.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">pragmaticcode.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "425388",
+        "username": "patrickklepek",
+        "acct": "patrickklepek",
+        "display_name": "Patrick Klepek",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-08-16T00:00:00.000Z",
+        "note": "<p>editor @ Remap // editor @ Crossplay newsletter // formerly Waypoint, Giant Bomb, others // tips: patrick.klepek@protonmail.com // signal: 224-707-1561</p>",
+        "url": "https://mastodon.social/@patrickklepek",
+        "uri": "https://mastodon.social/users/patrickklepek",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/425/388/original/25b37e1ecd038a21.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/425/388/original/25b37e1ecd038a21.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 3087,
+        "following_count": 177,
+        "statuses_count": 192,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "414639",
+        "username": "_Davidsmith",
+        "acct": "_Davidsmith",
+        "display_name": "David Smith",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-11T00:00:00.000Z",
+        "note": "<p>Independent app developer. Independent in general. Maker of Widgetsmith, Pedometer++, Sleep++ and Watchsmith.</p>",
+        "url": "https://mastodon.social/@_Davidsmith",
+        "uri": "https://mastodon.social/users/_Davidsmith",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/414/639/original/787e67f3d06fad38.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/414/639/original/787e67f3d06fad38.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/414/639/original/45795ecd0407a427.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/414/639/original/45795ecd0407a427.jpeg",
+        "followers_count": 16186,
+        "following_count": 296,
+        "statuses_count": 1551,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://david-smith.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">david-smith.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-13T08:25:13.772+00:00"
+            },
+            {
+                "name": "Podcast",
+                "value": "<a href=\"https://www.relay.fm/radar\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">relay.fm/radar</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Widgetsmith",
+                "value": "<a href=\"https://apps.apple.com/us/app/widgetsmith/id1523682319\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">apps.apple.com/us/app/widgetsm</span><span class=\"invisible\">ith/id1523682319</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Pedometer++",
+                "value": "<a href=\"https://apps.apple.com/us/app/pedometer/id712286167\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">apps.apple.com/us/app/pedomete</span><span class=\"invisible\">r/id712286167</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "username": "Gargron",
+        "acct": "Gargron",
+        "display_name": "Eugen Rochko",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2016-03-16T00:00:00.000Z",
+        "note": "<p>Founder of <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Mastodon\" class=\"u-url mention\">@<span>Mastodon</span></a></span>. Film photography, prog metal, Dota 2. Likes all things analog.</p>",
+        "url": "https://mastodon.social/@Gargron",
+        "uri": "https://mastodon.social/users/Gargron",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/000/001/original/a0a49d80c3de5f75.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/000/001/original/a0a49d80c3de5f75.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/000/001/original/d13e4417706a5fec.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/000/001/original/d13e4417706a5fec.jpg",
+        "followers_count": 350445,
+        "following_count": 537,
+        "statuses_count": 77142,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://www.patreon.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">patreon.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/Gargron\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Gargron</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-07T23:24:40.347+00:00"
+            },
+            {
+                "name": "Portfolio",
+                "value": "<a href=\"https://eugenrochko.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">eugenrochko.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-07-06T01:06:10.801+00:00"
+            }
+        ]
+    },
+    {
+        "id": "415403",
+        "username": "bonney",
+        "acct": "bonney",
+        "display_name": "Matt Bonney",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-12T00:00:00.000Z",
+        "note": "<p>\ud83d\udc4b I spent 10 years doing computer repair and IT, primarily for <a href=\"https://mastodon.social/tags/Apple\" class=\"mention hashtag\" rel=\"tag\">#<span>Apple</span></a> devices.</p><p>Now I do other stuff, including hobby-level programming for Apple platforms.</p><p>I typically pop onto the \u2018don to chat about tech, programming, and pop culture. </p><p>I\u2019m building a few hobby apps, one of which is <a href=\"https://mastodon.social/tags/Wotter\" class=\"mention hashtag\" rel=\"tag\">#<span>Wotter</span></a> \ud83d\udca7, my water-tracking app.</p><p>I&#39;m cynical because I care.</p><p><a href=\"https://mastodon.social/tags/Swift\" class=\"mention hashtag\" rel=\"tag\">#<span>Swift</span></a> <a href=\"https://mastodon.social/tags/SwiftUI\" class=\"mention hashtag\" rel=\"tag\">#<span>SwiftUI</span></a> <a href=\"https://mastodon.social/tags/iOSDev\" class=\"mention hashtag\" rel=\"tag\">#<span>iOSDev</span></a></p>",
+        "url": "https://mastodon.social/@bonney",
+        "uri": "https://mastodon.social/users/bonney",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/415/403/original/8e31175199be7dc4.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/415/403/original/8e31175199be7dc4.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/415/403/original/7084017081a74ee5.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/415/403/original/7084017081a74ee5.jpeg",
+        "followers_count": 250,
+        "following_count": 315,
+        "statuses_count": 1475,
+        "last_status_at": "2024-08-26",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Home",
+                "value": "Maine, USA \ud83e\udd9e",
+                "verified_at": null
+            },
+            {
+                "name": "Website",
+                "value": "<a href=\"https://bonney.io/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bonney.io/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-10-31T14:04:55.450+00:00"
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/bonney\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/bonney</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-07T21:34:16.876+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109742206677653822",
+        "username": "stroughtonsmith",
+        "acct": "stroughtonsmith",
+        "display_name": "Steve Troughton-Smith",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2023-01-24T00:00:00.000Z",
+        "note": "<p>I make apps, paint minis, do neat stuff with generative AI, and hack things. Husband. \ud83c\udff3\ufe0f\u200d\ud83c\udf08 He/him. I make <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@broadcastsapp\" class=\"u-url mention\">@<span>broadcastsapp</span></a></span>, <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@pastelapp\" class=\"u-url mention\">@<span>pastelapp</span></a></span>, <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@graceapp\" class=\"u-url mention\">@<span>graceapp</span></a></span>, and more. Do not interact if you intend to bring negativity</p>",
+        "url": "https://mastodon.social/@stroughtonsmith",
+        "uri": "https://mastodon.social/users/stroughtonsmith",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/742/206/677/653/822/original/ead3d3d995157ded.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/742/206/677/653/822/original/ead3d3d995157ded.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/742/206/677/653/822/original/cbde8a0ca45cf805.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/742/206/677/653/822/original/cbde8a0ca45cf805.jpeg",
+        "followers_count": 22791,
+        "following_count": 470,
+        "statuses_count": 7171,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Web",
+                "value": "<a href=\"https://www.highcaffeinecontent.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">highcaffeinecontent.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-10-14T04:24:15.262+00:00"
+            },
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://www.patreon.com/steventroughtonsmith\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">patreon.com/steventroughtonsmi</span><span class=\"invisible\">th</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/steventroughtonsmith\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/steventroughtonsmit</span><span class=\"invisible\">h</span></a>",
+                "verified_at": "2023-02-09T19:12:42.661+00:00"
+            },
+            {
+                "name": "Threads",
+                "value": "<a href=\"https://threads.net/@steventroughtonsmith\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">threads.net/@steventroughtonsm</span><span class=\"invisible\">ith</span></a>",
+                "verified_at": "2024-06-04T13:33:46.086+00:00"
+            }
+        ]
+    },
+    {
+        "id": "412906",
+        "username": "gruber",
+        "acct": "gruber",
+        "display_name": "John Gruber",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-10T00:00:00.000Z",
+        "note": "<p>I write Daring Fireball, host The Talk Show, and created Markdown.</p>",
+        "url": "https://mastodon.social/@gruber",
+        "uri": "https://mastodon.social/users/gruber",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/412/906/original/95c8ac0fda2b2782.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/412/906/original/95c8ac0fda2b2782.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/412/906/original/2868a6722ea7d746.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/412/906/original/2868a6722ea7d746.jpeg",
+        "followers_count": 53256,
+        "following_count": 528,
+        "statuses_count": 5140,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Web",
+                "value": "<a href=\"https://daringfireball.net/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">daringfireball.net/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-21T23:39:53.636+00:00"
+            },
+            {
+                "name": "Threads",
+                "value": "<a href=\"https://threads.net/@gruber\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">threads.net/@gruber</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Bluesky",
+                "value": "<a href=\"https://bsky.app/profile/gruber.foo\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">bsky.app/profile/gruber.foo</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/gruber\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/gruber</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "108227380844170845",
+        "username": "BrentButt",
+        "acct": "BrentButt",
+        "display_name": "BrentButt",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-05-01T00:00:00.000Z",
+        "note": "<p><a href=\"https://mastodon.social/tags/Comedian\" class=\"mention hashtag\" rel=\"tag\">#<span>Comedian</span></a> &amp; <a href=\"https://mastodon.social/tags/Writer\" class=\"mention hashtag\" rel=\"tag\">#<span>Writer</span></a>. Creator of TV&#39;s CORNER GAS and HICCUPS. Movie NO CLUE. Debut novel HUGE on sale Oct/&#39;23 (<a href=\"https://mastodon.social/tags/thriller\" class=\"mention hashtag\" rel=\"tag\">#<span>thriller</span></a> Doubleday Canada).\u2029Profile image: Picture of Brent - bald headed wearing glasses. Banner is a detail from his novel HUGE, featuring the title in big red letters and a partial silhouette of a large menacing man.</p>",
+        "url": "https://mastodon.social/@BrentButt",
+        "uri": "https://mastodon.social/users/BrentButt",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/227/380/844/170/845/original/790ba9aea8bd4005.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/227/380/844/170/845/original/790ba9aea8bd4005.png",
+        "header": "https://files.mastodon.social/accounts/headers/108/227/380/844/170/845/original/bdc9eab6af378b5c.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/227/380/844/170/845/original/bdc9eab6af378b5c.jpg",
+        "followers_count": 1979,
+        "following_count": 109,
+        "statuses_count": 3,
+        "last_status_at": "2023-10-07",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "website:",
+                "value": "<a href=\"https://brentbutt.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">brentbutt.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-18T03:03:38.565+00:00"
+            },
+            {
+                "name": "My novel, HUGE",
+                "value": "<a href=\"https://linktr.ee/brentbuttbooks\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/brentbuttbooks</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://instagram.com/BrentButt\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/BrentButt</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Brent's Newsletter",
+                "value": "<a href=\"https://brentbutt.substack.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">brentbutt.substack.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109493145275935692",
+        "username": "MonaApp",
+        "acct": "MonaApp",
+        "display_name": "Mona app",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-12-11T00:00:00.000Z",
+        "note": "<p>A Mastodon app packed with customization features.<br />Optimized for VoiceOver. Optimized for Mac. Native design.<br />No subscriptions. Available now on App Store, on iPhone, iPad, and Mac: <a href=\"https://geo.itunes.apple.com/app/id1659154653\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">geo.itunes.apple.com/app/id165</span><span class=\"invisible\">9154653</span></a></p>",
+        "url": "https://mastodon.social/@MonaApp",
+        "uri": "https://mastodon.social/users/MonaApp",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/493/145/275/935/692/original/0d90aa2a3ea6390b.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/493/145/275/935/692/original/0d90aa2a3ea6390b.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/493/145/275/935/692/original/b61ab720153d9dbe.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/493/145/275/935/692/original/b61ab720153d9dbe.jpeg",
+        "followers_count": 15905,
+        "following_count": 1,
+        "statuses_count": 2795,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Email",
+                "value": "theSpringApp@gmail.com",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "108216824449469306",
+        "username": "BasicAppleGuy",
+        "acct": "BasicAppleGuy",
+        "display_name": "BasicAppleGuy",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-04-29T00:00:00.000Z",
+        "note": "<p>Basic (\u02c8be\u026a.s\u026ak\u2019; Adj): lover of all things mainstream, popular, &amp; trending in the world of \uf8ff.</p>",
+        "url": "https://mastodon.social/@BasicAppleGuy",
+        "uri": "https://mastodon.social/users/BasicAppleGuy",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/216/824/449/469/306/original/680ba1cc5cb264f8.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/216/824/449/469/306/original/680ba1cc5cb264f8.png",
+        "header": "https://files.mastodon.social/accounts/headers/108/216/824/449/469/306/original/cbff8fd7a6982fa5.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/216/824/449/469/306/original/cbff8fd7a6982fa5.jpeg",
+        "followers_count": 18054,
+        "following_count": 31,
+        "statuses_count": 3013,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://basicappleguy.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">basicappleguy.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-13T15:31:29.081+00:00"
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/BasicAppleGuy\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/BasicAppleGuy</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Tip Jar",
+                "value": "<a href=\"https://www.buymeacoffee.com/basicappleguy\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">buymeacoffee.com/basicappleguy</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "17735",
+        "username": "jamesthomson",
+        "acct": "jamesthomson",
+        "display_name": "James Thomson",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2016-12-12T00:00:00.000Z",
+        "note": "<p>Indie iOS / Mac developer from Glasgow, Scotland. Maker of the PCalc scientific calculator, and a cool dice app. Occasional writer, conference speaker, D&amp;D player, and podcast pundit.</p>",
+        "url": "https://mastodon.social/@jamesthomson",
+        "uri": "https://mastodon.social/users/jamesthomson",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/017/735/original/a33af0fcc88507a0.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/017/735/original/a33af0fcc88507a0.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/000/017/735/original/762afc8798b623ad.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/017/735/original/762afc8798b623ad.png",
+        "followers_count": 19544,
+        "following_count": 996,
+        "statuses_count": 7168,
+        "last_status_at": "2024-08-29",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "My Apps",
+                "value": "<a href=\"https://pcalc.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">pcalc.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-11T20:53:31.378+00:00"
+            },
+            {
+                "name": "My Tech Podcasts",
+                "value": "<a href=\"http://relay.fm/people/jamesthomson\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">relay.fm/people/jamesthomson</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "My Pop Culture Podcasts",
+                "value": "<a href=\"https://www.theincomparable.com/person/james-thomson\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theincomparable.com/person/jam</span><span class=\"invisible\">es-thomson</span></a>",
+                "verified_at": "2023-02-05T13:43:57.359+00:00"
+            },
+            {
+                "name": "My Squirrels",
+                "value": "<a href=\"https://www.instagram.com/stresspanda/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/stresspanda/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "414521",
+        "username": "palmin",
+        "acct": "palmin",
+        "display_name": "Anders Borum",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-08-11T00:00:00.000Z",
+        "note": "",
+        "url": "https://mastodon.social/@palmin",
+        "uri": "https://mastodon.social/users/palmin",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/414/521/original/88921ab839a74956.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/414/521/original/88921ab839a74956.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/414/521/original/36f1c9776f00aaea.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/414/521/original/36f1c9776f00aaea.jpg",
+        "followers_count": 1786,
+        "following_count": 556,
+        "statuses_count": 891,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Working Copy",
+                "value": "<a href=\"https://workingcopy.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">workingcopy.app</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-01-24T15:21:36.391+00:00"
+            },
+            {
+                "name": "Secure ShellFish",
+                "value": "<a href=\"https://secureshellfish.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">secureshellfish.app</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-01-24T15:20:18.200+00:00"
+            },
+            {
+                "name": "S3 Files",
+                "value": "<a href=\"https://s3files.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">s3files.app</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-08-31T06:19:27.361+00:00"
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/palmin\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/palmin</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-01T22:48:23.273+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109379112132673443",
+        "username": "overcastfm",
+        "acct": "overcastfm",
+        "display_name": "Overcast",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-21T00:00:00.000Z",
+        "note": "<p>A powerful, simple iPhone podcast app.</p>",
+        "url": "https://mastodon.social/@overcastfm",
+        "uri": "https://mastodon.social/users/overcastfm",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/379/112/132/673/443/original/7d9deb40c28ca039.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/379/112/132/673/443/original/7d9deb40c28ca039.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/379/112/132/673/443/original/123946da84e82f2b.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/379/112/132/673/443/original/123946da84e82f2b.jpg",
+        "followers_count": 18209,
+        "following_count": 0,
+        "statuses_count": 131,
+        "last_status_at": "2024-08-27",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://overcast.fm/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">overcast.fm/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-21T01:10:34.718+00:00"
+            },
+            {
+                "name": "App Store",
+                "value": "<a href=\"https://apps.apple.com/us/app/overcast/id888422857\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">apps.apple.com/us/app/overcast</span><span class=\"invisible\">/id888422857</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109350993082178434",
+        "username": "marcoarment",
+        "acct": "marcoarment",
+        "display_name": "Marco Arment",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-16T00:00:00.000Z",
+        "note": "<p>Developer of the Overcast app on iOS and co-host of Accidental Tech Podcast. Powered by coffee and an unreasonable amount of Phish.</p>",
+        "url": "https://mastodon.social/@marcoarment",
+        "uri": "https://mastodon.social/users/marcoarment",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/350/993/082/178/434/original/0c60a198bd0ca6ad.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/350/993/082/178/434/original/0c60a198bd0ca6ad.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/350/993/082/178/434/original/20fbcfb605cd0fe7.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/350/993/082/178/434/original/20fbcfb605cd0fe7.jpg",
+        "followers_count": 44798,
+        "following_count": 188,
+        "statuses_count": 1552,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://marco.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">marco.org/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-18T02:02:47.232+00:00"
+            },
+            {
+                "name": "Podcast",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@atpfm\" class=\"u-url mention\">@<span>atpfm</span></a></span>",
+                "verified_at": null
+            },
+            {
+                "name": "App",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@overcastfm\" class=\"u-url mention\">@<span>overcastfm</span></a></span>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "432482",
+        "username": "christianselig",
+        "acct": "christianselig",
+        "display_name": "Christian Selig",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-08-16T00:00:00.000Z",
+        "note": "<p>iOS developer, creator of Apollo and Pixel Pals. Previously at \uf8ff. he/him. i love animals. \ud83c\udf31</p>",
+        "url": "https://mastodon.social/@christianselig",
+        "uri": "https://mastodon.social/users/christianselig",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/432/482/original/8078cf8cd64e04bd.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/432/482/original/8078cf8cd64e04bd.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 45170,
+        "following_count": 480,
+        "statuses_count": 5261,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Pixel Pals",
+                "value": "<a href=\"https://pixelpals.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">pixelpals.app</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109259486623287703",
+        "username": "brittlestar",
+        "acct": "brittlestar",
+        "display_name": "Brittlestar",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-30T00:00:00.000Z",
+        "note": "<p>It&#39;s me from there</p>",
+        "url": "https://mastodon.social/@brittlestar",
+        "uri": "https://mastodon.social/users/brittlestar",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/259/486/623/287/703/original/44c74b0d14397794.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/259/486/623/287/703/original/44c74b0d14397794.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/259/486/623/287/703/original/1a9e53587aaa07f4.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/259/486/623/287/703/original/1a9e53587aaa07f4.jpg",
+        "followers_count": 6992,
+        "following_count": 23,
+        "statuses_count": 13,
+        "last_status_at": "2023-01-08",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Brittlestar.com",
+                "value": "<a href=\"https://Brittlestar.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">Brittlestar.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-08T23:05:02.255+00:00"
+            }
+        ]
+    },
+    {
+        "id": "17174",
+        "username": "jeffgerstmann",
+        "acct": "jeffgerstmann",
+        "display_name": "Jeff Gerstmann",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2016-12-04T00:00:00.000Z",
+        "note": "<p>I&#39;ve been covering games and the video game industry since 1992. That used to involve a lot of writing, now it involves a lot of microphone talking. Get &quot;The Jeff Gerstmann Show&quot; wherever you get podcasts.</p>",
+        "url": "https://mastodon.social/@jeffgerstmann",
+        "uri": "https://mastodon.social/users/jeffgerstmann",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/017/174/original/2caea9ab8927f33e.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/017/174/original/2caea9ab8927f33e.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/017/174/original/media.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/017/174/original/media.png",
+        "followers_count": 4176,
+        "following_count": 112,
+        "statuses_count": 901,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://patreon.com/jeffgerstmann\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/jeffgerstmann</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Cohost",
+                "value": "<a href=\"https://cohost.org/jeffgerstmann\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">cohost.org/jeffgerstmann</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Tumblr",
+                "value": "<a href=\"https://jeff.zone/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">jeff.zone/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-04-24T03:13:44.390+00:00"
+            }
+        ]
+    },
+    {
+        "id": "407544",
+        "username": "bigzaphod",
+        "acct": "bigzaphod",
+        "display_name": "Sean Heber",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-08T00:00:00.000Z",
+        "note": "<p>You may know me from Twitterrific or Frenzic: Overtime or as the ex-galactic president. I&#39;m just this guy, you know?</p>",
+        "url": "https://mastodon.social/@bigzaphod",
+        "uri": "https://mastodon.social/users/bigzaphod",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/407/544/original/ebc6dc1c589f26e1.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/407/544/original/ebc6dc1c589f26e1.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/407/544/original/9b50d577a951c1d8.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/407/544/original/9b50d577a951c1d8.jpg",
+        "followers_count": 11390,
+        "following_count": 446,
+        "statuses_count": 19215,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Identity",
+                "value": "<a href=\"https://www.bigzaphod.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">bigzaphod.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-05-20T20:34:04.432+00:00"
+            },
+            {
+                "name": "Work",
+                "value": "<a href=\"https://iconfactory.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">iconfactory.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-23T20:54:59.981+00:00"
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/bigzaphod\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/bigzaphod</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-01T18:29:24.663+00:00"
+            },
+            {
+                "name": "YouTube",
+                "value": "<a href=\"https://www.youtube.com/@bigzaphod\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/@bigzaphod</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "413394",
+        "username": "PadraigOCinneide",
+        "acct": "PadraigOCinneide",
+        "display_name": "Padraig",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-08-11T00:00:00.000Z",
+        "note": "<p>indie \u2022 made castro with oisin \u2022 he / him</p>",
+        "url": "https://mastodon.social/@PadraigOCinneide",
+        "uri": "https://mastodon.social/users/PadraigOCinneide",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/413/394/original/6560f66768a30a6e.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/413/394/original/6560f66768a30a6e.jpeg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 1463,
+        "following_count": 271,
+        "statuses_count": 1027,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://padraig.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">padraig.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Neighbourhood",
+                "value": "Vancouver",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "20564",
+        "username": "tha_rami",
+        "acct": "tha_rami",
+        "display_name": "Rami Ismail",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-01-23T00:00:00.000Z",
+        "note": "<p>Gamedev. <a href=\"http://gamedev.world\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">gamedev.world</span><span class=\"invisible\"></span></a> &amp; presskit(). Speaker, consultant, helps devs globally. 33% of <br />The Habibis. Traveler. Was 50% of Vlambeer. He/Him. \ud83d\udd4b, \ud83c\uddf3\ud83c\uddf1+\ud83c\uddea\ud83c\uddec</p>",
+        "url": "https://mastodon.social/@tha_rami",
+        "uri": "https://mastodon.social/users/tha_rami",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/020/564/original/0e10b553ce3eab81.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/020/564/original/0e10b553ce3eab81.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/020/564/original/108dbecc8ff0a0a5.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/020/564/original/108dbecc8ff0a0a5.jpg",
+        "followers_count": 8564,
+        "following_count": 853,
+        "statuses_count": 480,
+        "last_status_at": "2024-08-14",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://ramiismail.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">ramiismail.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Newsletter",
+                "value": "<a href=\"https://ltpf.ramiismail.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">ltpf.ramiismail.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-13T09:27:45.625+00:00"
+            },
+            {
+                "name": "Consultancy for indies, individuals, and studios",
+                "value": "<a href=\"https://book.ramiismail.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">book.ramiismail.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://instagram.com/tha.rami\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/tha.rami</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "411397",
+        "username": "simonbs",
+        "acct": "simonbs",
+        "display_name": "Simon B. St\u00f8vring",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-10T00:00:00.000Z",
+        "note": "<p>Developer and speaker with a passion for <a href=\"https://mastodon.social/tags/iOS\" class=\"mention hashtag\" rel=\"tag\">#<span>iOS</span></a> and building developer tools.</p><p>Building <a href=\"https://runestone.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">runestone.app</span><span class=\"invisible\"></span></a>, <a href=\"https://scriptable.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">scriptable.app</span><span class=\"invisible\"></span></a>, <a href=\"https://retoot.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">retoot.app</span><span class=\"invisible\"></span></a>, <a href=\"https://jayson.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">jayson.app</span><span class=\"invisible\"></span></a>, and <a href=\"https://datajar.app\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">datajar.app</span><span class=\"invisible\"></span></a>.</p><p>Working on a big update to Runestone in order to bring it to macOS.</p><p>Aspiring home brewer, brewing beers and espresso.</p>",
+        "url": "https://mastodon.social/@simonbs",
+        "uri": "https://mastodon.social/users/simonbs",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/411/397/original/785475af4a9e4da8.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/411/397/original/785475af4a9e4da8.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/411/397/original/a8a4aec6c789080e.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/411/397/original/a8a4aec6c789080e.jpeg",
+        "followers_count": 7964,
+        "following_count": 152,
+        "statuses_count": 6551,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://simonbs.dev\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">simonbs.dev</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-14T08:12:24.651+00:00"
+            },
+            {
+                "name": "Runestone",
+                "value": "<a href=\"https://apps.apple.com/us/app/runestone-text-editor/id1548193893\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">apps.apple.com/us/app/runeston</span><span class=\"invisible\">e-text-editor/id1548193893</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Scriptable",
+                "value": "<a href=\"https://apps.apple.com/us/app/scriptable/id1405459188\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">apps.apple.com/us/app/scriptab</span><span class=\"invisible\">le/id1405459188</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/simonbs\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/simonbs</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-18T06:59:26.000+00:00"
+            }
+        ]
+    },
+    {
+        "id": "11487",
+        "username": "acarboni",
+        "acct": "acarboni",
+        "display_name": "acarboni",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2016-11-22T00:00:00.000Z",
+        "note": "<p>Sure, let\u2019s do this again.</p>",
+        "url": "https://mastodon.social/@acarboni",
+        "uri": "https://mastodon.social/users/acarboni",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/011/487/original/44e9cf0e3b4231a1.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/011/487/original/44e9cf0e3b4231a1.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 260,
+        "following_count": 17,
+        "statuses_count": 0,
+        "last_status_at": null,
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Twitch",
+                "value": "<a href=\"http://Twitch.tv/anthonycarboni\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">Twitch.tv/anthonycarboni</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "We Have Concerns",
+                "value": "wehaveconcerns.com",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "13179",
+        "username": "Mastodon",
+        "acct": "Mastodon",
+        "display_name": "Mastodon",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2016-11-23T00:00:00.000Z",
+        "note": "<p>Free, open-source decentralized social media platform.</p>",
+        "url": "https://mastodon.social/@Mastodon",
+        "uri": "https://mastodon.social/users/Mastodon",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/013/179/original/b4ceb19c9c54ec7e.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/013/179/original/b4ceb19c9c54ec7e.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/013/179/original/1375be116fbe0f1d.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/013/179/original/1375be116fbe0f1d.png",
+        "followers_count": 819715,
+        "following_count": 3,
+        "statuses_count": 267,
+        "last_status_at": "2024-07-11",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Homepage",
+                "value": "<a href=\"https://joinmastodon.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2018-10-31T04:11:00.076+00:00"
+            },
+            {
+                "name": "Patreon",
+                "value": "<a href=\"https://patreon.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">patreon.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/mastodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mastodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-07-21T13:27:45.996+00:00"
+            }
+        ]
+    }
+]

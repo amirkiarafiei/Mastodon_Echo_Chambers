@@ -1,0 +1,51 @@
+[
+    {
+        "id": "110442464806881139",
+        "username": "davidmania",
+        "acct": "davidmania",
+        "display_name": "David Mania",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-05-27T00:00:00.000Z",
+        "note": "<p>David Mania is a musician and blogger. He writes on <a href=\"https://www.davidmania.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">davidmania.com</span><span class=\"invisible\"></span></a> and you can find all his content on <a href=\"https://linktr.ee/davidmania\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/davidmania</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@davidmania",
+        "uri": "https://mastodon.social/users/davidmania",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/442/464/806/881/139/original/90c510f2df7fe1a5.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/442/464/806/881/139/original/90c510f2df7fe1a5.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/110/442/464/806/881/139/original/f749de3f142de300.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/442/464/806/881/139/original/f749de3f142de300.jpg",
+        "followers_count": 5,
+        "following_count": 4,
+        "statuses_count": 45,
+        "last_status_at": "2024-08-30",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Mania Africa",
+                "value": "<a href=\"https://mania.africa\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">mania.africa</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/daviemaniaa\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/daviemaniaa</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Linktree",
+                "value": "<a href=\"https://linktr.ee/davidmania\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/davidmania</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Shop",
+                "value": "<a href=\"https://davidmania.creator-spring.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">davidmania.creator-spring.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

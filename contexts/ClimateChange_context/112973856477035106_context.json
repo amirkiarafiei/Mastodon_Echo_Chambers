@@ -1,0 +1,238 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112973922129266636",
+            "created_at": "2024-08-16T21:54:06.000Z",
+            "in_reply_to_id": "112973856477035106",
+            "in_reply_to_account_id": "109739761753942193",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://veganism.social/users/sashin/statuses/112973922057201980",
+            "url": "https://veganism.social/@sashin/112973922057201980",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://aus.social/@ApaulD\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ApaulD</span></a></span> We need to make people more weary of advance and their efforts, I wonder if we could make it backfire and lead to the greens growing more popular</p>",
+            "reblog": null,
+            "account": {
+                "id": "112245581417540310",
+                "username": "sashin",
+                "acct": "sashin@veganism.social",
+                "display_name": "Sashin",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2024-04-10T00:00:00.000Z",
+                "note": "<p>I am interested in two things:</p><p>1. How the world works<br>2. How we can make it better</p><p>My mission is to develop a deep understanding of how our world works \u2014 economically, politically, historically \u2014 and write to make it common knowledge.</p><p>I write wanting to address the problems in the world that keep us trapped in cycles of suffering.</p><p>I want to write a better world.</p><p><a href=\"https://veganism.social/tags/writer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>writer</span></a> <a href=\"https://veganism.social/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a> <a href=\"https://veganism.social/tags/philosophy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>philosophy</span></a> <a href=\"https://veganism.social/tags/economics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economics</span></a> <a href=\"https://veganism.social/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politics</span></a> <a href=\"https://veganism.social/tags/vegan\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vegan</span></a> <a href=\"https://veganism.social/tags/atheism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>atheism</span></a> <a href=\"https://veganism.social/tags/communism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>communism</span></a> <a href=\"https://veganism.social/tags/rust\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rust</span></a> <a href=\"https://veganism.social/tags/linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>linux</span></a> <a href=\"https://veganism.social/tags/learningjapanese\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>learningjapanese</span></a> <a href=\"https://veganism.social/tags/onepiece\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>onepiece</span></a> <a href=\"https://veganism.social/tags/anarchism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>anarchism</span></a></p>",
+                "url": "https://veganism.social/@sashin",
+                "uri": "https://veganism.social/users/sashin",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/112/245/581/417/540/310/original/818fe321fd3c3161.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/112/245/581/417/540/310/original/818fe321fd3c3161.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/112/245/581/417/540/310/original/7af06f4a1d8de259.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/112/245/581/417/540/310/original/7af06f4a1d8de259.png",
+                "followers_count": 370,
+                "following_count": 1311,
+                "statuses_count": 1562,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109739761753942193",
+                    "username": "ApaulD",
+                    "url": "https://aus.social/@ApaulD",
+                    "acct": "ApaulD@aus.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112974005971223407",
+            "created_at": "2024-08-16T22:15:25.000Z",
+            "in_reply_to_id": "112973922129266636",
+            "in_reply_to_account_id": "112245581417540310",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://aus.social/users/ApaulD/statuses/112974005926317187",
+            "url": "https://aus.social/@ApaulD/112974005926317187",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://veganism.social/@sashin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sashin</span></a></span> <br>publicity publicity publicity about how democracy is being manipulated <a href=\"https://aus.social/tags/media\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>media</span></a> <a href=\"https://aus.social/tags/news\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>news</span></a> </p><p>mainstream media owners want the same election outcomes as the <a href=\"https://aus.social/tags/fossilfuel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fossilfuel</span></a> and <a href=\"https://aus.social/tags/mining\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mining</span></a> and food industry magnates ie politicians who will legislate and block legislation on demand <a href=\"https://aus.social/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politics</span></a><br> <br>This is about blocking transition to a fossil fuel free and <a href=\"https://aus.social/tags/environment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>environment</span></a> <a href=\"https://aus.social/tags/sustainable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sustainable</span></a> world.  <br><a href=\"https://aus.social/tags/climatechange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatechange</span></a> <a href=\"https://aus.social/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a> <a href=\"https://aus.social/tags/nature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nature</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109739761753942193",
+                "username": "ApaulD",
+                "acct": "ApaulD@aus.social",
+                "display_name": "ApaulD",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-01-17T00:00:00.000Z",
+                "note": "<p>Photography  \ud83d\udcf7 art \ud83c\udfa8 street gardening \ud83e\udd9cforests. Let\u2019s stop f-ing our environment, shall we? 315ppm. Climate OMG. Citizens\u2019 Assemblies in a reorganised democracy. Why wouldn\u2019t you vote YES? No posts, I\u2019ll automatically block you. \u2028Image by Howard Arkley \u2028Banner Photo: St Kilda beach</p>",
+                "url": "https://aus.social/@ApaulD",
+                "uri": "https://aus.social/users/ApaulD",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/739/761/753/942/193/original/f4c6ebb6a7ffc2b4.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/739/761/753/942/193/original/f4c6ebb6a7ffc2b4.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/739/761/753/942/193/original/95506e970496bcf3.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/739/761/753/942/193/original/95506e970496bcf3.png",
+                "followers_count": 152,
+                "following_count": 128,
+                "statuses_count": 1331,
+                "last_status_at": "2024-08-26",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "112245581417540310",
+                    "username": "sashin",
+                    "url": "https://veganism.social/@sashin",
+                    "acct": "sashin@veganism.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "media",
+                    "url": "https://mastodon.social/tags/media"
+                },
+                {
+                    "name": "news",
+                    "url": "https://mastodon.social/tags/news"
+                },
+                {
+                    "name": "fossilfuel",
+                    "url": "https://mastodon.social/tags/fossilfuel"
+                },
+                {
+                    "name": "mining",
+                    "url": "https://mastodon.social/tags/mining"
+                },
+                {
+                    "name": "politics",
+                    "url": "https://mastodon.social/tags/politics"
+                },
+                {
+                    "name": "environment",
+                    "url": "https://mastodon.social/tags/environment"
+                },
+                {
+                    "name": "sustainable",
+                    "url": "https://mastodon.social/tags/sustainable"
+                },
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                },
+                {
+                    "name": "climate",
+                    "url": "https://mastodon.social/tags/climate"
+                },
+                {
+                    "name": "nature",
+                    "url": "https://mastodon.social/tags/nature"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112974844373235650",
+            "created_at": "2024-08-17T01:48:38.000Z",
+            "in_reply_to_id": "112973856477035106",
+            "in_reply_to_account_id": "109739761753942193",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112974844315675233",
+            "url": "https://mastodon.au/@largess/112974844315675233",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://aus.social/@ApaulD\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ApaulD</span></a></span></p><p>&gt;Makes me want to volunteer for Greens</p><p>---</p><p>My partner does, I donate a little when I can (them and XR).</p><p>They're notnradical enough but the only path to success is through them, allowibg the Overton Window to move and  the truly radical politicians we need to arise. </p><p>The ALP and LNP offer nothing but disaster. I don't know why their voters think the destruction of the planet, the extinction of species, the deaths of millions and the collapse of civilisation are such laudable goals to persue but 80% of us just being sheep who give no shits likely explains it.</p><p>----</p><p>&gt;10 percent of any population is cruel, no matter what, and 10 percent is merciful, no matter what, and the remaining 80 percent can be moved in either direction. - Susan Sontag</p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109739761753942193",
+                    "username": "ApaulD",
+                    "url": "https://aus.social/@ApaulD",
+                    "acct": "ApaulD@aus.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

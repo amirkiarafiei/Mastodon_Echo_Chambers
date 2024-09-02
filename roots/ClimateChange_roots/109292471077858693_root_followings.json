@@ -1,0 +1,866 @@
+[
+    {
+        "id": "112936865456492337",
+        "username": "ohcon",
+        "acct": "ohcon",
+        "display_name": "OH!CON",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2024-08-10T00:00:00.000Z",
+        "note": "<p>OH!CON is the Outer Hebrides&#39; Comic Con.<br />Sci-fi, fantasy, comics, games and all that stuff.</p>",
+        "url": "https://mastodon.social/@ohcon",
+        "uri": "https://mastodon.social/users/ohcon",
+        "avatar": "https://files.mastodon.social/accounts/avatars/112/936/865/456/492/337/original/81afa9495ff581e8.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/112/936/865/456/492/337/original/81afa9495ff581e8.png",
+        "header": "https://files.mastodon.social/accounts/headers/112/936/865/456/492/337/original/6a9edc53b2ce5d95.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/112/936/865/456/492/337/original/6a9edc53b2ce5d95.png",
+        "followers_count": 4,
+        "following_count": 24,
+        "statuses_count": 1,
+        "last_status_at": "2024-08-10",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "30437",
+        "username": "gregpak",
+        "acct": "gregpak",
+        "display_name": "Greg Pak",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-04-02T00:00:00.000Z",
+        "note": "<p>Rhymes with &quot;rock.&quot; Actual human comic book writer, filmmaker, photographer. 35mm Love Letter, Mech Cadet Yu, Planet Hulk, Darth Vader, Ronin Island, Princess Who Saved. Get vaxxed, get out the vote. He/Him.<br /><a href=\"https://mastodon.social/tags/Comics\" class=\"mention hashtag\" rel=\"tag\">#<span>Comics</span></a> <a href=\"https://mastodon.social/tags/ComicBooks\" class=\"mention hashtag\" rel=\"tag\">#<span>ComicBooks</span></a> <a href=\"https://mastodon.social/tags/writing\" class=\"mention hashtag\" rel=\"tag\">#<span>writing</span></a> <a href=\"https://mastodon.social/tags/AmWriting\" class=\"mention hashtag\" rel=\"tag\">#<span>AmWriting</span></a> <a href=\"https://mastodon.social/tags/AnalogPhotography\" class=\"mention hashtag\" rel=\"tag\">#<span>AnalogPhotography</span></a>  <a href=\"https://mastodon.social/tags/BelieveInFilm\" class=\"mention hashtag\" rel=\"tag\">#<span>BelieveInFilm</span></a> <a href=\"https://mastodon.social/tags/35mmLoveLetter\" class=\"mention hashtag\" rel=\"tag\">#<span>35mmLoveLetter</span></a></p>",
+        "url": "https://mastodon.social/@gregpak",
+        "uri": "https://mastodon.social/users/gregpak",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/030/437/original/5a638c2ffa075a8c.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/030/437/original/5a638c2ffa075a8c.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/030/437/original/be4ca45ce5dde42f.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/030/437/original/be4ca45ce5dde42f.jpg",
+        "followers_count": 5764,
+        "following_count": 702,
+        "statuses_count": 6285,
+        "last_status_at": "2024-08-29",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Work website/Blog",
+                "value": "<a href=\"https://gregpak.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gregpak.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-04T19:59:52.817+00:00"
+            },
+            {
+                "name": "Personal Blog",
+                "value": "<a href=\"https://gregpak.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gregpak.net</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-05-30T11:29:19.560+00:00"
+            },
+            {
+                "name": "Newsletter",
+                "value": "<a href=\"https://gregpak.com/newsletter\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gregpak.com/newsletter</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-04T19:59:58.287+00:00"
+            },
+            {
+                "name": "Shop",
+                "value": "<a href=\"https://gregpakshop.com/pages/about-us\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gregpakshop.com/pages/about-us</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-07T05:50:02.310+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109317171167657753",
+        "username": "apaneladay",
+        "acct": "apaneladay",
+        "display_name": "A Panel A Day",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2022-11-10T00:00:00.000Z",
+        "note": "<p>... keeps the doctor away.</p><p>A selection of comic panels from the beginning of the 20th century to this day. <br />More details about the panels on the link included in each post. <br />Mainly in English, sometimes in Spanish.<br />------<br />Una selecci\u00f3n de vi\u00f1etas desde principios del siglo XX hasta nuestros d\u00edas. <br />M\u00e1s detalles sobre las vi\u00f1etas en el enlace incluido en cada entrada. <br />Principalmente en ingl\u00e9s, a veces en espa\u00f1ol.</p><p><a href=\"https://mastodon.social/tags/comics\" class=\"mention hashtag\" rel=\"tag\">#<span>comics</span></a> <a href=\"https://mastodon.social/tags/comicpanels\" class=\"mention hashtag\" rel=\"tag\">#<span>comicpanels</span></a> <a href=\"https://mastodon.social/tags/graphicnovels\" class=\"mention hashtag\" rel=\"tag\">#<span>graphicnovels</span></a> <a href=\"https://mastodon.social/tags/tebeos\" class=\"mention hashtag\" rel=\"tag\">#<span>tebeos</span></a> <a href=\"https://mastodon.social/tags/historietas\" class=\"mention hashtag\" rel=\"tag\">#<span>historietas</span></a> <a href=\"https://mastodon.social/tags/vi%C3%B1etas\" class=\"mention hashtag\" rel=\"tag\">#<span>vi\u00f1etas</span></a> <a href=\"https://mastodon.social/tags/bd\" class=\"mention hashtag\" rel=\"tag\">#<span>bd</span></a> <a href=\"https://mastodon.social/tags/fumetti\" class=\"mention hashtag\" rel=\"tag\">#<span>fumetti</span></a></p>",
+        "url": "https://mastodon.social/@apaneladay",
+        "uri": "https://mastodon.social/users/apaneladay",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/317/171/167/657/753/original/dff1d0f2473a3a9c.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/317/171/167/657/753/original/dff1d0f2473a3a9c.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/317/171/167/657/753/original/83700a627adabf27.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/317/171/167/657/753/original/83700a627adabf27.jpg",
+        "followers_count": 225,
+        "following_count": 189,
+        "statuses_count": 227,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://apaneladay.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">apaneladay.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-18T00:53:30.827+00:00"
+            }
+        ]
+    },
+    {
+        "id": "108194402925670785",
+        "username": "susieoftraken",
+        "acct": "susieoftraken",
+        "display_name": "Dr Susannah Lydon",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-04-25T00:00:00.000Z",
+        "note": "<p><a href=\"https://mastodon.social/tags/Palaeobotany\" class=\"mention hashtag\" rel=\"tag\">#<span>Palaeobotany</span></a>/ <a href=\"https://mastodon.social/tags/Paleobotany\" class=\"mention hashtag\" rel=\"tag\">#<span>Paleobotany</span></a> | <a href=\"https://mastodon.social/tags/Scicomm\" class=\"mention hashtag\" rel=\"tag\">#<span>Scicomm</span></a> | Associate Prof in Plant Science | Vogon poet | Views my own | She/her</p>",
+        "url": "https://mastodon.social/@susieoftraken",
+        "uri": "https://mastodon.social/users/susieoftraken",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/194/402/925/670/785/original/8ebb82100c42b277.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/194/402/925/670/785/original/8ebb82100c42b277.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/108/194/402/925/670/785/original/7dc670bfebc0946f.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/194/402/925/670/785/original/7dc670bfebc0946f.jpg",
+        "followers_count": 558,
+        "following_count": 334,
+        "statuses_count": 742,
+        "last_status_at": "2024-05-07",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/susieoftraken\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/susieoftraken</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109246557070683003",
+        "username": "ShelbyHere",
+        "acct": "ShelbyHere",
+        "display_name": "Shelby Kinney-Lang",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p><a href=\"https://mastodon.social/tags/fiction\" class=\"mention hashtag\" rel=\"tag\">#<span>fiction</span></a> writer | O. Henry Prize 2023 | Stories in ZYZZYVA, Bellevue Literary Review, Witness, Santa Monica Review, Joyland, and elsewhere | he/him | <a href=\"https://mastodon.social/tags/writing\" class=\"mention hashtag\" rel=\"tag\">#<span>writing</span></a> <a href=\"https://mastodon.social/tags/books\" class=\"mention hashtag\" rel=\"tag\">#<span>books</span></a> <a href=\"https://mastodon.social/tags/ecofiction\" class=\"mention hashtag\" rel=\"tag\">#<span>ecofiction</span></a></p>",
+        "url": "https://mastodon.social/@ShelbyHere",
+        "uri": "https://mastodon.social/users/ShelbyHere",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/246/557/070/683/003/original/d47b9a91fea30c9b.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/246/557/070/683/003/original/d47b9a91fea30c9b.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/246/557/070/683/003/original/f83532761f8a9f25.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/246/557/070/683/003/original/f83532761f8a9f25.jpeg",
+        "followers_count": 369,
+        "following_count": 274,
+        "statuses_count": 192,
+        "last_status_at": "2024-08-08",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.shelbykinneylang.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">shelbykinneylang.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "236361",
+        "username": "AmandaLillywhite",
+        "acct": "AmandaLillywhite",
+        "display_name": "Amanda Lillywhite",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-11-13T00:00:00.000Z",
+        "note": "<p>Illustrator in London UK.<br />My most recent commission was for University of Westminster&#39;s Soho Poly Theatre project.<br />Linktree: <a href=\"https://linktr.ee/amanda.lillywhite\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/amanda.lillywhite</span><span class=\"invisible\"></span></a><br />I&#39;m also on here for the moss, windows, cats, dogs, rewilding and solar panels.<br /><a href=\"https://mastodon.social/tags/illustrator\" class=\"mention hashtag\" rel=\"tag\">#<span>illustrator</span></a> <a href=\"https://mastodon.social/tags/illustration\" class=\"mention hashtag\" rel=\"tag\">#<span>illustration</span></a> <a href=\"https://mastodon.social/tags/London\" class=\"mention hashtag\" rel=\"tag\">#<span>London</span></a> <a href=\"https://mastodon.social/tags/GraphicNovel\" class=\"mention hashtag\" rel=\"tag\">#<span>GraphicNovel</span></a> <a href=\"https://mastodon.social/tags/NonFiction\" class=\"mention hashtag\" rel=\"tag\">#<span>NonFiction</span></a><br />My avi is a panda toy wearing sunglasses and holding a pencil.<br />My header is a section of my illustration of a group of people in the foyer of Brixton theatre.</p>",
+        "url": "https://mastodon.social/@AmandaLillywhite",
+        "uri": "https://mastodon.social/users/AmandaLillywhite",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/236/361/original/50452d672d36745e.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/236/361/original/50452d672d36745e.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/236/361/original/dfa4d0a8b47a4a77.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/236/361/original/dfa4d0a8b47a4a77.jpg",
+        "followers_count": 275,
+        "following_count": 562,
+        "statuses_count": 841,
+        "last_status_at": "2023-10-08",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"http://amandalillywhite.blogspot.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">amandalillywhite.blogspot.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-09T14:27:42.995+00:00"
+            },
+            {
+                "name": "Tottenham's Trojan Horse? book commission",
+                "value": "<a href=\"https://tottenhamstrojanhorse.blogspot.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tottenhamstrojanhorse.blogspot</span><span class=\"invisible\">.com/</span></a>",
+                "verified_at": "2022-11-15T15:41:26.825+00:00"
+            },
+            {
+                "name": "Based in",
+                "value": "South London UK",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "232039",
+        "username": "SKleefeld",
+        "acct": "SKleefeld",
+        "display_name": "Sean Kleefeld",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-11-13T00:00:00.000Z",
+        "note": "<p>Eisner nominated writer of stuff about webcomics, fandom, and more comics. Charging into the future like there&#39;s no tomorrow!<br />he/him</p>",
+        "url": "https://mastodon.social/@SKleefeld",
+        "uri": "https://mastodon.social/users/SKleefeld",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/232/039/original/55f4112151a04cd5.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/232/039/original/55f4112151a04cd5.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/232/039/original/2116acf0632cb17f.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/232/039/original/2116acf0632cb17f.jpg",
+        "followers_count": 575,
+        "following_count": 462,
+        "statuses_count": 10809,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "My Blog",
+                "value": "<a href=\"http://www.KleefeldonComics.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://www.</span><span class=\"\">KleefeldonComics.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "My Webcomics Textbook",
+                "value": "<a href=\"https://www.bloomsbury.com/us/webcomics-9781350028173/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">bloomsbury.com/us/webcomics-97</span><span class=\"invisible\">81350028173/</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109251487301604828",
+        "username": "mikeljanin",
+        "acct": "mikeljanin",
+        "display_name": "Mikel Jan\u00edn",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-29T00:00:00.000Z",
+        "note": "<p>Comic artist, working for DC Comics. JSA, BATMAN, SUPERMAN, WONDER WOMAN, GRAYSON, JUSTICE LEAGUE DARK.<br /><a href=\"https://www.comiconart.com/artistgalleryroom.asp?ArtistId=180\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">comiconart.com/artistgalleryro</span><span class=\"invisible\">om.asp?ArtistId=180</span></a></p>",
+        "url": "https://mastodon.social/@mikeljanin",
+        "uri": "https://mastodon.social/users/mikeljanin",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/251/487/301/604/828/original/ab344b51c8d5337a.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/251/487/301/604/828/original/ab344b51c8d5337a.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/251/487/301/604/828/original/cfbc7158c83ecf90.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/251/487/301/604/828/original/cfbc7158c83ecf90.jpg",
+        "followers_count": 709,
+        "following_count": 93,
+        "statuses_count": 53,
+        "last_status_at": "2023-03-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "23130",
+        "username": "stevelieber",
+        "acct": "stevelieber",
+        "display_name": "Steve Lieber",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-02-03T00:00:00.000Z",
+        "note": "<p><a href=\"https://mastodon.social/tags/comicbook\" class=\"mention hashtag\" rel=\"tag\">#<span>comicbook</span></a> <a href=\"https://mastodon.social/tags/artist\" class=\"mention hashtag\" rel=\"tag\">#<span>artist</span></a>: Superman&#39;s Pal Jimmy Olsen, One-Star Squadron, Whiteout, Undreground, Superior Foes of Spider-man &amp; more. I also manage Helioscope, a comics art studio/co-working space in <a href=\"https://mastodon.social/tags/Portland\" class=\"mention hashtag\" rel=\"tag\">#<span>Portland</span></a>. </p><p>Expect <a href=\"https://mastodon.social/tags/protip\" class=\"mention hashtag\" rel=\"tag\">#<span>protip</span></a> threads for emerging <a href=\"https://mastodon.social/tags/comics\" class=\"mention hashtag\" rel=\"tag\">#<span>comics</span></a> artists, plus cat pics, 20th century <a href=\"https://mastodon.social/tags/illustrators\" class=\"mention hashtag\" rel=\"tag\">#<span>illustrators</span></a>.</p>",
+        "url": "https://mastodon.social/@stevelieber",
+        "uri": "https://mastodon.social/users/stevelieber",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/023/130/original/9fba73c295cca2e1.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/023/130/original/9fba73c295cca2e1.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/000/023/130/original/fa871e5860ff6710.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/023/130/original/fa871e5860ff6710.jpeg",
+        "followers_count": 3325,
+        "following_count": 878,
+        "statuses_count": 1228,
+        "last_status_at": "2024-08-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "etsy store",
+                "value": "<a href=\"https://www.etsy.com/shop/SteveLieberArt\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">etsy.com/shop/SteveLieberArt</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Linktree",
+                "value": "<a href=\"https://linktr.ee/stevelieber\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/stevelieber</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "the bird",
+                "value": "<a href=\"https://twitter.com/steve_lieber/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/steve_lieber/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "My neglected website",
+                "value": "<a href=\"https://www.stevelieber.com/appearances/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">stevelieber.com/appearances/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-20T05:06:41.336+00:00"
+            }
+        ]
+    },
+    {
+        "id": "109357169266169661",
+        "username": "PatrickZircher",
+        "acct": "PatrickZircher",
+        "display_name": "Patch Zircher",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-17T00:00:00.000Z",
+        "note": "<p>Creating new Solomon Kane adventures for Heroic Signature and Titan Comics!</p><p>Love <a href=\"https://mastodon.social/tags/Comics\" class=\"mention hashtag\" rel=\"tag\">#<span>Comics</span></a> <a href=\"https://mastodon.social/tags/ClassicMovies\" class=\"mention hashtag\" rel=\"tag\">#<span>ClassicMovies</span></a> <a href=\"https://mastodon.social/tags/Fantasy\" class=\"mention hashtag\" rel=\"tag\">#<span>Fantasy</span></a> <a href=\"https://mastodon.social/tags/SciFi\" class=\"mention hashtag\" rel=\"tag\">#<span>SciFi</span></a> <a href=\"https://mastodon.social/tags/DarkFiction\" class=\"mention hashtag\" rel=\"tag\">#<span>DarkFiction</span></a> <a href=\"https://mastodon.social/tags/WeirdLit\" class=\"mention hashtag\" rel=\"tag\">#<span>WeirdLit</span></a> <a href=\"https://mastodon.social/tags/Literature\" class=\"mention hashtag\" rel=\"tag\">#<span>Literature</span></a> <a href=\"https://mastodon.social/tags/SwordAndSorcery\" class=\"mention hashtag\" rel=\"tag\">#<span>SwordAndSorcery</span></a> <a href=\"https://mastodon.social/tags/RareBooks\" class=\"mention hashtag\" rel=\"tag\">#<span>RareBooks</span></a> <a href=\"https://mastodon.social/tags/Renaissance\" class=\"mention hashtag\" rel=\"tag\">#<span>Renaissance</span></a> <a href=\"https://mastodon.social/tags/ShortStories\" class=\"mention hashtag\" rel=\"tag\">#<span>ShortStories</span></a> <a href=\"https://mastodon.social/tags/Blues\" class=\"mention hashtag\" rel=\"tag\">#<span>Blues</span></a> <a href=\"https://mastodon.social/tags/Dylan\" class=\"mention hashtag\" rel=\"tag\">#<span>Dylan</span></a> <a href=\"https://mastodon.social/tags/Poetry\" class=\"mention hashtag\" rel=\"tag\">#<span>Poetry</span></a> <a href=\"https://mastodon.social/tags/Shakespeare\" class=\"mention hashtag\" rel=\"tag\">#<span>Shakespeare</span></a> <a href=\"https://mastodon.social/tags/Folklore\" class=\"mention hashtag\" rel=\"tag\">#<span>Folklore</span></a> <a href=\"https://mastodon.social/tags/Anthropology\" class=\"mention hashtag\" rel=\"tag\">#<span>Anthropology</span></a> <a href=\"https://mastodon.social/tags/Archaeology\" class=\"mention hashtag\" rel=\"tag\">#<span>Archaeology</span></a> <a href=\"https://mastodon.social/tags/History\" class=\"mention hashtag\" rel=\"tag\">#<span>History</span></a> <a href=\"https://mastodon.social/tags/Astronomy\" class=\"mention hashtag\" rel=\"tag\">#<span>Astronomy</span></a> <a href=\"https://mastodon.social/tags/ArtHistory\" class=\"mention hashtag\" rel=\"tag\">#<span>ArtHistory</span></a> <a href=\"https://mastodon.social/tags/DarkAcademia\" class=\"mention hashtag\" rel=\"tag\">#<span>DarkAcademia</span></a> <a href=\"https://mastodon.social/tags/Illustration\" class=\"mention hashtag\" rel=\"tag\">#<span>Illustration</span></a> <a href=\"https://mastodon.social/tags/Sculpture\" class=\"mention hashtag\" rel=\"tag\">#<span>Sculpture</span></a> <a href=\"https://mastodon.social/tags/Architecture\" class=\"mention hashtag\" rel=\"tag\">#<span>Architecture</span></a> <a href=\"https://mastodon.social/tags/Design\" class=\"mention hashtag\" rel=\"tag\">#<span>Design</span></a> <a href=\"https://mastodon.social/tags/FilmPhotography\" class=\"mention hashtag\" rel=\"tag\">#<span>FilmPhotography</span></a> <a href=\"https://mastodon.social/tags/StreetPhotography\" class=\"mention hashtag\" rel=\"tag\">#<span>StreetPhotography</span></a></p>",
+        "url": "https://mastodon.social/@PatrickZircher",
+        "uri": "https://mastodon.social/users/PatrickZircher",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/357/169/266/169/661/original/52eabeb289782bfc.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/357/169/266/169/661/original/52eabeb289782bfc.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/357/169/266/169/661/original/2dc1f5bcb3e57782.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/357/169/266/169/661/original/2dc1f5bcb3e57782.jpeg",
+        "followers_count": 1161,
+        "following_count": 541,
+        "statuses_count": 1308,
+        "last_status_at": "2023-08-31",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "109331315140409311",
+        "username": "charlescasetti",
+        "acct": "charlescasetti",
+        "display_name": "Charles C",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-12T00:00:00.000Z",
+        "note": "<p>I love words, patterns, London, being <a href=\"https://mastodon.social/tags/queer\" class=\"mention hashtag\" rel=\"tag\">#<span>queer</span></a>. I&#39;m curious about almost everything. I like human beings, in general. I adore my husband.\u2029\u2028Anyway, it\u2019s taken me 42 years to realise I\u2019m <a href=\"https://mastodon.social/tags/trans\" class=\"mention hashtag\" rel=\"tag\">#<span>trans</span></a>, do you really trust me to tell you who I am?\u2028 \u2028\u2028I\u2019m still trying to figure it out, honestly.</p>",
+        "url": "https://mastodon.social/@charlescasetti",
+        "uri": "https://mastodon.social/users/charlescasetti",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/331/315/140/409/311/original/b91fd90a5e8b3d2b.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/331/315/140/409/311/original/b91fd90a5e8b3d2b.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/331/315/140/409/311/original/4b2541e5d1e466c7.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/331/315/140/409/311/original/4b2541e5d1e466c7.jpeg",
+        "followers_count": 141,
+        "following_count": 128,
+        "statuses_count": 766,
+        "last_status_at": "2024-08-25",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://instagram.com/mmcasetti\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/mmcasetti</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "pronouns",
+                "value": "he/they/lui",
+                "verified_at": null
+            },
+            {
+                "name": "language",
+                "value": "English, Italian",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "233292",
+        "username": "pauljholden",
+        "acct": "pauljholden",
+        "display_name": "PJ Holden",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-11-13T00:00:00.000Z",
+        "note": "<p>Comic artist.  <a href=\"https://mastodon.social/tags/JudgeDredd\" class=\"mention hashtag\" rel=\"tag\">#<span>JudgeDredd</span></a> <a href=\"https://mastodon.social/tags/dc\" class=\"mention hashtag\" rel=\"tag\">#<span>dc</span></a> <a href=\"https://mastodon.social/tags/marvel\" class=\"mention hashtag\" rel=\"tag\">#<span>marvel</span></a> <a href=\"https://mastodon.social/tags/comics\" class=\"mention hashtag\" rel=\"tag\">#<span>comics</span></a> <a href=\"https://mastodon.social/tags/2000ad\" class=\"mention hashtag\" rel=\"tag\">#<span>2000ad</span></a> <a href=\"https://mastodon.social/tags/GarthEnnis\" class=\"mention hashtag\" rel=\"tag\">#<span>GarthEnnis</span></a> <a href=\"https://mastodon.social/tags/WarComics\" class=\"mention hashtag\" rel=\"tag\">#<span>WarComics</span></a> <a href=\"https://mastodon.social/tags/artist\" class=\"mention hashtag\" rel=\"tag\">#<span>artist</span></a> <a href=\"https://mastodon.social/tags/clipstudio\" class=\"mention hashtag\" rel=\"tag\">#<span>clipstudio</span></a></p>",
+        "url": "https://mastodon.social/@pauljholden",
+        "uri": "https://mastodon.social/users/pauljholden",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/233/292/original/2d42737a40f80d05.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/233/292/original/2d42737a40f80d05.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/233/292/original/1477d572119d3b65.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/233/292/original/1477d572119d3b65.png",
+        "followers_count": 1007,
+        "following_count": 562,
+        "statuses_count": 1401,
+        "last_status_at": "2023-12-18",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Home",
+                "value": "<a href=\"https://www.pauljholden.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">pauljholden.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-13T11:07:24.883+00:00"
+            },
+            {
+                "name": "Verification",
+                "value": "<a href=\"https://www.pauljholden.com/verification/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">pauljholden.com/verification/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-13T11:09:46.882+00:00"
+            },
+            {
+                "name": "Portfolio",
+                "value": "<a href=\"https://www.pauljholden.com/portfolio\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">pauljholden.com/portfolio</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "108234400165905182",
+        "username": "oliverdietrich",
+        "acct": "oliverdietrich",
+        "display_name": "Dr. Oliver Dietrich",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-05-02T00:00:00.000Z",
+        "note": "<p>I am an archaeologist specializing in the Neolithic and Bronze Age. I have worked at sites between southwestern Asia and Central Europe. Doctoral thesis on 4000+ Bronze Age socketed axes, 11+ years at Early Neolithic G\u00f6bekli Tepe, now <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@MuseumHalle\" class=\"u-url mention\">@<span>MuseumHalle</span></a></span>. \u2029</p><p>Married to <span class=\"h-card\" translate=\"no\"><a href=\"https://archaeo.social/@lauradietrich\" class=\"u-url mention\">@<span>lauradietrich</span></a></span>.</p><p>Opinions / images my own.\u2029\u2028</p><p><a href=\"https://mastodon.social/tags/archaeology\" class=\"mention hashtag\" rel=\"tag\">#<span>archaeology</span></a> <a href=\"https://mastodon.social/tags/SciComm\" class=\"mention hashtag\" rel=\"tag\">#<span>SciComm</span></a> <a href=\"https://mastodon.social/tags/CulturalHeritage\" class=\"mention hashtag\" rel=\"tag\">#<span>CulturalHeritage</span></a> <a href=\"https://mastodon.social/tags/MaterialCulture\" class=\"mention hashtag\" rel=\"tag\">#<span>MaterialCulture</span></a> <a href=\"https://mastodon.social/tags/museum\" class=\"mention hashtag\" rel=\"tag\">#<span>museum</span></a> <a href=\"https://mastodon.social/tags/prehistory\" class=\"mention hashtag\" rel=\"tag\">#<span>prehistory</span></a> <a href=\"https://mastodon.social/tags/AncientNearEast\" class=\"mention hashtag\" rel=\"tag\">#<span>AncientNearEast</span></a> <a href=\"https://mastodon.social/tags/PrehistoricEurope\" class=\"mention hashtag\" rel=\"tag\">#<span>PrehistoricEurope</span></a> <a href=\"https://mastodon.social/tags/Neolithic\" class=\"mention hashtag\" rel=\"tag\">#<span>Neolithic</span></a> <a href=\"https://mastodon.social/tags/BronzeAge\" class=\"mention hashtag\" rel=\"tag\">#<span>BronzeAge</span></a> <a href=\"https://mastodon.social/tags/arch%C3%A4ologie\" class=\"mention hashtag\" rel=\"tag\">#<span>arch\u00e4ologie</span></a></p>",
+        "url": "https://mastodon.social/@oliverdietrich",
+        "uri": "https://mastodon.social/users/oliverdietrich",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/234/400/165/905/182/original/87dfd962d1ce0104.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/234/400/165/905/182/original/87dfd962d1ce0104.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/108/234/400/165/905/182/original/8451f9a1f2668e4c.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/234/400/165/905/182/original/8451f9a1f2668e4c.jpeg",
+        "followers_count": 1072,
+        "following_count": 307,
+        "statuses_count": 123,
+        "last_status_at": "2024-06-11",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Twitter",
+                "value": "@odietrich_",
+                "verified_at": null
+            },
+            {
+                "name": "ResearchGate",
+                "value": "<a href=\"https://www.researchgate.net/profile/Oliver_Dietrich\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">researchgate.net/profile/Olive</span><span class=\"invisible\">r_Dietrich</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Orcid",
+                "value": "<a href=\"https://orcid.org/0000-0001-7013-3317\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">orcid.org/0000-0001-7013-3317</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109258025697765868",
+        "username": "ChrisCallaghan",
+        "acct": "ChrisCallaghan",
+        "display_name": "Chris Callaghan",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-30T00:00:00.000Z",
+        "note": "<p>Children&#39;s Author<br />A Geordie living in London<br />Ex Royal Air Force Engineer &amp; Environmental Scientist<br />Creator of the &#39;Shinoy and the Chaos Crew&#39; series<br />Responsible for &#39;The Great Chocoplot&#39; (sorry about that!)<br />Loves Wine Gums<br />he/him</p><p><a href=\"https://mastodon.social/tags/childrensbooks\" class=\"mention hashtag\" rel=\"tag\">#<span>childrensbooks</span></a> <a href=\"https://mastodon.social/tags/kidlit\" class=\"mention hashtag\" rel=\"tag\">#<span>kidlit</span></a> <a href=\"https://mastodon.social/tags/childrensliterature\" class=\"mention hashtag\" rel=\"tag\">#<span>childrensliterature</span></a> <a href=\"https://mastodon.social/tags/reading\" class=\"mention hashtag\" rel=\"tag\">#<span>reading</span></a> <a href=\"https://mastodon.social/tags/writing\" class=\"mention hashtag\" rel=\"tag\">#<span>writing</span></a> <a href=\"https://mastodon.social/tags/science\" class=\"mention hashtag\" rel=\"tag\">#<span>science</span></a> <a href=\"https://mastodon.social/tags/environment\" class=\"mention hashtag\" rel=\"tag\">#<span>environment</span></a></p>",
+        "url": "https://mastodon.social/@ChrisCallaghan",
+        "uri": "https://mastodon.social/users/ChrisCallaghan",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/258/025/697/765/868/original/5c3a02591c81a0df.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/258/025/697/765/868/original/5c3a02591c81a0df.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/258/025/697/765/868/original/c2b8f9590534eaa7.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/258/025/697/765/868/original/c2b8f9590534eaa7.png",
+        "followers_count": 95,
+        "following_count": 107,
+        "statuses_count": 83,
+        "last_status_at": "2022-12-05",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.chris-callaghan.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">chris-callaghan.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109290817650072734",
+        "username": "rorycodd",
+        "acct": "rorycodd",
+        "display_name": "Rory Codd",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-05T00:00:00.000Z",
+        "note": "<p>London \u2022 Press Officer at Farshore HarperCollins UK \u2022 M.Phil Children\u2019s Literature Trinity College Dublin \u2022 Tech Enthusiast &amp; Gamer \u2022 He/Him \u2022 All views are my own \u2022 \ud83c\uddee\ud83c\uddea \ud83c\udff3\ufe0f\u200d\ud83c\udf08</p>",
+        "url": "https://mastodon.social/@rorycodd",
+        "uri": "https://mastodon.social/users/rorycodd",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/290/817/650/072/734/original/ff243e7b064ef147.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/290/817/650/072/734/original/ff243e7b064ef147.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/290/817/650/072/734/original/4b731f070a7e7079.webp",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/290/817/650/072/734/original/4b731f070a7e7079.webp",
+        "followers_count": 117,
+        "following_count": 215,
+        "statuses_count": 192,
+        "last_status_at": "2023-02-15",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Verified via Twittodon",
+                "value": "<a href=\"https://twittodon.com/share.php?t=rorystephencodd&amp;m=rorycodd@mastodon.social\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twittodon.com/share.php?t=rory</span><span class=\"invisible\">stephencodd&amp;m=rorycodd@mastodon.social</span></a>",
+                "verified_at": "2022-12-19T01:09:32.848+00:00"
+            },
+            {
+                "name": "Pixelfed",
+                "value": "pixelfed.social/rorycodd",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "rorystephencodd",
+                "verified_at": null
+            },
+            {
+                "name": "All other social networks",
+                "value": "linktr.ee/rorycodd",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109243273704430522",
+        "username": "alliepotts",
+        "acct": "alliepotts",
+        "display_name": "Allie Potts",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p>Writer, geek, and fictional-world enthusiast. Puns are always intended.</p>",
+        "url": "https://mastodon.social/@alliepotts",
+        "uri": "https://mastodon.social/users/alliepotts",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/243/273/704/430/522/original/0cfcfc2df6197294.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/243/273/704/430/522/original/0cfcfc2df6197294.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/109/243/273/704/430/522/original/a731569c936be1a5.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/243/273/704/430/522/original/a731569c936be1a5.png",
+        "followers_count": 119,
+        "following_count": 94,
+        "statuses_count": 370,
+        "last_status_at": "2024-08-11",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "website",
+                "value": "alliepottswrites.com",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109245517879160877",
+        "username": "Wurdsmyth",
+        "acct": "Wurdsmyth",
+        "display_name": "Miranda Dickinson",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p>Writer, singer-songwriter and sparkly little optimist in a dark, dark world. Sunday Times Bestseller, million-copy-seller, lover of daftness and a Dudley bird.</p>",
+        "url": "https://mastodon.social/@Wurdsmyth",
+        "uri": "https://mastodon.social/users/Wurdsmyth",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/245/517/879/160/877/original/5974d5541fb880c7.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/245/517/879/160/877/original/5974d5541fb880c7.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/109/245/517/879/160/877/original/7aceede7b40a0cb8.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/245/517/879/160/877/original/7aceede7b40a0cb8.jpeg",
+        "followers_count": 427,
+        "following_count": 190,
+        "statuses_count": 111,
+        "last_status_at": "2024-01-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Writing",
+                "value": "<a href=\"http://www.miranda-dickinson.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://www.</span><span class=\"\">miranda-dickinson.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Vlogs",
+                "value": "<a href=\"http://www.youtube.com/mirandawurdy\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://www.</span><span class=\"\">youtube.com/mirandawurdy</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Podcast",
+                "value": "<a href=\"http://www.patreon.com/writersofftopic\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://www.</span><span class=\"\">patreon.com/writersofftopic</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "235149",
+        "username": "CazApr1",
+        "acct": "CazApr1",
+        "display_name": "CazApr1",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-11-13T00:00:00.000Z",
+        "note": "<p>Chartered School Librarian, CILIP YLG London Committee, National conference exhibition manager, past CKG Judge, Bea keeper. TeenLibrarian.co.uk. She/her</p>",
+        "url": "https://mastodon.social/@CazApr1",
+        "uri": "https://mastodon.social/users/CazApr1",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/235/149/original/15aeed21fb827702.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/235/149/original/15aeed21fb827702.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 67,
+        "following_count": 60,
+        "statuses_count": 171,
+        "last_status_at": "2023-01-28",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Blog",
+                "value": "www.teenlibrarian.co.uk",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "www.twitter.com/cazapr1",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "239322",
+        "username": "Kristyace",
+        "acct": "Kristyace",
+        "display_name": "Kristy Acevedo \ud83d\udcda",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-11-13T00:00:00.000Z",
+        "note": "<p>Author of THE WARNING (June 2023 with Sourcebooks Fire), HS English Teacher,  Gardener, INFJ. Not a hologram. she/her\u2028<a href=\"http://kristyacevedo.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">kristyacevedo.com</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.social/@Kristyace",
+        "uri": "https://mastodon.social/users/Kristyace",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/239/322/original/865ea03c36f229f7.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/239/322/original/865ea03c36f229f7.png",
+        "header": "https://files.mastodon.social/accounts/headers/000/239/322/original/a7d26e98eff43fe4.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/239/322/original/a7d26e98eff43fe4.png",
+        "followers_count": 342,
+        "following_count": 320,
+        "statuses_count": 201,
+        "last_status_at": "2023-07-03",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Preorder THE WARNING",
+                "value": "<a href=\"https://www.amazon.com/dp/1728268397/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">amazon.com/dp/1728268397/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Visit my website",
+                "value": "<a href=\"http://kristyacevedo.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">kristyacevedo.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "462745",
+        "username": "Louiestowell",
+        "acct": "Louiestowell",
+        "display_name": "Louie Stowell",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2018-08-18T00:00:00.000Z",
+        "note": "<p>Writer and illustrator of the Loki: A Bad God&#39;s Guide series among others. She/her. </p><p>Interests: comics, TV, politics, children&#39;s books, unions, spaceships, SFF, comedy, writing, illustration and whatever my current obsession is.</p>",
+        "url": "https://mastodon.social/@Louiestowell",
+        "uri": "https://mastodon.social/users/Louiestowell",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/462/745/original/8749f27e4409dc7a.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/462/745/original/8749f27e4409dc7a.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/000/462/745/original/cf90650aa799f1b9.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/462/745/original/cf90650aa799f1b9.jpeg",
+        "followers_count": 987,
+        "following_count": 458,
+        "statuses_count": 6,
+        "last_status_at": "2023-07-23",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "979873",
+        "username": "MJCarty",
+        "acct": "MJCarty",
+        "display_name": "Michael Carty",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2019-11-08T00:00:00.000Z",
+        "note": "<p>Editor \u2666 Writer \u2666 Blogger \u2666 Artist \u2666 </p><p>Personal account for personal views and opinions only. </p><p>May today be nothing but kind to you and yours.</p>",
+        "url": "https://mastodon.social/@MJCarty",
+        "uri": "https://mastodon.social/users/MJCarty",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/979/873/original/bed1dc545051eaa5.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/979/873/original/bed1dc545051eaa5.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/979/873/original/b7712dc93d73f321.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/979/873/original/b7712dc93d73f321.jpg",
+        "followers_count": 1150,
+        "following_count": 872,
+        "statuses_count": 4581,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Blog (MJCarty.com)",
+                "value": "<a href=\"https://mjcarty.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">mjcarty.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-11T07:32:48.500+00:00"
+            },
+            {
+                "name": "LinkedIn",
+                "value": "<a href=\"https://www.linkedin.com/in/michaelcarty/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">linkedin.com/in/michaelcarty/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/mjcarty\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/mjcarty</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://www.instagram.com/mj_carty/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/mj_carty/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109250232667562970",
+        "username": "samatlounge",
+        "acct": "samatlounge",
+        "display_name": "Sam Missingham",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-29T00:00:00.000Z",
+        "note": "<p>Best connected person in book publishing. Award-winning book marketing. Founder of The Empowered Author, Services for Authors and Lounge Books.</p>",
+        "url": "https://mastodon.social/@samatlounge",
+        "uri": "https://mastodon.social/users/samatlounge",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/250/232/667/562/970/original/5c788cf3d3422c58.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/250/232/667/562/970/original/5c788cf3d3422c58.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/250/232/667/562/970/original/24f41c4760babe25.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/250/232/667/562/970/original/24f41c4760babe25.png",
+        "followers_count": 913,
+        "following_count": 74,
+        "statuses_count": 54,
+        "last_status_at": "2023-01-02",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Book marketing",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Book publishing",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Author marketing",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Publishing strategy",
+                "value": "",
+                "verified_at": null
+            }
+        ]
+    }
+]

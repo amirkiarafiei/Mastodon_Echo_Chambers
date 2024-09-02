@@ -1,0 +1,317 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112937941545432788",
+            "created_at": "2024-08-10T13:23:46.000Z",
+            "in_reply_to_id": "112936627879604060",
+            "in_reply_to_account_id": "108191409912507109",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.au/users/largess/statuses/112937941497467141",
+            "url": "https://mastodon.au/@largess/112937941497467141",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Climatehistories\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Climatehistories</span></a></span><br>My heartbreak is the Olympics, they drive a stake through the heart of hope,  proving we're all Nero now, literally playing games while the planet burns.  </p><p>What an emissons shitfest , that leads to...melting glaciers</p><p>(Not picking on the Olympics, its just they are current, bit examples of oir I sanity are everywhere, Winbeldon, to a Taylor Swift concert , to cruise ships, to flying to Bali to sit on a  beach, or flying to a climate conference)</p>",
+            "reblog": null,
+            "account": {
+                "id": "109412631555333276",
+                "username": "largess",
+                "acct": "largess@mastodon.au",
+                "display_name": "Bargearse",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-26T00:00:00.000Z",
+                "note": "<p>I am here to learn and face the truth, not avoid it and sometimes this can alas lead to confrontation when others prefer the latter to the former. </p><p>Matrix Account: @hanrahan:matrix.org</p>",
+                "url": "https://mastodon.au/@largess",
+                "uri": "https://mastodon.au/users/largess",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/412/631/555/333/276/original/ebfbd0db93b280ec.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/412/631/555/333/276/original/bfae91cc80172a41.png",
+                "followers_count": 853,
+                "following_count": 1036,
+                "statuses_count": 2671,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "How hot is it?",
+                        "value": "<a href=\"https://www.globalwarmingindex.org/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">globalwarmingindex.org/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Berkly Earth Temps",
+                        "value": "<a href=\"https://zacklabe.com/climate-change-indicators/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zacklabe.com/climate-change-in</span><span class=\"invisible\">dicators/</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Energy Use",
+                        "value": "<a href=\"https://ourworldindata.org/grapher/global-energy-substitution\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/grapher/glo</span><span class=\"invisible\">bal-energy-substitution</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Population",
+                        "value": "<a href=\"https://www.worldometers.info/world-population/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">worldometers.info/world-popula</span><span class=\"invisible\">tion/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108191409912507109",
+                    "username": "Climatehistories",
+                    "url": "https://mastodon.social/@Climatehistories",
+                    "acct": "Climatehistories"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112941805212651458",
+            "created_at": "2024-08-11T05:46:19.000Z",
+            "in_reply_to_id": "112936627879604060",
+            "in_reply_to_account_id": "108191409912507109",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://troet.cafe/users/yours_truly/statuses/112941805041792355",
+            "url": "https://troet.cafe/@yours_truly/112941805041792355",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Climatehistories\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Climatehistories</span></a></span> </p><p>How Ironic, the more people travel to take pictures, the faster it melts.</p>",
+            "reblog": null,
+            "account": {
+                "id": "1325406",
+                "username": "yours_truly",
+                "acct": "yours_truly@troet.cafe",
+                "display_name": "Ren\u00e9 M. Grabow",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2020-11-12T00:00:00.000Z",
+                "note": "<p>He/Him<br>non commercial artist, operator, herbivore</p><p>interests: <br>universal ethic, consciousness processes<br>art, communication, film &amp; music</p>",
+                "url": "https://troet.cafe/@yours_truly",
+                "uri": "https://troet.cafe/users/yours_truly",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/001/325/406/original/b3a8f12827e0e6b9.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/001/325/406/original/b3a8f12827e0e6b9.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/001/325/406/original/7b61e39def35f58a.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/001/325/406/original/7b61e39def35f58a.jpg",
+                "followers_count": 247,
+                "following_count": 175,
+                "statuses_count": 10537,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "expertise:",
+                        "value": "can see elephants",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "R:",
+                        "value": "50+",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108191409912507109",
+                    "username": "Climatehistories",
+                    "url": "https://mastodon.social/@Climatehistories",
+                    "acct": "Climatehistories"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112942234191407242",
+            "created_at": "2024-08-11T07:35:25.000Z",
+            "in_reply_to_id": "112936627879604060",
+            "in_reply_to_account_id": "108191409912507109",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.bachgau.social/users/flyIng/statuses/112942234059124117",
+            "url": "https://mastodon.bachgau.social/@flyIng/112942234059124117",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Climatehistories\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Climatehistories</span></a></span> <br><a href=\"https://www.nationalgeographic.de/photography/2021/02/galerie-gletscherschmelze-in-europa-die-vorher-nachher-bilder-des-klimawandels-von-1880-bis-heute\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nationalgeographic.de/photogra</span><span class=\"invisible\">phy/2021/02/galerie-gletscherschmelze-in-europa-die-vorher-nachher-bilder-des-klimawandels-von-1880-bis-heute</span></a></p><p>Same with Morteratsch Glacier or Langenferner in Trentino (IT). Last one lost about 20 cm in height during Summer 2018.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109523779672153656",
+                "username": "flyIng",
+                "acct": "flyIng@mastodon.bachgau.social",
+                "display_name": "fly-Ing",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-12-16T00:00:00.000Z",
+                "note": "<p>Engineer, Pilot, Mom, Scientist, biking commuter, trying hard to avoid plastics and superfluous garbage<br>she/her </p><p><a href=\"https://mastodon.bachgau.social/tags/fahrradbubble\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fahrradbubble</span></a><br>I like <a href=\"https://mastodon.bachgau.social/tags/biking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>biking</span></a>  &amp; <a href=\"https://mastodon.bachgau.social/tags/camping\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>camping</span></a> and <a href=\"https://mastodon.bachgau.social/tags/airwork\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>airwork</span></a> for <a href=\"https://mastodon.bachgau.social/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> and <a href=\"https://mastodon.bachgau.social/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a>.<br><a href=\"https://mastodon.bachgau.social/tags/WirSindNatenom\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WirSindNatenom</span></a></p>",
+                "url": "https://mastodon.bachgau.social/@flyIng",
+                "uri": "https://mastodon.bachgau.social/users/flyIng",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/523/779/672/153/656/original/19dc7db67745ab6b.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/523/779/672/153/656/original/19dc7db67745ab6b.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/523/779/672/153/656/original/595dfeb8125351d1.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/523/779/672/153/656/original/595dfeb8125351d1.jpg",
+                "followers_count": 93,
+                "following_count": 192,
+                "statuses_count": 2527,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108191409912507109",
+                    "username": "Climatehistories",
+                    "url": "https://mastodon.social/@Climatehistories",
+                    "acct": "Climatehistories"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.nationalgeographic.de/photography/2021/02/galerie-gletscherschmelze-in-europa-die-vorher-nachher-bilder-des-klimawandels-von-1880-bis-heute",
+                "title": "Galerie: Gletscherschmelze in Europa: Die Vorher-Nachher-Bilder des Klimawandels von 1880 bis heute",
+                "description": "Morteratschgletscher, Schweiz: Der Morteratsch ist ein Alpen-Gletscher im Kanton Graub\u00fcnden. Er geh\u00f6rt zu der Berninagruppe.\r\n",
+                "language": "de",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "National Geographic",
+                "provider_url": "",
+                "html": "",
+                "width": 400,
+                "height": 400,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/107/623/558/original/20f5dcf17fa4f15e.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UIFP4vWF4oWB0NWD%Kax4pRlt6ae~pazIUWB",
+                "published_at": "2021-02-08T11:23:58.000Z",
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112945461909543400",
+            "created_at": "2024-08-11T21:16:18.846Z",
+            "in_reply_to_id": "112936627879604060",
+            "in_reply_to_account_id": "108191409912507109",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/LivingCeremony/statuses/112945461909543400",
+            "url": "https://mastodon.social/@LivingCeremony/112945461909543400",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@Climatehistories\" class=\"u-url mention\">@<span>Climatehistories</span></a></span> - eek</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "112905652445928137",
+                "username": "LivingCeremony",
+                "acct": "LivingCeremony",
+                "display_name": "Living Ceremony \u2122",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-08-04T00:00:00.000Z",
+                "note": "<p>LivingCeremony.org  \u2122 &amp;<br />&quot;ANCESTORS of the 4 DIRECTIONS&quot; \u2122<br />supports all races and colors pursuing sensitivity, humility, integrity.  This mandates the deep work of decolonization of one&#39;s mind &amp; heartset &amp; a move into humane-ness.</p><p>We are Indigenous Elders &amp; Folk Reps from the 4 Directions and all around the world who educate on<br />Earth Ways<br />Healing &amp; Unity<br />Wisdom<br />Survival<br />Healing Racism<br />the Environment<br />Unity &amp; Diversity<br />Ceremonial Change Process \u2122<br />Colonization<br />Non Violent Communication +</p>",
+                "url": "https://mastodon.social/@LivingCeremony",
+                "uri": "https://mastodon.social/users/LivingCeremony",
+                "avatar": "https://files.mastodon.social/accounts/avatars/112/905/652/445/928/137/original/99eb5cb2ba5edd84.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/112/905/652/445/928/137/original/99eb5cb2ba5edd84.png",
+                "header": "https://files.mastodon.social/accounts/headers/112/905/652/445/928/137/original/061c77dee3a4eaeb.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/112/905/652/445/928/137/original/061c77dee3a4eaeb.png",
+                "followers_count": 54,
+                "following_count": 180,
+                "statuses_count": 87,
+                "last_status_at": "2024-08-26",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "LC website:",
+                        "value": "<a href=\"https://medicineway.wixsite.com/livingceremony\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">medicineway.wixsite.com/living</span><span class=\"invisible\">ceremony</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "A4D website:",
+                        "value": "<a href=\"https://medicineway.wixsite.com/eldersof4directions\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">medicineway.wixsite.com/elders</span><span class=\"invisible\">of4directions</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "LC / A4D Videos:",
+                        "value": "<a href=\"https://www.youtube.com/@Ancestors-of-the-4-Directions\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/@Ancestors-of-the-</span><span class=\"invisible\">4-Directions</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "LC Pixelfed:",
+                        "value": "<a href=\"https://portfolio.pixelfed.social/livingceremony\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">portfolio.pixelfed.social/livi</span><span class=\"invisible\">ngceremony</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "108191409912507109",
+                    "username": "Climatehistories",
+                    "url": "https://mastodon.social/@Climatehistories",
+                    "acct": "Climatehistories"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

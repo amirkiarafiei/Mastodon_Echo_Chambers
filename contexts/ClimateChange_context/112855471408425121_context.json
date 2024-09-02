@@ -1,0 +1,62 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112855495452696616",
+            "created_at": "2024-07-26T23:56:39.000Z",
+            "in_reply_to_id": "112855471408425121",
+            "in_reply_to_account_id": "109367452842773908",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://infosec.exchange/users/SearingTruth/statuses/112855495434395971",
+            "url": "https://infosec.exchange/@SearingTruth/112855495434395971",
+            "replies_count": 0,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://kolektiva.social/@DoomsdaysCW\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>DoomsdaysCW</span></a></span> </p><p>\"As the water breached to fill our lungs the voice of the yeomen still rang piercing and hollow upon our ears.</p><p>'There is nothing to fear. All is well.'\"<br>SearingTruth</p>",
+            "reblog": null,
+            "account": {
+                "id": "110929178897654108",
+                "username": "SearingTruth",
+                "acct": "SearingTruth@infosec.exchange",
+                "display_name": "SearingTruth",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-08-21T00:00:00.000Z",
+                "note": "<p>I'm a simple and compassionate Citizen of the Earth.</p><p>And have been online almost since the internet began with one hope, and message of it.</p><p>Most of the things I post are from a personal book of observations on humanity I've been compiling since I was 14, titled \"Wisdom, Warning, and Tyranny.\" With some from a plan to assure and forward humanity titled \"A Future of the Brave.\"</p><p>But please be warned that internet searches for me and \"Wisdom, Warning, and Tyranny\", or \"A Future of the Brave\" are often misdirected to other, possibly dangerous, websites. And the links are often very sophisticated, even including some of my most popular observations in the results. </p><p>I understand that's odd, and given that I'm really no one I'm just as surprised as you. </p><p>In any case my old website, and \"A Future of the Brave\", are found at the most obvious address - <a href=\"http://www.searingtruth.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"\">searingtruth.com</span><span class=\"invisible\"></span></a></p><p>Please don't follow any other links unless you know where they lead.</p>",
+                "url": "https://infosec.exchange/@SearingTruth",
+                "uri": "https://infosec.exchange/users/SearingTruth",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/929/178/897/654/108/original/39372055269fd974.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/929/178/897/654/108/original/39372055269fd974.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/929/178/897/654/108/original/b74907cd212ec779.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/929/178/897/654/108/original/b74907cd212ec779.jpg",
+                "followers_count": 307,
+                "following_count": 106,
+                "statuses_count": 7657,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109367452842773908",
+                    "username": "DoomsdaysCW",
+                    "url": "https://kolektiva.social/@DoomsdaysCW",
+                    "acct": "DoomsdaysCW@kolektiva.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

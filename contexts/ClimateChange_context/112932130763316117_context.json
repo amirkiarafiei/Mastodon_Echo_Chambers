@@ -1,0 +1,1571 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112932137338050274",
+            "created_at": "2024-08-09T12:47:42.020Z",
+            "in_reply_to_id": "112932130763316117",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/samohTmaS/statuses/112932137338050274",
+            "url": "https://mastodon.social/@samohTmaS/112932137338050274",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 1,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> </p><p>.... are and will destroy us.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110283728684194187",
+                "username": "samohTmaS",
+                "acct": "samohTmaS",
+                "display_name": "Sam",
+                "locked": true,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-04-29T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@samohTmaS",
+                "uri": "https://mastodon.social/users/samohTmaS",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 78,
+                "following_count": 34,
+                "statuses_count": 3541,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": true,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112932542498767520",
+            "created_at": "2024-08-09T14:30:44.298Z",
+            "in_reply_to_id": "112932130763316117",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mastodon.social/users/LazaroDTormes/statuses/112932542498767520",
+            "url": "https://mastodon.social/@LazaroDTormes/112932542498767520",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 2,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> </p><p>As soon as the billionaires have their apocalypse bunkers, it&#39;s going to be business as usual. Yes, most people will die, but it is not them.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Tusky",
+                "website": "https://tusky.app"
+            },
+            "account": {
+                "id": "110645885600830517",
+                "username": "LazaroDTormes",
+                "acct": "LazaroDTormes",
+                "display_name": "\ud83e\udd16 Lazaro the dog",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-07-02T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@LazaroDTormes",
+                "uri": "https://mastodon.social/users/LazaroDTormes",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/645/885/600/830/517/original/09eec0ce1f7a5d3c.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/645/885/600/830/517/original/09eec0ce1f7a5d3c.jpg",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 390,
+                "following_count": 1118,
+                "statuses_count": 14503,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "#Introduction",
+                        "value": "He/him Preocupado por el ascenso global del fascismo. I also post random comments. Black lives matter! Avatar: a white Labrador.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112932545637618382",
+            "created_at": "2024-08-09T14:31:28.000Z",
+            "in_reply_to_id": "112932130763316117",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.green/users/gerrymcgovern/statuses/112932545376429318",
+            "url": "https://mastodon.green/@gerrymcgovern/112932545376429318",
+            "replies_count": 1,
+            "reblogs_count": 1,
+            "favourites_count": 2,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> This is great to see. Very important to know that scientists believe that the changes that must be made are first and foremost social.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109263471422724430",
+                "username": "gerrymcgovern",
+                "acct": "gerrymcgovern@mastodon.green",
+                "display_name": "Gerry McGovern",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-10-31T00:00:00.000Z",
+                "note": "<p>Author of World Wide Waste. Developer of Top Tasks. Focused on reducing data waste and e-waste.</p>",
+                "url": "https://mastodon.green/@gerrymcgovern",
+                "uri": "https://mastodon.green/users/gerrymcgovern",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/263/471/422/724/430/original/87e2bb8e2dc173f8.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/263/471/422/724/430/original/87e2bb8e2dc173f8.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/263/471/422/724/430/original/eb830b5ce9bfdcfa.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/263/471/422/724/430/original/eb830b5ce9bfdcfa.png",
+                "followers_count": 3753,
+                "following_count": 101,
+                "statuses_count": 8309,
+                "last_status_at": "2024-08-21",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "E-waste",
+                        "value": "Hold onto devices as long as possible.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Data waste",
+                        "value": "Reduce the quantity of data as much as possible",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Sustainable digital design",
+                        "value": "Design as light as possible.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "World Wide Waste",
+                        "value": "<a href=\"https://gerrymcgovern.com/books/world-wide-waste/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gerrymcgovern.com/books/world-</span><span class=\"invisible\">wide-waste/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112932868137734917",
+            "created_at": "2024-08-09T15:53:33.145Z",
+            "in_reply_to_id": "112932545637618382",
+            "in_reply_to_account_id": "109263471422724430",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/HumanServitor/statuses/112932868137734917",
+            "url": "https://mastodon.social/@HumanServitor/112932868137734917",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 3,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.green/@gerrymcgovern\" class=\"u-url mention\">@<span>gerrymcgovern</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> </p><p>As a class scientists they&#39;re in a good position to understand the hard limits of what technology can achieve. Betting on breakthroughs would be a huge leap of faith. I hope we stick the landing.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "110192908506089827",
+                "username": "HumanServitor",
+                "acct": "HumanServitor",
+                "display_name": "Daniel Detlaf",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-04-13T00:00:00.000Z",
+                "note": "<p>Daniel Detlaf (he/him)<br />One-man flea circus, writer, sci-fi nerd, news junkie and AI tinkerer.</p><p>~~No one who is carefully curating their feed should follow me, I boost whatever catches my eye~~<br /> <br />I mostly post about:<br /><a href=\"https://mastodon.social/tags/Writing\" class=\"mention hashtag\" rel=\"tag\">#<span>Writing</span></a> <a href=\"https://mastodon.social/tags/SciFi\" class=\"mention hashtag\" rel=\"tag\">#<span>SciFi</span></a> <a href=\"https://mastodon.social/tags/Politics\" class=\"mention hashtag\" rel=\"tag\">#<span>Politics</span></a> <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"tag\">#<span>AI</span></a> <a href=\"https://mastodon.social/tags/Climate\" class=\"mention hashtag\" rel=\"tag\">#<span>Climate</span></a> <a href=\"https://mastodon.social/tags/Science\" class=\"mention hashtag\" rel=\"tag\">#<span>Science</span></a> <a href=\"https://mastodon.social/tags/Python\" class=\"mention hashtag\" rel=\"tag\">#<span>Python</span></a> <a href=\"https://mastodon.social/tags/Space\" class=\"mention hashtag\" rel=\"tag\">#<span>Space</span></a>  <a href=\"https://mastodon.social/tags/TimeTravel\" class=\"mention hashtag\" rel=\"tag\">#<span>TimeTravel</span></a> <a href=\"https://mastodon.social/tags/History\" class=\"mention hashtag\" rel=\"tag\">#<span>History</span></a> <a href=\"https://mastodon.social/tags/LLMs\" class=\"mention hashtag\" rel=\"tag\">#<span>LLMs</span></a> <a href=\"https://mastodon.social/tags/Dystopia\" class=\"mention hashtag\" rel=\"tag\">#<span>Dystopia</span></a> <a href=\"https://mastodon.social/tags/OpenAI\" class=\"mention hashtag\" rel=\"tag\">#<span>OpenAI</span></a> <a href=\"https://mastodon.social/tags/AIEthics\" class=\"mention hashtag\" rel=\"tag\">#<span>AIEthics</span></a> <a href=\"https://mastodon.social/tags/Journalism\" class=\"mention hashtag\" rel=\"tag\">#<span>Journalism</span></a> <a href=\"https://mastodon.social/tags/NewMexico\" class=\"mention hashtag\" rel=\"tag\">#<span>NewMexico</span></a> <a href=\"https://mastodon.social/tags/DemocraticSocialism\" class=\"mention hashtag\" rel=\"tag\">#<span>DemocraticSocialism</span></a> </p><p>Albuquerque, NM<br />Avatar: Doodle of robot wearing a tie and name tag.<br />Banner: An alien landscape, gas giant in sky.</p>",
+                "url": "https://mastodon.social/@HumanServitor",
+                "uri": "https://mastodon.social/users/HumanServitor",
+                "avatar": "https://files.mastodon.social/accounts/avatars/110/192/908/506/089/827/original/2cfdc05845a63327.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/110/192/908/506/089/827/original/2cfdc05845a63327.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/110/192/908/506/089/827/original/48c2d47bcfabb5be.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/110/192/908/506/089/827/original/48c2d47bcfabb5be.jpg",
+                "followers_count": 492,
+                "following_count": 878,
+                "statuses_count": 4377,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Currently Reading / Listening:",
+                        "value": "Shadow of What Was Lost / James Islington",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109263471422724430",
+                    "username": "gerrymcgovern",
+                    "url": "https://mastodon.green/@gerrymcgovern",
+                    "acct": "gerrymcgovern@mastodon.green"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112934370166083010",
+            "created_at": "2024-08-09T22:15:31.000Z",
+            "in_reply_to_id": "112932868137734917",
+            "in_reply_to_account_id": "110192908506089827",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://fosstodon.org/users/elaterite/statuses/112934370120991450",
+            "url": "https://fosstodon.org/@elaterite/112934370120991450",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@HumanServitor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>HumanServitor</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.green/@gerrymcgovern\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gerrymcgovern</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> They should have broken out \"fundamental changes to society, politics, and economics\". What's most needed is the political will to change the economics of the energy industry. Democratizing energy can get us to where we need to be--renewably--if we break the energy monopolies. \"The ubiquitous nature of renewable energy calls for a decentralized energy approach.\" And, importantly,  decentralized ownership. <a href=\"https://fosstodon.org/tags/FeedInTariffs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FeedInTariffs</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109419970456362863",
+                "username": "elaterite",
+                "acct": "elaterite@fosstodon.org",
+                "display_name": "Bob Tregilus :tux:\ud83d\udcf7:copyleft:",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-28T00:00:00.000Z",
+                "note": "<p>Professional fine art photographer &amp; art framer. All photos edited using Darktable on a Linux box &amp; licensed Creative Commons BY-SA 4.0. I do not use machine learning apps. Any composites will be clearly noted. Mostly following science, history, &amp; photography toots. Formerly, I was a civil rights &amp; energy policy troublemaker. Also, former netcast producer &amp; host for the Plug In America Show, This Week in Energy, &amp; an occasional show for Hacker Public Radio.</p>",
+                "url": "https://fosstodon.org/@elaterite",
+                "uri": "https://fosstodon.org/users/elaterite",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/419/970/456/362/863/original/f304149c593a6524.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/419/970/456/362/863/original/f304149c593a6524.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/419/970/456/362/863/original/9c5ffb709f995e45.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/419/970/456/362/863/original/9c5ffb709f995e45.jpg",
+                "followers_count": 2268,
+                "following_count": 643,
+                "statuses_count": 1036,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [
+                    {
+                        "shortcode": "tux",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/023/699/original/ce700e1fa07d023a.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/023/699/static/ce700e1fa07d023a.png",
+                        "visible_in_picker": true
+                    },
+                    {
+                        "shortcode": "copyleft",
+                        "url": "https://files.mastodon.social/cache/custom_emojis/images/000/092/357/original/6348491a9176138d.png",
+                        "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/092/357/static/6348491a9176138d.png",
+                        "visible_in_picker": true
+                    }
+                ],
+                "fields": [
+                    {
+                        "name": "Where I hang my hat:",
+                        "value": "Wa\u0161\u00ed\u2219\u0161iw \u0241itd\u00e9\u0241 (Reno, Nevada, USA)",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Website (I print, mat, & frame my own work, all archival):",
+                        "value": "<a href=\"https://www.tregilus.com/gallery/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">tregilus.com/gallery/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-27T13:41:06.762+00:00"
+                    },
+                    {
+                        "name": "Semi-retired part time job (fine art framer):",
+                        "value": "<a href=\"https://nvfinearts.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">nvfinearts.com/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110192908506089827",
+                    "username": "HumanServitor",
+                    "url": "https://mastodon.social/@HumanServitor",
+                    "acct": "HumanServitor"
+                },
+                {
+                    "id": "109263471422724430",
+                    "username": "gerrymcgovern",
+                    "url": "https://mastodon.green/@gerrymcgovern",
+                    "acct": "gerrymcgovern@mastodon.green"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "FeedInTariffs",
+                    "url": "https://mastodon.social/tags/FeedInTariffs"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112936408591047185",
+            "created_at": "2024-08-10T06:53:52.000Z",
+            "in_reply_to_id": "112932130763316117",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://myside-yourside.net/users/StarkRG/statuses/112936408358183261",
+            "url": "https://myside-yourside.net/@StarkRG/112936408358183261",
+            "replies_count": 2,
+            "reblogs_count": 13,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Either we change the way our society works now or it'll change later. Change is inevitable, it's how it changes and what drives the change that we have control over.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110625135751089613",
+                "username": "StarkRG",
+                "acct": "StarkRG@myside-yourside.net",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-06-28T00:00:00.000Z",
+                "note": "<p><a href=\"https://myside-yourside.net/tags/Autism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Autism</span></a> <a href=\"https://myside-yourside.net/tags/ADHD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ADHD</span></a> <a href=\"https://myside-yourside.net/tags/StarTrek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StarTrek</span></a> <a href=\"https://myside-yourside.net/tags/Farscape\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Farscape</span></a> <a href=\"https://myside-yourside.net/tags/Stargate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Stargate</span></a> <a href=\"https://myside-yourside.net/tags/Astronomy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Astronomy</span></a> <a href=\"https://myside-yourside.net/tags/Engineering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Engineering</span></a> <a href=\"https://myside-yourside.net/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> <a href=\"https://myside-yourside.net/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> <a href=\"https://myside-yourside.net/tags/vim\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vim</span></a> <a href=\"https://myside-yourside.net/tags/selfhosted\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>selfhosted</span></a></p><p>I'm too unenthused to put together a bio right now, so that'll have to do.</p><p>No LLM or other AI training is allowed to be done with this account without prior payment and authorisation.</p><p><a href=\"https://myside-yourside.net/tags/Nobot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nobot</span></a></p>",
+                "url": "https://myside-yourside.net/@StarkRG",
+                "uri": "https://myside-yourside.net/users/StarkRG",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/625/135/751/089/613/original/74050c90547b6390.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/625/135/751/089/613/original/74050c90547b6390.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/625/135/751/089/613/original/9e44cc6c2a383bee.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/625/135/751/089/613/original/9e44cc6c2a383bee.jpg",
+                "followers_count": 265,
+                "following_count": 247,
+                "statuses_count": 5997,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112937344575780640",
+            "created_at": "2024-08-10T10:51:58.170Z",
+            "in_reply_to_id": "112936408591047185",
+            "in_reply_to_account_id": "110625135751089613",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/FelisCatus/statuses/112937344575780640",
+            "url": "https://mastodon.social/@FelisCatus/112937344575780640",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://myside-yourside.net/@StarkRG\" class=\"u-url mention\">@<span>StarkRG</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span>  that&#39;s the most Marxist message I have read since I signed up to Mastodon.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "112735811309941452",
+                "username": "FelisCatus",
+                "acct": "FelisCatus",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": null,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-07-05T00:00:00.000Z",
+                "note": "<p>Chiant comme un meeting du PSU des ann\u00e9es 70. Franchement gonflant avec mes postures permanentes. </p><p>Toxic idealist. Moral narcissist. Russian troll farm and maga agent provocateur.  </p><p>But you know what? I&#39;m happy.</p><p>If you want to follow me, follow me.</p><p>If you want to block me, block me.</p><p>If you want to ping me to tell me you&#39;re blocking me, ping me to tell me you&#39;re blocking me, but the joke&#39;s on you.</p>",
+                "url": "https://mastodon.social/@FelisCatus",
+                "uri": "https://mastodon.social/users/FelisCatus",
+                "avatar": "https://files.mastodon.social/accounts/avatars/112/735/811/309/941/452/original/e85d46a293b1663d.jpg",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/112/735/811/309/941/452/original/e85d46a293b1663d.jpg",
+                "header": "https://files.mastodon.social/accounts/headers/112/735/811/309/941/452/original/acf1a6061663565c.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/112/735/811/309/941/452/original/acf1a6061663565c.jpg",
+                "followers_count": 43,
+                "following_count": 116,
+                "statuses_count": 1425,
+                "last_status_at": "2024-08-27",
+                "hide_collections": null,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110625135751089613",
+                    "username": "StarkRG",
+                    "url": "https://myside-yourside.net/@StarkRG",
+                    "acct": "StarkRG@myside-yourside.net"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112937375148816211",
+            "created_at": "2024-08-10T10:59:44.679Z",
+            "in_reply_to_id": "112936408591047185",
+            "in_reply_to_account_id": "110625135751089613",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/rmblaber1956/statuses/112937375148816211",
+            "url": "https://mastodon.social/@rmblaber1956/112937375148816211",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://myside-yourside.net/@StarkRG\" class=\"u-url mention\">@<span>StarkRG</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> Yes - &amp; no. We have rather less agency over social change than you suppose. Society isn&#39;t some machine that can be fixed if it goes wrong, like a car. There are many things wrong with our societies (plural) for a start; &amp; they are too organic &amp; complex for any mechanistic analogy to hold. Furthermore, we&#39;re part of them, &amp; we&#39;re part of the problem. We can&#39;t abstract ourselves from our societies &amp; treat them with genuine objectivity.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "111137654549708990",
+                "username": "rmblaber1956",
+                "acct": "rmblaber1956",
+                "display_name": "Richard Michael Blaber",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-09-27T00:00:00.000Z",
+                "note": "<p>I am a retired academic, with an MA &amp; PhD in Social Policy &amp; Administration from the Universities of York &amp; Kent respectively. I am disabled, &amp; am deeply concerned about human, gay and disability rights, the climate emergency and the biodiversity crisis. I am currently politically homeless. I like films, classical music, jazz, and reading.</p>",
+                "url": "https://mastodon.social/@rmblaber1956",
+                "uri": "https://mastodon.social/users/rmblaber1956",
+                "avatar": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "header": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "followers_count": 197,
+                "following_count": 168,
+                "statuses_count": 17135,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Title",
+                        "value": "Dr.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Gender",
+                        "value": "Male",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Sexual Orientation",
+                        "value": "Gay",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Age",
+                        "value": "67",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110625135751089613",
+                    "username": "StarkRG",
+                    "url": "https://myside-yourside.net/@StarkRG",
+                    "acct": "StarkRG@myside-yourside.net"
+                },
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112937380977996410",
+            "created_at": "2024-08-10T11:01:12.000Z",
+            "in_reply_to_id": "112937375148816211",
+            "in_reply_to_account_id": "111137654549708990",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://myside-yourside.net/users/StarkRG/statuses/112937380928076274",
+            "url": "https://myside-yourside.net/@StarkRG/112937380928076274",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@rmblaber1956\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rmblaber1956</span></a></span> Oh, well I guess nothing can be done then, launch all the nukes, burn it all down.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110625135751089613",
+                "username": "StarkRG",
+                "acct": "StarkRG@myside-yourside.net",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-06-28T00:00:00.000Z",
+                "note": "<p><a href=\"https://myside-yourside.net/tags/Autism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Autism</span></a> <a href=\"https://myside-yourside.net/tags/ADHD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ADHD</span></a> <a href=\"https://myside-yourside.net/tags/StarTrek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StarTrek</span></a> <a href=\"https://myside-yourside.net/tags/Farscape\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Farscape</span></a> <a href=\"https://myside-yourside.net/tags/Stargate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Stargate</span></a> <a href=\"https://myside-yourside.net/tags/Astronomy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Astronomy</span></a> <a href=\"https://myside-yourside.net/tags/Engineering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Engineering</span></a> <a href=\"https://myside-yourside.net/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> <a href=\"https://myside-yourside.net/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> <a href=\"https://myside-yourside.net/tags/vim\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vim</span></a> <a href=\"https://myside-yourside.net/tags/selfhosted\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>selfhosted</span></a></p><p>I'm too unenthused to put together a bio right now, so that'll have to do.</p><p>No LLM or other AI training is allowed to be done with this account without prior payment and authorisation.</p><p><a href=\"https://myside-yourside.net/tags/Nobot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nobot</span></a></p>",
+                "url": "https://myside-yourside.net/@StarkRG",
+                "uri": "https://myside-yourside.net/users/StarkRG",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/625/135/751/089/613/original/74050c90547b6390.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/625/135/751/089/613/original/74050c90547b6390.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/625/135/751/089/613/original/9e44cc6c2a383bee.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/625/135/751/089/613/original/9e44cc6c2a383bee.jpg",
+                "followers_count": 265,
+                "following_count": 247,
+                "statuses_count": 5997,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111137654549708990",
+                    "username": "rmblaber1956",
+                    "url": "https://mastodon.social/@rmblaber1956",
+                    "acct": "rmblaber1956"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112937504426439144",
+            "created_at": "2024-08-10T11:32:37.289Z",
+            "in_reply_to_id": "112937380977996410",
+            "in_reply_to_account_id": "110625135751089613",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/rmblaber1956/statuses/112937504426439144",
+            "url": "https://mastodon.social/@rmblaber1956/112937504426439144",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://myside-yourside.net/@StarkRG\" class=\"u-url mention\">@<span>StarkRG</span></a></span> The nukes may well get launched, but I don&#39;t recommend that as a course of action.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "111137654549708990",
+                "username": "rmblaber1956",
+                "acct": "rmblaber1956",
+                "display_name": "Richard Michael Blaber",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-09-27T00:00:00.000Z",
+                "note": "<p>I am a retired academic, with an MA &amp; PhD in Social Policy &amp; Administration from the Universities of York &amp; Kent respectively. I am disabled, &amp; am deeply concerned about human, gay and disability rights, the climate emergency and the biodiversity crisis. I am currently politically homeless. I like films, classical music, jazz, and reading.</p>",
+                "url": "https://mastodon.social/@rmblaber1956",
+                "uri": "https://mastodon.social/users/rmblaber1956",
+                "avatar": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "header": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "followers_count": 197,
+                "following_count": 168,
+                "statuses_count": 17135,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Title",
+                        "value": "Dr.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Gender",
+                        "value": "Male",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Sexual Orientation",
+                        "value": "Gay",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Age",
+                        "value": "67",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110625135751089613",
+                    "username": "StarkRG",
+                    "url": "https://myside-yourside.net/@StarkRG",
+                    "acct": "StarkRG@myside-yourside.net"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112937511716949345",
+            "created_at": "2024-08-10T11:34:27.000Z",
+            "in_reply_to_id": "112937504426439144",
+            "in_reply_to_account_id": "111137654549708990",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://myside-yourside.net/users/StarkRG/statuses/112937511632364992",
+            "url": "https://myside-yourside.net/@StarkRG/112937511632364992",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@rmblaber1956\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rmblaber1956</span></a></span> So, just nothing, then? You say we can't change society, yet that is exactly what needs to happen.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110625135751089613",
+                "username": "StarkRG",
+                "acct": "StarkRG@myside-yourside.net",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-06-28T00:00:00.000Z",
+                "note": "<p><a href=\"https://myside-yourside.net/tags/Autism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Autism</span></a> <a href=\"https://myside-yourside.net/tags/ADHD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ADHD</span></a> <a href=\"https://myside-yourside.net/tags/StarTrek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StarTrek</span></a> <a href=\"https://myside-yourside.net/tags/Farscape\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Farscape</span></a> <a href=\"https://myside-yourside.net/tags/Stargate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Stargate</span></a> <a href=\"https://myside-yourside.net/tags/Astronomy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Astronomy</span></a> <a href=\"https://myside-yourside.net/tags/Engineering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Engineering</span></a> <a href=\"https://myside-yourside.net/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> <a href=\"https://myside-yourside.net/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> <a href=\"https://myside-yourside.net/tags/vim\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vim</span></a> <a href=\"https://myside-yourside.net/tags/selfhosted\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>selfhosted</span></a></p><p>I'm too unenthused to put together a bio right now, so that'll have to do.</p><p>No LLM or other AI training is allowed to be done with this account without prior payment and authorisation.</p><p><a href=\"https://myside-yourside.net/tags/Nobot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nobot</span></a></p>",
+                "url": "https://myside-yourside.net/@StarkRG",
+                "uri": "https://myside-yourside.net/users/StarkRG",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/625/135/751/089/613/original/74050c90547b6390.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/625/135/751/089/613/original/74050c90547b6390.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/625/135/751/089/613/original/9e44cc6c2a383bee.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/625/135/751/089/613/original/9e44cc6c2a383bee.jpg",
+                "followers_count": 265,
+                "following_count": 247,
+                "statuses_count": 5997,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111137654549708990",
+                    "username": "rmblaber1956",
+                    "url": "https://mastodon.social/@rmblaber1956",
+                    "acct": "rmblaber1956"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112937532703250403",
+            "created_at": "2024-08-10T11:39:48.760Z",
+            "in_reply_to_id": "112937511716949345",
+            "in_reply_to_account_id": "110625135751089613",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/rmblaber1956/statuses/112937532703250403",
+            "url": "https://mastodon.social/@rmblaber1956/112937532703250403",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://myside-yourside.net/@StarkRG\" class=\"u-url mention\">@<span>StarkRG</span></a></span> Explain, please, how &quot;society&quot; gets changed. Societies aren&#39;t static - they change over time. British society now isn&#39;t like it was in the 1990s, or 1970s, even if there is such a thing as &quot;British society&quot;, &amp; that&#39;s arguable.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "111137654549708990",
+                "username": "rmblaber1956",
+                "acct": "rmblaber1956",
+                "display_name": "Richard Michael Blaber",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-09-27T00:00:00.000Z",
+                "note": "<p>I am a retired academic, with an MA &amp; PhD in Social Policy &amp; Administration from the Universities of York &amp; Kent respectively. I am disabled, &amp; am deeply concerned about human, gay and disability rights, the climate emergency and the biodiversity crisis. I am currently politically homeless. I like films, classical music, jazz, and reading.</p>",
+                "url": "https://mastodon.social/@rmblaber1956",
+                "uri": "https://mastodon.social/users/rmblaber1956",
+                "avatar": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "header": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "followers_count": 197,
+                "following_count": 168,
+                "statuses_count": 17135,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Title",
+                        "value": "Dr.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Gender",
+                        "value": "Male",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Sexual Orientation",
+                        "value": "Gay",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Age",
+                        "value": "67",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110625135751089613",
+                    "username": "StarkRG",
+                    "url": "https://myside-yourside.net/@StarkRG",
+                    "acct": "StarkRG@myside-yourside.net"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112937730432199358",
+            "created_at": "2024-08-10T12:30:04.000Z",
+            "in_reply_to_id": "112937532703250403",
+            "in_reply_to_account_id": "111137654549708990",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://myside-yourside.net/users/StarkRG/statuses/112937730326270876",
+            "url": "https://myside-yourside.net/@StarkRG/112937730326270876",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": "2024-08-10T12:30:45.000Z",
+            "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@rmblaber1956\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rmblaber1956</span></a></span> I didn't mean to give the impression that I was a sociologist, you should probably pose those questions to someone like that.</p>",
+            "reblog": null,
+            "account": {
+                "id": "110625135751089613",
+                "username": "StarkRG",
+                "acct": "StarkRG@myside-yourside.net",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-06-28T00:00:00.000Z",
+                "note": "<p><a href=\"https://myside-yourside.net/tags/Autism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Autism</span></a> <a href=\"https://myside-yourside.net/tags/ADHD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ADHD</span></a> <a href=\"https://myside-yourside.net/tags/StarTrek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StarTrek</span></a> <a href=\"https://myside-yourside.net/tags/Farscape\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Farscape</span></a> <a href=\"https://myside-yourside.net/tags/Stargate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Stargate</span></a> <a href=\"https://myside-yourside.net/tags/Astronomy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Astronomy</span></a> <a href=\"https://myside-yourside.net/tags/Engineering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Engineering</span></a> <a href=\"https://myside-yourside.net/tags/FOSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSS</span></a> <a href=\"https://myside-yourside.net/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a> <a href=\"https://myside-yourside.net/tags/vim\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vim</span></a> <a href=\"https://myside-yourside.net/tags/selfhosted\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>selfhosted</span></a></p><p>I'm too unenthused to put together a bio right now, so that'll have to do.</p><p>No LLM or other AI training is allowed to be done with this account without prior payment and authorisation.</p><p><a href=\"https://myside-yourside.net/tags/Nobot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nobot</span></a></p>",
+                "url": "https://myside-yourside.net/@StarkRG",
+                "uri": "https://myside-yourside.net/users/StarkRG",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/625/135/751/089/613/original/74050c90547b6390.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/625/135/751/089/613/original/74050c90547b6390.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/110/625/135/751/089/613/original/9e44cc6c2a383bee.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/110/625/135/751/089/613/original/9e44cc6c2a383bee.jpg",
+                "followers_count": 265,
+                "following_count": 247,
+                "statuses_count": 5997,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111137654549708990",
+                    "username": "rmblaber1956",
+                    "url": "https://mastodon.social/@rmblaber1956",
+                    "acct": "rmblaber1956"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112943657036359003",
+            "created_at": "2024-08-11T13:37:18.672Z",
+            "in_reply_to_id": "112937730432199358",
+            "in_reply_to_account_id": "110625135751089613",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/rmblaber1956/statuses/112943657036359003",
+            "url": "https://mastodon.social/@rmblaber1956/112943657036359003",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://myside-yourside.net/@StarkRG\" class=\"u-url mention\">@<span>StarkRG</span></a></span> If you want to change society, perhaps you need to think about how society changes, &amp; what sort of change is possible, as well as what change(s) you think might be desirable. That requires knowledge of history, sociology, politics &amp; economics. Oh, &amp; ecology, too! That one&#39;s a must.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "111137654549708990",
+                "username": "rmblaber1956",
+                "acct": "rmblaber1956",
+                "display_name": "Richard Michael Blaber",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-09-27T00:00:00.000Z",
+                "note": "<p>I am a retired academic, with an MA &amp; PhD in Social Policy &amp; Administration from the Universities of York &amp; Kent respectively. I am disabled, &amp; am deeply concerned about human, gay and disability rights, the climate emergency and the biodiversity crisis. I am currently politically homeless. I like films, classical music, jazz, and reading.</p>",
+                "url": "https://mastodon.social/@rmblaber1956",
+                "uri": "https://mastodon.social/users/rmblaber1956",
+                "avatar": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/111/137/654/549/708/990/original/15e104184d289ece.png",
+                "header": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "header_static": "https://files.mastodon.social/accounts/headers/111/137/654/549/708/990/original/3dfa8340713327f9.jpg",
+                "followers_count": 197,
+                "following_count": 168,
+                "statuses_count": 17135,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "Title",
+                        "value": "Dr.",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Gender",
+                        "value": "Male",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Sexual Orientation",
+                        "value": "Gay",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Age",
+                        "value": "67",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "110625135751089613",
+                    "username": "StarkRG",
+                    "url": "https://myside-yourside.net/@StarkRG",
+                    "acct": "StarkRG@myside-yourside.net"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112936884323348308",
+            "created_at": "2024-08-10T08:54:54.000Z",
+            "in_reply_to_id": "112932130763316117",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "nl",
+            "uri": "https://mastodon.world/users/Herman/statuses/112936884295641174",
+            "url": "https://mastodon.world/@Herman/112936884295641174",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Old but dire news.\ud83d\ude28</p>",
+            "reblog": null,
+            "account": {
+                "id": "109285609983517415",
+                "username": "Herman",
+                "acct": "Herman@mastodon.world",
+                "display_name": "Herman  \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddfe\ud83c\uddea",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-04T00:00:00.000Z",
+                "note": "<p>Curious and interested in science and politics. Loving facts and informed opinions. Enjoying photography and good food.</p>",
+                "url": "https://mastodon.world/@Herman",
+                "uri": "https://mastodon.world/users/Herman",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/285/609/983/517/415/original/f6b5f8c1d957d611.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/285/609/983/517/415/original/f6b5f8c1d957d611.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/285/609/983/517/415/original/af4630725208b939.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/285/609/983/517/415/original/af4630725208b939.jpeg",
+                "followers_count": 784,
+                "following_count": 1515,
+                "statuses_count": 1798,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Twitter",
+                        "value": "Not anymore.",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112937022997067770",
+            "created_at": "2024-08-10T09:30:11.268Z",
+            "in_reply_to_id": "112932130763316117",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/ianbobmorris/statuses/112937022997067770",
+            "url": "https://mastodon.social/@ianbobmorris/112937022997067770",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> what counts as advances in technology in this case, because i feel like while better various technologies would make things easier they require other stuff like making dense efficient cities served mostly by mass transit the norm</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "16876",
+                "username": "ianbobmorris",
+                "acct": "ianbobmorris",
+                "display_name": "",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2016-12-01T00:00:00.000Z",
+                "note": "<p>he/him</p>",
+                "url": "https://mastodon.social/@ianbobmorris",
+                "uri": "https://mastodon.social/users/ianbobmorris",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 41,
+                "following_count": 71,
+                "statuses_count": 1426,
+                "last_status_at": "2024-08-19",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112937817272141159",
+            "created_at": "2024-08-10T12:52:10.000Z",
+            "in_reply_to_id": "112932130763316117",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "es",
+            "uri": "https://ohai.social/users/Erebus_Amauro/statuses/112937817240290237",
+            "url": "https://ohai.social/@Erebus_Amauro/112937817240290237",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> Social problems can't be solved by technological advances on its own. Whoever agrees with that technopositivist statement can only do so from some kind denyalism of the current situation, be it interested or just naive.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109319427360116871",
+                "username": "Erebus_Amauro",
+                "acct": "Erebus_Amauro@ohai.social",
+                "display_name": "Erebus",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-10T00:00:00.000Z",
+                "note": "<p>Traslado de sede del gob. del T\u00e1rtaro por defunci\u00f3n del anterior casero.</p>",
+                "url": "https://ohai.social/@Erebus_Amauro",
+                "uri": "https://ohai.social/users/Erebus_Amauro",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/319/427/360/116/871/original/35c89f67e6597833.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/319/427/360/116/871/original/35c89f67e6597833.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/319/427/360/116/871/original/38872563bc9d122b.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/319/427/360/116/871/original/38872563bc9d122b.jpg",
+                "followers_count": 106,
+                "following_count": 202,
+                "statuses_count": 4774,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112938215095052699",
+            "created_at": "2024-08-10T14:33:15.000Z",
+            "in_reply_to_id": "112932130763316117",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.sdf.org/users/davidpmaurer/statuses/112938214710674241",
+            "url": "https://mastodon.sdf.org/@davidpmaurer/112938214710674241",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> </p><p>that's muh plan.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109323747848511985",
+                "username": "davidpmaurer",
+                "acct": "davidpmaurer@mastodon.sdf.org",
+                "display_name": "davidpmaurer",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-11T00:00:00.000Z",
+                "note": "<p>cantankerous (and carnivorous) alien shrub, come to tell stories, write songs, and watch hoominity snuff it. (earth's soil is now 68% plastic. what did you think would happen?)</p><p>my avatar is my most recent hoomin skinsuit. my banner is a photo of the current scotus. </p><p><a href=\"https://mastodon.sdf.org/tags/writer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>writer</span></a> <a href=\"https://mastodon.sdf.org/tags/musician\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>musician</span></a> <a href=\"https://mastodon.sdf.org/tags/composer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>composer</span></a> <a href=\"https://mastodon.sdf.org/tags/artist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>artist</span></a> <a href=\"https://mastodon.sdf.org/tags/grumpyoldman\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>grumpyoldman</span></a> <a href=\"https://mastodon.sdf.org/tags/politicaladdict\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politicaladdict</span></a></p>",
+                "url": "https://mastodon.sdf.org/@davidpmaurer",
+                "uri": "https://mastodon.sdf.org/users/davidpmaurer",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/323/747/848/511/985/original/4a49fa9710669086.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/323/747/848/511/985/original/4a49fa9710669086.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/323/747/848/511/985/original/c6415ce79f5e02a7.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/323/747/848/511/985/original/c6415ce79f5e02a7.jpg",
+                "followers_count": 575,
+                "following_count": 573,
+                "statuses_count": 30328,
+                "last_status_at": "2024-08-27",
+                "hide_collections": true,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "fill my brain (trivia)",
+                        "value": "<a href=\"http://fillmybrain.blogspot.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">fillmybrain.blogspot.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "elsewhen returns (politics, mostly)",
+                        "value": "<a href=\"http://elsewhenreturns.blogspot.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">elsewhenreturns.blogspot.com</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "dpmaurer (my books & art)",
+                        "value": "http://deepeemaurer. blogspot.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "chrome bones (my music)",
+                        "value": "<a href=\"https://m.soundcloud.com/chrome-bones\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">m.soundcloud.com/chrome-bones</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112941903847271817",
+            "created_at": "2024-08-11T06:11:27.138Z",
+            "in_reply_to_id": "112932130763316117",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.social/users/violetmaze/statuses/112941903847271817",
+            "url": "https://mastodon.social/@violetmaze/112941903847271817",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> Fundamental changes need to happen to our corporations...can&#39;t see that happening myself.</p>",
+            "reblog": null,
+            "application": {
+                "name": "Web",
+                "website": null
+            },
+            "account": {
+                "id": "109256115316884927",
+                "username": "violetmaze",
+                "acct": "violetmaze",
+                "display_name": "violetmaze",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-10-30T00:00:00.000Z",
+                "note": "<p>artist, climate justice, photographer, film maker, food grower, humour \ud83c\udf0d ..also at  <span class=\"h-card\" translate=\"no\"><a href=\"https://masto.ai/@violetmaze\" class=\"u-url mention\">@<span>violetmaze</span></a></span></p>",
+                "url": "https://mastodon.social/@violetmaze",
+                "uri": "https://mastodon.social/users/violetmaze",
+                "avatar": "https://files.mastodon.social/accounts/avatars/109/256/115/316/884/927/original/660dc0a417fbf6c9.png",
+                "avatar_static": "https://files.mastodon.social/accounts/avatars/109/256/115/316/884/927/original/660dc0a417fbf6c9.png",
+                "header": "https://files.mastodon.social/accounts/headers/109/256/115/316/884/927/original/432897ce05b0315f.png",
+                "header_static": "https://files.mastodon.social/accounts/headers/109/256/115/316/884/927/original/432897ce05b0315f.png",
+                "followers_count": 53,
+                "following_count": 48,
+                "statuses_count": 685,
+                "last_status_at": "2024-08-22",
+                "hide_collections": false,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": [
+                    {
+                        "name": "https://mastodon.social/@violetmaze/112600139897364532",
+                        "value": "Bunch of flowers from my garden",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "https://mastodon.social/@violetmaze/112728866955523898",
+                        "value": "flowers by Jamie Reid at the Florrie",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112942585650633551",
+            "created_at": "2024-08-11T09:04:50.618Z",
+            "in_reply_to_id": "112932130763316117",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "sv",
+            "uri": "https://mastodon.social/users/maffia/statuses/112942585650633551",
+            "url": "https://mastodon.social/@maffia/112942585650633551",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\">@<span>breadandcircuses</span></a></span> lol, of course the only thing that can change society is technological advancement. People don\u2019t want to live under fascist rule as you suggest</p>",
+            "reblog": null,
+            "application": {
+                "name": "Mastodon for iOS",
+                "website": "https://app.joinmastodon.org/ios"
+            },
+            "account": {
+                "id": "110463533120573694",
+                "username": "maffia",
+                "acct": "maffia",
+                "display_name": "Maffia",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2023-05-31T00:00:00.000Z",
+                "note": "",
+                "url": "https://mastodon.social/@maffia",
+                "uri": "https://mastodon.social/users/maffia",
+                "avatar": "https://mastodon.social/avatars/original/missing.png",
+                "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 18,
+                "following_count": 113,
+                "statuses_count": 453,
+                "last_status_at": "2024-08-26",
+                "hide_collections": true,
+                "noindex": false,
+                "emojis": [],
+                "roles": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112945865802157097",
+            "created_at": "2024-08-11T22:58:59.000Z",
+            "in_reply_to_id": "112932130763316117",
+            "in_reply_to_account_id": "109298515581226227",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mstdn.fr/users/dp/statuses/112945865683318605",
+            "url": "https://mstdn.fr/@dp/112945865683318605",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@breadandcircuses\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>breadandcircuses</span></a></span> thank you for your relentless work of sharing these kind of papers</p>",
+            "reblog": null,
+            "account": {
+                "id": "129269",
+                "username": "dp",
+                "acct": "dp@mstdn.fr",
+                "display_name": "Daniele",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2017-05-06T00:00:00.000Z",
+                "note": "<p>- FR</p><p>Diff\u00e9rentes langues et diff\u00e9rents domaines.</p><p>il / lui</p><p>- IT</p><p>Varie lingue e vari ambiti<br>egli / lui</p><p>- EN</p><p>Languages and domains may vary</p><p>he / him</p><p><a href=\"https://mstdn.fr/tags/biodiversite\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>biodiversite</span></a> <a href=\"https://mstdn.fr/tags/climatecrisis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatecrisis</span></a><br><a href=\"https://mstdn.fr/tags/faicitoyen\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>faicitoyen</span></a> <a href=\"https://mstdn.fr/tags/internet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>internet</span></a> <a href=\"https://mstdn.fr/tags/gdpr\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gdpr</span></a> <a href=\"https://mstdn.fr/tags/privacy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>privacy</span></a> <a href=\"https://mstdn.fr/tags/surveillance\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>surveillance</span></a><br><a href=\"https://mstdn.fr/tags/bienscommuns\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bienscommuns</span></a> <a href=\"https://mstdn.fr/tags/humanites\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>humanites</span></a></p>",
+                "url": "https://mstdn.fr/@dp",
+                "uri": "https://mstdn.fr/users/dp",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/129/269/original/96798b15d71ae863.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/129/269/original/96798b15d71ae863.png",
+                "header": "https://mastodon.social/headers/original/missing.png",
+                "header_static": "https://mastodon.social/headers/original/missing.png",
+                "followers_count": 136,
+                "following_count": 697,
+                "statuses_count": 2264,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "\ud83d\udc93",
+                        "value": "<a href=\"https://piaille.fr/@alexvolkpit\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">piaille.fr/@alexvolkpit</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-23T06:38:28.144+00:00"
+                    },
+                    {
+                        "name": "FAI",
+                        "value": "<a href=\"https://www.franciliens.net/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">franciliens.net/</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Avatar",
+                        "value": "<a href=\"https://www.metmuseum.org/art/collection/search/377466\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">metmuseum.org/art/collection/s</span><span class=\"invisible\">earch/377466</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109298515581226227",
+                    "username": "breadandcircuses",
+                    "url": "https://climatejustice.social/@breadandcircuses",
+                    "acct": "breadandcircuses@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112948520237712787",
+            "created_at": "2024-08-12T10:13:06.000Z",
+            "in_reply_to_id": "112945865802157097",
+            "in_reply_to_account_id": "129269",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/breadandcircuses/statuses/112948516357948361",
+            "url": "https://climatejustice.social/@breadandcircuses/112948516357948361",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.fr/@dp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dp</span></a></span>  Thanks for saying that. I'm happy that you find it helpful!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109298515581226227",
+                "username": "breadandcircuses",
+                "acct": "breadandcircuses@climatejustice.social",
+                "display_name": "Bread and Circuses",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-06T00:00:00.000Z",
+                "note": "<p>\ud83c\udf0f Born at 312 PPM</p><p>Retired NGO executive doing my best to stay informed and raise awareness about environmental crises, climate breakdown, and the rapacious, murderous impact of greedy capitalists and the politicians they own.</p><p>Why the name?  Back in the day, empires placated their citizens with \"bread and circuses.\" Now we get fast food and apps. But it's all basically the same \u2014 distraction from what's REALLY happening.</p>",
+                "url": "https://climatejustice.social/@breadandcircuses",
+                "uri": "https://climatejustice.social/users/breadandcircuses",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/298/515/581/226/227/original/681f99a5d35fedf3.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/298/515/581/226/227/original/681f99a5d35fedf3.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/298/515/581/226/227/original/1aeb7143cc06b930.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/298/515/581/226/227/original/1aeb7143cc06b930.jpg",
+                "followers_count": 9545,
+                "following_count": 742,
+                "statuses_count": 4421,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "See my Toots",
+                        "value": "<a href=\"https://justmytoots.com/@breadandcircuses@climatejustice.social\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justmytoots.com/@breadandcircu</span><span class=\"invisible\">ses@climatejustice.social</span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Favorite saying",
+                        "value": "\"Be kind to everyone you meet, for they are fighting a great battle.\u201d",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "129269",
+                    "username": "dp",
+                    "url": "https://mstdn.fr/@dp",
+                    "acct": "dp@mstdn.fr"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

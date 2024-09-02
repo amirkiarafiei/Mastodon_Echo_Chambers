@@ -1,0 +1,847 @@
+{
+    "ancestors": [],
+    "descendants": [
+        {
+            "id": "112831943542329570",
+            "created_at": "2024-07-22T20:06:49.000Z",
+            "in_reply_to_id": "112831836911854388",
+            "in_reply_to_account_id": "109299550739735249",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://greennuclear.online/users/collectifission/statuses/112831942449156092",
+            "url": "https://greennuclear.online/@collectifission/112831942449156092",
+            "replies_count": 4,
+            "reblogs_count": 1,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>Greece electricity mix last 2 weeks<br>Prices hitting \u20ac800/MWh in the evening peak.</p><p>That's 5x the price of HPC.</p><p>Source: <a href=\"https://intermittent.energy/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">intermittent.energy/</span><span class=\"invisible\"></span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109299550739735249",
+                "username": "collectifission",
+                "acct": "collectifission@greennuclear.online",
+                "display_name": "Collectifission",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-05T00:00:00.000Z",
+                "note": "<p>Hi there, I'm posting a lot about nuclear energy, but I can branch out to:</p><p>- Politics: I'm an 'orthodox' marxist. I'll probably use <span class=\"h-card\" translate=\"no\"><a href=\"https://todon.eu/@emil\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>emil</span></a></span> for those posts.<br>- Esperantisto.<br>- Environment: you know my pro-nuclear stance, but did you know I'm an ecomodernist?<br>- Democracy: Sortition is the way to go.<br>- Economy: abolish the money economy and replace it by cybernetic communism, using labourtime as our measurement for planning.</p>",
+                "url": "https://greennuclear.online/@collectifission",
+                "uri": "https://greennuclear.online/users/collectifission",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/299/550/739/735/249/original/cea7405f94a2858d.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/299/550/739/735/249/original/cea7405f94a2858d.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/299/550/739/735/249/original/191ba950fe4b7c39.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/299/550/739/735/249/original/191ba950fe4b7c39.jpg",
+                "followers_count": 548,
+                "following_count": 381,
+                "statuses_count": 11078,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Donate",
+                        "value": "<a href=\"https://www.collectifission.nl/en/donations/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">collectifission.nl/en/donation</span><span class=\"invisible\">s/</span></a>",
+                        "verified_at": "2024-08-27T10:30:36.035+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112831943462668634",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/831/943/462/668/634/original/3293f04c2f90a6b4.jpg",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/831/943/462/668/634/small/3293f04c2f90a6b4.jpg",
+                    "remote_url": "https://cdn.masto.host/greennuclearonline/media_attachments/files/112/831/938/532/149/983/original/fe5d14eab11cc876.jpg",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 2037,
+                            "height": 547,
+                            "size": "2037x547",
+                            "aspect": 3.7239488117001827
+                        },
+                        "small": {
+                            "width": 926,
+                            "height": 249,
+                            "size": "926x249",
+                            "aspect": 3.718875502008032
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "USRC[4M{x]j[_MxtMyof-ro3Ria#IXM|tQWC"
+                }
+            ],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://intermittent.energy/",
+                "title": "Grafana",
+                "description": "",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "",
+                "provider_url": "",
+                "html": "",
+                "width": 0,
+                "height": 0,
+                "image": null,
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": null,
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112832163095368667",
+            "created_at": "2024-07-22T21:02:36.000Z",
+            "in_reply_to_id": "112831943542329570",
+            "in_reply_to_account_id": "109299550739735249",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://greennuclear.online/users/collectifission/statuses/112832161789495247",
+            "url": "https://greennuclear.online/@collectifission/112832161789495247",
+            "replies_count": 3,
+            "reblogs_count": 2,
+            "favourites_count": 0,
+            "edited_at": "2024-07-22T21:04:02.000Z",
+            "content": "<p>A somewhat older stat, but the household electricity prices are regurlarly updated by Eurostat. These are the numbers for the second half of 2023.</p><p>Not only is there a stark contrast between France and Germany, but it strikes that of the top 9 most expensive countries 7 have no nuclear at all (Belgium is an interesting outlier).</p><p><a href=\"https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Electricity_price_statistics#Electricity_prices_for_household_consumers\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ec.europa.eu/eurostat/statisti</span><span class=\"invisible\">cs-explained/index.php?title=Electricity_price_statistics#Electricity_prices_for_household_consumers</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109299550739735249",
+                "username": "collectifission",
+                "acct": "collectifission@greennuclear.online",
+                "display_name": "Collectifission",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-05T00:00:00.000Z",
+                "note": "<p>Hi there, I'm posting a lot about nuclear energy, but I can branch out to:</p><p>- Politics: I'm an 'orthodox' marxist. I'll probably use <span class=\"h-card\" translate=\"no\"><a href=\"https://todon.eu/@emil\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>emil</span></a></span> for those posts.<br>- Esperantisto.<br>- Environment: you know my pro-nuclear stance, but did you know I'm an ecomodernist?<br>- Democracy: Sortition is the way to go.<br>- Economy: abolish the money economy and replace it by cybernetic communism, using labourtime as our measurement for planning.</p>",
+                "url": "https://greennuclear.online/@collectifission",
+                "uri": "https://greennuclear.online/users/collectifission",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/299/550/739/735/249/original/cea7405f94a2858d.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/299/550/739/735/249/original/cea7405f94a2858d.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/299/550/739/735/249/original/191ba950fe4b7c39.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/299/550/739/735/249/original/191ba950fe4b7c39.jpg",
+                "followers_count": 548,
+                "following_count": 381,
+                "statuses_count": 11078,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Donate",
+                        "value": "<a href=\"https://www.collectifission.nl/en/donations/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">collectifission.nl/en/donation</span><span class=\"invisible\">s/</span></a>",
+                        "verified_at": "2024-08-27T10:30:36.035+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "112832163060090109",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/112/832/163/060/090/109/original/134c5941526d449b.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/112/832/163/060/090/109/small/134c5941526d449b.png",
+                    "remote_url": "https://cdn.masto.host/greennuclearonline/media_attachments/files/112/832/147/999/703/225/original/133ea5bb3c7f52f9.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 982,
+                            "height": 607,
+                            "size": "982x607",
+                            "aspect": 1.6177924217462933
+                        },
+                        "small": {
+                            "width": 610,
+                            "height": 377,
+                            "size": "610x377",
+                            "aspect": 1.6180371352785146
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "UAR{*|9Yxvt7InIoofRk^,M{M{R%~X%MbEM{"
+                }
+            ],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112892989646050750",
+            "created_at": "2024-08-02T14:51:47.000Z",
+            "in_reply_to_id": "112832163095368667",
+            "in_reply_to_account_id": "109299550739735249",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://greennuclear.online/users/collectifission/statuses/112892989144565148",
+            "url": "https://greennuclear.online/@collectifission/112892989144565148",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p>\"The best argument against nuclear power, maybe the only real argument, is that nuclear power is \u201ctoo slow\u201d to build and is \u201ctoo expensive\u201d to finance. Is this true? Or is it another myth, like glowing green goo, that needs debunking? Noted Nuclear Zaddy Kyle Hill finally digs into the economics of nuclear power.\"</p><p><a href=\"https://yt.artemislena.eu/watch?v=RPjBj1TEmRQ\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">yt.artemislena.eu/watch?v=RPjB</span><span class=\"invisible\">j1TEmRQ</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109299550739735249",
+                "username": "collectifission",
+                "acct": "collectifission@greennuclear.online",
+                "display_name": "Collectifission",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-11-05T00:00:00.000Z",
+                "note": "<p>Hi there, I'm posting a lot about nuclear energy, but I can branch out to:</p><p>- Politics: I'm an 'orthodox' marxist. I'll probably use <span class=\"h-card\" translate=\"no\"><a href=\"https://todon.eu/@emil\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>emil</span></a></span> for those posts.<br>- Esperantisto.<br>- Environment: you know my pro-nuclear stance, but did you know I'm an ecomodernist?<br>- Democracy: Sortition is the way to go.<br>- Economy: abolish the money economy and replace it by cybernetic communism, using labourtime as our measurement for planning.</p>",
+                "url": "https://greennuclear.online/@collectifission",
+                "uri": "https://greennuclear.online/users/collectifission",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/299/550/739/735/249/original/cea7405f94a2858d.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/299/550/739/735/249/original/cea7405f94a2858d.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/299/550/739/735/249/original/191ba950fe4b7c39.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/299/550/739/735/249/original/191ba950fe4b7c39.jpg",
+                "followers_count": 548,
+                "following_count": 381,
+                "statuses_count": 11078,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Donate",
+                        "value": "<a href=\"https://www.collectifission.nl/en/donations/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">collectifission.nl/en/donation</span><span class=\"invisible\">s/</span></a>",
+                        "verified_at": "2024-08-27T10:30:36.035+00:00"
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://yt.artemislena.eu/watch?v=RPjBj1TEmRQ",
+                "title": "Is Nuclear Power \u201cToo Expensive\u201d?",
+                "description": "Stay ahead of the curve on nuclear and other science news with Ground News! Subscribe through my link https://ground.news/kylehill to get 40% off their unlimited access Vantage plan.\n\nThe best argument against nuclear power, maybe the only real argument, is that nuclear power is \u201ctoo slow\u201d to build and is \u201ctoo expensive\u201d to finance. Is this true? Or is it another myth, like glowing green goo, that needs debunking? Noted Nuclear Zaddy Kyle Hill finally digs into the economics of nuclear power.\n\n\ud83d\udcaa JOIN [THE FACILITY] for members-only live streams, behind-the-scenes posts, and the official Discord: https://www.patreon.com/kylehill\n\n\ud83d\udc55 NUCLEAR WASTE WARNING MERCH OUT NOW! https://shop.kylehill.net\n\n\ud83c\udfa5 SUB TO THE GAMING CHANNEL: https://www.youtube.com/channel/UCfTNPE8mXGBZPC1nfVtOJTw\n\n\u2705 MANDATORY LIKE, SUBSCRIBE, AND TURN ON NOTIFICATIONS\n\n\ud83d\udcf2 FOLLOW ME ON SOCIETY-RUINING SOCIAL MEDIA:\n\ud83d\udcf7 https://www.instagram.com/sci_Phile/\n\n\ud83d\ude0e: Kyle\n\ud83c\udfac: Charles Shattuck\n\ud83c\udf9e: Kevin Onofreo\n\u2702: Nate Berger\n\ud83e\udd16: @clairemax\n\ud83c\udfa8: Thorsten Denk https://www.z1mt.com/\n\ud83c\udfbc:  @mey  \n\ud83c\udfb9: bensound.com\n\ud83c\udfa8: Mr. Mass https://youtube.com/c/MysteryGiftMovie\n\ud83c\udfb5: freesound.org",
+                "language": "en",
+                "type": "video",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Kyle Hill | Invidious",
+                "provider_url": "",
+                "html": "<iframe src=\"https://yt.artemislena.eu/embed/RPjBj1TEmRQ\" width=\"1280\" height=\"720\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" frameborder=\"0\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms\"></iframe>",
+                "width": 1280,
+                "height": 720,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/106/598/628/original/424e967824d879f7.jpg",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "UMGIy54Yoao|yE9GxtX5k@jEWXo2NgRnRlnh",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "112832109200095944",
+            "created_at": "2024-07-22T20:49:13.000Z",
+            "in_reply_to_id": "112831943542329570",
+            "in_reply_to_account_id": "109299550739735249",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://urbanists.social/users/Ed_Carley/statuses/112832109175663690",
+            "url": "https://urbanists.social/@Ed_Carley/112832109175663690",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://greennuclear.online/@collectifission\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>collectifission</span></a></span> by the time a nuclear plant gets built, the load it is planned to serve will be getting served by PV, Wind and storage. Cost is one factor, the ~15+ years needed to build a reactor is the other. Greece\u2019s high price appears to be due to the 3.4MW of likely imported gas they\u2019re burning in that graph.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109468965305918119",
+                "username": "Ed_Carley",
+                "acct": "Ed_Carley@urbanists.social",
+                "display_name": "Ed the climate guy",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-27T00:00:00.000Z",
+                "note": "<p>Energy and Bikes. Energy efficiency policy nerd. The guy behind Ed's Clean Energy &amp; Sustainability Jobs list which has more than 21,000 subscribers.</p>",
+                "url": "https://urbanists.social/@Ed_Carley",
+                "uri": "https://urbanists.social/users/Ed_Carley",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/468/965/305/918/119/original/7fae1c85fe68d01c.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/468/965/305/918/119/original/7fae1c85fe68d01c.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/468/965/305/918/119/original/1c823153c81e5336.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/468/965/305/918/119/original/1c823153c81e5336.jpeg",
+                "followers_count": 128,
+                "following_count": 312,
+                "statuses_count": 1553,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "My jobs newsletter",
+                        "value": "<a href=\"https://edscleanenergysustainabilityjobs.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edscleanenergysustainabilityjo</span><span class=\"invisible\">bs.com/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109299550739735249",
+                    "username": "collectifission",
+                    "url": "https://greennuclear.online/@collectifission",
+                    "acct": "collectifission@greennuclear.online"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112832117359192920",
+            "created_at": "2024-07-22T20:51:17.000Z",
+            "in_reply_to_id": "112831943542329570",
+            "in_reply_to_account_id": "109299550739735249",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://urbanists.social/users/Ed_Carley/statuses/112832117339944128",
+            "url": "https://urbanists.social/@Ed_Carley/112832117339944128",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://greennuclear.online/@collectifission\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>collectifission</span></a></span> you also appear to have cherry picked the highest demand day and the highest cost of the week. That\u2019s not enough to support a nuke plant. They need to run more or less 24/7. They aren\u2019t flexible like gas or batteries.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109468965305918119",
+                "username": "Ed_Carley",
+                "acct": "Ed_Carley@urbanists.social",
+                "display_name": "Ed the climate guy",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-27T00:00:00.000Z",
+                "note": "<p>Energy and Bikes. Energy efficiency policy nerd. The guy behind Ed's Clean Energy &amp; Sustainability Jobs list which has more than 21,000 subscribers.</p>",
+                "url": "https://urbanists.social/@Ed_Carley",
+                "uri": "https://urbanists.social/users/Ed_Carley",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/468/965/305/918/119/original/7fae1c85fe68d01c.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/468/965/305/918/119/original/7fae1c85fe68d01c.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/468/965/305/918/119/original/1c823153c81e5336.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/468/965/305/918/119/original/1c823153c81e5336.jpeg",
+                "followers_count": 128,
+                "following_count": 312,
+                "statuses_count": 1553,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "My jobs newsletter",
+                        "value": "<a href=\"https://edscleanenergysustainabilityjobs.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edscleanenergysustainabilityjo</span><span class=\"invisible\">bs.com/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109299550739735249",
+                    "username": "collectifission",
+                    "url": "https://greennuclear.online/@collectifission",
+                    "acct": "collectifission@greennuclear.online"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112832441528296922",
+            "created_at": "2024-07-22T22:13:44.000Z",
+            "in_reply_to_id": "112832163095368667",
+            "in_reply_to_account_id": "109299550739735249",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://urbanists.social/users/Ed_Carley/statuses/112832441511129347",
+            "url": "https://urbanists.social/@Ed_Carley/112832441511129347",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://greennuclear.online/@collectifission\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>collectifission</span></a></span> Its because they\u2019re burning methane (natural) gas for power. Its because of gas.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109468965305918119",
+                "username": "Ed_Carley",
+                "acct": "Ed_Carley@urbanists.social",
+                "display_name": "Ed the climate guy",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-27T00:00:00.000Z",
+                "note": "<p>Energy and Bikes. Energy efficiency policy nerd. The guy behind Ed's Clean Energy &amp; Sustainability Jobs list which has more than 21,000 subscribers.</p>",
+                "url": "https://urbanists.social/@Ed_Carley",
+                "uri": "https://urbanists.social/users/Ed_Carley",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/468/965/305/918/119/original/7fae1c85fe68d01c.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/468/965/305/918/119/original/7fae1c85fe68d01c.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/468/965/305/918/119/original/1c823153c81e5336.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/468/965/305/918/119/original/1c823153c81e5336.jpeg",
+                "followers_count": 128,
+                "following_count": 312,
+                "statuses_count": 1553,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "My jobs newsletter",
+                        "value": "<a href=\"https://edscleanenergysustainabilityjobs.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edscleanenergysustainabilityjo</span><span class=\"invisible\">bs.com/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109299550739735249",
+                    "username": "collectifission",
+                    "url": "https://greennuclear.online/@collectifission",
+                    "acct": "collectifission@greennuclear.online"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112832451015666991",
+            "created_at": "2024-07-22T22:16:08.000Z",
+            "in_reply_to_id": "112832163095368667",
+            "in_reply_to_account_id": "109299550739735249",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://chaos.social/users/Sweetshark/statuses/112832450984374113",
+            "url": "https://chaos.social/@Sweetshark/112832450984374113",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://greennuclear.online/@collectifission\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>collectifission</span></a></span> Belgium is not an outlier, its just annoying you in there is no pattern or correlation between nuclear and household prices -- so you have to fantasize one.</p>",
+            "reblog": null,
+            "account": {
+                "id": "866829",
+                "username": "Sweetshark",
+                "acct": "Sweetshark@chaos.social",
+                "display_name": "Bjoern Michaelsen",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-07-14T00:00:00.000Z",
+                "note": "<p>personal opinions of a hanseatic productivity liberator. -- also: Founder &amp; Director at <a href=\"https://chaos.social/tags/LibreOffice\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LibreOffice</span></a>/The Document Foundation 2011-2020, Sun alumni</p><p>If you use my toots to train your LLM, you will be billed.</p>",
+                "url": "https://chaos.social/@Sweetshark",
+                "uri": "https://chaos.social/users/Sweetshark",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/866/829/original/7e21c88a893eb14e.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/866/829/original/7e21c88a893eb14e.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/866/829/original/d49bafdba81817d4.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/866/829/original/d49bafdba81817d4.jpeg",
+                "followers_count": 300,
+                "following_count": 742,
+                "statuses_count": 2815,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "web",
+                        "value": "<a href=\"https://bjoernmichaelsen.github.io/about/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bjoernmichaelsen.github.io/abo</span><span class=\"invisible\">ut/</span></a>",
+                        "verified_at": "2024-08-24T10:39:37.400+00:00"
+                    },
+                    {
+                        "name": "github",
+                        "value": "<a href=\"https://github.com/bjoernmichaelsen\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/bjoernmichaelsen</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-24T10:39:37.737+00:00"
+                    },
+                    {
+                        "name": "twitter",
+                        "value": "<a href=\"https://twitter.com/Sweet5hark\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/Sweet5hark</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109299550739735249",
+                    "username": "collectifission",
+                    "url": "https://greennuclear.online/@collectifission",
+                    "acct": "collectifission@greennuclear.online"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112836647171995060",
+            "created_at": "2024-07-23T16:03:17.000Z",
+            "in_reply_to_id": "112832451015666991",
+            "in_reply_to_account_id": "866829",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mas.to/users/arnowi/statuses/112836647144754252",
+            "url": "https://mas.to/@arnowi/112836647144754252",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://chaos.social/@Sweetshark\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Sweetshark</span></a></span><br>It's very simple: in Belgium the electricity price is determined by the most expensive plant, this always being a gas powered power plant. No matter how cheap nuclear gets, in the current market structure, that will always be driven up by the most expensive plants, especially when demand is high as dirtier plants have to deliver more.<br><span class=\"h-card\" translate=\"no\"><a href=\"https://greennuclear.online/@collectifission\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>collectifission</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "111589484678340927",
+                "username": "arnowi",
+                "acct": "arnowi@mas.to",
+                "display_name": "ArnoWI - \ud83c\udde7\ud83c\uddea\ud83c\uddea\ud83c\uddfa - \ud83c\uddfa\ud83c\udde6\ud83c\uddf5\ud83c\uddf8\ud83d\udcaa",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-12-16T00:00:00.000Z",
+                "note": "<p>Previously at arnowi@mastodon.social but left due to Threats.</p><p>Followers without any posts are likely to be blocked.</p><p>I write code (C), I ride motorbike, I play games. Used to sculpt miniatures occasionally. Now looking for motivation.</p><p><a href=\"https://mas.to/tags/StandWithUkraine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StandWithUkraine</span></a> \ud83c\uddfa\ud83c\udde6<br><a href=\"https://mas.to/tags/NoThreads\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoThreads</span></a> <a href=\"https://mas.to/tags/FediPact\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FediPact</span></a> <a href=\"https://mas.to/tags/MetaIsEvil\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MetaIsEvil</span></a><br><a href=\"https://mas.to/tags/FreePalestine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FreePalestine</span></a> \ud83c\uddf5\ud83c\uddf8 <a href=\"https://mas.to/tags/StopGenocide\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StopGenocide</span></a><br><a href=\"https://mas.to/tags/HeavyMetal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HeavyMetal</span></a><br><a href=\"https://mas.to/tags/28mm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>28mm</span></a> <a href=\"https://mas.to/tags/miniatures\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>miniatures</span></a> <a href=\"https://mas.to/tags/sculpting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sculpting</span></a><br><a href=\"https://mas.to/tags/KernkraftJaBitte\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KernkraftJaBitte</span></a> I\u2764\u269b<br><a href=\"https://mas.to/tags/AntiTheist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AntiTheist</span></a></p><p><a href=\"https://mas.to/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobridge</span></a></p>",
+                "url": "https://mas.to/@arnowi",
+                "uri": "https://mas.to/users/arnowi",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/589/484/678/340/927/original/0e36d31c7de2f3cf.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/589/484/678/340/927/original/0e36d31c7de2f3cf.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/111/589/484/678/340/927/original/0a94e4bdccb5250b.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/111/589/484/678/340/927/original/0a94e4bdccb5250b.png",
+                "followers_count": 117,
+                "following_count": 468,
+                "statuses_count": 542,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Occupation",
+                        "value": "Embedded software dev. Mostly ARM32, ESP32, PIC8,24",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Mastodon",
+                        "value": "arnowi@app.bikers.social",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Matrix",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@arnowi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>arnowi</span></a></span>:matrix.org",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Bookwyrm",
+                        "value": "arnowi@bookwyrm.social",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "866829",
+                    "username": "Sweetshark",
+                    "url": "https://chaos.social/@Sweetshark",
+                    "acct": "Sweetshark@chaos.social"
+                },
+                {
+                    "id": "109299550739735249",
+                    "username": "collectifission",
+                    "url": "https://greennuclear.online/@collectifission",
+                    "acct": "collectifission@greennuclear.online"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112836658838787833",
+            "created_at": "2024-07-23T16:06:15.000Z",
+            "in_reply_to_id": "112836647171995060",
+            "in_reply_to_account_id": "111589484678340927",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://chaos.social/users/Sweetshark/statuses/112836658791668928",
+            "url": "https://chaos.social/@Sweetshark/112836658791668928",
+            "replies_count": 1,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@arnowi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>arnowi</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://greennuclear.online/@collectifission\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>collectifission</span></a></span> Yeah, and in France EDF is only kept alive by the state. In other words: consumer prices have very little to do with means of production.</p>",
+            "reblog": null,
+            "account": {
+                "id": "866829",
+                "username": "Sweetshark",
+                "acct": "Sweetshark@chaos.social",
+                "display_name": "Bjoern Michaelsen",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2019-07-14T00:00:00.000Z",
+                "note": "<p>personal opinions of a hanseatic productivity liberator. -- also: Founder &amp; Director at <a href=\"https://chaos.social/tags/LibreOffice\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LibreOffice</span></a>/The Document Foundation 2011-2020, Sun alumni</p><p>If you use my toots to train your LLM, you will be billed.</p>",
+                "url": "https://chaos.social/@Sweetshark",
+                "uri": "https://chaos.social/users/Sweetshark",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/000/866/829/original/7e21c88a893eb14e.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/000/866/829/original/7e21c88a893eb14e.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/000/866/829/original/d49bafdba81817d4.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/000/866/829/original/d49bafdba81817d4.jpeg",
+                "followers_count": 300,
+                "following_count": 742,
+                "statuses_count": 2815,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "web",
+                        "value": "<a href=\"https://bjoernmichaelsen.github.io/about/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bjoernmichaelsen.github.io/abo</span><span class=\"invisible\">ut/</span></a>",
+                        "verified_at": "2024-08-24T10:39:37.400+00:00"
+                    },
+                    {
+                        "name": "github",
+                        "value": "<a href=\"https://github.com/bjoernmichaelsen\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/bjoernmichaelsen</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-24T10:39:37.737+00:00"
+                    },
+                    {
+                        "name": "twitter",
+                        "value": "<a href=\"https://twitter.com/Sweet5hark\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/Sweet5hark</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111589484678340927",
+                    "username": "arnowi",
+                    "url": "https://mas.to/@arnowi",
+                    "acct": "arnowi@mas.to"
+                },
+                {
+                    "id": "109299550739735249",
+                    "username": "collectifission",
+                    "url": "https://greennuclear.online/@collectifission",
+                    "acct": "collectifission@greennuclear.online"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112836927084171781",
+            "created_at": "2024-07-23T17:14:28.000Z",
+            "in_reply_to_id": "112836658838787833",
+            "in_reply_to_account_id": "866829",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "unlisted",
+            "language": "en",
+            "uri": "https://mas.to/users/arnowi/statuses/112836927059704012",
+            "url": "https://mas.to/@arnowi/112836927059704012",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://chaos.social/@Sweetshark\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Sweetshark</span></a></span><br>Indeed on the last part. Despite cheaper nuclear power we still have high prices.<br><span class=\"h-card\" translate=\"no\"><a href=\"https://greennuclear.online/@collectifission\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>collectifission</span></a></span></p>",
+            "reblog": null,
+            "account": {
+                "id": "111589484678340927",
+                "username": "arnowi",
+                "acct": "arnowi@mas.to",
+                "display_name": "ArnoWI - \ud83c\udde7\ud83c\uddea\ud83c\uddea\ud83c\uddfa - \ud83c\uddfa\ud83c\udde6\ud83c\uddf5\ud83c\uddf8\ud83d\udcaa",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2023-12-16T00:00:00.000Z",
+                "note": "<p>Previously at arnowi@mastodon.social but left due to Threats.</p><p>Followers without any posts are likely to be blocked.</p><p>I write code (C), I ride motorbike, I play games. Used to sculpt miniatures occasionally. Now looking for motivation.</p><p><a href=\"https://mas.to/tags/StandWithUkraine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StandWithUkraine</span></a> \ud83c\uddfa\ud83c\udde6<br><a href=\"https://mas.to/tags/NoThreads\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NoThreads</span></a> <a href=\"https://mas.to/tags/FediPact\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FediPact</span></a> <a href=\"https://mas.to/tags/MetaIsEvil\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MetaIsEvil</span></a><br><a href=\"https://mas.to/tags/FreePalestine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FreePalestine</span></a> \ud83c\uddf5\ud83c\uddf8 <a href=\"https://mas.to/tags/StopGenocide\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StopGenocide</span></a><br><a href=\"https://mas.to/tags/HeavyMetal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HeavyMetal</span></a><br><a href=\"https://mas.to/tags/28mm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>28mm</span></a> <a href=\"https://mas.to/tags/miniatures\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>miniatures</span></a> <a href=\"https://mas.to/tags/sculpting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sculpting</span></a><br><a href=\"https://mas.to/tags/KernkraftJaBitte\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KernkraftJaBitte</span></a> I\u2764\u269b<br><a href=\"https://mas.to/tags/AntiTheist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AntiTheist</span></a></p><p><a href=\"https://mas.to/tags/nobridge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobridge</span></a></p>",
+                "url": "https://mas.to/@arnowi",
+                "uri": "https://mas.to/users/arnowi",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/589/484/678/340/927/original/0e36d31c7de2f3cf.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/589/484/678/340/927/original/0e36d31c7de2f3cf.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/111/589/484/678/340/927/original/0a94e4bdccb5250b.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/111/589/484/678/340/927/original/0a94e4bdccb5250b.png",
+                "followers_count": 117,
+                "following_count": 468,
+                "statuses_count": 542,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Occupation",
+                        "value": "Embedded software dev. Mostly ARM32, ESP32, PIC8,24",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Mastodon",
+                        "value": "arnowi@app.bikers.social",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Matrix",
+                        "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mas.to/@arnowi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>arnowi</span></a></span>:matrix.org",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Bookwyrm",
+                        "value": "arnowi@bookwyrm.social",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "866829",
+                    "username": "Sweetshark",
+                    "url": "https://chaos.social/@Sweetshark",
+                    "acct": "Sweetshark@chaos.social"
+                },
+                {
+                    "id": "109299550739735249",
+                    "username": "collectifission",
+                    "url": "https://greennuclear.online/@collectifission",
+                    "acct": "collectifission@greennuclear.online"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "112832448706728326",
+            "created_at": "2024-07-22T22:15:33.000Z",
+            "in_reply_to_id": "112831943542329570",
+            "in_reply_to_account_id": "109299550739735249",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://urbanists.social/users/Ed_Carley/statuses/112832448680531361",
+            "url": "https://urbanists.social/@Ed_Carley/112832448680531361",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://greennuclear.online/@collectifission\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>collectifission</span></a></span> alos, holy crap, Solar is the largest resource on that chart. They\u2019ve got 5.32 GW of PV. The peak demand is just shy of 12 GW. Once they finish linking up many of their islands with the mainland grid and start building batteries, that grid is going to be much cheaper. Nuclear can\u2019t compete with 20 euro generation. Wait till they add offshore wind!</p>",
+            "reblog": null,
+            "account": {
+                "id": "109468965305918119",
+                "username": "Ed_Carley",
+                "acct": "Ed_Carley@urbanists.social",
+                "display_name": "Ed the climate guy",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-27T00:00:00.000Z",
+                "note": "<p>Energy and Bikes. Energy efficiency policy nerd. The guy behind Ed's Clean Energy &amp; Sustainability Jobs list which has more than 21,000 subscribers.</p>",
+                "url": "https://urbanists.social/@Ed_Carley",
+                "uri": "https://urbanists.social/users/Ed_Carley",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/468/965/305/918/119/original/7fae1c85fe68d01c.jpeg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/468/965/305/918/119/original/7fae1c85fe68d01c.jpeg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/468/965/305/918/119/original/1c823153c81e5336.jpeg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/468/965/305/918/119/original/1c823153c81e5336.jpeg",
+                "followers_count": 128,
+                "following_count": 312,
+                "statuses_count": 1553,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "My jobs newsletter",
+                        "value": "<a href=\"https://edscleanenergysustainabilityjobs.com/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">edscleanenergysustainabilityjo</span><span class=\"invisible\">bs.com/</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109299550739735249",
+                    "username": "collectifission",
+                    "url": "https://greennuclear.online/@collectifission",
+                    "acct": "collectifission@greennuclear.online"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}

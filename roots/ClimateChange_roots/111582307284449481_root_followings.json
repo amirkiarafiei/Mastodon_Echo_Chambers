@@ -1,0 +1,79 @@
+[
+    {
+        "id": "38659",
+        "username": "nixCraft",
+        "acct": "nixCraft",
+        "display_name": "nixCraft \ud83d\udc27",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2017-04-03T00:00:00.000Z",
+        "note": "<p>Enjoy <a href=\"https://mastodon.social/tags/Linux\" class=\"mention hashtag\" rel=\"tag\">#<span>Linux</span></a>, <a href=\"https://mastodon.social/tags/macOS\" class=\"mention hashtag\" rel=\"tag\">#<span>macOS</span></a>, <a href=\"https://mastodon.social/tags/FreeBSD\" class=\"mention hashtag\" rel=\"tag\">#<span>FreeBSD</span></a> &amp; <a href=\"https://mastodon.social/tags/Unix\" class=\"mention hashtag\" rel=\"tag\">#<span>Unix</span></a> like systems? <a href=\"https://mastodon.social/tags/Opensource\" class=\"mention hashtag\" rel=\"tag\">#<span>Opensource</span></a> software &amp; <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"tag\">#<span>programming</span></a>? Enjoy <a href=\"https://mastodon.social/tags/Sysadmin\" class=\"mention hashtag\" rel=\"tag\">#<span>Sysadmin</span></a> &amp; <a href=\"https://mastodon.social/tags/DevOps\" class=\"mention hashtag\" rel=\"tag\">#<span>DevOps</span></a> work? Follow us to make the most of your geeky IT career. <a href=\"https://mastodon.social/tags/ActuallyHuman\" class=\"mention hashtag\" rel=\"tag\">#<span>ActuallyHuman</span></a> (e/human)</p>",
+        "url": "https://mastodon.social/@nixCraft",
+        "uri": "https://mastodon.social/users/nixCraft",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/038/659/original/b0de8058da52f2aa.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/038/659/original/b0de8058da52f2aa.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/038/659/original/6c4d08cfd6c28163.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/038/659/original/6c4d08cfd6c28163.png",
+        "followers_count": 71531,
+        "following_count": 104,
+        "statuses_count": 5540,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Linux blog",
+                "value": "<a href=\"https://www.cyberciti.biz\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">cyberciti.biz</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-21T11:10:53.864+00:00"
+            },
+            {
+                "name": "Q & A forum",
+                "value": "<a href=\"https://www.nixcraft.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">nixcraft.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-18T08:41:11.287+00:00"
+            },
+            {
+                "name": "Patreon members-only guides",
+                "value": "<a href=\"https://www.opensourceflare.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">opensourceflare.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-01-16T23:14:51.734+00:00"
+            },
+            {
+                "name": "nixCraft shop",
+                "value": "<a href=\"https://nixcraft-2.creator-spring.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">nixcraft-2.creator-spring.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "423210",
+        "username": "andrewbriscoe",
+        "acct": "andrewbriscoe",
+        "display_name": "Andrew Briscoe",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": true,
+        "group": false,
+        "created_at": "2018-08-15T00:00:00.000Z",
+        "note": "<p>Hiker. Backpacker. Adventurer. Photographer. Happily married and have three teenagers. Oregon Tech grad. Estoy aprendiendo espa\u00f1ol. (he/him)\u2028\u2028\ud83d\udcf8 All photos by me\u2028\ud83d\udccd Portland, Oregon, USA</p>",
+        "url": "https://mastodon.social/@andrewbriscoe",
+        "uri": "https://mastodon.social/users/andrewbriscoe",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/423/210/original/75802b4d0187e2bc.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/423/210/original/75802b4d0187e2bc.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/000/423/210/original/6f8610b1a24658eb.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/423/210/original/6f8610b1a24658eb.jpeg",
+        "followers_count": 3244,
+        "following_count": 2904,
+        "statuses_count": 6543,
+        "last_status_at": "2024-08-29",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    }
+]

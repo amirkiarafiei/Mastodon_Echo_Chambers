@@ -1,0 +1,394 @@
+[
+    {
+        "id": "109958637141143547",
+        "username": "fosstodon",
+        "acct": "fosstodon",
+        "display_name": "Fosstodon (Backup)",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2023-03-03T00:00:00.000Z",
+        "note": "<p>This is an official backup account of the main <span class=\"h-card\" translate=\"no\"><a href=\"https://fosstodon.org/@fosstodon\" class=\"u-url mention\">@<span>fosstodon</span></a></span> account. We will use this to interact with the fediverse if Fosstodon is ever down or having issues.</p>",
+        "url": "https://mastodon.social/@fosstodon",
+        "uri": "https://mastodon.social/users/fosstodon",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/958/637/141/143/547/original/ce86b08eb4f97450.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/958/637/141/143/547/original/ce86b08eb4f97450.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/958/637/141/143/547/original/553a6d09200cd5e6.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/958/637/141/143/547/original/553a6d09200cd5e6.png",
+        "followers_count": 728,
+        "following_count": 3,
+        "statuses_count": 0,
+        "last_status_at": null,
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Fosstodon Hub",
+                "value": "<a href=\"https://hub.fosstodon.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">hub.fosstodon.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-03-03T09:43:31.994+00:00"
+            },
+            {
+                "name": "Fosstodon",
+                "value": "<a href=\"https://fosstodon.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">fosstodon.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Main account",
+                "value": "<a href=\"https://fosstodon.org/@fosstodon\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">fosstodon.org/@fosstodon</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "108220663420623232",
+        "username": "Brennig",
+        "acct": "Brennig",
+        "display_name": "Brennig",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-04-30T00:00:00.000Z",
+        "note": "<p>Author: 2023 novel Tempest is out now! <a href=\"https://amzn.eu/d/8NTbqdW\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">amzn.eu/d/8NTbqdW</span><span class=\"invisible\"></span></a> - working on a sequel. Welsh guy. Yacht owner/skipper. Spaniel dad. ZX10R pilot. <a href=\"https://mastodon.social/tags/Singlehanded\" class=\"mention hashtag\" rel=\"tag\">#<span>Singlehanded</span></a> <a href=\"https://mastodon.social/tags/Sailing\" class=\"mention hashtag\" rel=\"tag\">#<span>Sailing</span></a> <a href=\"https://mastodon.social/tags/Spaniels\" class=\"mention hashtag\" rel=\"tag\">#<span>Spaniels</span></a> <a href=\"https://mastodon.social/tags/Books\" class=\"mention hashtag\" rel=\"tag\">#<span>Books</span></a> <a href=\"https://mastodon.social/tags/Music\" class=\"mention hashtag\" rel=\"tag\">#<span>Music</span></a> <a href=\"https://mastodon.social/tags/writing\" class=\"mention hashtag\" rel=\"tag\">#<span>writing</span></a> <a href=\"https://mastodon.social/tags/writer\" class=\"mention hashtag\" rel=\"tag\">#<span>writer</span></a> <a href=\"https://mastodon.social/tags/author\" class=\"mention hashtag\" rel=\"tag\">#<span>author</span></a></p>",
+        "url": "https://mastodon.social/@Brennig",
+        "uri": "https://mastodon.social/users/Brennig",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/220/663/420/623/232/original/a2877393a1302655.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/220/663/420/623/232/original/a2877393a1302655.png",
+        "header": "https://files.mastodon.social/accounts/headers/108/220/663/420/623/232/original/71f87e840d147bf9.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/220/663/420/623/232/original/71f87e840d147bf9.jpg",
+        "followers_count": 74,
+        "following_count": 66,
+        "statuses_count": 274,
+        "last_status_at": "2024-07-19",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Sailing",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Spaniels",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Music",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Books",
+                "value": "",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "109245769856113803",
+        "username": "deeann",
+        "acct": "deeann",
+        "display_name": "DeeAnn Campbell",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p>Librarian, writer, editor, mom of teens, wife of an aerospace engineer/roboticist. I love my <a href=\"https://mastodon.social/tags/RescueDog\" class=\"mention hashtag\" rel=\"tag\">#<span>RescueDog</span></a>. Transplanted <a href=\"https://mastodon.social/tags/Texan\" class=\"mention hashtag\" rel=\"tag\">#<span>Texan</span></a>. Lived and traveled aboard a 31\u2019 <a href=\"https://mastodon.social/tags/sailboat\" class=\"mention hashtag\" rel=\"tag\">#<span>sailboat</span></a> for 2 years, <a href=\"https://mastodon.social/tags/HudsonValley\" class=\"mention hashtag\" rel=\"tag\">#<span>HudsonValley</span></a> <a href=\"https://mastodon.social/tags/Birding\" class=\"mention hashtag\" rel=\"tag\">#<span>Birding</span></a> <a href=\"https://mastodon.social/tags/VotingRights\" class=\"mention hashtag\" rel=\"tag\">#<span>VotingRights</span></a> <a href=\"https://mastodon.social/tags/GreenEnergy\" class=\"mention hashtag\" rel=\"tag\">#<span>GreenEnergy</span></a> <a href=\"https://mastodon.social/tags/EVs\" class=\"mention hashtag\" rel=\"tag\">#<span>EVs</span></a> <a href=\"https://mastodon.social/tags/Autism\" class=\"mention hashtag\" rel=\"tag\">#<span>Autism</span></a> <a href=\"https://mastodon.social/tags/ADHD\" class=\"mention hashtag\" rel=\"tag\">#<span>ADHD</span></a> <a href=\"https://mastodon.social/tags/Books\" class=\"mention hashtag\" rel=\"tag\">#<span>Books</span></a> <a href=\"https://mastodon.social/tags/Baking\" class=\"mention hashtag\" rel=\"tag\">#<span>Baking</span></a> <a href=\"https://mastodon.social/tags/Gardening\" class=\"mention hashtag\" rel=\"tag\">#<span>Gardening</span></a> <a href=\"https://mastodon.social/tags/FiberArts\" class=\"mention hashtag\" rel=\"tag\">#<span>FiberArts</span></a> <a href=\"https://mastodon.social/tags/Harp\" class=\"mention hashtag\" rel=\"tag\">#<span>Harp</span></a> <a href=\"https://mastodon.social/tags/HomeAutomation\" class=\"mention hashtag\" rel=\"tag\">#<span>HomeAutomation</span></a></p>",
+        "url": "https://mastodon.social/@deeann",
+        "uri": "https://mastodon.social/users/deeann",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/245/769/856/113/803/original/732cc335e0cd8c47.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/245/769/856/113/803/original/732cc335e0cd8c47.png",
+        "header": "https://files.mastodon.social/accounts/headers/109/245/769/856/113/803/original/89055a28c61ced47.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/109/245/769/856/113/803/original/89055a28c61ced47.jpeg",
+        "followers_count": 253,
+        "following_count": 1165,
+        "statuses_count": 2315,
+        "last_status_at": "2024-08-30",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "262309",
+        "username": "mycroft_ai",
+        "acct": "mycroft_ai",
+        "display_name": "Mycroft AI",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "indexable": false,
+        "group": false,
+        "created_at": "2017-12-14T00:00:00.000Z",
+        "note": "<p>Mycroft is the Open Source Voice Assistant.</p>",
+        "url": "https://mastodon.social/@mycroft_ai",
+        "uri": "https://mastodon.social/users/mycroft_ai",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/262/309/original/39cc481a322963c4.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/262/309/original/39cc481a322963c4.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 827,
+        "following_count": 11,
+        "statuses_count": 61,
+        "last_status_at": "2022-12-29",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "107735717045757408",
+        "username": "SYPerelandra",
+        "acct": "SYPerelandra",
+        "display_name": "S/Y Perelandra",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-02-03T00:00:00.000Z",
+        "note": "<p>Logbook of Perelandra, her Captain, Dan and his Family. I&#39;ll fix things, go sailing, and try to do some community service along the way.</p><p>pixelfed: @SY-Perelandra</p>",
+        "url": "https://mastodon.social/@SYPerelandra",
+        "uri": "https://mastodon.social/users/SYPerelandra",
+        "avatar": "https://files.mastodon.social/accounts/avatars/107/735/717/045/757/408/original/aee0ace1e42e3758.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/107/735/717/045/757/408/original/aee0ace1e42e3758.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/107/735/717/045/757/408/original/054c7a5e41c9c06a.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/107/735/717/045/757/408/original/054c7a5e41c9c06a.jpg",
+        "followers_count": 71,
+        "following_count": 68,
+        "statuses_count": 123,
+        "last_status_at": "2022-08-08",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Sailing",
+                "value": "Boats",
+                "verified_at": null
+            },
+            {
+                "name": "Cruising",
+                "value": "Travel",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "835729",
+        "username": "paulrr",
+        "acct": "paulrr",
+        "display_name": "paulrr (he/him)",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2019-06-17T00:00:00.000Z",
+        "note": "<p>Interests <a href=\"https://mastodon.social/tags/ClimateChange\" class=\"mention hashtag\" rel=\"tag\">#<span>ClimateChange</span></a> <a href=\"https://mastodon.social/tags/FOSS\" class=\"mention hashtag\" rel=\"tag\">#<span>FOSS</span></a> <a href=\"https://mastodon.social/tags/gardening\" class=\"mention hashtag\" rel=\"tag\">#<span>gardening</span></a> <a href=\"https://mastodon.social/tags/bcpoli\" class=\"mention hashtag\" rel=\"tag\">#<span>bcpoli</span></a> <a href=\"https://mastodon.social/tags/cdnpoli\" class=\"mention hashtag\" rel=\"tag\">#<span>cdnpoli</span></a></p><p>Also: <a href=\"https://mastodon.social/tags/artivism\" class=\"mention hashtag\" rel=\"tag\">#<span>artivism</span></a> <a href=\"https://mastodon.social/tags/CanLit\" class=\"mention hashtag\" rel=\"tag\">#<span>CanLit</span></a> <a href=\"https://mastodon.social/tags/GreenEconomy\" class=\"mention hashtag\" rel=\"tag\">#<span>GreenEconomy</span></a> <a href=\"https://mastodon.social/tags/history\" class=\"mention hashtag\" rel=\"tag\">#<span>history</span></a> <a href=\"https://mastodon.social/tags/inaturalist\" class=\"mention hashtag\" rel=\"tag\">#<span>inaturalist</span></a> <a href=\"https://mastodon.social/tags/podcasts\" class=\"mention hashtag\" rel=\"tag\">#<span>podcasts</span></a> <a href=\"https://mastodon.social/tags/renewables\" class=\"mention hashtag\" rel=\"tag\">#<span>renewables</span></a><br /> <br /><a href=\"https://mastodon.social/tags/nobots\" class=\"mention hashtag\" rel=\"tag\">#<span>nobots</span></a></p>",
+        "url": "https://mastodon.social/@paulrr",
+        "uri": "https://mastodon.social/users/paulrr",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/835/729/original/52e373e2c2a830ff.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/835/729/original/52e373e2c2a830ff.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/835/729/original/15841c6b631bf938.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/835/729/original/15841c6b631bf938.jpg",
+        "followers_count": 159,
+        "following_count": 75,
+        "statuses_count": 703,
+        "last_status_at": "2023-01-06",
+        "hide_collections": true,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Country",
+                "value": "Canada",
+                "verified_at": null
+            },
+            {
+                "name": "Interests",
+                "value": "Climate action, FOSS",
+                "verified_at": null
+            },
+            {
+                "name": "Born at",
+                "value": "333 ppm CO2",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "106768134445296064",
+        "username": "BacliffExplorationSociety",
+        "acct": "BacliffExplorationSociety",
+        "display_name": "Bacliff Exploration Society",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2021-08-16T00:00:00.000Z",
+        "note": "",
+        "url": "https://mastodon.social/@BacliffExplorationSociety",
+        "uri": "https://mastodon.social/users/BacliffExplorationSociety",
+        "avatar": "https://files.mastodon.social/accounts/avatars/106/768/134/445/296/064/original/858d06b58b523db1.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/106/768/134/445/296/064/original/858d06b58b523db1.png",
+        "header": "https://files.mastodon.social/accounts/headers/106/768/134/445/296/064/original/1b44a385f21b77c7.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/106/768/134/445/296/064/original/1b44a385f21b77c7.jpg",
+        "followers_count": 6,
+        "following_count": 3,
+        "statuses_count": 55,
+        "last_status_at": "2024-05-23",
+        "hide_collections": null,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": "106585840043138317",
+        "username": "jacobwilliams",
+        "acct": "jacobwilliams",
+        "display_name": "Jacob Williams \u2705",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2021-07-15T00:00:00.000Z",
+        "note": "<p>Orbital mechanic &amp; programmer. <a href=\"https://mastodon.social/tags/Fortran\" class=\"mention hashtag\" rel=\"tag\">#<span>Fortran</span></a> aficionado. Personal account. Opinions are my own! \ud83d\ude80</p>",
+        "url": "https://mastodon.social/@jacobwilliams",
+        "uri": "https://mastodon.social/users/jacobwilliams",
+        "avatar": "https://files.mastodon.social/accounts/avatars/106/585/840/043/138/317/original/7a9155a2321da567.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/106/585/840/043/138/317/original/7a9155a2321da567.png",
+        "header": "https://files.mastodon.social/accounts/headers/106/585/840/043/138/317/original/9b46b71dcd099ef1.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/106/585/840/043/138/317/original/9b46b71dcd099ef1.jpg",
+        "followers_count": 59,
+        "following_count": 34,
+        "statuses_count": 146,
+        "last_status_at": "2024-08-24",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://degenerateconic.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">degenerateconic.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-12T03:03:05.644+00:00"
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/DegenerateConic\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/DegenerateConic</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/jacobwilliams\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jacobwilliams</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-02-05T15:42:12.562+00:00"
+            }
+        ]
+    },
+    {
+        "id": "912845",
+        "username": "JohnJClimateMarcher",
+        "acct": "JohnJClimateMarcher",
+        "display_name": "JohnJ ClimateMarcher",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2019-09-17T00:00:00.000Z",
+        "note": "<p>Science/ Math Teacher and <a href=\"https://mastodon.social/tags/Climate\" class=\"mention hashtag\" rel=\"tag\">#<span>Climate</span></a> Activist: <br />Was on the Great March for Climate Action (2014)* 3000+ miles, 8 months, L.A. to D.C.<br />I play acoustic blues to heal.<br />I teach kids about<br /><a href=\"https://mastodon.social/tags/math\" class=\"mention hashtag\" rel=\"tag\">#<span>math</span></a> <a href=\"https://mastodon.social/tags/ecology\" class=\"mention hashtag\" rel=\"tag\">#<span>ecology</span></a> <a href=\"https://mastodon.social/tags/gardening\" class=\"mention hashtag\" rel=\"tag\">#<span>gardening</span></a> <a href=\"https://mastodon.social/tags/science\" class=\"mention hashtag\" rel=\"tag\">#<span>science</span></a> <a href=\"https://mastodon.social/tags/permaculture\" class=\"mention hashtag\" rel=\"tag\">#<span>permaculture</span></a> <a href=\"https://mastodon.social/tags/ecosystem_restoration\" class=\"mention hashtag\" rel=\"tag\">#<span>ecosystem_restoration</span></a> <br />B.S. Ecol &amp; Evol Biology<br />*Inspired by the Great Peace March for Global Nuclear Disarmament (1986).<br />I was on that too. \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f</p>",
+        "url": "https://mastodon.social/@JohnJClimateMarcher",
+        "uri": "https://mastodon.social/users/JohnJClimateMarcher",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/912/845/original/d60acf9614346cee.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/912/845/original/d60acf9614346cee.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/912/845/original/1dd0149edde16f3e.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/912/845/original/1dd0149edde16f3e.jpg",
+        "followers_count": 415,
+        "following_count": 366,
+        "statuses_count": 41,
+        "last_status_at": "2024-04-22",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "PeerTube",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://tube.xy-space.de/accounts/climatemarcher_johnj\" class=\"u-url mention\">@<span>climatemarcher_johnj@tube.xy-space.de</span></a></span>",
+                "verified_at": null
+            },
+            {
+                "name": "pixelfed.social",
+                "value": "<a href=\"https://pixelfed.social/i/web/profile/426719407756123598\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pixelfed.social/i/web/profile/</span><span class=\"invisible\">426719407756123598</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": "850300",
+        "username": "ChateauErin",
+        "acct": "ChateauErin",
+        "display_name": "Erin",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2019-07-06T00:00:00.000Z",
+        "note": "<p>Games writer (Hack n&#39; Slash), aerospace engineer at JSC, first queen of RPOP.  Demon-frog apologist.  Trans woman.  Avatar:  Shia the Cat.</p><p>I star posts very inconsistently and have disabled notifications about being starred.  Please don&#39;t infer anything from me not using the star.</p>",
+        "url": "https://mastodon.social/@ChateauErin",
+        "uri": "https://mastodon.social/users/ChateauErin",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/850/300/original/f1d78e6535fcbeb3.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/850/300/original/f1d78e6535fcbeb3.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/000/850/300/original/5550408341e36212.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/850/300/original/5550408341e36212.jpeg",
+        "followers_count": 131,
+        "following_count": 65,
+        "statuses_count": 5219,
+        "last_status_at": "2024-08-29",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Pronouns",
+                "value": "she/her",
+                "verified_at": null
+            },
+            {
+                "name": "StackExchange",
+                "value": "<a href=\"https://stackexchange.com/users/4865483/erin-anne\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">stackexchange.com/users/486548</span><span class=\"invisible\">3/erin-anne</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Youtube",
+                "value": "<a href=\"https://www.youtube.com/channel/UC66G-u8Enf8BPS6SeddEqAg\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/channel/UC66G-u8En</span><span class=\"invisible\">f8BPS6SeddEqAg</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitch",
+                "value": "<a href=\"https://twitch.tv/chateauerin\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitch.tv/chateauerin</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

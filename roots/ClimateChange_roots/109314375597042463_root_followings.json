@@ -1,0 +1,56 @@
+[
+    {
+        "id": "109332160649392039",
+        "username": "molly0xfff",
+        "acct": "molly0xfff@hachyderm.io",
+        "display_name": "Molly White",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-12T00:00:00.000Z",
+        "note": "<p>crypto researcher &amp; critic, software engineer, wikipedian \u2022 <span class=\"h-card\" translate=\"no\"><a href=\"https://indieweb.social/@web3isgreat\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>web3isgreat</span></a></span> creator \u2022  subscribe to my newsletter at <a href=\"http://citationneeded.news/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">citationneeded.news/</span><span class=\"invisible\"></span></a><br>she/her \u2022 :QueerCat_Bisexual:</p>",
+        "url": "https://hachyderm.io/@molly0xfff",
+        "uri": "https://hachyderm.io/users/molly0xfff",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/332/160/649/392/039/original/4186dce0328705ed.jpeg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/332/160/649/392/039/original/4186dce0328705ed.jpeg",
+        "header": "https://files.mastodon.social/cache/accounts/headers/109/332/160/649/392/039/original/9d71ead9a7baac53.jpeg",
+        "header_static": "https://files.mastodon.social/cache/accounts/headers/109/332/160/649/392/039/original/9d71ead9a7baac53.jpeg",
+        "followers_count": 96599,
+        "following_count": 637,
+        "statuses_count": 4101,
+        "last_status_at": "2024-08-29",
+        "hide_collections": false,
+        "emojis": [
+            {
+                "shortcode": "QueerCat_Bisexual",
+                "url": "https://files.mastodon.social/cache/custom_emojis/images/000/442/022/original/ab36c8483eefb031.png",
+                "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/442/022/static/ab36c8483eefb031.png",
+                "visible_in_picker": true
+            }
+        ],
+        "fields": [
+            {
+                "name": "website",
+                "value": "<a href=\"https://www.mollywhite.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">mollywhite.net</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-08-30T06:44:59.033+00:00"
+            },
+            {
+                "name": "twitter",
+                "value": "<a href=\"https://twitter.com/molly0xFFF\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/molly0xFFF</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "newsletter",
+                "value": "<a href=\"https://citationneeded.news/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">citationneeded.news/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-08-30T06:44:59.928+00:00"
+            },
+            {
+                "name": "etc",
+                "value": "<a href=\"https://www.mollywhite.net/linktree\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">mollywhite.net/linktree</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-08-30T06:44:59.997+00:00"
+            }
+        ]
+    }
+]

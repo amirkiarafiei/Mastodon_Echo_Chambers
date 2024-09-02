@@ -1,0 +1,436 @@
+{
+    "ancestors": [
+        {
+            "id": "113028862078316869",
+            "created_at": "2024-08-26T14:45:53.000Z",
+            "in_reply_to_id": null,
+            "in_reply_to_account_id": null,
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://fediscience.org/users/petergleick/statuses/113028861356410048",
+            "url": "https://fediscience.org/@petergleick/113028861356410048",
+            "replies_count": 10,
+            "reblogs_count": 209,
+            "favourites_count": 40,
+            "edited_at": null,
+            "content": "<p>A reminder: Despite the growing threat of <a href=\"https://fediscience.org/tags/climatechange\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climatechange</span></a>, progress IS being made. It needs to be made faster, but here's a graph that shows where we'd be with no action, with current actions and pledges, and how much more is needed to reach the minimum targets needed to avoid ever-more severe impacts.</p>",
+            "reblog": null,
+            "account": {
+                "id": "109304464942897108",
+                "username": "petergleick",
+                "acct": "petergleick@fediscience.org",
+                "display_name": "Peter Gleick",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-05T00:00:00.000Z",
+                "note": "<p>Climate and water scientist and communicator. Interested in many things, including birds, mandolin, politics. You can also find my stuff (or message me) at www.gleick.com.<br>Author of a mess of scientific papers, the 9 volumes of The World's Water (Island Press); Bottled and Sold: The Story Behind Our Obsession with Bottled Water (Island Press); A 21st Century US Water Policy (Oxford); and my new book: \"The Three Ages of Water.\" !!</p>",
+                "url": "https://fediscience.org/@petergleick",
+                "uri": "https://fediscience.org/users/petergleick",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/304/464/942/897/108/original/078f01e3a454cdd3.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/304/464/942/897/108/original/078f01e3a454cdd3.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/304/464/942/897/108/original/ff0f7a31452f1730.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/304/464/942/897/108/original/ff0f7a31452f1730.png",
+                "followers_count": 16545,
+                "following_count": 230,
+                "statuses_count": 2475,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Twitter",
+                        "value": "<a href=\"https://fedified.com/@petergleick\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">fedified.com/@petergleick</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T18:17:24.718+00:00"
+                    },
+                    {
+                        "name": "Personal Website",
+                        "value": "www.gleick.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "ORCID",
+                        "value": "<a href=\"https://orcid.org/my-orcid?orcid=0000-0001-7232-9284\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">orcid.org/my-orcid?orcid=0000-</span><span class=\"invisible\">0001-7232-9284</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "113028862006249707",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/113/028/862/006/249/707/original/403306b5066f79e1.jpeg",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/113/028/862/006/249/707/small/403306b5066f79e1.jpeg",
+                    "remote_url": "https://fediscience.org/system/media_attachments/files/113/028/848/083/183/793/original/f78844614e2fb94d.jpeg",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "focus": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "original": {
+                            "width": 1342,
+                            "height": 840,
+                            "size": "1342x840",
+                            "aspect": 1.5976190476190477
+                        },
+                        "small": {
+                            "width": 607,
+                            "height": 380,
+                            "size": "607x380",
+                            "aspect": 1.5973684210526315
+                        }
+                    },
+                    "description": "BBC graphic of CO2 emissions from today to 2100, showing emissions with no actions (in red), a lower curve showing emissions with current policies enacted, and an even lower blue cure showing current pledges NOT yet enacted. Ultimately, we need to get to zero additional emissions.",
+                    "blurhash": "UKR{lVxb%$s9+]tRt,R5-=SyNFaK.mtQVYRj"
+                }
+            ],
+            "mentions": [],
+            "tags": [
+                {
+                    "name": "climatechange",
+                    "url": "https://mastodon.social/tags/climatechange"
+                }
+            ],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ],
+    "descendants": [
+        {
+            "id": "113029619281410422",
+            "created_at": "2024-08-26T17:58:32.000Z",
+            "in_reply_to_id": "113028891167326593",
+            "in_reply_to_account_id": "111777739231122376",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://fediscience.org/users/petergleick/statuses/113029618878465838",
+            "url": "https://fediscience.org/@petergleick/113029618878465838",
+            "replies_count": 2,
+            "reblogs_count": 3,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@RichardAshwell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>RichardAshwell</span></a></span> Depends on how you define \"tipping points.\" The GCMs model the dynamics of the atmosphere and how they will respond to increased GHG concentrations, but all possible (but unknown) dynamic changes and nonlinear impacts are not included</p>",
+            "reblog": null,
+            "account": {
+                "id": "109304464942897108",
+                "username": "petergleick",
+                "acct": "petergleick@fediscience.org",
+                "display_name": "Peter Gleick",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": false,
+                "group": false,
+                "created_at": "2022-11-05T00:00:00.000Z",
+                "note": "<p>Climate and water scientist and communicator. Interested in many things, including birds, mandolin, politics. You can also find my stuff (or message me) at www.gleick.com.<br>Author of a mess of scientific papers, the 9 volumes of The World's Water (Island Press); Bottled and Sold: The Story Behind Our Obsession with Bottled Water (Island Press); A 21st Century US Water Policy (Oxford); and my new book: \"The Three Ages of Water.\" !!</p>",
+                "url": "https://fediscience.org/@petergleick",
+                "uri": "https://fediscience.org/users/petergleick",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/304/464/942/897/108/original/078f01e3a454cdd3.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/304/464/942/897/108/original/078f01e3a454cdd3.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/304/464/942/897/108/original/ff0f7a31452f1730.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/304/464/942/897/108/original/ff0f7a31452f1730.png",
+                "followers_count": 16545,
+                "following_count": 230,
+                "statuses_count": 2475,
+                "last_status_at": "2024-08-26",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Twitter",
+                        "value": "<a href=\"https://fedified.com/@petergleick\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">fedified.com/@petergleick</span><span class=\"invisible\"></span></a>",
+                        "verified_at": "2024-08-26T18:17:24.718+00:00"
+                    },
+                    {
+                        "name": "Personal Website",
+                        "value": "www.gleick.com",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "ORCID",
+                        "value": "<a href=\"https://orcid.org/my-orcid?orcid=0000-0001-7232-9284\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">orcid.org/my-orcid?orcid=0000-</span><span class=\"invisible\">0001-7232-9284</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "111777739231122376",
+                    "username": "RichardAshwell",
+                    "url": "https://climatejustice.social/@RichardAshwell",
+                    "acct": "RichardAshwell@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113029790224864957",
+            "created_at": "2024-08-26T18:42:05.000Z",
+            "in_reply_to_id": "113029619281410422",
+            "in_reply_to_account_id": "109304464942897108",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodon.online/users/rustoleumlove/statuses/113029790147984097",
+            "url": "https://mastodon.online/@rustoleumlove/113029790147984097",
+            "replies_count": 0,
+            "reblogs_count": 2,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediscience.org/@petergleick\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>petergleick</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@RichardAshwell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>RichardAshwell</span></a></span> </p><p>yeah, there are so many unknowns, still.</p><p>researchers just published about methane that is coming out grassy areas that were not expected to be a source of methane. surprise!<br>&amp; some of those places contain things called taliks, which hold a lot of carbon in permafrost, which is thawing.</p><p>\"Contrary to current climate model predictions, these findings imply a positive and much larger permafrost-methane-climate feedback for upland Yedoma.\"</p><p><a href=\"https://www.nature.com/articles/s41467-024-50346-5\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41467-024</span><span class=\"invisible\">-50346-5</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "108209993019225688",
+                "username": "rustoleumlove",
+                "acct": "rustoleumlove@mastodon.online",
+                "display_name": "Anne Ominous",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-04-28T00:00:00.000Z",
+                "note": "<p>If you look at my weather posts - check the timestamp too, i dont edit them when they're out of date!</p><p>I typically post about <a href=\"https://mastodon.online/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a>, <a href=\"https://mastodon.online/tags/news\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>news</span></a>, <a href=\"https://mastodon.online/tags/weather\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>weather</span></a>, <a href=\"https://mastodon.online/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a>, equal rights advocacy, &amp; how terrible the police are. Some <a href=\"https://mastodon.online/tags/travel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>travel</span></a> photos too.</p><p>I've worked as a chef, baker, molecular biologist, &amp; freelance writer.</p><p>Art, graffiti, travel (80+ countries &amp; 50 states), photography, tea, <a href=\"https://mastodon.online/tags/sewing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sewing</span></a>, reading, cooking, crochet, <a href=\"https://mastodon.online/tags/cycling\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cycling</span></a>, cannabis, dogs, &amp; <a href=\"https://mastodon.online/tags/antiracism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>antiracism</span></a> are some of my interests.</p>",
+                "url": "https://mastodon.online/@rustoleumlove",
+                "uri": "https://mastodon.online/users/rustoleumlove",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/209/993/019/225/688/original/82bbb3bfe016ceaa.jpg",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/209/993/019/225/688/original/82bbb3bfe016ceaa.jpg",
+                "header": "https://files.mastodon.social/cache/accounts/headers/108/209/993/019/225/688/original/38f620d3a6b3ef91.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/108/209/993/019/225/688/original/38f620d3a6b3ef91.png",
+                "followers_count": 585,
+                "following_count": 540,
+                "statuses_count": 8742,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Now Reading",
+                        "value": "The Conspiracy Against the Human Race: A Contrivance of Horror -  Thomas Ligotti",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109304464942897108",
+                    "username": "petergleick",
+                    "url": "https://fediscience.org/@petergleick",
+                    "acct": "petergleick@fediscience.org"
+                },
+                {
+                    "id": "111777739231122376",
+                    "username": "RichardAshwell",
+                    "url": "https://climatejustice.social/@RichardAshwell",
+                    "acct": "RichardAshwell@climatejustice.social"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": {
+                "url": "https://www.nature.com/articles/s41467-024-50346-5",
+                "title": "Upland Yedoma taliks are an unpredicted source of atmospheric methane - Nature Communications",
+                "description": "Contrary to current model predictions, this study shows that rapid permafrost thaw in well drained uplands leads to exceedingly high methane emissions (\u2009~\u200910-60 times higher than expected) from deeply-thawed yedoma soils, particularly in winter.",
+                "language": "en",
+                "type": "link",
+                "author_name": "",
+                "author_url": "",
+                "provider_name": "Nature",
+                "provider_url": "",
+                "html": "",
+                "width": 583,
+                "height": 395,
+                "image": "https://files.mastodon.social/cache/preview_cards/images/107/623/926/original/5afcbb4de19d3082.png",
+                "image_description": "",
+                "embed_url": "",
+                "blurhash": "ULJH:Y~pD$%L%L%gITW9M|IUt8WU?ckCWokD",
+                "published_at": null,
+                "authors": [
+                    {
+                        "name": "",
+                        "url": "",
+                        "account": null
+                    }
+                ]
+            },
+            "poll": null
+        },
+        {
+            "id": "113032831880229522",
+            "created_at": "2024-08-27T07:35:33.000Z",
+            "in_reply_to_id": "113029619281410422",
+            "in_reply_to_account_id": "109304464942897108",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://climatejustice.social/users/RichardAshwell/statuses/113032831525662214",
+            "url": "https://climatejustice.social/@RichardAshwell/113032831525662214",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://fediscience.org/@petergleick\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>petergleick</span></a></span> Thank you Peter</p>",
+            "reblog": null,
+            "account": {
+                "id": "111777739231122376",
+                "username": "RichardAshwell",
+                "acct": "RichardAshwell@climatejustice.social",
+                "display_name": "Richard Ashwell",
+                "locked": false,
+                "bot": false,
+                "discoverable": false,
+                "indexable": false,
+                "group": false,
+                "created_at": "2024-01-18T00:00:00.000Z",
+                "note": "<p>Looking at this graph of <a href=\"https://climatejustice.social/tags/CO2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CO2</span></a> in the atmosphere you wouldn't know that anyone was doing anything to reduce <a href=\"https://climatejustice.social/tags/CO2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CO2</span></a> <a href=\"https://climatejustice.social/tags/emissions\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emissions</span></a> would you? <a href=\"https://gml.noaa.gov/ccgg/trends/mlo.html\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gml.noaa.gov/ccgg/trends/mlo.h</span><span class=\"invisible\">tml</span></a> Born at 314ppm.</p><p><a href=\"https://climatejustice.social/tags/Methane\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Methane</span></a> (<a href=\"https://climatejustice.social/tags/CH\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CH</span></a>\u2084) is a also a potent <a href=\"https://climatejustice.social/tags/GreenhouseGas\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GreenhouseGas</span></a> which, in my view, makes so-called 'natural gas' dirtier than coal. The FF industry, and governments, deliberately ignore most of the leakage in production and transmission. Here are the latest observations: <a href=\"https://gml.noaa.gov/ccgg/trends_ch4/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gml.noaa.gov/ccgg/trends_ch4/</span><span class=\"invisible\"></span></a></p>",
+                "url": "https://climatejustice.social/@RichardAshwell",
+                "uri": "https://climatejustice.social/users/RichardAshwell",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/111/777/739/231/122/376/original/a8925358cf3ed499.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/111/777/739/231/122/376/original/a8925358cf3ed499.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/111/777/739/231/122/376/original/eba0235f78cbf71f.jpg",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/111/777/739/231/122/376/original/eba0235f78cbf71f.jpg",
+                "followers_count": 433,
+                "following_count": 70,
+                "statuses_count": 633,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": []
+            },
+            "media_attachments": [],
+            "mentions": [
+                {
+                    "id": "109304464942897108",
+                    "username": "petergleick",
+                    "url": "https://fediscience.org/@petergleick",
+                    "acct": "petergleick@fediscience.org"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        },
+        {
+            "id": "113030587442468260",
+            "created_at": "2024-08-26T22:04:47.000Z",
+            "in_reply_to_id": "113028891167326593",
+            "in_reply_to_account_id": "111777739231122376",
+            "sensitive": false,
+            "spoiler_text": "",
+            "visibility": "public",
+            "language": "en",
+            "uri": "https://mastodo.neoliber.al/users/jenbanim/statuses/113030587172829246",
+            "url": "https://mastodo.neoliber.al/@jenbanim/113030587172829246",
+            "replies_count": 0,
+            "reblogs_count": 0,
+            "favourites_count": 0,
+            "edited_at": null,
+            "content": "<p><span class=\"h-card\" translate=\"no\"><a href=\"https://climatejustice.social/@RichardAshwell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>RichardAshwell</span></a></span> <span class=\"h-card\" translate=\"no\"><a href=\"https://fediscience.org/@petergleick\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>petergleick</span></a></span> the current consensus is that there is a near linear relationship between CO2 and climate change. There are a variety of feedback loops at play, but no singular tipping point</p><p>Of course we don't know this for certain and there is a chance scientists are wrong, but that's the consensus among the people who know best at the moment</p><p>IPCC source, page 28: <a href=\"https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ipcc.ch/report/ar6/wg1/downloa</span><span class=\"invisible\">ds/report/IPCC_AR6_WGI_SPM.pdf</span></a></p>",
+            "reblog": null,
+            "account": {
+                "id": "109610756788552433",
+                "username": "jenbanim",
+                "acct": "jenbanim@mastodo.neoliber.al",
+                "display_name": "jenbanim",
+                "locked": false,
+                "bot": false,
+                "discoverable": true,
+                "indexable": true,
+                "group": false,
+                "created_at": "2022-12-31T00:00:00.000Z",
+                "note": "<p>Admin of mastodo.neoliber.al, techmod of reddit.com/r/neoliberal. Seattleite and Linux sysadmin irl. Liberal carfree vegan interested in VR, electronica, FOSS, astronomy, urbanism, cats, and memes (he/him)</p><p>Profile picture is a sad cat hitting juul, banner is a photo of the Pacific Northwest coast as seen from space</p>",
+                "url": "https://mastodo.neoliber.al/@jenbanim",
+                "uri": "https://mastodo.neoliber.al/users/jenbanim",
+                "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/610/756/788/552/433/original/467cd7d9f2d1379e.png",
+                "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/610/756/788/552/433/original/467cd7d9f2d1379e.png",
+                "header": "https://files.mastodon.social/cache/accounts/headers/109/610/756/788/552/433/original/00bad23a50ef2e4e.png",
+                "header_static": "https://files.mastodon.social/cache/accounts/headers/109/610/756/788/552/433/original/00bad23a50ef2e4e.png",
+                "followers_count": 333,
+                "following_count": 423,
+                "statuses_count": 2844,
+                "last_status_at": "2024-08-27",
+                "hide_collections": false,
+                "emojis": [],
+                "fields": [
+                    {
+                        "name": "Linktree",
+                        "value": "<a href=\"https://linktr.ee/jenbanim\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/jenbanim</span><span class=\"invisible\"></span></a>",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "Pronunciation",
+                        "value": "/\u02c8d\u0292\u025bnb\u0259n\u026am/",
+                        "verified_at": null
+                    },
+                    {
+                        "name": "PGP Key",
+                        "value": "<a href=\"https://jenbanim.com/pgp_public_key.txt\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jenbanim.com/pgp_public_key.tx</span><span class=\"invisible\">t</span></a>",
+                        "verified_at": null
+                    }
+                ]
+            },
+            "media_attachments": [
+                {
+                    "id": "113030587352697444",
+                    "type": "image",
+                    "url": "https://files.mastodon.social/cache/media_attachments/files/113/030/587/352/697/444/original/ba9df69c34228765.png",
+                    "preview_url": "https://files.mastodon.social/cache/media_attachments/files/113/030/587/352/697/444/small/ba9df69c34228765.png",
+                    "remote_url": "https://s3-us-west-1.amazonaws.com/mastodo-neoliber-al/media_attachments/files/113/030/580/023/009/143/original/4caeeb497e2f03e6.png",
+                    "preview_remote_url": null,
+                    "text_url": null,
+                    "meta": {
+                        "original": {
+                            "width": 815,
+                            "height": 625,
+                            "size": "815x625",
+                            "aspect": 1.304
+                        },
+                        "small": {
+                            "width": 548,
+                            "height": 420,
+                            "size": "548x420",
+                            "aspect": 1.3047619047619048
+                        }
+                    },
+                    "description": null,
+                    "blurhash": "U9SF-DNw?^-B%2RjxujFIUjZaeR*pIRPIAXT"
+                }
+            ],
+            "mentions": [
+                {
+                    "id": "111777739231122376",
+                    "username": "RichardAshwell",
+                    "url": "https://climatejustice.social/@RichardAshwell",
+                    "acct": "RichardAshwell@climatejustice.social"
+                },
+                {
+                    "id": "109304464942897108",
+                    "username": "petergleick",
+                    "url": "https://fediscience.org/@petergleick",
+                    "acct": "petergleick@fediscience.org"
+                }
+            ],
+            "tags": [],
+            "emojis": [],
+            "card": null,
+            "poll": null
+        }
+    ]
+}
