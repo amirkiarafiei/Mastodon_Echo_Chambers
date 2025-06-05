@@ -4,7 +4,7 @@ This repository contains sample codes for the methodology described in the resea
 
 📍 [Investigating Echo-Chambers in Decentralized Social Networks: A Mastodon Case Study](https://link.springer.com/chapter/10.1007/978-3-031-82431-9_26).
 
-The scripts implement techniques to identify potential echo-chambers on the Mastodon social network by analyzing network structural properties of both original toot networks and reply networks.
+The scripts implement techniques to identify potential echo-chambers on the [Mastodon](mastodon.social) social network by analyzing network structural properties of both original toot networks and reply networks.
 
 ## Methodology Overview
 
