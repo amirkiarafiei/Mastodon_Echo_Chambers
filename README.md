@@ -1,4 +1,4 @@
-# Echo-Chamber Analysis on Mastodon 🌐
+# Echo-Chamber Analysis on Mastodon 💭 ✧˚ ༘ 💬⋆｡˚📱
 
 This repository contains sample codes for the methodology described in the research paper:
 
